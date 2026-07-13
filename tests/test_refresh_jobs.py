@@ -172,6 +172,8 @@ class RefreshJobsTests(unittest.TestCase):
 
         self.assertEqual(first_markdown_link(f"[![Apply]({image})](javascript:void(0))"), "")
         self.assertEqual(first_markdown_link(f"[![Apply]({image})](https:/.jobs.example.com/123)"), "")
+        self.assertEqual(first_markdown_link(f"[![Apply]({image})](https://[)"), "")
+        self.assertEqual(first_markdown_link(f"[![Apply]({image})](https://example.com:bad/path)"), "")
 
     def test_parse_markdown_jobs_skips_malformed_anchor_instead_of_using_its_image(self):
         markdown = """

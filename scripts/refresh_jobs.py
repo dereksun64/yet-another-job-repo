@@ -54,8 +54,12 @@ def strip_markdown(value: str) -> str:
 
 
 def valid_http_url(value: str) -> bool:
-    parsed = urlsplit(value)
-    return parsed.scheme.lower() in {"http", "https"} and bool(parsed.netloc) and not re.search(r"\s", value)
+    try:
+        parsed = urlsplit(value)
+        parsed.port
+    except ValueError:
+        return False
+    return parsed.scheme.lower() in {"http", "https"} and bool(parsed.hostname) and not re.search(r"\s", value)
 
 
 def matching_paren(value: str, open_index: int) -> int:
