@@ -5,6 +5,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from scripts.refresh_jobs import (
+    canonical_apply_url,
     classify_category,
     classify_degree,
     dedupe_jobs,
@@ -97,6 +98,7 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(classify_category("Machine Learning Engineer", "Other"), "AI/ML")
         self.assertEqual(classify_category("Quantitative Developer Intern", "Other"), "Quant")
         self.assertEqual(classify_category("Product Manager New Grad", "Other"), "Product")
+        self.assertEqual(classify_category("Production Engineer", "Other"), "Other")
         self.assertEqual(classify_category("Backend Software Engineer", "Other"), "Software Engineering")
 
     def test_parse_markdown_jobs_accepts_direct_application_url(self):
@@ -124,6 +126,45 @@ class RefreshJobsTests(unittest.TestCase):
         jobs = parse_markdown_jobs(markdown, source, {})
 
         self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1?x=1")
+
+    def test_parse_markdown_jobs_prefers_outer_markdown_link_over_image(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | [![Apply](https://example.com/apply.png)](https://jobs.example.com/1) |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {})
+
+        self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1")
+
+    def test_parse_markdown_jobs_skips_malformed_anchor_instead_of_using_its_image(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | <a href="https:/.jobs.example.com/1"><img src="https://example.com/apply.png"></a> |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        self.assertEqual(parse_markdown_jobs(markdown, source, {}), [])
+
+    def test_parse_markdown_jobs_inherits_company_from_continuation_rows(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| [Apple](https://apple.com) | Software Engineer Intern | Remote | [Apply](https://jobs.apple.com/1) |
+| ↳ | Software Engineer Intern | Remote | [Apply](https://jobs.apple.com/2) |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {"apple": "Tier 1"})
+
+        self.assertEqual([job["company"] for job in jobs], ["Apple", "Apple"])
+        self.assertTrue(all(job["companyTier"] == "Tier 1" for job in jobs))
 
     def test_parse_markdown_jobs_accepts_simplify_html_table(self):
         markdown = """
@@ -182,6 +223,15 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(len(deduped), 1)
         self.assertTrue(deduped[0]["id"])
 
+    def test_dedupe_jobs_ignores_tracking_parameters_in_apply_urls(self):
+        jobs = [
+            {"id": "", "company": "Example", "title": "Engineer", "location": "Remote", "applyUrl": "https://jobs.example.com/1?gh_jid=123&utm_source=source&ref=feed"},
+            {"id": "", "company": "Example", "title": "Engineer", "location": "Remote", "applyUrl": "https://jobs.example.com/1?gh_jid=123"},
+        ]
+
+        self.assertEqual(canonical_apply_url(jobs[0]["applyUrl"]), "https://jobs.example.com/1?gh_jid=123")
+        self.assertEqual(len(dedupe_jobs(jobs)), 1)
+
     @patch("scripts.refresh_jobs.fetch_text")
     def test_refresh_jobs_writes_parsed_jobs_from_upstream_html_link(self, fetch_text):
         fetch_text.return_value = """
@@ -209,3 +259,54 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(persisted["sourceCounts"], {"Example": 1})
         self.assertEqual(persisted["jobs"][0]["applyUrl"], "https://jobs.example.com/1?x=1")
         self.assertEqual(persisted["jobs"][0]["companyTier"], "Tier 1")
+
+    @patch("scripts.refresh_jobs.fetch_text")
+    def test_refresh_jobs_does_not_overwrite_output_when_a_source_parses_zero_rows(self, fetch_text):
+        fetch_text.side_effect = [
+            """
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example | Software Engineer | Remote | [Apply](https://jobs.example.com/1) |
+""",
+            "no job table here",
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            sources_path = root / "sources.json"
+            tiers_path = root / "tiers.md"
+            output_path = root / "jobs.json"
+            sources_path.write_text(json.dumps([
+                {"name": "First", "kind": "internship", "url": "https://example.com/first"},
+                {"name": "Second", "kind": "internship", "url": "https://example.com/second"},
+            ]), encoding="utf-8")
+            tiers_path.write_text("", encoding="utf-8")
+            output_path.write_text("existing output", encoding="utf-8")
+
+            with self.assertRaisesRegex(ValueError, "Second"):
+                refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
+
+            self.assertEqual(output_path.read_text(encoding="utf-8"), "existing output")
+
+    @patch("scripts.refresh_jobs.fetch_text")
+    def test_refresh_jobs_preserves_generated_at_when_content_is_unchanged(self, fetch_text):
+        fetch_text.return_value = """
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example | Software Engineer | Remote | [Apply](https://jobs.example.com/1) |
+"""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            sources_path = root / "sources.json"
+            tiers_path = root / "tiers.md"
+            output_path = root / "jobs.json"
+            sources_path.write_text(json.dumps([{"name": "Example", "kind": "internship", "url": "https://example.com/jobs"}]), encoding="utf-8")
+            tiers_path.write_text("", encoding="utf-8")
+
+            first = refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
+            persisted = json.loads(output_path.read_text(encoding="utf-8"))
+            persisted["generatedAt"] = "2020-01-01T00:00:00+00:00"
+            output_path.write_text(json.dumps(persisted), encoding="utf-8")
+            second = refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
+
+        self.assertNotEqual(first["generatedAt"], second["generatedAt"])
+        self.assertEqual(second["generatedAt"], "2020-01-01T00:00:00+00:00")

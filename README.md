@@ -11,6 +11,7 @@ A small static job browser that aggregates internship and new-grad postings from
 - speedyapply/2027-SWE-College-Jobs
 
 This project attributes upstream sources and stores normalized job data in `data/jobs.json`.
+The v1 parser emits only rows with an application URL; URL-free rows are skipped, while the dedupe fallback remains available for callers that provide them.
 
 ## Refresh Data
 

@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-jobs
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest

@@ -4,6 +4,7 @@ import hashlib
 import json
 import re
 import urllib.request
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -53,6 +54,15 @@ def strip_markdown(value: str) -> str:
 
 
 def first_markdown_link(value: str) -> str:
+    nested_image_link = re.search(r"^\s*\[!\[[^\]]*\]\([^)]+\)\]\(\s*(https?://[^)\s]+)", value)
+    if nested_image_link:
+        return nested_image_link.group(1)
+    markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value)
+    if markdown_link:
+        return markdown_link.group(1)
+    html_link = re.search(r'''<a\b[^>]*\bhref=["']([^"']+)''', value, flags=re.IGNORECASE)
+    if html_link:
+        return html_link.group(1) if re.match(r"^https?://", html_link.group(1)) else ""
     match = re.search(r'https?://[^\s"<>)]+', value)
     return match.group(0) if match else ""
 
@@ -72,7 +82,7 @@ def classify_category(title: str, fallback: str) -> str:
         return "Quant"
     if any(word in title for word in ("machine learning", "data science", "research scientist")) or re.search(r"\bai\b", title):
         return "AI/ML"
-    if "product" in title:
+    if re.search(r"\bproduct\b", title):
         return "Product"
     if any(word in title for word in ("software", "backend", "frontend", "full stack", "mobile", "devops")):
         return "Software Engineering"
@@ -101,12 +111,14 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
     jobs: list[dict[str, str]] = []
     headers: list[str] = []
     current_category = "Other"
+    previous_company = ""
 
     for line in normalize_html_tables(markdown).splitlines():
         heading = re.match(r"^#{2,3}\s+(.+)$", line.strip())
         if heading:
             current_category = strip_markdown(heading.group(1))
             headers = []
+            previous_company = ""
             continue
 
         cells = split_markdown_row(line)
@@ -131,6 +143,10 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
         salary_raw = row.get("salary", "")
 
         company = strip_markdown(company_raw)
+        if company in {"↳", "⤷"}:
+            company = previous_company
+        elif company:
+            previous_company = company
         title = strip_markdown(title_raw)
         location = strip_markdown(location_raw)
         apply_url = first_markdown_link(apply_raw)
@@ -162,7 +178,7 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
 
 def job_key(job: dict[str, str]) -> str:
     if job.get("applyUrl"):
-        return job["applyUrl"].strip().lower()
+        return canonical_apply_url(job["applyUrl"])
     return "|".join(
         [
             normalize_company_name(job.get("company", "")),
@@ -170,6 +186,29 @@ def job_key(job: dict[str, str]) -> str:
             normalize_company_name(job.get("location", "")),
         ]
     )
+
+
+def canonical_apply_url(url: str) -> str:
+    parsed = urlsplit(url.strip())
+    query = [
+        (key, value)
+        for key, value in parse_qsl(parsed.query, keep_blank_values=True)
+        if key.lower() != "ref" and not key.lower().startswith("utm_")
+    ]
+    return urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path, urlencode(query), ""))
+
+
+def validate_generated_jobs(jobs: list[dict[str, str]]) -> None:
+    markers = {"↳", "⤷"}
+    image_extensions = (".avif", ".gif", ".jpeg", ".jpg", ".png", ".svg", ".webp")
+    invalid_companies = [job["company"] for job in jobs if job.get("company") in markers]
+    image_apply_urls = [
+        job["applyUrl"]
+        for job in jobs
+        if urlsplit(job.get("applyUrl", "")).path.lower().endswith(image_extensions)
+    ]
+    if invalid_companies or image_apply_urls:
+        raise ValueError("generated jobs contain invalid company markers or image apply URLs")
 
 
 def dedupe_jobs(jobs: list[dict[str, str]]) -> list[dict[str, str]]:
@@ -204,9 +243,12 @@ def refresh_jobs(sources_path: str, tiers_path: str, output_path: str) -> dict[s
         markdown = fetch_text(source["url"])
         parsed = parse_markdown_jobs(markdown, source, tiers)
         source_counts[source["name"]] = len(parsed)
+        if not parsed:
+            raise ValueError(f"source parsed zero jobs: {source['name']}")
         jobs.extend(parsed)
 
     jobs = dedupe_jobs(jobs)
+    validate_generated_jobs(jobs)
     payload = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "sourceCounts": source_counts,
@@ -215,6 +257,14 @@ def refresh_jobs(sources_path: str, tiers_path: str, output_path: str) -> dict[s
     }
 
     output = Path(output_path)
+    if output.exists():
+        existing = json.loads(output.read_text(encoding="utf-8"))
+        if (
+            existing.get("jobs") == payload["jobs"]
+            and existing.get("sourceCounts") == payload["sourceCounts"]
+            and existing.get("count") == payload["count"]
+        ):
+            payload["generatedAt"] = existing.get("generatedAt", payload["generatedAt"])
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
     return payload

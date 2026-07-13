@@ -17,19 +17,19 @@
 
     <main>
       <section class="controls" aria-label="Job filters">
-        <input id="searchInput" type="search" placeholder="Search company, role, location">
-        <select id="typeFilter">
+        <input id="searchInput" type="search" aria-label="Search jobs" placeholder="Search company, role, location">
+        <select id="typeFilter" aria-label="Job type">
           <option value="">All types</option>
           <option value="internship">Internships</option>
           <option value="full-time">Full-time</option>
         </select>
-        <select id="degreeFilter">
+        <select id="degreeFilter" aria-label="Degree level">
           <option value="">All degrees</option>
           <option value="bachelors">Bachelors</option>
           <option value="masters">Masters</option>
           <option value="unknown">Unknown</option>
         </select>
-        <select id="tierFilter">
+        <select id="tierFilter" aria-label="Company tier">
           <option value="">All tiers</option>
           <option value="Tier 1">Tier 1</option>
           <option value="Tier 1.5">Tier 1.5</option>
@@ -38,7 +38,7 @@
           <option value="Tier 4">Tier 4</option>
           <option value="Unlisted">Unlisted</option>
         </select>
-        <select id="sortSelect">
+        <select id="sortSelect" aria-label="Sort jobs">
           <option value="tier">Sort: company tier</option>
           <option value="age">Sort: newest</option>
           <option value="company">Sort: company</option>
