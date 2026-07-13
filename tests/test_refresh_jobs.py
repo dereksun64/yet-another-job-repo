@@ -175,6 +175,12 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(first_markdown_link(f"[![Apply]({image})](https://[)"), "")
         self.assertEqual(first_markdown_link(f"[![Apply]({image})](https://example.com:bad/path)"), "")
 
+    def test_first_markdown_link_rejects_malformed_markdown_and_bare_urls(self):
+        self.assertEqual(first_markdown_link("[Apply](https://[)"), "")
+        self.assertEqual(first_markdown_link("[Apply](https://example.com:bad/path)"), "")
+        self.assertEqual(first_markdown_link("https://["), "")
+        self.assertEqual(first_markdown_link("https://example.com:bad/path"), "")
+
     def test_parse_markdown_jobs_skips_malformed_anchor_instead_of_using_its_image(self):
         markdown = """
 ### Software Engineering

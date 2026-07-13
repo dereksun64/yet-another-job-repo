@@ -103,12 +103,16 @@ def first_markdown_link(value: str) -> str:
     value_without_images = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", value)
     markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value_without_images)
     if markdown_link:
-        return markdown_link.group(1)
+        candidate = markdown_link.group(1)
+        return candidate if valid_http_url(candidate) else ""
     html_link = re.search(r'''<a\b[^>]*\bhref=["']([^"']+)''', value_without_images, flags=re.IGNORECASE)
     if html_link:
         return html_link.group(1) if valid_http_url(html_link.group(1)) else ""
     match = re.search(r'https?://[^\s"<>)]+', value_without_images)
-    return match.group(0) if match else ""
+    if match:
+        candidate = match.group(0)
+        return candidate if valid_http_url(candidate) else ""
+    return ""
 
 
 def classify_degree(title: str) -> str:
