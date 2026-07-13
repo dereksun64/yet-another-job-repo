@@ -54,9 +54,13 @@ def strip_markdown(value: str) -> str:
 
 
 def first_markdown_link(value: str) -> str:
-    nested_image_link = re.search(r"^\s*\[!\[[^\]]*\]\([^)]+\)\]\(\s*(https?://[^)\s]+)", value)
+    nested_image_link = re.match(r"^\s*\[!\[[^\]]*\]\([^)]+\)\]\(([^)]*)\)", value)
     if nested_image_link:
-        return nested_image_link.group(1)
+        destination = nested_image_link.group(1).strip()
+        parsed = urlsplit(destination)
+        if parsed.scheme.lower() in {"http", "https"} and parsed.netloc and not re.search(r"\s", destination):
+            return destination
+        return ""
     markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value)
     if markdown_link:
         return markdown_link.group(1)

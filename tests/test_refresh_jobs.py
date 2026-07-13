@@ -9,6 +9,7 @@ from scripts.refresh_jobs import (
     classify_category,
     classify_degree,
     dedupe_jobs,
+    first_markdown_link,
     load_company_tiers,
     load_sources,
     normalize_company_name,
@@ -139,6 +140,28 @@ class RefreshJobsTests(unittest.TestCase):
         jobs = parse_markdown_jobs(markdown, source, {})
 
         self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1")
+
+    def test_first_markdown_link_returns_nested_image_outer_destination(self):
+        value = "[![Apply](https://cdn.example.com/apply.png)](https://jobs.example.com/123)"
+
+        self.assertEqual(first_markdown_link(value), "https://jobs.example.com/123")
+
+    def test_parse_markdown_jobs_skips_nested_image_with_relative_outer_destination(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | [![Apply](https://cdn.example.com/apply.png)](/jobs/123) |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        self.assertEqual(parse_markdown_jobs(markdown, source, {}), [])
+
+    def test_first_markdown_link_rejects_malformed_or_non_http_nested_outer_destination(self):
+        image = "https://cdn.example.com/apply.png"
+
+        self.assertEqual(first_markdown_link(f"[![Apply]({image})](javascript:void(0))"), "")
+        self.assertEqual(first_markdown_link(f"[![Apply]({image})](https:/.jobs.example.com/123)"), "")
 
     def test_parse_markdown_jobs_skips_malformed_anchor_instead_of_using_its_image(self):
         markdown = """
