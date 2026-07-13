@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Job Repo</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Job Repo</h1>
+        <p id="meta">Loading jobs...</p>
+      </div>
+      <button id="refreshButton" type="button">Refresh</button>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Job filters">
+        <input id="searchInput" type="search" placeholder="Search company, role, location">
+        <select id="typeFilter">
+          <option value="">All types</option>
+          <option value="internship">Internships</option>
+          <option value="full-time">Full-time</option>
+        </select>
+        <select id="degreeFilter">
+          <option value="">All degrees</option>
+          <option value="bachelors">Bachelors</option>
+          <option value="masters">Masters</option>
+          <option value="unknown">Unknown</option>
+        </select>
+        <select id="tierFilter">
+          <option value="">All tiers</option>
+          <option value="Tier 1">Tier 1</option>
+          <option value="Tier 1.5">Tier 1.5</option>
+          <option value="Tier 2">Tier 2</option>
+          <option value="Tier 3">Tier 3</option>
+          <option value="Tier 4">Tier 4</option>
+          <option value="Unlisted">Unlisted</option>
+        </select>
+        <select id="sortSelect">
+          <option value="tier">Sort: company tier</option>
+          <option value="age">Sort: newest</option>
+          <option value="company">Sort: company</option>
+          <option value="location">Sort: location</option>
+        </select>
+      </section>
+
+      <section id="summary" class="summary"></section>
+      <section id="jobs" class="jobs" aria-live="polite"></section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
