@@ -95,3 +95,19 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(classify_category("Quantitative Developer Intern", "Other"), "Quant")
         self.assertEqual(classify_category("Product Manager New Grad", "Other"), "Product")
         self.assertEqual(classify_category("Backend Software Engineer", "Other"), "Software Engineering")
+
+    def test_parse_markdown_jobs_accepts_direct_application_url(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | https://jobs.example.com/1 |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {})
+
+        self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1")
+
+    def test_classify_category_requires_ai_word_boundary(self):
+        self.assertEqual(classify_category("Maintenance Engineer", "Other"), "Other")

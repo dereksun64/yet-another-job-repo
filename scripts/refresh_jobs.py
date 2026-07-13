@@ -49,8 +49,8 @@ def strip_markdown(value: str) -> str:
 
 
 def first_markdown_link(value: str) -> str:
-    match = re.search(r"\[[^\]]*\]\((https?://[^)]+)\)", value)
-    return match.group(1) if match else ""
+    match = re.search(r"https?://[^\s)]+", value)
+    return match.group(0) if match else ""
 
 
 def classify_degree(title: str) -> str:
@@ -66,7 +66,7 @@ def classify_category(title: str, fallback: str) -> str:
     title = title.lower()
     if any(word in title for word in ("quant", "trading", "trader")):
         return "Quant"
-    if any(word in title for word in ("machine learning", "ai", "data science", "research scientist")):
+    if any(word in title for word in ("machine learning", "data science", "research scientist")) or re.search(r"\bai\b", title):
         return "AI/ML"
     if "product" in title:
         return "Product"
