@@ -1,0 +1,215 @@
+# Company Tiers
+
+## Tier 1
+
+- Amazon
+- Apple
+- Google
+- Meta
+- Microsoft
+- Netflix
+- Nvidia
+- OpenAI
+- Anthropic
+
+## Tier 1.5
+
+- Adobe
+- Airbnb
+- AMD
+- American Express
+- Bank of America
+- Barclays
+- BCG
+- BlackRock
+- Bloomberg
+- Capital One
+- Citadel
+- Citi bank
+- Databricks
+- Goldman Sachs
+- Intel
+- JP Morgan Chase
+- LinkedIn
+- McKinsey & Company
+- Morgan Stanley
+- Oracle
+- Qualcomm
+- Tesla
+- TikTok/ByteDance
+- Two sigma
+- Uber
+- Vanguard
+
+## Tier 2
+
+- Accenture
+- Amgen
+- Atlassian
+- Cloudflare
+- CVS health
+- Datadog
+- Dell Technologies
+- Deloitte
+- Deutsche Bank
+- Disney
+- DoorDash
+- Dropbox
+- eBay
+- Electronic Arts
+- Expedia Group
+- EY
+- Fannie mae
+- Fedex
+- Fidelity
+- Figma
+- Fortinet
+- Freddie Mac
+- HBO
+- IBM
+- Johnson & Johnson
+- KPMG
+- Lyft
+- Mastercard
+- Moderna
+- Nike
+- PayPal
+- Pinterest
+- PWC
+- Roblox
+- Salesforce
+- Snap
+- Snowflake
+- Sony
+- Stripe
+- TD Bank
+- UBS
+- Visa
+- Walmart
+- Wells Fargo bank
+- X/ Twitter
+- Zoom
+
+## Tier 3
+
+- AbbVie
+- Aetna
+- Affirm
+- Analog Devices
+- Applied Materials
+- AT&T
+- Aurora Innovation
+- Autodesk
+- Best Buy
+- Block
+- BOSCH
+- Boston Scientific
+- Brex
+- Caterpillar
+- Charles Schwab
+- Chewy
+- Chime
+- Coinbase
+- Discover
+- DocuSign
+- Ford Motors
+- General Motors
+- Gilead
+- Home Depot
+- HP
+- Illumina
+- Indeed
+- Instacart
+- Intuitive
+- IQVIA
+- Liberty Mutual
+- Lowe's
+- Marriott
+- MathWorks
+- Medtronic
+- MetLife
+- Micron
+- Nationwide Insurance
+- New York Life
+- Palo Alto Networks
+- Plaid
+- Progressive
+- Reddit
+- Robinhood
+- Samsung
+- SAP
+- Spotify
+- Square
+- Starbucks
+- State Farm
+- T Mobile
+- Target
+- Takeda
+- Thermo Fisher Scientific
+- Verizon
+- Wayfair
+- Waymo
+- Xifinity
+- Yelp
+- Zillow
+
+## Tier 4
+
+- ADP
+- American Family Insurance
+- Audible
+- Bread Financial
+- Cadence Design Systems
+- Capgemini
+- Case Guard
+- CBRE
+- Charter Communications
+- Citizens Financial Group
+- Cleveland Clinic
+- Cohere
+- Confluent
+- Credit Karma
+- DTCC
+- Elevance Health
+- Epsilon
+- Equifax
+- Farmers Insurance
+- Flexport
+- Genentech
+- Godaddy
+- Health Care Service
+- Hewlett Packard Enterprise
+- Hubspot
+- Humana
+- KLA
+- LEXISNEXIS
+- Lucid Motors
+- M&T Bank
+- Mayo Clinic
+- McKesson
+- Moody's
+- Navy Federal Credit Union
+- NetApp
+- Nuro
+- Okta / Saasure
+- Optum
+- Palantir
+- Perplexity AI
+- Prudential
+- Pure Storage
+- Regeneron Pharmaceuticals
+- Rivian
+- ServiceNow
+- SiriusXM
+- State Street
+- Synopsys
+- Teladoc Health
+- TransUnion
+- Truist Bank
+- Twilio
+- US bank
+- Western Alliance Bank
+- Western Digital
+- Workday
+- WSP
+- Zoox
