@@ -6,6 +6,7 @@ from pathlib import Path
 from scripts.refresh_jobs import (
     classify_category,
     classify_degree,
+    dedupe_jobs,
     load_company_tiers,
     load_sources,
     normalize_company_name,
@@ -111,3 +112,29 @@ class RefreshJobsTests(unittest.TestCase):
 
     def test_classify_category_requires_ai_word_boundary(self):
         self.assertEqual(classify_category("Maintenance Engineer", "Other"), "Other")
+
+    def test_dedupe_jobs_prefers_first_source(self):
+        jobs = [
+            {
+                "id": "",
+                "company": "Apple",
+                "title": "Software Engineer Intern",
+                "location": "United States",
+                "applyUrl": "https://jobs.apple.com/1",
+                "source": "A",
+            },
+            {
+                "id": "",
+                "company": "Apple",
+                "title": "Software Engineer Intern",
+                "location": "United States",
+                "applyUrl": "https://jobs.apple.com/1",
+                "source": "B",
+            },
+        ]
+
+        deduped = dedupe_jobs(jobs)
+
+        self.assertEqual(len(deduped), 1)
+        self.assertEqual(deduped[0]["source"], "A")
+        self.assertTrue(deduped[0]["id"])

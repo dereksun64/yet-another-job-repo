@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 import argparse
+import hashlib
 import json
 import re
+import urllib.request
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -144,14 +147,75 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
     return jobs
 
 
+def job_key(job: dict[str, str]) -> str:
+    if job.get("applyUrl"):
+        return job["applyUrl"].strip().lower()
+    return "|".join(
+        [
+            normalize_company_name(job.get("company", "")),
+            normalize_company_name(job.get("title", "")),
+            normalize_company_name(job.get("location", "")),
+        ]
+    )
+
+
+def dedupe_jobs(jobs: list[dict[str, str]]) -> list[dict[str, str]]:
+    seen: set[str] = set()
+    deduped: list[dict[str, str]] = []
+
+    for job in jobs:
+        key = job_key(job)
+        if key in seen:
+            continue
+        seen.add(key)
+        job = dict(job)
+        job["id"] = hashlib.sha1(key.encode("utf-8")).hexdigest()[:12]
+        deduped.append(job)
+
+    return deduped
+
+
+def fetch_text(url: str) -> str:
+    request = urllib.request.Request(url, headers={"User-Agent": "job-repo-refresh/1.0"})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read().decode("utf-8")
+
+
+def refresh_jobs(sources_path: str, tiers_path: str, output_path: str) -> dict[str, object]:
+    sources = load_sources(sources_path)
+    tiers = load_company_tiers(tiers_path)
+    jobs: list[dict[str, str]] = []
+    source_counts: dict[str, int] = {}
+
+    for source in sources:
+        markdown = fetch_text(source["url"])
+        parsed = parse_markdown_jobs(markdown, source, tiers)
+        source_counts[source["name"]] = len(parsed)
+        jobs.extend(parsed)
+
+    jobs = dedupe_jobs(jobs)
+    payload = {
+        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "sourceCounts": source_counts,
+        "count": len(jobs),
+        "jobs": jobs,
+    }
+
+    output = Path(output_path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+    return payload
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--sources", default="sources.json")
     parser.add_argument("--tiers", default="docs/list.md")
+    parser.add_argument("--output", default="data/jobs.json")
     args = parser.parse_args()
 
-    print(f"Loaded {len(load_sources(args.sources))} sources")
-    print(f"Loaded {len(load_company_tiers(args.tiers))} company tier aliases")
+    payload = refresh_jobs(args.sources, args.tiers, args.output)
+    print(f"Wrote {payload['count']} jobs to {args.output}")
 
 
 if __name__ == "__main__":
