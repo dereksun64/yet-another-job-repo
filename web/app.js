@@ -25,8 +25,16 @@ const tierRank = {
 };
 
 function ageDays(age) {
-  const match = String(age || "").match(/(\d+)/);
-  return match ? Number(match[1]) : 9999;
+  const value = String(age || "").trim();
+  const relative = value.match(/^(\d+)\s*(d|mo)$/i);
+  if (relative) return Number(relative[1]) * (relative[2].toLowerCase() === "mo" ? 30 : 1);
+  if (!value) return 9999;
+
+  const now = new Date();
+  const date = new Date(`${value} ${now.getFullYear()}`);
+  if (Number.isNaN(date.getTime())) return 9999;
+  if (date > now) date.setFullYear(date.getFullYear() - 1);
+  return Math.max(0, (now - date) / 86400000);
 }
 
 function matches(job) {
@@ -69,7 +77,9 @@ function render() {
             <span class="tag">${escapeHtml(job.jobType)}</span>
             <span class="tag">${escapeHtml(job.degreeLevel)}</span>
             <span class="tag">${escapeHtml(job.category)}</span>
-            <span class="tag">${escapeHtml(job.source)}</span>
+            <span class="tag">${job.sourceUrl
+              ? `<a class="source" href="${escapeAttribute(job.sourceUrl)}" target="_blank" rel="noreferrer">${escapeHtml(job.source)}</a>`
+              : escapeHtml(job.source)}</span>
             ${job.age ? `<span class="tag">${escapeHtml(job.age)}</span>` : ""}
           </div>
         </article>
