@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import hashlib
+import html
 import json
 import re
 import urllib.request
@@ -91,8 +92,35 @@ def nested_image_destination(value: str) -> str | None:
     if destination_close == -1:
         return ""
 
-    destination = value[destination_open + 1 : destination_close].strip()
+    destination = html.unescape(value[destination_open + 1 : destination_close].strip())
     return destination if valid_http_url(destination) else ""
+
+
+def markdown_destination(value: str) -> str:
+    match = re.search(r"\[[^\]]+\]\(", value)
+    if not match:
+        return ""
+
+    destination_open = match.end() - 1
+    destination_close = matching_paren(value, destination_open)
+    if destination_close == -1:
+        return ""
+
+    destination = html.unescape(value[destination_open + 1 : destination_close].strip())
+    return destination if valid_http_url(destination) else ""
+
+
+def bare_http_url(value: str) -> str:
+    match = re.search(r"https?://", value)
+    if not match:
+        return ""
+
+    end = match.start()
+    while end < len(value) and value[end] not in ' \t\r\n"\'<>':
+        end += 1
+
+    candidate = html.unescape(value[match.start() : end])
+    return candidate if valid_http_url(candidate) else ""
 
 
 def first_markdown_link(value: str) -> str:
@@ -101,18 +129,15 @@ def first_markdown_link(value: str) -> str:
         return nested_destination
 
     value_without_images = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", value)
-    markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value_without_images)
-    if markdown_link:
-        candidate = markdown_link.group(1)
-        return candidate if valid_http_url(candidate) else ""
+    link_destination = markdown_destination(value_without_images)
+    if link_destination:
+        return link_destination
+
     html_link = re.search(r'''<a\b[^>]*\bhref=["']([^"']+)''', value_without_images, flags=re.IGNORECASE)
     if html_link:
-        return html_link.group(1) if valid_http_url(html_link.group(1)) else ""
-    match = re.search(r'https?://[^\s"<>)]+', value_without_images)
-    if match:
-        candidate = match.group(0)
+        candidate = html.unescape(html_link.group(1))
         return candidate if valid_http_url(candidate) else ""
-    return ""
+    return bare_http_url(value_without_images)
 
 
 def classify_degree(title: str) -> str:

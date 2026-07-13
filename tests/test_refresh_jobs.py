@@ -128,6 +128,19 @@ class RefreshJobsTests(unittest.TestCase):
 
         self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1?x=1")
 
+    def test_parse_markdown_jobs_decodes_html_entities_in_apply_url(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | <a href="https://jobs.example.com/role-&apos;26">Apply</a> |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {})
+
+        self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/role-'26")
+
     def test_parse_markdown_jobs_prefers_outer_markdown_link_over_image(self):
         markdown = """
 ### Software Engineering
@@ -180,6 +193,10 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(first_markdown_link("[Apply](https://example.com:bad/path)"), "")
         self.assertEqual(first_markdown_link("https://["), "")
         self.assertEqual(first_markdown_link("https://example.com:bad/path"), "")
+
+    def test_first_markdown_link_keeps_parenthesized_urls(self):
+        self.assertEqual(first_markdown_link("[Apply](https://jobs.example.com/a(b)c)"), "https://jobs.example.com/a(b)c")
+        self.assertEqual(first_markdown_link("https://jobs.example.com/a(b)c"), "https://jobs.example.com/a(b)c")
 
     def test_parse_markdown_jobs_skips_malformed_anchor_instead_of_using_its_image(self):
         markdown = """
