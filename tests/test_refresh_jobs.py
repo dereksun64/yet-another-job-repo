@@ -157,6 +157,16 @@ class RefreshJobsTests(unittest.TestCase):
 
         self.assertEqual(parse_markdown_jobs(markdown, source, {}), [])
 
+    def test_first_markdown_link_rejects_relative_nested_outer_with_parenthesized_image(self):
+        value = "[![Apply](https://cdn.example.com/badge(1).png)](/jobs/123)"
+
+        self.assertEqual(first_markdown_link(value), "")
+
+    def test_first_markdown_link_rejects_wrapped_relative_nested_outer(self):
+        value = '<span>[![Apply](https://cdn.example.com/apply.png)](/jobs/123)</span>'
+
+        self.assertEqual(first_markdown_link(value), "")
+
     def test_first_markdown_link_rejects_malformed_or_non_http_nested_outer_destination(self):
         image = "https://cdn.example.com/apply.png"
 

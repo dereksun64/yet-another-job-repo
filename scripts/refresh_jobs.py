@@ -53,21 +53,57 @@ def strip_markdown(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
-def first_markdown_link(value: str) -> str:
-    nested_image_link = re.match(r"^\s*\[!\[[^\]]*\]\([^)]+\)\]\(([^)]*)\)", value)
-    if nested_image_link:
-        destination = nested_image_link.group(1).strip()
-        parsed = urlsplit(destination)
-        if parsed.scheme.lower() in {"http", "https"} and parsed.netloc and not re.search(r"\s", destination):
-            return destination
+def valid_http_url(value: str) -> bool:
+    parsed = urlsplit(value)
+    return parsed.scheme.lower() in {"http", "https"} and bool(parsed.netloc) and not re.search(r"\s", value)
+
+
+def matching_paren(value: str, open_index: int) -> int:
+    depth = 0
+    for index in range(open_index, len(value)):
+        if value[index] == "(":
+            depth += 1
+        elif value[index] == ")":
+            depth -= 1
+            if depth == 0:
+                return index
+    return -1
+
+
+def nested_image_destination(value: str) -> str | None:
+    start = value.find("[![")
+    if start == -1:
+        return None
+
+    image_open = value.find("](", start)
+    if image_open == -1:
         return ""
-    markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value)
+    image_close = matching_paren(value, image_open + 1)
+    if image_close == -1 or value[image_close + 1 : image_close + 3] != "](":
+        return ""
+
+    destination_open = image_close + 2
+    destination_close = matching_paren(value, destination_open)
+    if destination_close == -1:
+        return ""
+
+    destination = value[destination_open + 1 : destination_close].strip()
+    return destination if valid_http_url(destination) else ""
+
+
+def first_markdown_link(value: str) -> str:
+    nested_destination = nested_image_destination(value)
+    if nested_destination is not None:
+        return nested_destination
+
+    value_without_images = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", value)
+    markdown_link = re.search(r"\[[^\]]+\]\(\s*(https?://[^)\s]+)", value_without_images)
     if markdown_link:
         return markdown_link.group(1)
-    html_link = re.search(r'''<a\b[^>]*\bhref=["']([^"']+)''', value, flags=re.IGNORECASE)
+    html_link = re.search(r'''<a\b[^>]*\bhref=["']([^"']+)''', value_without_images, flags=re.IGNORECASE)
     if html_link:
-        return html_link.group(1) if re.match(r"^https?://", html_link.group(1)) else ""
-    match = re.search(r'https?://[^\s"<>)]+', value)
+        return html_link.group(1) if valid_http_url(html_link.group(1)) else ""
+    match = re.search(r'https?://[^\s"<>)]+', value_without_images)
     return match.group(0) if match else ""
 
 
