@@ -2,6 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from scripts.refresh_jobs import (
     classify_category,
@@ -11,6 +12,7 @@ from scripts.refresh_jobs import (
     load_sources,
     normalize_company_name,
     parse_markdown_jobs,
+    refresh_jobs,
 )
 
 
@@ -110,6 +112,36 @@ class RefreshJobsTests(unittest.TestCase):
 
         self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1")
 
+    def test_parse_markdown_jobs_stops_direct_url_before_html_tail(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | <a href="https://jobs.example.com/1?x=1"><img src="logo.png"></a> |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {})
+
+        self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1?x=1")
+
+    def test_parse_markdown_jobs_accepts_simplify_html_table(self):
+        markdown = """
+## Software Engineering Internship Roles
+<table>
+<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+<tr><td><strong>Example Co</strong></td><td>Software Engineer Intern</td><td>Remote</td><td><a href="https://jobs.example.com/1?x=1"><img src="logo.png"></a></td><td>1d</td></tr>
+</table>
+"""
+        source = {"name": "Simplify Internships", "kind": "internship", "url": "https://example.com/readme.md"}
+
+        jobs = parse_markdown_jobs(markdown, source, {})
+
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0]["company"], "Example Co")
+        self.assertEqual(jobs[0]["category"], "Software Engineering")
+        self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1?x=1")
+
     def test_classify_category_requires_ai_word_boundary(self):
         self.assertEqual(classify_category("Maintenance Engineer", "Other"), "Other")
 
@@ -138,3 +170,42 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(len(deduped), 1)
         self.assertEqual(deduped[0]["source"], "A")
         self.assertTrue(deduped[0]["id"])
+
+    def test_dedupe_jobs_uses_normalized_fields_without_application_url(self):
+        jobs = [
+            {"id": "", "company": "Example/Co", "title": "Software Engineer", "location": "New York, NY"},
+            {"id": "", "company": "example co", "title": "software engineer", "location": "new york ny"},
+        ]
+
+        deduped = dedupe_jobs(jobs)
+
+        self.assertEqual(len(deduped), 1)
+        self.assertTrue(deduped[0]["id"])
+
+    @patch("scripts.refresh_jobs.fetch_text")
+    def test_refresh_jobs_writes_parsed_jobs_from_upstream_html_link(self, fetch_text):
+        fetch_text.return_value = """
+### Software Engineering
+| Company | Role | Location | Application |
+| --- | --- | --- | --- |
+| Example Co | Software Engineer | Remote | <a href="https://jobs.example.com/1?x=1"><img src="logo.png"></a> |
+"""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            sources_path = root / "sources.json"
+            tiers_path = root / "tiers.md"
+            output_path = root / "jobs.json"
+            sources_path.write_text(
+                json.dumps([{"name": "Example", "kind": "internship", "url": "https://example.com/jobs.md"}]),
+                encoding="utf-8",
+            )
+            tiers_path.write_text("## Tier 1\n\n- Example Co\n", encoding="utf-8")
+
+            payload = refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
+            persisted = json.loads(output_path.read_text(encoding="utf-8"))
+
+        self.assertEqual(fetch_text.call_count, 1)
+        self.assertEqual(payload["count"], 1)
+        self.assertEqual(persisted["sourceCounts"], {"Example": 1})
+        self.assertEqual(persisted["jobs"][0]["applyUrl"], "https://jobs.example.com/1?x=1")
+        self.assertEqual(persisted["jobs"][0]["companyTier"], "Tier 1")

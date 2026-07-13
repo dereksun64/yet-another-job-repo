@@ -47,12 +47,13 @@ def load_sources(path: str) -> list[dict[str, str]]:
 def strip_markdown(value: str) -> str:
     value = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", value)
     value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", value)
+    value = re.sub(r"<[^>]+>", "", value)
     value = value.replace("**", "").replace("`", "")
     return re.sub(r"\s+", " ", value).strip()
 
 
 def first_markdown_link(value: str) -> str:
-    match = re.search(r"https?://[^\s)]+", value)
+    match = re.search(r'https?://[^\s"<>)]+', value)
     return match.group(0) if match else ""
 
 
@@ -84,13 +85,25 @@ def split_markdown_row(line: str) -> list[str]:
     return [cell.strip() for cell in line.strip().strip("|").split("|")]
 
 
+def normalize_html_tables(markdown: str) -> str:
+    def table_to_markdown(match: re.Match[str]) -> str:
+        rows: list[str] = []
+        for row in re.findall(r"<tr[^>]*>(.*?)</tr>", match.group(0), flags=re.IGNORECASE | re.DOTALL):
+            cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", row, flags=re.IGNORECASE | re.DOTALL)
+            if cells:
+                rows.append("| " + " | ".join(cells) + " |")
+        return "\n".join(rows)
+
+    return re.sub(r"<table[^>]*>.*?</table>", table_to_markdown, markdown, flags=re.IGNORECASE | re.DOTALL)
+
+
 def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, str]) -> list[dict[str, str]]:
     jobs: list[dict[str, str]] = []
     headers: list[str] = []
     current_category = "Other"
 
-    for line in markdown.splitlines():
-        heading = re.match(r"^###\s+(.+)$", line.strip())
+    for line in normalize_html_tables(markdown).splitlines():
+        heading = re.match(r"^#{2,3}\s+(.+)$", line.strip())
         if heading:
             current_category = strip_markdown(heading.group(1))
             headers = []
