@@ -42,6 +42,11 @@ select {
   padding: 8px 10px;
 }
 
+input[type="checkbox"] {
+  min-height: 0;
+  padding: 0;
+}
+
 button {
   background: #155dfc;
   color: white;
@@ -59,6 +64,18 @@ main {
   gap: 10px;
   grid-template-columns: minmax(220px, 1fr) repeat(4, minmax(140px, 180px));
   margin-bottom: 16px;
+}
+
+.checkboxControl {
+  align-items: center;
+  background: white;
+  border: 1px solid #c8d0d9;
+  border-radius: 6px;
+  display: flex;
+  gap: 8px;
+  min-height: 40px;
+  padding: 8px 10px;
+  white-space: nowrap;
 }
 
 .summary {

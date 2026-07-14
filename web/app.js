@@ -8,7 +8,7 @@ const els = {
   refreshButton: document.querySelector("#refreshButton"),
   searchInput: document.querySelector("#searchInput"),
   typeFilter: document.querySelector("#typeFilter"),
-  degreeFilter: document.querySelector("#degreeFilter"),
+  hideAdvancedDegrees: document.querySelector("#hideAdvancedDegrees"),
   tierFilter: document.querySelector("#tierFilter"),
   sortSelect: document.querySelector("#sortSelect"),
   summary: document.querySelector("#summary"),
@@ -24,6 +24,27 @@ const tierRank = {
   Unlisted: 99,
 };
 
+const californiaTerms = [
+  "ca",
+  "california",
+  "sf",
+  "san francisco",
+  "bay area",
+  "mountain view",
+  "sunnyvale",
+  "palo alto",
+  "menlo park",
+  "san jose",
+  "santa clara",
+  "cupertino",
+  "redwood city",
+  "los angeles",
+  "la",
+  "irvine",
+  "san diego",
+  "sacramento",
+];
+
 function ageDays(age) {
   const value = String(age || "").trim();
   const relative = value.match(/^(\d+)\s*(d|mo)$/i);
@@ -37,13 +58,22 @@ function ageDays(age) {
   return Math.max(0, (now - date) / 86400000);
 }
 
+function locationSearchText(location) {
+  const value = String(location || "").toLowerCase();
+  const matchesCalifornia = californiaTerms.some((term) => {
+    if (term.length <= 2) return new RegExp(`(^|[^a-z])${term}([^a-z]|$)`).test(value);
+    return value.includes(term);
+  });
+  return matchesCalifornia ? `${value} ${californiaTerms.join(" ")}` : value;
+}
+
 function matches(job) {
   const query = els.searchInput.value.trim().toLowerCase();
-  const haystack = [job.company, job.title, job.location, job.category].join(" ").toLowerCase();
+  const haystack = [job.company, job.title, locationSearchText(job.location), job.category].join(" ").toLowerCase();
   return (
     (!query || haystack.includes(query)) &&
     (!els.typeFilter.value || job.jobType === els.typeFilter.value) &&
-    (!els.degreeFilter.value || job.degreeLevel === els.degreeFilter.value) &&
+    (!els.hideAdvancedDegrees.checked || !["masters", "phd"].includes(job.degreeLevel)) &&
     (!els.tierFilter.value || job.companyTier === els.tierFilter.value)
   );
 }
@@ -112,7 +142,7 @@ async function loadJobs() {
   render();
 }
 
-for (const el of [els.searchInput, els.typeFilter, els.degreeFilter, els.tierFilter, els.sortSelect]) {
+for (const el of [els.searchInput, els.typeFilter, els.hideAdvancedDegrees, els.tierFilter, els.sortSelect]) {
   el.addEventListener("input", render);
 }
 
