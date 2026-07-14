@@ -1,7 +1,7 @@
 {
-  "count": 1628,
-  "fetchedAt": "2026-07-14T11:30:50.638708+00:00",
-  "generatedAt": "2026-07-14T11:05:19.807188+00:00",
+  "count": 1630,
+  "fetchedAt": "2026-07-14T11:35:18.740507+00:00",
+  "generatedAt": "2026-07-14T11:35:18.740507+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1564,7 +1564,7 @@
       "title": "Product Design Intern \ud83d\udec2"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Flagright",
@@ -1907,6 +1907,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ticket Strategy & Analytics Intern"
+    },
+    {
+      "age": "13d",
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "thyssenkrupp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a6886a61617",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics Intern"
     },
     {
       "age": "13d",
@@ -4862,6 +4877,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Undergrads"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239507?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Northrop Grumman",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b8de76f68d66",
+      "jobType": "full-time",
+      "location": "Aurora, COMorrisville, NCFairfax, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 or 2"
     },
     {
       "age": "5d",
@@ -24425,8 +24455,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 302,
-    "Simplify New Grad": 260,
+    "Simplify Internships": 303,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 125,
     "SpeedyApply USA New Grad": 323,
     "Vansh Internships": 64,
