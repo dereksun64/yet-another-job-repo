@@ -1,7 +1,7 @@
 {
-  "count": 1630,
-  "fetchedAt": "2026-07-14T10:35:18.341122+00:00",
-  "generatedAt": "2026-07-14T10:05:21.282940+00:00",
+  "count": 1629,
+  "fetchedAt": "2026-07-14T10:40:41.524035+00:00",
+  "generatedAt": "2026-07-14T10:40:41.524035+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -485,6 +485,21 @@
     },
     {
       "age": "25d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5de22b586eef",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "25d",
       "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Magna",
@@ -523,21 +538,6 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sony",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "25ef2fef02e8",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1235,21 +1235,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "098b7df03b7d",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/shein/jobs/5229778008?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "SHEIN",
@@ -1789,21 +1774,6 @@
       "title": "Machine Learning Intern - Autonomy"
     },
     {
-      "age": "9d",
-      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "University of Maryland - College Park",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a81db810a3d6",
-      "jobType": "internship",
-      "location": "Hyattsville, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Office of Career Services Intern - Technology Team"
-    },
-    {
       "age": "11d",
       "applyUrl": "https://jobdetails.nestle.com/job/Bridgewater-R&D-Sustainability-Intern-Nestl%C3%A9-Health-Science-NJ-08807/1410946433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -1999,7 +1969,7 @@
       "title": "System Triage Engineer Intern"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Liberty University",
@@ -3917,6 +3887,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "FPGA Engineer Intern"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "X Development",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "6c59002b1377",
+      "jobType": "internship",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute \ud83c\udf93"
     },
     {
       "age": "12d",
@@ -24455,7 +24440,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 303,
+    "Simplify Internships": 302,
     "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 125,
     "SpeedyApply USA New Grad": 323,
