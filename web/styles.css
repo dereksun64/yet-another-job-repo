@@ -62,7 +62,7 @@ main {
 .controls {
   display: grid;
   gap: 10px;
-  grid-template-columns: minmax(220px, 1fr) repeat(4, minmax(140px, 180px));
+  grid-template-columns: minmax(220px, 1fr) repeat(5, minmax(140px, 180px));
   margin-bottom: 16px;
 }
 
@@ -104,6 +104,25 @@ main {
   justify-content: space-between;
 }
 
+.job.completed {
+  opacity: 0.58;
+}
+
+.jobActions {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
+
+.completeControl {
+  align-items: center;
+  color: #38414d;
+  display: flex;
+  font-size: 14px;
+  gap: 6px;
+  white-space: nowrap;
+}
+
 .job h2 {
   font-size: 16px;
   margin: 0;
@@ -140,6 +159,10 @@ main {
   .jobHeader {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .jobActions {
+    justify-content: space-between;
   }
 
   .controls {

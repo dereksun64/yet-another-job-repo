@@ -1,6 +1,7 @@
 const state = {
   payload: null,
   jobs: [],
+  completed: new Set(JSON.parse(localStorage.getItem("completedJobs") || "[]")),
 };
 
 const els = {
@@ -9,6 +10,7 @@ const els = {
   searchInput: document.querySelector("#searchInput"),
   typeFilter: document.querySelector("#typeFilter"),
   hideAdvancedDegrees: document.querySelector("#hideAdvancedDegrees"),
+  hideCompleted: document.querySelector("#hideCompleted"),
   tierFilter: document.querySelector("#tierFilter"),
   sortSelect: document.querySelector("#sortSelect"),
   summary: document.querySelector("#summary"),
@@ -99,6 +101,7 @@ function matches(job) {
     (!query || includesSearchTerm(californiaTerms.includes(query) ? locationHaystack : haystack, query)) &&
     (!els.typeFilter.value || job.jobType === els.typeFilter.value) &&
     (!els.hideAdvancedDegrees.checked || !["masters", "phd"].includes(job.degreeLevel)) &&
+    (!els.hideCompleted.checked || !state.completed.has(job.id)) &&
     (!els.tierFilter.value || job.companyTier === els.tierFilter.value)
   );
 }
@@ -118,14 +121,22 @@ function render() {
   els.summary.textContent = `${jobs.length.toLocaleString()} of ${state.jobs.length.toLocaleString()} jobs shown`;
   els.jobs.innerHTML = jobs
     .map(
-      (job) => `
-        <article class="job">
+      (job) => {
+        const completed = state.completed.has(job.id);
+        return `
+        <article class="job${completed ? " completed" : ""}">
           <div class="jobHeader">
             <div>
               <h2>${escapeHtml(job.title)}</h2>
               <div class="company">${escapeHtml(job.company)} · ${escapeHtml(job.location || "Location unknown")}</div>
             </div>
-            <a class="apply" href="${escapeAttribute(job.applyUrl)}" target="_blank" rel="noreferrer">Apply</a>
+            <div class="jobActions">
+              <label class="completeControl">
+                <input class="completeInput" type="checkbox" data-job-id="${escapeAttribute(job.id)}" ${completed ? "checked" : ""}>
+                Done
+              </label>
+              <a class="apply" href="${escapeAttribute(job.applyUrl)}" target="_blank" rel="noreferrer">Apply</a>
+            </div>
           </div>
           <div class="tags">
             <span class="tag">${escapeHtml(job.companyTier)}</span>
@@ -138,7 +149,8 @@ function render() {
             ${job.age ? `<span class="tag">${escapeHtml(formatAge(job.age))}</span>` : ""}
           </div>
         </article>
-      `
+      `;
+      }
     )
     .join("");
 }
@@ -167,9 +179,18 @@ async function loadJobs() {
   render();
 }
 
-for (const el of [els.searchInput, els.typeFilter, els.hideAdvancedDegrees, els.tierFilter, els.sortSelect]) {
+for (const el of [els.searchInput, els.typeFilter, els.hideAdvancedDegrees, els.hideCompleted, els.tierFilter, els.sortSelect]) {
   el.addEventListener("input", render);
 }
+
+els.jobs.addEventListener("change", (event) => {
+  if (!event.target.matches(".completeInput")) return;
+  const id = event.target.dataset.jobId;
+  if (event.target.checked) state.completed.add(id);
+  else state.completed.delete(id);
+  localStorage.setItem("completedJobs", JSON.stringify([...state.completed]));
+  render();
+});
 
 els.refreshButton.addEventListener("click", () => {
   loadJobs().catch((error) => {
