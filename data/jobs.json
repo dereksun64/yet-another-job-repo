@@ -1,7 +1,7 @@
 {
   "count": 1606,
-  "fetchedAt": "2026-07-14T18:35:21.265398+00:00",
-  "generatedAt": "2026-07-14T18:35:21.265398+00:00",
+  "fetchedAt": "2026-07-14T18:40:44.028153+00:00",
+  "generatedAt": "2026-07-14T18:40:44.028153+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5897,21 +5897,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6017936004&gh_jid=6017936004&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Jamf",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "af66ee4f0047",
-      "jobType": "full-time",
-      "location": "Eau Claire, WIAustin, TXMinneapolis, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "27d",
@@ -22475,6 +22460,21 @@
     },
     {
       "age": "28d",
+      "applyUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6017936004&gh_jid=6017936004",
+      "category": "Software Engineering",
+      "company": "Jamf",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "af66ee4f0047",
+      "jobType": "full-time",
+      "location": "Austin, TX +2",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I"
+    },
+    {
+      "age": "28d",
       "applyUrl": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
       "category": "Software Engineering",
       "company": "Palantir",
@@ -24096,7 +24096,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 306,
-    "Simplify New Grad": 260,
+    "Simplify New Grad": 259,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
