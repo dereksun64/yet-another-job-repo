@@ -1,7 +1,7 @@
 {
-  "count": 1602,
-  "fetchedAt": "2026-07-14T22:00:58.411811+00:00",
-  "generatedAt": "2026-07-14T21:35:18.250310+00:00",
+  "count": 1597,
+  "fetchedAt": "2026-07-14T22:05:21.623654+00:00",
+  "generatedAt": "2026-07-14T22:05:21.623654+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4565,21 +4565,6 @@
     },
     {
       "age": "0d",
-      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Huntington Ingalls Industries",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b7e0f5603dbf",
-      "jobType": "full-time",
-      "location": "Newport News, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "0d",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114172?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Varsity Brands",
@@ -5210,21 +5195,6 @@
     },
     {
       "age": "12d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "88b9c68457fa",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Compiler Engineer New Grad"
-    },
-    {
-      "age": "12d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -5719,21 +5689,6 @@
       "title": "Entry Level Software Engineer \ud83c\udf93"
     },
     {
-      "age": "22d",
-      "applyUrl": "https://careers-gdms.icims.com/jobs/73193/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Mission Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7e84b282d924",
-      "jobType": "full-time",
-      "location": "Scottsdale, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
-    },
-    {
       "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -5927,21 +5882,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.smartrecruiters.com/Sandisk/744000131987189?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Sandisk",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1cf7a589678b",
-      "jobType": "full-time",
-      "location": "Milpitas, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "System Product Engineer New Grad"
     },
     {
       "age": "1mo",
@@ -6947,21 +6887,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Cloud Software Engineer 1"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "84482d27bc0a",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate \u2013 New Grad Card Expansion - Software Engineer"
     },
     {
       "age": "4mo",
@@ -24036,7 +23961,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 303,
-    "Simplify New Grad": 258,
+    "Simplify New Grad": 253,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
