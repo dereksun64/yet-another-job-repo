@@ -1,7 +1,7 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-14T19:01:03.262710+00:00",
-  "generatedAt": "2026-07-14T18:40:44.028153+00:00",
+  "count": 1604,
+  "fetchedAt": "2026-07-14T19:05:29.911923+00:00",
+  "generatedAt": "2026-07-14T19:05:29.911923+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2192,21 +2192,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Inference Optimization Intern - Performance Modeling"
-    },
-    {
-      "age": "19d",
-      "applyUrl": "https://nuro.ai/careersitem?gh_jid=7594577&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Nuro",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "edb338a7eded",
-      "jobType": "internship",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Scientist Intern"
     },
     {
       "age": "19d",
@@ -4922,21 +4907,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Undergrads"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239507?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b8de76f68d66",
-      "jobType": "full-time",
-      "location": "Aurora, COMorrisville, NCFairfax, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 or 2"
     },
     {
       "age": "5d",
@@ -24095,8 +24065,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 306,
-    "Simplify New Grad": 259,
+    "Simplify Internships": 305,
+    "Simplify New Grad": 258,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
