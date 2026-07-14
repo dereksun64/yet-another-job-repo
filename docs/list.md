@@ -36,7 +36,8 @@
 - Oracle
 - Qualcomm
 - Tesla
-- TikTok/ByteDance
+- TikTok
+- ByteDance
 - Two sigma
 - Uber
 - Vanguard
@@ -87,7 +88,8 @@
 - Visa
 - Walmart
 - Wells Fargo bank
-- X/ Twitter
+- X
+- Twitter
 - Zoom
 
 ## Tier 3
@@ -191,7 +193,8 @@
 - Navy Federal Credit Union
 - NetApp
 - Nuro
-- Okta / Saasure
+- Okta
+- Saasure
 - Optum
 - Palantir
 - Perplexity AI
