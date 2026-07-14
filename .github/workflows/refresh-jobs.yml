@@ -3,7 +3,8 @@ name: Refresh jobs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    # GitHub can delay or drop scheduled jobs during high-load minute ranges.
+    - cron: "7/10 * * * *"
 
 permissions:
   contents: write
