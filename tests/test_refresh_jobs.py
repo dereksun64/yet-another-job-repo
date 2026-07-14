@@ -1,6 +1,7 @@
 import json
 import tempfile
 import unittest
+from datetime import datetime, timezone
 from pathlib import Path
 from unittest.mock import patch
 
@@ -240,6 +241,21 @@ class RefreshJobsTests(unittest.TestCase):
         self.assertEqual(jobs[0]["company"], "Example Co")
         self.assertEqual(jobs[0]["category"], "Software Engineering")
         self.assertEqual(jobs[0]["applyUrl"], "https://jobs.example.com/1?x=1")
+
+    def test_parse_markdown_jobs_rolls_yearless_dates_back_by_source_order(self):
+        markdown = """
+### Software Engineering
+| Company | Role | Location | Application | Date Posted |
+| --- | --- | --- | --- | --- |
+| New Co | Software Engineer | Remote | [Apply](https://jobs.example.com/1) | Jan 2 |
+| Old Co | Software Engineer | Remote | [Apply](https://jobs.example.com/2) | Dec 31 |
+"""
+        source = {"name": "Example Source", "kind": "internship", "url": "https://example.com/readme.md"}
+        now = datetime(2026, 12, 31, tzinfo=timezone.utc)
+
+        jobs = parse_markdown_jobs(markdown, source, {}, now=now)
+
+        self.assertEqual([job["age"] for job in jobs], ["363d", "365d"])
 
     def test_classify_category_requires_ai_word_boundary(self):
         self.assertEqual(classify_category("Maintenance Engineer", "Other"), "Other")

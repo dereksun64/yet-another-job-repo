@@ -164,6 +164,29 @@ def classify_category(title: str, fallback: str) -> str:
     return fallback
 
 
+def normalize_age(value: str, previous_date: datetime | None, now: datetime) -> tuple[str, datetime | None]:
+    value = strip_markdown(value)
+    if re.match(r"^\d+\s*(m|min|mins|minute|minutes|h|hr|hrs|hour|hours|d|day|days|mo)$", value, flags=re.IGNORECASE):
+        return value, previous_date
+
+    match = re.match(r"^([A-Za-z]{3,9})\.?\s+(\d{1,2})(?:st|nd|rd|th)?$", value)
+    if not match:
+        return value, previous_date
+
+    try:
+        parsed = datetime.strptime(f"{match.group(1)} {match.group(2)} {now.year}", "%b %d %Y").replace(tzinfo=timezone.utc)
+    except ValueError:
+        try:
+            parsed = datetime.strptime(f"{match.group(1)} {match.group(2)} {now.year}", "%B %d %Y").replace(tzinfo=timezone.utc)
+        except ValueError:
+            return value, previous_date
+
+    while parsed > now or (previous_date and parsed > previous_date):
+        parsed = parsed.replace(year=parsed.year - 1)
+
+    return f"{max(0, (now.date() - parsed.date()).days)}d", parsed
+
+
 def split_markdown_row(line: str) -> list[str]:
     if not line.strip().startswith("|"):
         return []
@@ -182,11 +205,13 @@ def normalize_html_tables(markdown: str) -> str:
     return re.sub(r"<table[^>]*>.*?</table>", table_to_markdown, markdown, flags=re.IGNORECASE | re.DOTALL)
 
 
-def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, str]) -> list[dict[str, str]]:
+def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, str], now: datetime | None = None) -> list[dict[str, str]]:
     jobs: list[dict[str, str]] = []
     headers: list[str] = []
     current_category = "Other"
     previous_company = ""
+    previous_posted_date: datetime | None = None
+    now = now or datetime.now(timezone.utc)
 
     for line in normalize_html_tables(markdown).splitlines():
         heading = re.match(r"^#{2,3}\s+(.+)$", line.strip())
@@ -229,6 +254,7 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
         if not company or not title or not apply_url:
             continue
 
+        age, previous_posted_date = normalize_age(age_raw, previous_posted_date, now)
         tier_key = normalize_company_name(company)
         jobs.append(
             {
@@ -243,7 +269,7 @@ def parse_markdown_jobs(markdown: str, source: dict[str, str], tiers: dict[str, 
                 "category": classify_category(title, strip_markdown(current_category)),
                 "degreeLevel": classify_degree(title),
                 "companyTier": tiers.get(tier_key, "Unlisted"),
-                "age": strip_markdown(age_raw),
+                "age": age,
                 "salary": strip_markdown(salary_raw),
             }
         )
