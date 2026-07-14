@@ -363,8 +363,10 @@ class RefreshJobsTests(unittest.TestCase):
             first = refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
             persisted = json.loads(output_path.read_text(encoding="utf-8"))
             persisted["generatedAt"] = "2020-01-01T00:00:00+00:00"
+            persisted["fetchedAt"] = "2020-01-01T00:00:00+00:00"
             output_path.write_text(json.dumps(persisted), encoding="utf-8")
             second = refresh_jobs(str(sources_path), str(tiers_path), str(output_path))
 
         self.assertNotEqual(first["generatedAt"], second["generatedAt"])
         self.assertEqual(second["generatedAt"], "2020-01-01T00:00:00+00:00")
+        self.assertNotEqual(second["fetchedAt"], "2020-01-01T00:00:00+00:00")

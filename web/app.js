@@ -175,7 +175,7 @@ async function loadJobs() {
   if (!response.ok) throw new Error(`Failed to load jobs: ${response.status}`);
   state.payload = await response.json();
   state.jobs = state.payload.jobs || [];
-  els.meta.textContent = `Generated ${new Date(state.payload.generatedAt).toLocaleString()}`;
+  els.meta.textContent = `Fetched ${new Date(state.payload.fetchedAt || state.payload.generatedAt).toLocaleString()}`;
   render();
 }
 

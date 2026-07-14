@@ -324,8 +324,10 @@ def refresh_jobs(sources_path: str, tiers_path: str, output_path: str) -> dict[s
 
     jobs = dedupe_jobs(jobs)
     validate_generated_jobs(jobs)
+    fetched_at = datetime.now(timezone.utc).isoformat()
     payload = {
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "fetchedAt": fetched_at,
+        "generatedAt": fetched_at,
         "sourceCounts": source_counts,
         "count": len(jobs),
         "jobs": jobs,
