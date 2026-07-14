@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # GitHub can delay or drop scheduled jobs during high-load minute ranges.
-    - cron: "7/10 * * * *"
+    - cron: "7,17,27,37,47,57 * * * *"
 
 permissions:
   contents: write
