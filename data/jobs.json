@@ -1,7 +1,7 @@
 {
   "count": 1607,
-  "fetchedAt": "2026-07-14T17:30:52.815294+00:00",
-  "generatedAt": "2026-07-14T15:10:47.651115+00:00",
+  "fetchedAt": "2026-07-14T17:35:20.923845+00:00",
+  "generatedAt": "2026-07-14T17:35:20.923845+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6137,21 +6137,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://nuro.ai/careersitem?gh_jid=7978432&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nuro",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "48206e1a4159",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Performance"
     },
     {
       "age": "1mo",
@@ -22939,6 +22924,21 @@
       "title": "Junior Cloud DevOps Engineer"
     },
     {
+      "age": "41d",
+      "applyUrl": "https://nuro.ai/careersitem?gh_jid=7978432",
+      "category": "Software Engineering",
+      "company": "Nuro",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "48206e1a4159",
+      "jobType": "full-time",
+      "location": "California, USA +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - Performance - New Grad"
+    },
+    {
       "age": "42d",
       "applyUrl": "http://belaytechnologies.applytojob.com/apply/6XkgXjwrHB/Junior-Software-Engineer",
       "category": "Software Engineering",
@@ -24111,7 +24111,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 306,
-    "Simplify New Grad": 262,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
