@@ -1,7 +1,7 @@
 {
-  "count": 1601,
-  "fetchedAt": "2026-07-14T23:30:51.074039+00:00",
-  "generatedAt": "2026-07-14T23:10:44.017613+00:00",
+  "count": 1606,
+  "fetchedAt": "2026-07-14T23:33:27.304106+00:00",
+  "generatedAt": "2026-07-14T23:33:27.304106+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1682,6 +1682,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science & Machine Learning Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "National Laboratory of the Rockies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5efb44fbc62c",
+      "jobType": "internship",
+      "location": "Golden, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Graduate Intern - Transportation Systems Analysis"
     },
     {
       "age": "0d",
@@ -4550,6 +4565,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://nuro.ai/careersitem?gh_jid=8064655&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nuro",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "ed7412d4b5ad",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Performance"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Intuit",
@@ -4607,6 +4637,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b2ef9ce71b2e",
+      "jobType": "full-time",
+      "location": "Richardson, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Conversion Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Daimler Truck",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62be23109de6",
+      "jobType": "full-time",
+      "location": "Portland, OR",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Mechanical Product Engineer 1 - Cab Exterior"
     },
     {
       "age": "0d",
@@ -7997,6 +8057,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Hardware Engineer 1 - Sensors"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-1---Tactical-Communications--Onsite-_01851404-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8a59bed256d6",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Tactical Communications"
     },
     {
       "age": "1d",
@@ -24020,8 +24095,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 303,
-    "Simplify New Grad": 257,
+    "Simplify Internships": 304,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
