@@ -1,7 +1,7 @@
 {
-  "count": 1598,
-  "fetchedAt": "2026-07-14T23:00:56.262637+00:00",
-  "generatedAt": "2026-07-14T22:38:59.771359+00:00",
+  "count": 1599,
+  "fetchedAt": "2026-07-14T23:05:18.689003+00:00",
+  "generatedAt": "2026-07-14T23:05:18.689003+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -79,7 +79,7 @@
       "title": "Engineering Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/later/jobs/8621762002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Later",
@@ -1564,6 +1564,21 @@
       "title": "Software Engineer Intern - Infrastructure"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "CalAmp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "432f73f4767a",
+      "jobType": "internship",
+      "location": "Carlsbad, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -1819,7 +1834,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7623013&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "EquipmentShare",
@@ -2119,7 +2134,7 @@
       "title": "Research Intern - 3D Vision and Generation - Self-Driving \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4287004009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Lila Sciences",
@@ -3754,7 +3769,7 @@
       "title": "Quantitative Research Analyst Intern"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -3964,7 +3979,7 @@
       "title": "RTOS development Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Lila Sciences",
@@ -23975,7 +23990,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 302,
+    "Simplify Internships": 303,
     "Simplify New Grad": 255,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
