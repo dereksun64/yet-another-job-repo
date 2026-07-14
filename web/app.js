@@ -47,8 +47,14 @@ const californiaTerms = [
 
 function ageDays(age) {
   const value = String(age || "").trim();
-  const relative = value.match(/^(\d+)\s*(d|mo)$/i);
-  if (relative) return Number(relative[1]) * (relative[2].toLowerCase() === "mo" ? 30 : 1);
+  const relative = value.match(/^(\d+)\s*(m|min|mins|minute|minutes|h|hr|hrs|hour|hours|d|day|days|mo)$/i);
+  if (relative) {
+    const amount = Number(relative[1]);
+    const unit = relative[2].toLowerCase();
+    if (unit.startsWith("m") && unit !== "mo") return amount / 1440;
+    if (unit.startsWith("h")) return amount / 24;
+    return amount * (unit === "mo" ? 30 : 1);
+  }
   if (!value) return 9999;
 
   const now = new Date();
@@ -56,6 +62,19 @@ function ageDays(age) {
   if (Number.isNaN(date.getTime())) return 9999;
   if (date > now) date.setFullYear(date.getFullYear() - 1);
   return Math.max(0, (now - date) / 86400000);
+}
+
+function formatAge(age) {
+  const value = String(age || "").trim();
+  const relative = value.match(/^(\d+)\s*(m|min|mins|minute|minutes|h|hr|hrs|hour|hours|d|day|days|mo)$/i);
+  if (!relative) return value;
+
+  const amount = Number(relative[1]);
+  const unit = relative[2].toLowerCase();
+  if (unit.startsWith("m") && unit !== "mo") return `${amount}m`;
+  if (unit.startsWith("h")) return `${amount}h`;
+  if (unit === "mo") return `${amount}mo`;
+  return amount === 0 ? "<24h" : `${amount}d`;
 }
 
 function locationSearchText(location) {
@@ -67,11 +86,17 @@ function locationSearchText(location) {
   return matchesCalifornia ? `${value} ${californiaTerms.join(" ")}` : value;
 }
 
+function includesSearchTerm(value, query) {
+  if (query.length <= 2) return new RegExp(`(^|[^a-z0-9])${query}([^a-z0-9]|$)`).test(value);
+  return value.includes(query);
+}
+
 function matches(job) {
   const query = els.searchInput.value.trim().toLowerCase();
+  const locationHaystack = locationSearchText(job.location);
   const haystack = [job.company, job.title, locationSearchText(job.location), job.category].join(" ").toLowerCase();
   return (
-    (!query || haystack.includes(query)) &&
+    (!query || includesSearchTerm(californiaTerms.includes(query) ? locationHaystack : haystack, query)) &&
     (!els.typeFilter.value || job.jobType === els.typeFilter.value) &&
     (!els.hideAdvancedDegrees.checked || !["masters", "phd"].includes(job.degreeLevel)) &&
     (!els.tierFilter.value || job.companyTier === els.tierFilter.value)
@@ -110,7 +135,7 @@ function render() {
             <span class="tag">${job.sourceUrl
               ? `<a class="source" href="${escapeAttribute(job.sourceUrl)}" target="_blank" rel="noreferrer">${escapeHtml(job.source)}</a>`
               : escapeHtml(job.source)}</span>
-            ${job.age ? `<span class="tag">${escapeHtml(job.age)}</span>` : ""}
+            ${job.age ? `<span class="tag">${escapeHtml(formatAge(job.age))}</span>` : ""}
           </div>
         </article>
       `
