@@ -62,7 +62,7 @@ main {
 .controls {
   display: grid;
   gap: 10px;
-  grid-template-columns: minmax(220px, 1fr) repeat(6, minmax(140px, 180px));
+  grid-template-columns: minmax(220px, 1fr) repeat(5, minmax(140px, 180px));
   margin-bottom: 16px;
 }
 

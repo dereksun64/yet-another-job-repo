@@ -11,7 +11,6 @@ const els = {
   typeFilter: document.querySelector("#typeFilter"),
   hideAdvancedDegrees: document.querySelector("#hideAdvancedDegrees"),
   hideCompleted: document.querySelector("#hideCompleted"),
-  listedCompaniesOnly: document.querySelector("#listedCompaniesOnly"),
   tierFilter: document.querySelector("#tierFilter"),
   sortSelect: document.querySelector("#sortSelect"),
   summary: document.querySelector("#summary"),
@@ -103,7 +102,6 @@ function matches(job) {
     (!els.typeFilter.value || job.jobType === els.typeFilter.value) &&
     (!els.hideAdvancedDegrees.checked || !["masters", "phd"].includes(job.degreeLevel)) &&
     (!els.hideCompleted.checked || !state.completed.has(job.id)) &&
-    (!els.listedCompaniesOnly.checked || job.companyTier !== "Unlisted") &&
     (!els.tierFilter.value || job.companyTier === els.tierFilter.value)
   );
 }
@@ -181,7 +179,7 @@ async function loadJobs() {
   render();
 }
 
-for (const el of [els.searchInput, els.typeFilter, els.hideAdvancedDegrees, els.hideCompleted, els.listedCompaniesOnly, els.tierFilter, els.sortSelect]) {
+for (const el of [els.searchInput, els.typeFilter, els.hideAdvancedDegrees, els.hideCompleted, els.tierFilter, els.sortSelect]) {
   el.addEventListener("input", render);
 }
 
