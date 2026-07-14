@@ -1,7 +1,7 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-14T15:05:21.305842+00:00",
-  "generatedAt": "2026-07-14T14:35:25.990127+00:00",
+  "count": 1607,
+  "fetchedAt": "2026-07-14T15:10:47.651115+00:00",
+  "generatedAt": "2026-07-14T15:10:47.651115+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -559,7 +559,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Viridien",
@@ -1744,7 +1744,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Uber Freight",
@@ -2614,7 +2614,7 @@
       "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Tencent",
@@ -4595,6 +4595,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Katalyst Space Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f2249de9fed0",
+      "jobType": "full-time",
+      "location": "Broomfield, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Model and Simulation"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Huntington Ingalls Industries",
@@ -5839,7 +5854,7 @@
       "title": "NLM Software Engineer 1"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -6527,6 +6542,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Member of Technical Staff"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "mthree",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3ea917bef486",
+      "jobType": "full-time",
+      "location": "Newark, DE",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
     },
     {
       "age": "3mo",
@@ -7832,21 +7862,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Business Analyst / Data Analyst Entry Level"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Latitude",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "dcf34a80212d",
-      "jobType": "full-time",
-      "location": "Baltimore, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Developer - Data & Database Focus"
     },
     {
       "age": "5mo",
@@ -24096,7 +24111,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 306,
-    "Simplify New Grad": 261,
+    "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
