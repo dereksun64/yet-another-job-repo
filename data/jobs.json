@@ -1,7 +1,7 @@
 {
-  "count": 1605,
-  "fetchedAt": "2026-07-15T09:00:58.224267+00:00",
-  "generatedAt": "2026-07-15T07:35:19.221128+00:00",
+  "count": 1604,
+  "fetchedAt": "2026-07-15T09:05:20.068206+00:00",
+  "generatedAt": "2026-07-15T09:05:20.068206+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2657,21 +2657,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Research Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5269929b2c62",
-      "jobType": "internship",
-      "location": "Southfield, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Systems Engineer Intern"
     },
     {
       "age": "1mo",
@@ -24080,7 +24065,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 301,
+    "Simplify Internships": 300,
     "Simplify New Grad": 263,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
