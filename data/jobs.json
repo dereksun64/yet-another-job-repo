@@ -1,7 +1,7 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-15T17:30:58.073703+00:00",
-  "generatedAt": "2026-07-15T15:35:23.597736+00:00",
+  "count": 1603,
+  "fetchedAt": "2026-07-15T17:35:21.708914+00:00",
+  "generatedAt": "2026-07-15T17:35:21.708914+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4655,21 +4655,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "823e2ef4ff93",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Software Engineer"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -4787,21 +4772,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Compiler Engineer AI Inference New Grad"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8046879&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Toast",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "46276d0bfe7d",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Fullstack"
     },
     {
       "age": "4d",
@@ -8342,21 +8312,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New grad / early career"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Hardware-Engineer---New-Grad_R028748?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Ciena",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14055ff63bdf",
-      "jobType": "full-time",
-      "location": "Ottawa, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Wavelogic Hardware Engineer New Grad"
     },
     {
       "age": "3mo",
@@ -24096,7 +24051,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 297,
-    "Simplify New Grad": 265,
+    "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
