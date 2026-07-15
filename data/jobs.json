@@ -1,10 +1,10 @@
 {
-  "count": 1599,
-  "fetchedAt": "2026-07-15T23:00:57.213780+00:00",
-  "generatedAt": "2026-07-15T22:35:21.137533+00:00",
+  "count": 1603,
+  "fetchedAt": "2026-07-15T23:05:20.821440+00:00",
+  "generatedAt": "2026-07-15T23:05:20.821440+00:00",
   "jobs": [
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Custom Computer Specialists",
@@ -94,7 +94,7 @@
       "title": "Technology Intern - Multiple Teams"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/later/jobs/8621762002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Later",
@@ -1744,7 +1744,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7623013&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "EquipmentShare",
@@ -2029,7 +2029,7 @@
       "title": "Research Intern - 3D Vision and Generation - Self-Driving \ud83c\udf93"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4287004009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Lila Sciences",
@@ -3529,6 +3529,21 @@
       "title": "Machine Learning Infrastructure Engineer Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Citadel Securities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "32b9985c03c4",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Research Analyst Intern"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/7668776?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -3649,7 +3664,7 @@
       "title": "Quantitative Research Analyst Intern"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -3859,7 +3874,7 @@
       "title": "RTOS development Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Lila Sciences",
@@ -4505,6 +4520,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a221ff543d7b",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Software-Engineer-I---Computational-Fluid-Dynamics--CFD-_R55487-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Design Systems",
@@ -4519,7 +4549,7 @@
       "title": "Software Engineer 1 - Computational Fluid Dynamics - Computational Fluid Dynamics"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=8064655&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -4639,7 +4669,7 @@
       "title": "Mechanical Product Engineer 1 - Cab Exterior"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -4924,7 +4954,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -4939,7 +4969,7 @@
       "title": "Software Engineer 1 - Video Platform"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -7174,6 +7204,21 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Engineer-Analyst_R1395?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Torch Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1cb0f7fd8391",
+      "jobType": "full-time",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Engineer/Analyst"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://www.esri.com/careers/5186832007?gh_jid=5186832007&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -7234,7 +7279,7 @@
       "title": "Machine Learning Engineer 1"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8626491002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Alpha FMC",
@@ -7579,7 +7624,7 @@
       "title": "Machine Learning Engineer 1"
     },
     {
-      "age": "3mo",
+      "age": "4mo",
       "applyUrl": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Arkansas",
@@ -7924,6 +7969,21 @@
       "title": "Product Implementation Engineer 1"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---APNT--Onsite-_01859795?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "37fc26076665",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Apnt"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
@@ -7954,7 +8014,7 @@
       "title": "SSD Firmware Engineer New Grad - SSD Firmware Engineer"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -23990,8 +24050,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 295,
-    "Simplify New Grad": 259,
+    "Simplify Internships": 296,
+    "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
