@@ -1,7 +1,7 @@
 {
-  "count": 1607,
-  "fetchedAt": "2026-07-15T05:30:51.568469+00:00",
-  "generatedAt": "2026-07-15T03:35:17.877007+00:00",
+  "count": 1606,
+  "fetchedAt": "2026-07-15T05:35:20.358364+00:00",
+  "generatedAt": "2026-07-15T05:35:20.358364+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2627,21 +2627,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "80a3c5349786",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI in Design & Manufacturing Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -24110,7 +24095,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 302,
+    "Simplify Internships": 301,
     "Simplify New Grad": 264,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
