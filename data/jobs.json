@@ -1,8 +1,23 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-15T00:01:00.094262+00:00",
-  "generatedAt": "2026-07-15T00:01:00.094262+00:00",
+  "count": 1607,
+  "fetchedAt": "2026-07-15T00:05:20.329602+00:00",
+  "generatedAt": "2026-07-15T00:05:20.329602+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Custom Computer Specialists",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62019a965393",
+      "jobType": "internship",
+      "location": "Long Island, New York",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Developer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776?utm_source=Simplify&ref=Simplify",
@@ -64,7 +79,7 @@
       "title": "Software Developer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Leidos",
@@ -107,21 +122,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Campus Software Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5b0f3d0ec2e0",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Off Cycle Intern - Aiden Edge"
     },
     {
       "age": "8d",
@@ -1295,21 +1295,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/shein/jobs/5229778008?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "SHEIN",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "054aca421d71",
-      "jobType": "internship",
-      "location": "San Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Database Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.apple.com/en-us/details/200664785?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -1684,7 +1669,7 @@
       "title": "Data Science & Machine Learning Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -1699,7 +1684,7 @@
       "title": "Graduate Intern - Transportation Systems Analysis"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Global-Retail-Strategy-and-Analytics-Intern_R-0154103?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Levi Strauss & Co.",
@@ -1729,7 +1714,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "RTX",
@@ -1744,7 +1729,7 @@
       "title": "Transformation numerique Intern - Digital Transformation"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -4580,6 +4565,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "InstaLILY",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4ac04aef7e20",
+      "jobType": "full-time",
+      "location": "SFNYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - General"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Intuit",
@@ -4639,7 +4639,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -4654,7 +4654,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Daimler Truck",
@@ -4669,7 +4669,7 @@
       "title": "Mechanical Product Engineer 1 - Cab Exterior"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Capital One",
@@ -4759,7 +4759,7 @@
       "title": "Entry Level Software Engineer - C++"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -4774,7 +4774,7 @@
       "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -4789,7 +4789,7 @@
       "title": "Backend Compiler Engineer New Grad"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 NVIDIA",
@@ -4804,7 +4804,7 @@
       "title": "Compiler Engineer AI Inference New Grad"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization_R-413873-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Humana",
@@ -4864,7 +4864,7 @@
       "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "The Walt Disney Company",
@@ -4879,7 +4879,7 @@
       "title": "Product Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Leidos",
@@ -4894,7 +4894,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Leidos",
@@ -4909,7 +4909,7 @@
       "title": "Junior Software Engineer - AI/ML Applications"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "HNTB",
@@ -4954,7 +4954,7 @@
       "title": "Graduate/Junior Software Engineer - Backend"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Design Systems",
@@ -7310,6 +7310,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.esri.com/careers/5186832007?gh_jid=5186832007&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Esri",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "78e783d192ab",
+      "jobType": "full-time",
+      "location": "West Redlands, Redlands, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Development Engineer 1 - Agentic AI - Arcgis Enterprise"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -7339,7 +7354,7 @@
       "title": "Data Engineer 1"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Milwaukee Tool",
@@ -7354,7 +7369,7 @@
       "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "FOX",
@@ -7924,7 +7939,7 @@
       "title": "Quantitative Research Analyst \u2013 University Graduate"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Royal Bank of Canada",
@@ -8059,7 +8074,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-1---Tactical-Communications--Onsite-_01851404-2?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -8074,7 +8089,7 @@
       "title": "Software Engineer 1 - Tactical Communications"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119691-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Dexcom",
@@ -8119,7 +8134,7 @@
       "title": "Early Career Firmware Engineer"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -8134,7 +8149,7 @@
       "title": "ASIC Design Engineer New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Micron Technology",
@@ -24095,8 +24110,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 304,
-    "Simplify New Grad": 261,
+    "Simplify Internships": 303,
+    "Simplify New Grad": 263,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
