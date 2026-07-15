@@ -1,7 +1,7 @@
 {
-  "count": 1597,
-  "fetchedAt": "2026-07-15T22:01:00.481856+00:00",
-  "generatedAt": "2026-07-15T22:01:00.481856+00:00",
+  "count": 1595,
+  "fetchedAt": "2026-07-15T22:05:24.099345+00:00",
+  "generatedAt": "2026-07-15T22:05:24.099345+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4772,36 +4772,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Software Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "61bbf7a233bf",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ed83da618947",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - AI/ML Applications"
     },
     {
       "age": "5d",
@@ -23961,7 +23931,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 294,
-    "Simplify New Grad": 258,
+    "Simplify New Grad": 256,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
