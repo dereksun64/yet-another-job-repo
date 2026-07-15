@@ -1,7 +1,7 @@
 {
-  "count": 1605,
-  "fetchedAt": "2026-07-15T02:05:20.082986+00:00",
-  "generatedAt": "2026-07-15T02:05:20.082986+00:00",
+  "count": 1606,
+  "fetchedAt": "2026-07-15T02:10:41.940182+00:00",
+  "generatedAt": "2026-07-15T02:10:41.940182+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -980,6 +980,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/application?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Solink",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3c365b8552fa",
+      "jobType": "internship",
+      "location": "Ottawa, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - R&D- Data Integrations"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Clarity Innovations",
@@ -1714,7 +1729,7 @@
       "title": "Energy Data Analysis Intern"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "World Surf League",
@@ -1894,7 +1909,7 @@
       "title": "Machine Learning Center of Excellence Intern - NLP \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Valeo",
@@ -24080,7 +24095,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 301,
+    "Simplify Internships": 302,
     "Simplify New Grad": 263,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
