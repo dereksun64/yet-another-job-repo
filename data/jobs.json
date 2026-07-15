@@ -1,7 +1,7 @@
 {
-  "count": 1600,
-  "fetchedAt": "2026-07-15T19:00:57.193614+00:00",
-  "generatedAt": "2026-07-15T18:35:23.852131+00:00",
+  "count": 1598,
+  "fetchedAt": "2026-07-15T19:05:20.415254+00:00",
+  "generatedAt": "2026-07-15T19:05:20.415254+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1802,21 +1802,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Office of Career Services Intern - Technology Team"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://jobdetails.nestle.com/job/Bridgewater-R&D-Sustainability-Intern-Nestl%C3%A9-Health-Science-NJ-08807/1410946433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Nestle",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a335e12d5a50",
-      "jobType": "internship",
-      "location": "Bridgewater Township, NJ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "R&D Sustainability Intern - Nestl\u00e9 Health Science"
     },
     {
       "age": "13d",
@@ -8117,21 +8102,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior FPGA Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/1c793184-7d93-49e8-9e4c-ee2372c23096/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CesiumAstro",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ab00a7546381",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -24005,8 +23975,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 296,
-    "Simplify New Grad": 259,
+    "Simplify Internships": 295,
+    "Simplify New Grad": 258,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
