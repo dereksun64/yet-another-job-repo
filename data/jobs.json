@@ -1,7 +1,7 @@
 {
-  "count": 1609,
-  "fetchedAt": "2026-07-15T10:30:54.441766+00:00",
-  "generatedAt": "2026-07-15T10:05:27.184756+00:00",
+  "count": 1607,
+  "fetchedAt": "2026-07-15T10:35:23.005488+00:00",
+  "generatedAt": "2026-07-15T10:35:23.005488+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1280,21 +1280,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "098b7df03b7d",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.apple.com/en-us/details/200664785?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -1862,21 +1847,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Intern - Autonomy"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "University of Maryland - College Park",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a81db810a3d6",
-      "jobType": "internship",
-      "location": "Hyattsville, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Office of Career Services Intern - Technology Team"
     },
     {
       "age": "12d",
@@ -5225,21 +5195,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://jobs.ulalaunch.com/job/Centennial-Trajectory-Simulation-Software-Engineer-1-CO-80112/1406055600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "United Launch Alliance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e9820ffd375a",
-      "jobType": "full-time",
-      "location": "Centennial, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Trajectory Simulation Software Engineer 1"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://jobs.lever.co/spotify/b4ad9572-e20f-4185-a284-99d9740d04f0/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "Spotify",
@@ -8312,6 +8267,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior FPGA Developer"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/1c793184-7d93-49e8-9e4c-ee2372c23096/apply?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "CesiumAstro",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ab00a7546381",
+      "jobType": "full-time",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -24140,7 +24110,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 301,
+    "Simplify Internships": 299,
     "Simplify New Grad": 267,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
