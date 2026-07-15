@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-15T09:05:20.068206+00:00",
-  "generatedAt": "2026-07-15T09:05:20.068206+00:00",
+  "count": 1605,
+  "fetchedAt": "2026-07-15T09:10:45.986097+00:00",
+  "generatedAt": "2026-07-15T09:10:45.986097+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6047,6 +6047,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Enginner New Grad"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Concept Plus",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "36b8619ca68e",
+      "jobType": "full-time",
+      "location": "Dayton, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Developer"
     },
     {
       "age": "1mo",
@@ -24066,7 +24081,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 300,
-    "Simplify New Grad": 263,
+    "Simplify New Grad": 264,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
