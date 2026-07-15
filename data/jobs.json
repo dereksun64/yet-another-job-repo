@@ -1,7 +1,7 @@
 {
-  "count": 1607,
-  "fetchedAt": "2026-07-15T00:30:50.847748+00:00",
-  "generatedAt": "2026-07-15T00:05:20.329602+00:00",
+  "count": 1606,
+  "fetchedAt": "2026-07-15T00:35:19.458153+00:00",
+  "generatedAt": "2026-07-15T00:35:19.458153+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8087,21 +8087,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Tactical Communications"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119691-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Dexcom",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "408f2df6c0fc",
-      "jobType": "full-time",
-      "location": "San Diego, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Hardware Engineer 1"
     },
     {
       "age": "4d",
@@ -24111,7 +24096,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 303,
-    "Simplify New Grad": 263,
+    "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
