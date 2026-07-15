@@ -1,7 +1,7 @@
 {
-  "count": 1603,
-  "fetchedAt": "2026-07-15T18:00:59.888949+00:00",
-  "generatedAt": "2026-07-15T17:35:21.708914+00:00",
+  "count": 1602,
+  "fetchedAt": "2026-07-15T18:05:32.477468+00:00",
+  "generatedAt": "2026-07-15T18:05:32.477468+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1712,21 +1712,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Uber Freight",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a6090210c67e",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Scientist Intern"
     },
     {
       "age": "6d",
@@ -6302,21 +6287,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New Grad - AI"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://seatgeek.com/jobs/7858968?gh_jid=7858968&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "SeatGeek",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "01952334136d",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 New Grad"
     },
     {
       "age": "2mo",
@@ -23629,6 +23599,21 @@
       "title": "Associate Software Engineer"
     },
     {
+      "age": "78d",
+      "applyUrl": "https://seatgeek.com/jobs/7858968?gh_jid=7858968",
+      "category": "Software Engineering",
+      "company": "SeatGeek",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "01952334136d",
+      "jobType": "full-time",
+      "location": "New York City, NY",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - New Grad"
+    },
+    {
       "age": "79d",
       "applyUrl": "http://imaginexdigital.applytojob.com/apply/R6E4kcEwCd/Software-Engineer-I",
       "category": "Software Engineering",
@@ -24050,8 +24035,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 297,
-    "Simplify New Grad": 262,
+    "Simplify Internships": 296,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
