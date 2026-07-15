@@ -1,7 +1,7 @@
 {
-  "count": 1602,
-  "fetchedAt": "2026-07-15T18:30:58.912121+00:00",
-  "generatedAt": "2026-07-15T18:05:32.477468+00:00",
+  "count": 1600,
+  "fetchedAt": "2026-07-15T18:35:23.852131+00:00",
+  "generatedAt": "2026-07-15T18:35:23.852131+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6215,21 +6215,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Federal-Reserve-Financial-Services-Software-Engineer-I_R-0000032219-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Federal Reserve System",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fada6f3b3cde",
-      "jobType": "full-time",
-      "location": "NYCMinneapolis, MNAtlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Federal Reserve Financial Services Software Engineer 1"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://www.mechanize.work/apply/software-engineer/?role=junior&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Mechanize",
@@ -7217,21 +7202,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Amazon Business Ops Analytics"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/yesenergy/jobs/5344484008?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Yes Energy",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d534ffb63dfe",
-      "jobType": "full-time",
-      "location": "Boston, MABoulder, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1"
     },
     {
       "age": "2d",
@@ -24036,7 +24006,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 296,
-    "Simplify New Grad": 261,
+    "Simplify New Grad": 259,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
