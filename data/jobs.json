@@ -1,7 +1,7 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-15T02:30:54.054434+00:00",
-  "generatedAt": "2026-07-15T02:10:41.940182+00:00",
+  "count": 1607,
+  "fetchedAt": "2026-07-15T02:35:18.856219+00:00",
+  "generatedAt": "2026-07-15T02:35:18.856219+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4532,6 +4532,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Design Verification Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Twitch",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "34133b75a5dd",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Discovery"
     },
     {
       "age": "0d",
@@ -24096,7 +24111,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 302,
-    "Simplify New Grad": 263,
+    "Simplify New Grad": 264,
     "SpeedyApply USA Internships": 128,
     "SpeedyApply USA New Grad": 292,
     "Vansh Internships": 64,
