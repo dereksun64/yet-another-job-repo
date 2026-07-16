@@ -1,7 +1,7 @@
 {
-  "count": 1603,
-  "fetchedAt": "2026-07-16T18:30:44.035344+00:00",
-  "generatedAt": "2026-07-16T18:05:23.921172+00:00",
+  "count": 1601,
+  "fetchedAt": "2026-07-16T18:35:23.924547+00:00",
+  "generatedAt": "2026-07-16T18:35:23.924547+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -815,21 +815,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Meshy",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e3c43ded5b8f",
-      "jobType": "internship",
-      "location": "California",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Fullstack Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TribalScale",
@@ -1637,21 +1622,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "NextGen Federal Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1f3059a696f9",
-      "jobType": "internship",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Science & Machine Learning Intern"
     },
     {
       "age": "2d",
@@ -24050,7 +24020,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 300,
+    "Simplify Internships": 298,
     "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
