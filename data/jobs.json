@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-16T14:01:03.005376+00:00",
-  "generatedAt": "2026-07-16T13:35:20.775188+00:00",
+  "count": 1606,
+  "fetchedAt": "2026-07-16T14:05:20.898505+00:00",
+  "generatedAt": "2026-07-16T14:05:20.898505+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -47,6 +47,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Forward Deployed Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Solar Turbines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "06c469a0aac9",
+      "jobType": "internship",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Gas Turbine Products Engineering Intern"
     },
     {
       "age": "1d",
@@ -1295,6 +1310,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "098b7df03b7d",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://jobs.apple.com/en-us/details/200664785?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -1579,7 +1609,7 @@
       "title": "Operations Intern - Ultraluxe Product"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Niural",
@@ -2149,7 +2179,7 @@
       "title": "Research Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "MyEmployment",
@@ -3979,6 +4009,21 @@
       "title": "Digital Verification Engineer Intern"
     },
     {
+      "age": "26d",
+      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Baker Hughes",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a942630ffbdd",
+      "jobType": "internship",
+      "location": "Bristol, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Mechanical Production Engineering Apprentice"
+    },
+    {
       "age": "27d",
       "applyUrl": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -4847,21 +4892,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Compiler Engineer AI Inference New Grad"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Kustomer",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "50d8f58243be",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 Early Career - Full Stack"
     },
     {
       "age": "6d",
@@ -24065,8 +24095,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 297,
-    "Simplify New Grad": 262,
+    "Simplify Internships": 300,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
