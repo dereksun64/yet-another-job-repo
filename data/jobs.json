@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-16T16:05:26.558593+00:00",
-  "generatedAt": "2026-07-16T15:05:22.795030+00:00",
+  "count": 1605,
+  "fetchedAt": "2026-07-16T16:10:33.607372+00:00",
+  "generatedAt": "2026-07-16T16:10:33.607372+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1637,6 +1637,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Operations Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "JP Morgan Chase",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "223c23fa08f8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -24065,7 +24080,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 300,
+    "Simplify Internships": 301,
     "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
