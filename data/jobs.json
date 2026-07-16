@@ -1,7 +1,7 @@
 {
-  "count": 1600,
-  "fetchedAt": "2026-07-16T22:05:24.753962+00:00",
-  "generatedAt": "2026-07-16T21:40:29.133025+00:00",
+  "count": 1598,
+  "fetchedAt": "2026-07-16T22:10:31.843465+00:00",
+  "generatedAt": "2026-07-16T22:10:31.843465+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4685,21 +4685,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114172?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Varsity Brands",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0947e2451c52",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Daimler Truck",
@@ -5972,21 +5957,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "C++ Junior Software Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Authorium",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a78f2d46acb",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Enginner New Grad"
     },
     {
       "age": "1mo",
@@ -24006,7 +23976,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 298,
-    "Simplify New Grad": 259,
+    "Simplify New Grad": 257,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
