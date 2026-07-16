@@ -1,7 +1,7 @@
 {
   "count": 1605,
-  "fetchedAt": "2026-07-16T09:55:20.436608+00:00",
-  "generatedAt": "2026-07-16T09:35:19.004321+00:00",
+  "fetchedAt": "2026-07-16T10:00:58.504935+00:00",
+  "generatedAt": "2026-07-16T10:00:58.504935+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -583,21 +583,6 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "28d",
-      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sony",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "25ef2fef02e8",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -2089,7 +2074,7 @@
       "title": "Engineering Aide Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "RFCUNY",
@@ -3032,6 +3017,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Intern - AI/LLM Network \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Duke University",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6ae7aed2f73e",
+      "jobType": "internship",
+      "location": "Durham, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Administrative Intern - Sanford School of Public Policy"
     },
     {
       "age": "1mo",
