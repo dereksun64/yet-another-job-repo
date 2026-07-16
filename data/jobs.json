@@ -1,7 +1,7 @@
 {
-  "count": 1605,
-  "fetchedAt": "2026-07-16T10:30:52.847015+00:00",
-  "generatedAt": "2026-07-16T10:00:58.504935+00:00",
+  "count": 1601,
+  "fetchedAt": "2026-07-16T10:35:20.924878+00:00",
+  "generatedAt": "2026-07-16T10:35:20.924878+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17,36 +17,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Agent Platform"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Cybernetic Labs",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2762a3feea3f",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full-Stack Software Engineer Intern - Product"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Cybernetic Labs",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "287c0ecd7bc5",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Forward Deployed Engineer Intern"
     },
     {
       "age": "1d",
@@ -1804,7 +1774,7 @@
       "title": "Machine Learning Intern - Autonomy"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "University of Maryland - College Park",
@@ -3047,21 +3017,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Research Marketing Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Agilent Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "100fb57ab340",
-      "jobType": "internship",
-      "location": "Wilmington, DE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Predictive Sales Prospecting Intern"
     },
     {
       "age": "1mo",
@@ -7322,21 +7277,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning Engineer 1"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8626491002?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Alpha FMC",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2ddeb453db76",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI Junior Analyst"
     },
     {
       "age": "7d",
@@ -24080,8 +24020,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 298,
-    "Simplify New Grad": 262,
+    "Simplify Internships": 295,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
