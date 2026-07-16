@@ -1,7 +1,7 @@
 {
-  "count": 1605,
-  "fetchedAt": "2026-07-16T17:30:35.019098+00:00",
-  "generatedAt": "2026-07-16T16:10:33.607372+00:00",
+  "count": 1604,
+  "fetchedAt": "2026-07-16T17:35:19.004337+00:00",
+  "generatedAt": "2026-07-16T17:35:19.004337+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -662,21 +662,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Agentic AI Engineer Co-op"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9366?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "UL Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c1fef8c1a6ca",
-      "jobType": "internship",
-      "location": "Fremont, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern"
     },
     {
       "age": "29d",
@@ -4682,21 +4667,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Computational Fluid Dynamics - Computational Fluid Dynamics"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://nuro.ai/careersitem?gh_jid=8064655&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nuro",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "ed7412d4b5ad",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Performance"
     },
     {
       "age": "1d",
@@ -20735,6 +20705,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://nuro.ai/careersitem?gh_jid=8064655",
+      "category": "Software Engineering",
+      "company": "Nuro",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "ed7412d4b5ad",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - Performance - New Grad"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---APNT--Onsite-_01859795",
       "category": "Software Engineering",
       "company": "Raytheon",
@@ -24080,8 +24065,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 301,
-    "Simplify New Grad": 262,
+    "Simplify Internships": 300,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
