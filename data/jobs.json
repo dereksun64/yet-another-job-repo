@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-16T06:05:21.374926+00:00",
-  "generatedAt": "2026-07-16T06:05:21.374926+00:00",
+  "count": 1602,
+  "fetchedAt": "2026-07-16T06:10:42.228752+00:00",
+  "generatedAt": "2026-07-16T06:10:42.228752+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4834,21 +4834,6 @@
       "title": "Software Engineer \u2013 Early Career - Full Stack"
     },
     {
-      "age": "5d",
-      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "American Express",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "b0b3920194f0",
-      "jobType": "full-time",
-      "location": "Phoenix, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services"
-    },
-    {
       "age": "6d",
       "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -7847,21 +7832,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Quantitative Research Analyst \u2013 University Graduate"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f7b0d1713a57",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Quant Rotation Program Associate New Grad"
     },
     {
       "age": "8d",
@@ -24066,7 +24036,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 296,
-    "Simplify New Grad": 263,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
