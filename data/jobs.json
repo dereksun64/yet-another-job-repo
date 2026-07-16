@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-16T18:00:46.860088+00:00",
-  "generatedAt": "2026-07-16T17:35:19.004337+00:00",
+  "count": 1603,
+  "fetchedAt": "2026-07-16T18:05:23.921172+00:00",
+  "generatedAt": "2026-07-16T18:05:23.921172+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4742,21 +4742,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b2ef9ce71b2e",
-      "jobType": "full-time",
-      "location": "Richardson, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Conversion Software Engineer 1"
     },
     {
       "age": "2d",
@@ -24066,7 +24051,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 300,
-    "Simplify New Grad": 261,
+    "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
