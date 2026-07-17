@@ -1,7 +1,7 @@
 {
   "count": 1599,
-  "fetchedAt": "2026-07-17T12:00:40.549911+00:00",
-  "generatedAt": "2026-07-17T11:40:27.323473+00:00",
+  "fetchedAt": "2026-07-17T12:05:18.615667+00:00",
+  "generatedAt": "2026-07-17T12:05:18.615667+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -598,21 +598,6 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sony",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "25ef2fef02e8",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1682,6 +1667,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Campus Data Engineer Intern"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5747f4272b7d",
+      "jobType": "internship",
+      "location": "Longueuil, QC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Transformation numerique Intern - Digital Transformation"
     },
     {
       "age": "4d",
