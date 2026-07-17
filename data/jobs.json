@@ -1,7 +1,7 @@
 {
-  "count": 1601,
-  "fetchedAt": "2026-07-17T11:00:41.429449+00:00",
-  "generatedAt": "2026-07-17T10:35:20.222956+00:00",
+  "count": 1600,
+  "fetchedAt": "2026-07-17T11:05:20.924632+00:00",
+  "generatedAt": "2026-07-17T11:05:20.924632+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -7307,21 +7307,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning/Deep Learning Engineer New Grad \ud83c\udf93"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "637c4010bd84",
-      "jobType": "full-time",
-      "location": "Boise, ID",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory"
     },
     {
       "age": "15d",
@@ -24021,7 +24006,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 299,
-    "Simplify New Grad": 257,
+    "Simplify New Grad": 256,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
