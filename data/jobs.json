@@ -1,7 +1,7 @@
 {
-  "count": 1599,
-  "fetchedAt": "2026-07-17T12:30:36.878031+00:00",
-  "generatedAt": "2026-07-17T12:05:18.615667+00:00",
+  "count": 1600,
+  "fetchedAt": "2026-07-17T12:35:19.599815+00:00",
+  "generatedAt": "2026-07-17T12:35:19.599815+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -598,6 +598,21 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "29d",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -23990,7 +24005,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 298,
+    "Simplify Internships": 299,
     "Simplify New Grad": 256,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
