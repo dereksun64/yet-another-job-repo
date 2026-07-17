@@ -1,7 +1,7 @@
 {
-  "count": 1603,
-  "fetchedAt": "2026-07-17T01:30:34.168832+00:00",
-  "generatedAt": "2026-07-17T00:35:21.273581+00:00",
+  "count": 1605,
+  "fetchedAt": "2026-07-17T01:35:22.567533+00:00",
+  "generatedAt": "2026-07-17T01:35:22.567533+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4534,7 +4534,7 @@
       "title": "Software Engineer New Grad - Agent Platform"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Cybernetic Labs",
@@ -4549,7 +4549,7 @@
       "title": "Full-Stack Software Engineer New Grad - Product"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Lightfield",
@@ -4639,7 +4639,7 @@
       "title": "Software Engineer 1 - Discovery"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citadel Securities",
@@ -5749,7 +5749,7 @@
       "title": "Entry Level Software Engineer \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hadrian",
@@ -5764,7 +5764,7 @@
       "title": "Fullstack Software Engineer New Grad"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/pingidentity/jobs/8582872002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Ping Identity",
@@ -5908,6 +5908,21 @@
       "id": "8aba12cfe87f",
       "jobType": "full-time",
       "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4f33f2669712",
+      "jobType": "full-time",
+      "location": "El Segundo, CA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -7294,7 +7309,7 @@
       "title": "Machine Learning Engineer 1"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quora",
@@ -7309,7 +7324,7 @@
       "title": "Machine Learning Engineer New Grad"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gen Digital",
@@ -7459,7 +7474,7 @@
       "title": "Production Programmer \u2013 Entry Level SQL Developer"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Snowflake",
@@ -7955,6 +7970,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Antares Nuclear",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a818cbf0dae4",
+      "jobType": "full-time",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Reactor Software Engineer 1/2"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers.cisco.com/global/en/job/2020073?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Cisco",
@@ -8029,7 +8059,7 @@
       "title": "Software Engineer 1 - Apnt"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Torc Robotics",
@@ -8149,7 +8179,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8621629002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Relativity Space",
@@ -8164,7 +8194,7 @@
       "title": "Avionics Hardware Engineer 1"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Embedded-Systems-Engineer-I_JR500701?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Everfox",
@@ -24051,7 +24081,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 300,
-    "Simplify New Grad": 259,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
