@@ -1,7 +1,7 @@
 {
   "count": 1605,
-  "fetchedAt": "2026-07-17T04:35:19.280711+00:00",
-  "generatedAt": "2026-07-17T02:05:18.747257+00:00",
+  "fetchedAt": "2026-07-17T04:40:27.661244+00:00",
+  "generatedAt": "2026-07-17T04:40:27.661244+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1714,7 +1714,7 @@
       "title": "Energy Data Analysis Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "World Surf League",
@@ -1864,7 +1864,7 @@
       "title": "Machine Learning Center of Excellence Intern - NLP \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Valeo",
@@ -3889,7 +3889,7 @@
       "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Bosch Home Comfort",
@@ -5132,21 +5132,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Amentum",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f4d08c0bad1a",
-      "jobType": "full-time",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "10d",
@@ -20810,6 +20795,21 @@
     },
     {
       "age": "2d",
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144",
+      "category": "Software Engineering",
+      "company": "Amentum",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4d08c0bad1a",
+      "jobType": "full-time",
+      "location": "Dahlgren, VA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
+      "age": "2d",
       "applyUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1",
       "category": "Software Engineering",
       "company": "Boeing",
@@ -24081,7 +24081,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 301,
-    "Simplify New Grad": 260,
+    "Simplify New Grad": 259,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
