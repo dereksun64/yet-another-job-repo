@@ -1,7 +1,7 @@
 {
-  "count": 1601,
-  "fetchedAt": "2026-07-17T23:05:21.186305+00:00",
-  "generatedAt": "2026-07-17T23:05:21.186305+00:00",
+  "count": 1604,
+  "fetchedAt": "2026-07-17T23:10:31.329772+00:00",
+  "generatedAt": "2026-07-17T23:10:31.329772+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4490,6 +4490,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Esri",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "04453bddef9e",
+      "jobType": "full-time",
+      "location": "West Redlands, Redlands, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Front-End Engineer for ArcGIS Enterprise"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "76dff39e057e",
+      "jobType": "full-time",
+      "location": "Seattle, WASanta Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -4744,7 +4774,7 @@
       "title": "Mechanical Product Engineer 1 - Cab Exterior"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -4984,7 +5014,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -4999,7 +5029,7 @@
       "title": "Software Engineer 1 - Video Platform"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -7940,6 +7970,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "2ccc5fe25d21",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Design Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nidec",
@@ -8059,7 +8104,7 @@
       "title": "SSD Firmware Engineer New Grad - SSD Firmware Engineer"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -24021,7 +24066,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 299,
-    "Simplify New Grad": 258,
+    "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
