@@ -1,7 +1,7 @@
 {
   "count": 1602,
-  "fetchedAt": "2026-07-17T09:00:46.590131+00:00",
-  "generatedAt": "2026-07-17T08:35:21.916961+00:00",
+  "fetchedAt": "2026-07-17T09:05:18.946011+00:00",
+  "generatedAt": "2026-07-17T09:05:18.946011+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -422,6 +422,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "602b5a0c18db",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Database Engineer Intern"
     },
     {
       "age": "23d",
@@ -1172,6 +1187,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Systems Architect Apprentice"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Magna",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4272ffa4b22c",
+      "jobType": "internship",
+      "location": "Grand Rapids, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Engineering Engineer Intern"
     },
     {
       "age": "1mo",
@@ -5480,21 +5510,6 @@
     },
     {
       "age": "20d",
-      "applyUrl": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "United Launch Alliance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b831702d7930",
-      "jobType": "full-time",
-      "location": "Centennial, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Integrated Test Environment Software Engineer 1"
-    },
-    {
-      "age": "20d",
       "applyUrl": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cylake",
@@ -5942,21 +5957,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "C++ Junior Software Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Concept Plus",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "36b8619ca68e",
-      "jobType": "full-time",
-      "location": "Dayton, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Developer"
     },
     {
       "age": "1mo",
@@ -6664,7 +6664,7 @@
       "title": "Software Engineer, Frontend"
     },
     {
-      "age": "3mo",
+      "age": "4mo",
       "applyUrl": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Ivo",
@@ -24035,8 +24035,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 297,
-    "Simplify New Grad": 260,
+    "Simplify Internships": 299,
+    "Simplify New Grad": 258,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
