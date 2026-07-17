@@ -1,7 +1,7 @@
 {
-  "count": 1601,
-  "fetchedAt": "2026-07-17T18:05:19.667012+00:00",
-  "generatedAt": "2026-07-17T15:05:24.060507+00:00",
+  "count": 1598,
+  "fetchedAt": "2026-07-17T18:10:29.107590+00:00",
+  "generatedAt": "2026-07-17T18:10:29.107590+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1697,21 +1697,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Campus Data Engineer Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5747f4272b7d",
-      "jobType": "internship",
-      "location": "Longueuil, QC, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Transformation numerique Intern - Digital Transformation"
     },
     {
       "age": "4d",
@@ -7205,21 +7190,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://www.esri.com/careers/5186832007?gh_jid=5186832007&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Esri",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "78e783d192ab",
-      "jobType": "full-time",
-      "location": "West Redlands, Redlands, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Development Engineer 1 - Agentic AI - Arcgis Enterprise"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -8192,21 +8162,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior FPGA Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs-legrand.icims.com/jobs/10071/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Legrand North America",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b223c8233f95",
-      "jobType": "full-time",
-      "location": "Fremont, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Hardware Engineer"
     },
     {
       "age": "2mo",
@@ -24020,8 +23975,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 299,
-    "Simplify New Grad": 258,
+    "Simplify Internships": 298,
+    "Simplify New Grad": 256,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
