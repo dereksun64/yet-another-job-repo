@@ -1,7 +1,7 @@
 {
-  "count": 1606,
-  "fetchedAt": "2026-07-17T02:00:45.339676+00:00",
-  "generatedAt": "2026-07-17T01:40:29.637522+00:00",
+  "count": 1605,
+  "fetchedAt": "2026-07-17T02:05:18.747257+00:00",
+  "generatedAt": "2026-07-17T02:05:18.747257+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4639,7 +4639,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Twitch",
@@ -5195,21 +5195,6 @@
     },
     {
       "age": "10d",
-      "applyUrl": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Everfox",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "059cdbb10f3d",
-      "jobType": "full-time",
-      "location": "Hereford, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "10d",
       "applyUrl": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citadel",
@@ -5269,7 +5254,7 @@
       "title": "Software Developer New Grad"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -7399,7 +7384,7 @@
       "title": "Machine Learning/Deep Learning Engineer New Grad \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -7414,7 +7399,7 @@
       "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "WSP",
@@ -8239,7 +8224,7 @@
       "title": "FPGA Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -24096,7 +24081,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 301,
-    "Simplify New Grad": 261,
+    "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 132,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
