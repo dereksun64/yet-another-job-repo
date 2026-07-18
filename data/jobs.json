@@ -1,7 +1,7 @@
 {
-  "count": 1522,
-  "fetchedAt": "2026-07-18T15:30:36.193376+00:00",
-  "generatedAt": "2026-07-18T15:03:38.077064+00:00",
+  "count": 1524,
+  "fetchedAt": "2026-07-18T15:35:21.290294+00:00",
+  "generatedAt": "2026-07-18T15:35:21.290294+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1202,6 +1202,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Android Developer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a846ed6f667d",
+      "jobType": "internship",
+      "location": "Urbana, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Graphics Software Developer Intern"
     },
     {
       "age": "1mo",
@@ -2657,6 +2672,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Research Marketing Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Agilent Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "100fb57ab340",
+      "jobType": "internship",
+      "location": "Wilmington, DE",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Predictive Sales Prospecting Intern"
     },
     {
       "age": "1mo",
@@ -5945,6 +5975,21 @@
     },
     {
       "age": "4mo",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Salesforce",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "913b7f4ae78c",
+      "jobType": "full-time",
+      "location": "4 locationsPalo Alto, CASFBellevue, WASeattle, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineering AMTS/MTS \u2013 College Grad"
+    },
+    {
+      "age": "4mo",
       "applyUrl": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Giga AI",
@@ -7129,7 +7174,7 @@
       "title": "Entry Level Embedded Engineer"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137946?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Honeywell",
@@ -18335,21 +18380,6 @@
     },
     {
       "age": "58d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
-      "category": "Software Engineering",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a846ed6f667d",
-      "jobType": "internship",
-      "location": "Champaign, IL",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Computer Graphics Software Developer Intern"
-    },
-    {
-      "age": "58d",
       "applyUrl": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
       "category": "Software Engineering",
       "company": "Plus",
@@ -22835,8 +22865,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 255,
-    "Simplify New Grad": 222,
+    "Simplify Internships": 257,
+    "Simplify New Grad": 223,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
