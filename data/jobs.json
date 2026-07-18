@@ -1,7 +1,7 @@
 {
-  "count": 1593,
-  "fetchedAt": "2026-07-18T05:00:38.321276+00:00",
-  "generatedAt": "2026-07-18T04:35:20.727184+00:00",
+  "count": 1590,
+  "fetchedAt": "2026-07-18T05:05:19.383628+00:00",
+  "generatedAt": "2026-07-18T05:05:19.383628+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -845,21 +845,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "16769a2e8b9f",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://www.tesla.com/careers/search/job/260382?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Tesla",
@@ -1262,21 +1247,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Systems Engineer Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "098b7df03b7d",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -3692,21 +3662,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Developer Intern"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/Hook/Apprentice_R03577?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Rehlko",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b44b47bc35c1",
-      "jobType": "internship",
-      "location": "Hook, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Field Service Engineer Apprentice"
     },
     {
       "age": "4d",
@@ -23900,7 +23855,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 289,
+    "Simplify Internships": 286,
     "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
