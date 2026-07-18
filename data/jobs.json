@@ -1,7 +1,7 @@
 {
-  "count": 1525,
-  "fetchedAt": "2026-07-18T16:30:35.415637+00:00",
-  "generatedAt": "2026-07-18T16:03:57.616054+00:00",
+  "count": 1529,
+  "fetchedAt": "2026-07-18T16:35:21.782746+00:00",
+  "generatedAt": "2026-07-18T16:35:21.782746+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -2240,6 +2240,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "587c8b57450e",
+      "jobType": "internship",
+      "location": "Bellevue, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Institute of Foundation Models",
@@ -2462,6 +2477,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Support Group Intern - Artificial Intelligence"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ebfe3e3907fb",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multimedia Development Intern"
     },
     {
       "age": "1mo",
@@ -2690,6 +2720,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Boys Town",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e442c0d5e14b",
+      "jobType": "internship",
+      "location": "Omaha, NE",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Artificial Intelligence & Machine Learning Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "pony.ai",
@@ -2882,6 +2927,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "FHLBank Topeka",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9ca0c02a2825",
+      "jobType": "internship",
+      "location": "Topeka, KS",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Financial Analyst Intern"
     },
     {
       "age": "1mo",
@@ -22880,7 +22940,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 258,
+    "Simplify Internships": 262,
     "Simplify New Grad": 223,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
