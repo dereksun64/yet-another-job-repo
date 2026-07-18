@@ -1,7 +1,7 @@
 {
-  "count": 1529,
-  "fetchedAt": "2026-07-18T17:00:36.519615+00:00",
-  "generatedAt": "2026-07-18T16:35:21.782746+00:00",
+  "count": 1530,
+  "fetchedAt": "2026-07-18T17:05:22.864873+00:00",
+  "generatedAt": "2026-07-18T17:05:22.864873+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1547,6 +1547,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Intern - Autonomy"
+    },
+    {
+      "age": "14d",
+      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "University of Maryland - College Park",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a81db810a3d6",
+      "jobType": "internship",
+      "location": "Hyattsville, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Office of Career Services Intern - Technology Team"
     },
     {
       "age": "16d",
@@ -22940,7 +22955,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 262,
+    "Simplify Internships": 263,
     "Simplify New Grad": 223,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
