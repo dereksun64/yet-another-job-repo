@@ -1,7 +1,7 @@
 {
-  "count": 1515,
-  "fetchedAt": "2026-07-18T14:00:38.683963+00:00",
-  "generatedAt": "2026-07-18T13:35:22.342427+00:00",
+  "count": 1516,
+  "fetchedAt": "2026-07-18T14:05:20.203314+00:00",
+  "generatedAt": "2026-07-18T14:05:20.203314+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1279,7 +1279,7 @@
       "title": "Operations Intern - Ultraluxe Product"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Niural",
@@ -1307,6 +1307,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Operations Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "JP Morgan Chase",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "223c23fa08f8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
     },
     {
       "age": "2d",
@@ -1789,7 +1804,7 @@
       "title": "Research Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "MyEmployment",
@@ -22730,7 +22745,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 250,
+    "Simplify Internships": 251,
     "Simplify New Grad": 220,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
