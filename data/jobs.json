@@ -1,7 +1,7 @@
 {
-  "count": 1511,
-  "fetchedAt": "2026-07-18T12:30:31.590260+00:00",
-  "generatedAt": "2026-07-18T12:01:06.029572+00:00",
+  "count": 1515,
+  "fetchedAt": "2026-07-18T12:35:19.527977+00:00",
+  "generatedAt": "2026-07-18T12:35:19.527977+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -422,6 +422,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern"
+    },
+    {
+      "age": "29d",
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Magna",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "827a3a98d4ed",
+      "jobType": "internship",
+      "location": "Newmarket, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Co-op"
     },
     {
       "age": "30d",
@@ -932,6 +947,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Magna",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "730ba94765d8",
+      "jobType": "internship",
+      "location": "Oakville, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Junior Full Stack Developer Co-op"
     },
     {
       "age": "1mo",
@@ -4865,6 +4895,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8aba12cfe87f",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -4901,6 +4946,21 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "efb9134881f4",
+      "jobType": "full-time",
+      "location": "Cardiff, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "LexisNexis Risk Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "42e712336726",
       "jobType": "full-time",
       "location": "Cardiff, UK",
       "salary": "",
@@ -22670,8 +22730,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 248,
-    "Simplify New Grad": 218,
+    "Simplify Internships": 250,
+    "Simplify New Grad": 220,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
