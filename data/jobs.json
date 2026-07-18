@@ -1,7 +1,7 @@
 {
-  "count": 1524,
-  "fetchedAt": "2026-07-18T16:00:40.022822+00:00",
-  "generatedAt": "2026-07-18T15:35:21.290294+00:00",
+  "count": 1525,
+  "fetchedAt": "2026-07-18T16:03:57.616054+00:00",
+  "generatedAt": "2026-07-18T16:03:57.616054+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -2717,6 +2717,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "masters",
+      "id": "f1ac4f8f7848",
+      "jobType": "internship",
+      "location": "CaliforniaSanta Clara, CAUnited States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "PhD Research Intern - Generative AI \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -22865,7 +22880,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 257,
+    "Simplify Internships": 258,
     "Simplify New Grad": 223,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
