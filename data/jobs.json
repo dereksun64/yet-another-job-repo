@@ -1,7 +1,7 @@
 {
-  "count": 1530,
-  "fetchedAt": "2026-07-18T17:35:19.250245+00:00",
-  "generatedAt": "2026-07-18T17:05:22.864873+00:00",
+  "count": 1534,
+  "fetchedAt": "2026-07-18T17:40:25.149443+00:00",
+  "generatedAt": "2026-07-18T17:40:25.149443+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -214,6 +214,21 @@
       "title": "Full Stack Developer Co-op"
     },
     {
+      "age": "21d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7a3998d5a113",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
       "age": "22d",
       "applyUrl": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -317,6 +332,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial"
+    },
+    {
+      "age": "23d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "602b5a0c18db",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Database Engineer Intern"
     },
     {
       "age": "24d",
@@ -1667,6 +1697,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ticket Strategy & Analytics Intern"
+    },
+    {
+      "age": "17d",
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "thyssenkrupp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a6886a61617",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics Intern"
     },
     {
       "age": "17d",
@@ -5777,6 +5822,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "3mo",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Salesforce",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "f20d89e4327f",
+      "jobType": "full-time",
+      "location": "5 locationsPalo Alto, CASeattle, WASFDallas, TXBellevue, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineering AMTS College Grad"
     },
     {
       "age": "3mo",
@@ -22955,8 +23015,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 263,
-    "Simplify New Grad": 223,
+    "Simplify Internships": 266,
+    "Simplify New Grad": 224,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
