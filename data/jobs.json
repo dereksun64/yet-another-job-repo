@@ -1,7 +1,7 @@
 {
-  "count": 1535,
-  "fetchedAt": "2026-07-18T19:00:38.565741+00:00",
-  "generatedAt": "2026-07-18T18:06:29.343096+00:00",
+  "count": 1536,
+  "fetchedAt": "2026-07-18T19:05:20.317861+00:00",
+  "generatedAt": "2026-07-18T19:05:20.317861+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -7112,6 +7112,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Implementation Engineer 1"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---APNT--Onsite-_01859795?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "37fc26076665",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Apnt"
     },
     {
       "age": "4d",
@@ -23031,7 +23046,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 266,
-    "Simplify New Grad": 225,
+    "Simplify New Grad": 226,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
