@@ -1,7 +1,7 @@
 {
-  "count": 1534,
-  "fetchedAt": "2026-07-18T18:05:20.428179+00:00",
-  "generatedAt": "2026-07-18T17:40:25.149443+00:00",
+  "count": 1535,
+  "fetchedAt": "2026-07-18T18:06:29.343096+00:00",
+  "generatedAt": "2026-07-18T18:06:29.343096+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -4325,6 +4325,21 @@
     },
     {
       "age": "10d",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Motorola",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "80157b2d769a",
+      "jobType": "full-time",
+      "location": "Alberta, CanadaRemote in Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer - AI Agent Platform"
+    },
+    {
+      "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -6319,21 +6334,6 @@
       "title": "Software Engineer \u2013 Early Career"
     },
     {
-      "age": "7mo",
-      "applyUrl": "https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Lightfield",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a4a86d16223e",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI Product Engineer \u2013 New Grad"
-    },
-    {
       "age": "1d",
       "applyUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27988?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -7172,6 +7172,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "ASIC Design Engineer New Grad"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d04e4030d40f",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "FPGA Engineer 1"
     },
     {
       "age": "11d",
@@ -23016,7 +23031,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 266,
-    "Simplify New Grad": 224,
+    "Simplify New Grad": 225,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
