@@ -1,7 +1,7 @@
 {
-  "count": 1509,
-  "fetchedAt": "2026-07-18T11:35:18.232944+00:00",
-  "generatedAt": "2026-07-18T11:35:18.232944+00:00",
+  "count": 1510,
+  "fetchedAt": "2026-07-18T11:40:25.646894+00:00",
+  "generatedAt": "2026-07-18T11:40:25.646894+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -463,6 +463,21 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "30d",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1264,7 +1279,7 @@
       "title": "Product Design Intern \ud83d\udec2"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Flagright",
@@ -22640,7 +22655,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 246,
+    "Simplify Internships": 247,
     "Simplify New Grad": 218,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
