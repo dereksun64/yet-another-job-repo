@@ -1,7 +1,7 @@
 {
-  "count": 1602,
-  "fetchedAt": "2026-07-18T00:00:47.893233+00:00",
-  "generatedAt": "2026-07-18T00:00:47.893233+00:00",
+  "count": 1603,
+  "fetchedAt": "2026-07-18T00:05:22.847389+00:00",
+  "generatedAt": "2026-07-18T00:05:22.847389+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -49,7 +49,7 @@
       "title": "Forward Deployed Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Solar Turbines",
@@ -124,7 +124,7 @@
       "title": "Software Developer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "M&T Bank",
@@ -1505,6 +1505,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/solidpower/jobs/6118972004?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Solid Power",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e4147539e77b",
+      "jobType": "internship",
+      "location": "Thornton, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Development Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2240?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Interac",
@@ -1624,7 +1639,7 @@
       "title": "Product Operations Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "City of Charlotte",
@@ -1654,7 +1669,7 @@
       "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-106---AI-Intern_122744?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "CAE",
@@ -1669,7 +1684,7 @@
       "title": "AI Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CAE",
@@ -1684,7 +1699,7 @@
       "title": "Data Specialist Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Intern---Aerothermodynamics_R-100702?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Analytical Mechanics Associates",
@@ -1699,7 +1714,7 @@
       "title": "Aerothermodynamics Intern"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -1729,7 +1744,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -24035,7 +24050,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 297,
+    "Simplify Internships": 298,
     "Simplify New Grad": 261,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
