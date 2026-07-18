@@ -1,7 +1,7 @@
 {
-  "count": 1597,
-  "fetchedAt": "2026-07-18T04:30:32.830247+00:00",
-  "generatedAt": "2026-07-18T03:35:21.118432+00:00",
+  "count": 1593,
+  "fetchedAt": "2026-07-18T04:35:20.727184+00:00",
+  "generatedAt": "2026-07-18T04:35:20.727184+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -287,21 +287,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Full Stack Developer Co-op"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7a3998d5a113",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "21d",
@@ -1382,21 +1367,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computer Graphics Software Developer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Menasha Corporation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5da17b5ad1ca",
-      "jobType": "internship",
-      "location": "Troy, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Application Engineer Intern"
     },
     {
       "age": "1mo",
@@ -4097,21 +4067,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Embedded Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nightwing Intelligence Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ac16559a66a8",
-      "jobType": "internship",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software / Hardware Engineering Intern"
     },
     {
       "age": "1mo",
@@ -7187,21 +7142,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "FOX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d3eda003723b",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer 1"
     },
     {
       "age": "9d",
@@ -23960,8 +23900,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 292,
-    "Simplify New Grad": 261,
+    "Simplify Internships": 289,
+    "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 134,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
