@@ -1,7 +1,7 @@
 {
-  "count": 1519,
-  "fetchedAt": "2026-07-18T15:00:38.655213+00:00",
-  "generatedAt": "2026-07-18T14:35:22.272952+00:00",
+  "count": 1522,
+  "fetchedAt": "2026-07-18T15:03:38.077064+00:00",
+  "generatedAt": "2026-07-18T15:03:38.077064+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -422,6 +422,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern"
+    },
+    {
+      "age": "29d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5de22b586eef",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
     },
     {
       "age": "30d",
@@ -5300,6 +5315,21 @@
     },
     {
       "age": "2mo",
+      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GE Healthcare",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "57bc42dd9f10",
+      "jobType": "full-time",
+      "location": "Orange, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "2mo",
       "applyUrl": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Notion",
@@ -7112,6 +7142,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Hardware Engineer 1"
+    },
+    {
+      "age": "6mo",
+      "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Software--Embedded--Engineer-I---Early-Career--2026-Starts-_R58482?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Blue Origin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3ebc7340d09e",
+      "jobType": "full-time",
+      "location": "LAKent, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I"
     },
     {
       "age": "9d",
@@ -22790,8 +22835,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 254,
-    "Simplify New Grad": 220,
+    "Simplify Internships": 255,
+    "Simplify New Grad": 222,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
     "Vansh Internships": 64,
