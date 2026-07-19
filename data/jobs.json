@@ -1,7 +1,7 @@
 {
-  "count": 1535,
-  "fetchedAt": "2026-07-19T09:00:38.488686+00:00",
-  "generatedAt": "2026-07-19T08:34:08.991723+00:00",
+  "count": 1536,
+  "fetchedAt": "2026-07-19T09:05:23.248343+00:00",
+  "generatedAt": "2026-07-19T09:05:23.248343+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -332,6 +332,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial"
+    },
+    {
+      "age": "24d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "602b5a0c18db",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Database Engineer Intern"
     },
     {
       "age": "25d",
@@ -23030,7 +23045,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 266,
+    "Simplify Internships": 267,
     "Simplify New Grad": 225,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
