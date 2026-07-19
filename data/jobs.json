@@ -1,7 +1,7 @@
 {
   "count": 1537,
-  "fetchedAt": "2026-07-19T10:00:42.428096+00:00",
-  "generatedAt": "2026-07-19T09:35:20.824298+00:00",
+  "fetchedAt": "2026-07-19T10:05:20.975999+00:00",
+  "generatedAt": "2026-07-19T10:05:20.975999+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -1232,21 +1232,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Android Developer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a846ed6f667d",
-      "jobType": "internship",
-      "location": "Urbana, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computer Graphics Software Developer Intern"
     },
     {
       "age": "1mo",
@@ -18575,6 +18560,21 @@
     },
     {
       "age": "58d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
+      "category": "Software Engineering",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a846ed6f667d",
+      "jobType": "internship",
+      "location": "Champaign, IL",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Computer Graphics Software Developer Intern"
+    },
+    {
+      "age": "58d",
       "applyUrl": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
       "category": "Software Engineering",
       "company": "Plus",
@@ -23060,7 +23060,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 268,
+    "Simplify Internships": 267,
     "Simplify New Grad": 225,
     "SpeedyApply USA Internships": 131,
     "SpeedyApply USA New Grad": 295,
