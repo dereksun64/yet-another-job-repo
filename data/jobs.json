@@ -1,7 +1,7 @@
 {
-  "count": 1535,
-  "fetchedAt": "2026-07-20T15:00:52.271340+00:00",
-  "generatedAt": "2026-07-20T14:40:26.396327+00:00",
+  "count": 1536,
+  "fetchedAt": "2026-07-20T15:05:21.056120+00:00",
+  "generatedAt": "2026-07-20T15:05:21.056120+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3949,6 +3949,21 @@
       "title": "Hardware Engineer Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Boeing Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e54ad59d94c0",
+      "jobType": "full-time",
+      "location": "Hazelwood, MO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -5150,21 +5165,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LexisNexis Risk Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "42e712336726",
-      "jobType": "full-time",
-      "location": "Cardiff, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=7991718&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -5207,21 +5207,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106730?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "S&C Electric Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e4ae956af244",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -7022,6 +7007,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Crypto Electronic Trading Support Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Boeing Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0edc0b1291cb",
+      "jobType": "full-time",
+      "location": "Hazelwood, MO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a07f7fd78a26",
+      "jobType": "full-time",
+      "location": "El Segundo, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "0d",
@@ -23031,7 +23046,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 263,
-    "Simplify New Grad": 225,
+    "Simplify New Grad": 226,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
