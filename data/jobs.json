@@ -1,7 +1,7 @@
 {
-  "count": 1534,
-  "fetchedAt": "2026-07-20T18:30:32.383221+00:00",
-  "generatedAt": "2026-07-20T18:05:26.305580+00:00",
+  "count": 1533,
+  "fetchedAt": "2026-07-20T18:35:21.909753+00:00",
+  "generatedAt": "2026-07-20T18:35:21.909753+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -4324,21 +4324,6 @@
       "title": "iOS Engineer 1"
     },
     {
-      "age": "12d",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "StubHub",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "097ced135932",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Core Compute Platform"
-    },
-    {
       "age": "13d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -5387,21 +5372,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New Grad - AI"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mirage",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "68c72c546087",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 Early Career"
     },
     {
       "age": "2mo",
@@ -20540,6 +20510,21 @@
     },
     {
       "age": "12d",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101",
+      "category": "Software Engineering",
+      "company": "StubHub",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "097ced135932",
+      "jobType": "full-time",
+      "location": "New York City, NY",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - Core Compute Platform"
+    },
+    {
+      "age": "12d",
       "applyUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101",
       "category": "Software Engineering",
       "company": "StubHub",
@@ -23016,7 +23001,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 262,
-    "Simplify New Grad": 222,
+    "Simplify New Grad": 220,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
