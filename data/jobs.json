@@ -1,7 +1,7 @@
 {
-  "count": 1536,
-  "fetchedAt": "2026-07-20T17:30:35.333409+00:00",
-  "generatedAt": "2026-07-20T15:05:21.056120+00:00",
+  "count": 1535,
+  "fetchedAt": "2026-07-20T17:35:21.683200+00:00",
+  "generatedAt": "2026-07-20T17:35:21.683200+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -2675,21 +2675,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "QuEra Computing",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "74e04022f351",
-      "jobType": "internship",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Photonics Data Engineer Intern - Data Management"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.bytedance.com/en/position/7539992380817639687/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -4307,21 +4292,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer - AI Agent Platform"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "SimpliSafe",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a1c2e89ca489",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Video Platform"
     },
     {
       "age": "12d",
@@ -7367,6 +7337,21 @@
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
       "title": "Software Engineer 1 (Backend UI and AI) \ud83d\udec2"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "SimpliSafe",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a1c2e89ca489",
+      "jobType": "full-time",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Software Engineer I"
     },
     {
       "age": "11d",
@@ -23045,8 +23030,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 263,
-    "Simplify New Grad": 226,
+    "Simplify Internships": 262,
+    "Simplify New Grad": 225,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
