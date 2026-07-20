@@ -1,7 +1,7 @@
 {
-  "count": 1535,
-  "fetchedAt": "2026-07-20T18:00:47.697748+00:00",
-  "generatedAt": "2026-07-20T17:35:21.683200+00:00",
+  "count": 1534,
+  "fetchedAt": "2026-07-20T18:05:26.305580+00:00",
+  "generatedAt": "2026-07-20T18:05:26.305580+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3949,21 +3949,6 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Esri",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "04453bddef9e",
-      "jobType": "full-time",
-      "location": "West Redlands, Redlands, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Front-End Engineer for ArcGIS Enterprise"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -4337,21 +4322,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "iOS Engineer 1"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "StubHub",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d0e26db47dc9",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Core Platform - Streaming & Storage"
     },
     {
       "age": "12d",
@@ -5098,21 +5068,6 @@
       "id": "8aba12cfe87f",
       "jobType": "full-time",
       "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4f33f2669712",
-      "jobType": "full-time",
-      "location": "El Segundo, CA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -19475,6 +19430,21 @@
     },
     {
       "age": "2d",
+      "applyUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007",
+      "category": "Software Engineering",
+      "company": "Esri",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "04453bddef9e",
+      "jobType": "full-time",
+      "location": "Redlands, CA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise"
+    },
+    {
+      "age": "2d",
       "applyUrl": "http://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
       "category": "Software Engineering",
       "company": "WonderBotz",
@@ -20567,6 +20537,21 @@
       "source": "SpeedyApply USA New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "title": "iOS Mobile Software Developer I"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101",
+      "category": "Software Engineering",
+      "company": "StubHub",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d0e26db47dc9",
+      "jobType": "full-time",
+      "location": "New York City, NY",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - Core Platform - Streaming & Storage"
     },
     {
       "age": "13d",
@@ -23031,7 +23016,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 262,
-    "Simplify New Grad": 225,
+    "Simplify New Grad": 222,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
