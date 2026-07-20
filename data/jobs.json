@@ -1,7 +1,7 @@
 {
-  "count": 1534,
-  "fetchedAt": "2026-07-20T10:30:32.301982+00:00",
-  "generatedAt": "2026-07-20T09:35:20.233966+00:00",
+  "count": 1532,
+  "fetchedAt": "2026-07-20T10:35:22.795229+00:00",
+  "generatedAt": "2026-07-20T10:35:22.795229+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -1549,7 +1549,7 @@
       "title": "Machine Learning Intern - Autonomy"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "University of Maryland - College Park",
@@ -1744,7 +1744,7 @@
       "title": "System Triage Engineer Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Liberty University",
@@ -2837,21 +2837,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "PhD Research Intern - Generative AI \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2d5402424246",
-      "jobType": "internship",
-      "location": "Auburn Hills, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering ADAS Perception Features Intern"
     },
     {
       "age": "1mo",
@@ -7082,21 +7067,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://careers.cisco.com/global/en/job/2020073?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Cisco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "03d61a39e3f4",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Hardware Engineer 1"
     },
     {
       "age": "5d",
@@ -23015,8 +22985,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 265,
-    "Simplify New Grad": 227,
+    "Simplify Internships": 264,
+    "Simplify New Grad": 226,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
