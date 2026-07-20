@@ -1,7 +1,7 @@
 {
-  "count": 1533,
-  "fetchedAt": "2026-07-20T08:30:34.087511+00:00",
-  "generatedAt": "2026-07-20T06:35:19.220496+00:00",
+  "count": 1534,
+  "fetchedAt": "2026-07-20T08:35:21.484745+00:00",
+  "generatedAt": "2026-07-20T08:35:21.484745+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3334,7 +3334,7 @@
       "title": "Quantitative Research Analyst Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -3349,7 +3349,7 @@
       "title": "Quantitative Research Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -5252,6 +5252,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Concept Plus",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "36b8619ca68e",
+      "jobType": "full-time",
+      "location": "Dayton, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Developer"
     },
     {
       "age": "1mo",
@@ -23001,7 +23016,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 265,
-    "Simplify New Grad": 226,
+    "Simplify New Grad": 227,
     "SpeedyApply USA Internships": 130,
     "SpeedyApply USA New Grad": 293,
     "Vansh Internships": 64,
