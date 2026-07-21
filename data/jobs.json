@@ -1,7 +1,7 @@
 {
-  "count": 1607,
-  "fetchedAt": "2026-07-21T19:00:46.248215+00:00",
-  "generatedAt": "2026-07-21T18:35:23.168226+00:00",
+  "count": 1610,
+  "fetchedAt": "2026-07-21T19:05:21.283034+00:00",
+  "generatedAt": "2026-07-21T19:05:21.283034+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2630,6 +2630,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern-2_JR107448-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Centific",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a8afe90db1f5",
+      "jobType": "internship",
+      "location": "Remote in USARedmond, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Speech Research Intern - Centific AI Research \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Institute of Foundation Models",
@@ -4670,6 +4685,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Intuit",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "dd784a25b926",
+      "jobType": "full-time",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://jobs.lever.co/spotify/5089cbe3-5e62-4c24-89a2-9a1487eb5034/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "Spotify",
@@ -5822,6 +5852,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Hardware Tools and Methodology \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Motorola",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d5d81e3efca2",
+      "jobType": "full-time",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Backend Engineer"
     },
     {
       "age": "1mo",
@@ -24110,8 +24155,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 286,
-    "Simplify New Grad": 271,
+    "Simplify Internships": 287,
+    "Simplify New Grad": 273,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
