@@ -1,8 +1,23 @@
 {
-  "count": 1535,
-  "fetchedAt": "2026-07-21T01:30:31.944641+00:00",
-  "generatedAt": "2026-07-21T00:35:21.372200+00:00",
+  "count": 1537,
+  "fetchedAt": "2026-07-21T01:35:20.888622+00:00",
+  "generatedAt": "2026-07-21T01:35:20.888622+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Denari",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ac8c3b1948b1",
+      "jobType": "internship",
+      "location": "Madison, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product & Software Internship"
+    },
     {
       "age": "4d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -19,7 +34,7 @@
       "title": "Software Engineer Intern - Agent Platform"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Cybernetic Labs",
@@ -34,7 +49,7 @@
       "title": "Full-Stack Software Engineer Intern - Product"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Cybernetic Labs",
@@ -289,7 +304,7 @@
       "title": "Founding Engineer Intern"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Binance",
@@ -349,7 +364,7 @@
       "title": "Database Engineer Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/later/jobs/8604889002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Later",
@@ -1669,7 +1684,7 @@
       "title": "Power Platform Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://www.tesla.com/careers/search/job/272928?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Tesla",
@@ -1804,7 +1819,7 @@
       "title": "Research Intern - Translation Software"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Phamily",
@@ -1819,7 +1834,7 @@
       "title": "Business Intelligence & Data Analytics Intern - Undergraduate"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Institute of Foundation Models",
@@ -1879,7 +1894,7 @@
       "title": "AI Product Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Centerfield",
@@ -3874,6 +3889,21 @@
       "title": "Hardware Technologies Engineering Intern \ud83c\udf93"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/healf/7e2ef20d-bf76-4cb8-b5a9-aac9d24506b8/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
+      "company": "Healf",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3da217c4688c",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Founding Engineer - Deeper Engagement"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -3964,7 +3994,7 @@
       "title": "Software Engineer New Grad - Agent Platform"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Cybernetic Labs",
@@ -3979,7 +4009,7 @@
       "title": "Full-Stack Software Engineer New Grad - Product"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Lightfield",
@@ -4054,7 +4084,7 @@
       "title": "Software Engineer 1 - Discovery"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citadel Securities",
@@ -6274,7 +6304,7 @@
       "title": "Data Engineer 1 - Amazon Business Ops Analytics"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quora",
@@ -6289,7 +6319,7 @@
       "title": "Machine Learning Engineer New Grad"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gen Digital",
@@ -7009,7 +7039,7 @@
       "title": "Product Implementation Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Torc Robotics",
@@ -7099,7 +7129,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8621629002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Relativity Space",
@@ -23030,8 +23060,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 258,
-    "Simplify New Grad": 226,
+    "Simplify Internships": 259,
+    "Simplify New Grad": 227,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
