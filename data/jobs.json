@@ -1,7 +1,7 @@
 {
   "count": 1573,
-  "fetchedAt": "2026-07-21T12:30:39.351505+00:00",
-  "generatedAt": "2026-07-21T12:05:21.238423+00:00",
+  "fetchedAt": "2026-07-21T12:35:20.456231+00:00",
+  "generatedAt": "2026-07-21T12:35:20.456231+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1052,21 +1052,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "730ba94765d8",
-      "jobType": "internship",
-      "location": "Oakville, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Junior Full Stack Developer Co-op"
     },
     {
       "age": "1mo",
@@ -2810,21 +2795,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2d5402424246",
-      "jobType": "internship",
-      "location": "Auburn Hills, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering ADAS Perception Features Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4684555006?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "NewsBreak",
@@ -4397,6 +4367,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Graduate/Junior Software Engineer - Backend"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cadence Design Systems",
+      "companyTier": "Tier 4",
+      "degreeLevel": "bachelors",
+      "id": "67f99d2dea23",
+      "jobType": "full-time",
+      "location": "Burlington, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Undergrads"
     },
     {
       "age": "12d",
@@ -6724,7 +6709,7 @@
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Southern California",
@@ -7562,6 +7547,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "ASIC Design Engineer New Grad"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Micron Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3b6fdeaa28f7",
+      "jobType": "full-time",
+      "location": "Boise, ID",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
     },
     {
       "age": "12d",
@@ -23600,8 +23600,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 260,
-    "Simplify New Grad": 262,
+    "Simplify Internships": 258,
+    "Simplify New Grad": 264,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
