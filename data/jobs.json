@@ -1,7 +1,7 @@
 {
-  "count": 1610,
-  "fetchedAt": "2026-07-21T18:00:44.692718+00:00",
-  "generatedAt": "2026-07-21T17:55:23.184591+00:00",
+  "count": 1608,
+  "fetchedAt": "2026-07-21T18:05:25.880327+00:00",
+  "generatedAt": "2026-07-21T18:05:25.880327+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2930,6 +2930,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ebfe3e3907fb",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multimedia Development Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://jobs.bytedance.com/en/position/7642450978503641397/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -4460,21 +4475,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mastercard",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "b58216be07bc",
-      "jobType": "full-time",
-      "location": "O'Fallon, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Capital One",
@@ -5780,21 +5780,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Greenheck Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cabe66ca4a76",
-      "jobType": "full-time",
-      "location": "Plover, WI",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Engineer 1/2 Senior"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Boeing Company",
@@ -6827,21 +6812,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "5mo",
-      "applyUrl": "https://nymbus.com/careers?gh_jid=5785973004&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Nymbus",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6bc622215361",
-      "jobType": "full-time",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI-First Software Engineer \u2013 Entry Level"
     },
     {
       "age": "5mo",
@@ -24155,8 +24125,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 285,
-    "Simplify New Grad": 275,
+    "Simplify Internships": 286,
+    "Simplify New Grad": 272,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
