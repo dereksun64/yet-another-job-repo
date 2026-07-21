@@ -1,7 +1,7 @@
 {
-  "count": 1568,
-  "fetchedAt": "2026-07-21T08:30:32.905690+00:00",
-  "generatedAt": "2026-07-21T08:10:26.648168+00:00",
+  "count": 1569,
+  "fetchedAt": "2026-07-21T08:35:24.669447+00:00",
+  "generatedAt": "2026-07-21T08:35:24.669447+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6692,6 +6692,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
+    },
+    {
+      "age": "16d",
+      "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "University of Southern California",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "30e8c468d7af",
+      "jobType": "full-time",
+      "location": "Arlington, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Research Engineer 1 \ud83c\udf93"
     },
     {
       "age": "18d",
@@ -23526,7 +23541,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 262,
-    "Simplify New Grad": 255,
+    "Simplify New Grad": 256,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
