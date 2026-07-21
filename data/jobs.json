@@ -1,7 +1,7 @@
 {
-  "count": 1571,
-  "fetchedAt": "2026-07-21T11:30:36.645472+00:00",
-  "generatedAt": "2026-07-21T11:05:20.484417+00:00",
+  "count": 1573,
+  "fetchedAt": "2026-07-21T11:35:21.522653+00:00",
+  "generatedAt": "2026-07-21T11:35:21.522653+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4534,7 +4534,7 @@
       "title": "Software Engineer \u2013 University Graduate"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-50268?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Travelers",
@@ -4952,6 +4952,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development Engineer 1"
+    },
+    {
+      "age": "26d",
+      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Engineer-Analyst_R1275?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
+      "company": "Torch Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1bc75c927ebc",
+      "jobType": "full-time",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Engineer/Analyst"
     },
     {
       "age": "26d",
@@ -5492,6 +5507,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 C#"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Integrity",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "aacb41b18936",
+      "jobType": "full-time",
+      "location": "Grimes, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -23571,7 +23601,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 260,
-    "Simplify New Grad": 260,
+    "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
