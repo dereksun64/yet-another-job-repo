@@ -1,7 +1,7 @@
 {
-  "count": 1611,
-  "fetchedAt": "2026-07-21T17:50:26.150011+00:00",
-  "generatedAt": "2026-07-21T17:40:27.791055+00:00",
+  "count": 1610,
+  "fetchedAt": "2026-07-21T17:55:23.184591+00:00",
+  "generatedAt": "2026-07-21T17:55:23.184591+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6047,21 +6047,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/2274d8e3-af4a-4935-b065-f65622b5ea3f?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 ServiceNow",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "d955d0bf594b",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Software Engineer, Core Infrastructure - Moveworks \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "2mo",
@@ -24171,7 +24156,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 285,
-    "Simplify New Grad": 276,
+    "Simplify New Grad": 275,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
