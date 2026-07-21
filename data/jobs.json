@@ -1,7 +1,7 @@
 {
-  "count": 1615,
-  "fetchedAt": "2026-07-21T20:00:46.115241+00:00",
-  "generatedAt": "2026-07-21T19:35:22.880900+00:00",
+  "count": 1617,
+  "fetchedAt": "2026-07-21T20:05:24.072641+00:00",
+  "generatedAt": "2026-07-21T20:05:24.072641+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -257,6 +257,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Website Development & Content Marketing Intern - AI & Automation"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Palo Alto Networks",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "36bc38a3a419",
+      "jobType": "internship",
+      "location": "California",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
     },
     {
       "age": "19d",
@@ -2612,6 +2627,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "587c8b57450e",
+      "jobType": "internship",
+      "location": "Bellevue, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Research Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -24230,7 +24260,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 288,
+    "Simplify Internships": 290,
     "Simplify New Grad": 277,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
