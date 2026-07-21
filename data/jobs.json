@@ -1,7 +1,7 @@
 {
-  "count": 1610,
-  "fetchedAt": "2026-07-21T19:30:35.167163+00:00",
-  "generatedAt": "2026-07-21T19:05:21.283034+00:00",
+  "count": 1615,
+  "fetchedAt": "2026-07-21T19:35:22.880900+00:00",
+  "generatedAt": "2026-07-21T19:35:22.880900+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -107,6 +107,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Forward Deployed Engineer Intern"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Solar Turbines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "06c469a0aac9",
+      "jobType": "internship",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Gas Turbine Products Engineering Intern"
     },
     {
       "age": "6d",
@@ -4565,6 +4580,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Solar Turbines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "518206541344",
+      "jobType": "full-time",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Gas Turbine Product Engineer - Gtpe"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Acrisure",
@@ -7130,6 +7160,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Travelers",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "93c5542d3d68",
+      "jobType": "full-time",
+      "location": "Hartford, CT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Engineer 1 - Aws - Databricks"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -7997,6 +8042,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development New Grad"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "2ccc5fe25d21",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Design Engineer New Grad"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Adtran",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3496a3d53a19",
+      "jobType": "full-time",
+      "location": "Norcross, GA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "6d",
@@ -24155,8 +24230,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 287,
-    "Simplify New Grad": 273,
+    "Simplify Internships": 288,
+    "Simplify New Grad": 277,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
