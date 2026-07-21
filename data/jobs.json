@@ -1,7 +1,7 @@
 {
-  "count": 1630,
-  "fetchedAt": "2026-07-21T21:30:33.855643+00:00",
-  "generatedAt": "2026-07-21T21:05:24.764985+00:00",
+  "count": 1633,
+  "fetchedAt": "2026-07-21T21:33:52.097943+00:00",
+  "generatedAt": "2026-07-21T21:33:52.097943+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5060,6 +5060,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "24dc3a00d1d4",
+      "jobType": "full-time",
+      "location": "Remote in USASanta Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server \ud83c\udf93"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -5087,6 +5102,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Compiler Engineer AI Inference New Grad"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Maritz",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "75e4fe367351",
+      "jobType": "full-time",
+      "location": "Fenton, MO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "11d",
@@ -5177,6 +5207,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Device Control"
+    },
+    {
+      "age": "13d",
+      "applyUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Danaher Corporation",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "327370a52d77",
+      "jobType": "full-time",
+      "location": "Indianapolis, IN",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "13d",
@@ -6377,21 +6422,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Software Engineer - Applied AI"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Notion",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9eb9fcc63b42",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 New Grad"
     },
     {
       "age": "2mo",
@@ -8402,6 +8432,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "FPGA Engineer 1"
+    },
+    {
+      "age": "13d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "db5c09d35502",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Verification Engineer New Grad"
     },
     {
       "age": "14d",
@@ -24456,7 +24501,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 301,
-    "Simplify New Grad": 279,
+    "Simplify New Grad": 282,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
