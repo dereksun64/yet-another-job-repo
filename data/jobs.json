@@ -1,7 +1,7 @@
 {
-  "count": 1576,
-  "fetchedAt": "2026-07-21T13:30:38.568172+00:00",
-  "generatedAt": "2026-07-21T13:05:21.919201+00:00",
+  "count": 1579,
+  "fetchedAt": "2026-07-21T13:35:21.939358+00:00",
+  "generatedAt": "2026-07-21T13:35:21.939358+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2315,6 +2315,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "The Campbell's Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "90886ac4170c",
+      "jobType": "internship",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineer Co-op"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Institute of Foundation Models",
@@ -2567,6 +2582,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Support Group Intern - Artificial Intelligence"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "GE Vernova",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a5661ae52893",
+      "jobType": "internship",
+      "location": "Stoke-on-Trent, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Analyst Intern - Competency Management"
     },
     {
       "age": "1mo",
@@ -6872,6 +6902,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "13b77deefa58",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Research Scientist New Grad - Efficient Deep Learning \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -23645,8 +23690,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 258,
-    "Simplify New Grad": 267,
+    "Simplify Internships": 260,
+    "Simplify New Grad": 268,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
