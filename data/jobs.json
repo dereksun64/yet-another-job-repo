@@ -1,7 +1,7 @@
 {
-  "count": 1567,
-  "fetchedAt": "2026-07-21T08:05:25.136403+00:00",
-  "generatedAt": "2026-07-21T07:05:18.967992+00:00",
+  "count": 1568,
+  "fetchedAt": "2026-07-21T08:10:26.648168+00:00",
+  "generatedAt": "2026-07-21T08:10:26.648168+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5522,6 +5522,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Infrastructure Software Engineer"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "TSC",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3a116e6758f2",
+      "jobType": "full-time",
+      "location": "Silver Spring, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -23511,7 +23526,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 262,
-    "Simplify New Grad": 254,
+    "Simplify New Grad": 255,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
