@@ -1,7 +1,7 @@
 {
-  "count": 1608,
-  "fetchedAt": "2026-07-21T18:30:36.950838+00:00",
-  "generatedAt": "2026-07-21T18:05:25.880327+00:00",
+  "count": 1607,
+  "fetchedAt": "2026-07-21T18:35:23.168226+00:00",
+  "generatedAt": "2026-07-21T18:35:23.168226+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5627,21 +5627,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "New College Graduate - Information Technology - Software Development Engineer Development Program"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_327770?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "956c679e3de6",
-      "jobType": "full-time",
-      "location": "Bethesda, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior C# Software Engineer"
     },
     {
       "age": "1mo",
@@ -24126,7 +24111,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 286,
-    "Simplify New Grad": 272,
+    "Simplify New Grad": 271,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
