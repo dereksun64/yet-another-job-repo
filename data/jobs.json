@@ -1,7 +1,7 @@
 {
-  "count": 1573,
-  "fetchedAt": "2026-07-21T13:00:45.356966+00:00",
-  "generatedAt": "2026-07-21T12:35:20.456231+00:00",
+  "count": 1576,
+  "fetchedAt": "2026-07-21T13:05:21.919201+00:00",
+  "generatedAt": "2026-07-21T13:05:21.919201+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4339,6 +4339,36 @@
       "title": "Entry Level Software Engineer - C++"
     },
     {
+      "age": "8d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "5af15a3ca0ae",
+      "jobType": "full-time",
+      "location": "CanadaSanta Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Backend Compiler Engineer New Grad"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "86be96fdc8e0",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Compiler Engineer AI Inference New Grad"
+    },
+    {
       "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -6647,6 +6677,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Amazon Business Ops Analytics"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Milwaukee Tool",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4296bb36444e",
+      "jobType": "full-time",
+      "location": "Brookfield, WI",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology"
     },
     {
       "age": "12d",
@@ -23601,7 +23646,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 258,
-    "Simplify New Grad": 264,
+    "Simplify New Grad": 267,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
