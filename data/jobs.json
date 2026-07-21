@@ -1,7 +1,7 @@
 {
-  "count": 1574,
-  "fetchedAt": "2026-07-21T12:00:46.282738+00:00",
-  "generatedAt": "2026-07-21T11:40:23.997245+00:00",
+  "count": 1573,
+  "fetchedAt": "2026-07-21T12:05:21.238423+00:00",
+  "generatedAt": "2026-07-21T12:05:21.238423+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -199,6 +199,21 @@
       "title": "Software Engineer Intern"
     },
     {
+      "age": "17d",
+      "applyUrl": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Eulerity",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c18223f641e3",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Website Development & Content Marketing Intern - AI & Automation"
+    },
+    {
       "age": "19d",
       "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -272,21 +287,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7a3998d5a113",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "24d",
@@ -1712,21 +1712,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "System Triage Engineer Intern"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Liberty University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c37f9a24e8dc",
-      "jobType": "internship",
-      "location": "Virginia",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Analyst Apprentice"
     },
     {
       "age": "24d",
@@ -6544,7 +6529,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -23615,7 +23600,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 261,
+    "Simplify Internships": 260,
     "Simplify New Grad": 262,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
