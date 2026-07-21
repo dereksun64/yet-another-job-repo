@@ -1,7 +1,7 @@
 {
-  "count": 1553,
-  "fetchedAt": "2026-07-21T02:30:33.060220+00:00",
-  "generatedAt": "2026-07-21T02:10:26.411605+00:00",
+  "count": 1554,
+  "fetchedAt": "2026-07-21T02:35:20.243013+00:00",
+  "generatedAt": "2026-07-21T02:35:20.243013+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28,6 +28,21 @@
       "id": "ffe6331dcf45",
       "jobType": "internship",
       "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Spacial AI",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7f1379a2388b",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -6199,7 +6214,7 @@
       "title": "Software Engineer 1 - Backend"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Salesforce",
@@ -23300,7 +23315,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 265,
+    "Simplify Internships": 266,
     "Simplify New Grad": 237,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
