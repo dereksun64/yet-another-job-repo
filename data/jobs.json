@@ -1,7 +1,7 @@
 {
-  "count": 1586,
-  "fetchedAt": "2026-07-21T15:25:24.217561+00:00",
-  "generatedAt": "2026-07-21T15:05:22.809476+00:00",
+  "count": 1588,
+  "fetchedAt": "2026-07-21T15:35:21.350832+00:00",
+  "generatedAt": "2026-07-21T15:35:21.350832+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3647,6 +3647,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research and Development Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Cadence Design Systems",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "127c1d50e655",
+      "jobType": "internship",
+      "location": "Montreal, QC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analog/Mixed-Signal IC Design Co-Op/Intern"
     },
     {
       "age": "1mo",
@@ -7862,6 +7877,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Engineer 1 New Grad"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineer-I_01841999-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c07b5448c240",
+      "jobType": "full-time",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Digital Hardware Engineer 1"
     },
     {
       "age": "2mo",
@@ -23795,8 +23825,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 265,
-    "Simplify New Grad": 271,
+    "Simplify Internships": 266,
+    "Simplify New Grad": 272,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
