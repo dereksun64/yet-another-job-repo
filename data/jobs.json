@@ -1,7 +1,7 @@
 {
   "count": 1571,
-  "fetchedAt": "2026-07-21T10:00:45.666104+00:00",
-  "generatedAt": "2026-07-21T09:40:27.113092+00:00",
+  "fetchedAt": "2026-07-21T10:05:20.163871+00:00",
+  "generatedAt": "2026-07-21T10:05:20.163871+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -500,21 +500,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5de22b586eef",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/iherb/jobs/7776154003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "iHerb",
@@ -707,6 +692,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GE Vernova",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b5696f30ed81",
+      "jobType": "internship",
+      "location": "Remote in USA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Grid Automation & Software Intern"
     },
     {
       "age": "1mo",
@@ -1697,21 +1697,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ticket Strategy & Analytics Intern"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "thyssenkrupp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0a6886a61617",
-      "jobType": "internship",
-      "location": "Cleveland, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analytics Intern"
     },
     {
       "age": "20d",
@@ -4310,21 +4295,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Daimler Truck",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "62be23109de6",
-      "jobType": "full-time",
-      "location": "Portland, OR",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Mechanical Product Engineer 1 - Cab Exterior"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -5312,6 +5282,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Greenheck Group",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cabe66ca4a76",
+      "jobType": "full-time",
+      "location": "Plover, WI",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Product Engineer 1/2 Senior"
     },
     {
       "age": "1mo",
@@ -7706,6 +7691,21 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "4a3f2e11e5f0",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Accelerated Computing Solutions Analyst \u2013 Early Career \ud83c\udf93"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c5caaaa36382",
       "jobType": "full-time",
       "location": "Santa Clara, CA",
       "salary": "",
@@ -23570,8 +23570,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 261,
-    "Simplify New Grad": 259,
+    "Simplify Internships": 260,
+    "Simplify New Grad": 260,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
