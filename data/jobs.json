@@ -1,7 +1,7 @@
 {
-  "count": 1567,
-  "fetchedAt": "2026-07-21T06:00:41.230443+00:00",
-  "generatedAt": "2026-07-21T05:40:24.003643+00:00",
+  "count": 1571,
+  "fetchedAt": "2026-07-21T06:05:24.043481+00:00",
+  "generatedAt": "2026-07-21T06:05:24.043481+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5630,6 +5630,21 @@
     },
     {
       "age": "2mo",
+      "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nightwing Intelligence Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a5d940ddd60c",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "2mo",
       "applyUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "McDonald's",
@@ -6227,6 +6242,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Frontend - Growth"
+    },
+    {
+      "age": "4mo",
+      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "State Street",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "a3efb881e560",
+      "jobType": "full-time",
+      "location": "Burlington, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Full Stack"
     },
     {
       "age": "4mo",
@@ -7070,6 +7100,21 @@
     },
     {
       "age": "4mo",
+      "applyUrl": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "University of Rochester",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fbedfae3519a",
+      "jobType": "full-time",
+      "location": "Rochester, NY",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Research Data Engineer 1"
+    },
+    {
+      "age": "4mo",
       "applyUrl": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "SentiLink",
@@ -7622,6 +7667,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Engineer 1 New Grad"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "1b75aa6e3729",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Floorplan Design Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "2mo",
@@ -23511,7 +23571,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 274,
-    "Simplify New Grad": 242,
+    "Simplify New Grad": 246,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
