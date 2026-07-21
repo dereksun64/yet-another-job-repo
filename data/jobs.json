@@ -1,7 +1,7 @@
 {
-  "count": 1537,
-  "fetchedAt": "2026-07-21T02:00:40.251198+00:00",
-  "generatedAt": "2026-07-21T01:35:20.888622+00:00",
+  "count": 1547,
+  "fetchedAt": "2026-07-21T02:05:23.758331+00:00",
+  "generatedAt": "2026-07-21T02:05:23.758331+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3890,6 +3890,126 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Revel",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3b00aae2b0a0",
+      "jobType": "full-time",
+      "location": "SFLA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer - Test - Entry-Junior"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Revel",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a583666c409",
+      "jobType": "full-time",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Full Stack Software Engineer - Entry-Junior"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Supernova Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3f1d8d729174",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Morris Health Technologies Inc.",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1fd855d436ff",
+      "jobType": "full-time",
+      "location": "Logan, UT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/brainbaselabs/54fe9496-006d-4604-94a0-90258f2c3dd3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
+      "company": "Brainbase Labs",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "aebbda2ec778",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Founding Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Strada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5caa99f08786",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Hipp Health",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cd96bcffe779",
+      "jobType": "full-time",
+      "location": "United States",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Firetiger",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "14cebef1fc8a",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Product Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/healf/7e2ef20d-bf76-4cb8-b5a9-aac9d24506b8/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "Healf",
@@ -4069,7 +4189,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Twitch",
@@ -4459,7 +4579,7 @@
       "title": "Software Developer New Grad"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -6244,6 +6364,21 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Backbone Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b809915faad7",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Founding Engineer - Applied Research"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I--ETL-developer-_R_1491747-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -6379,7 +6514,7 @@
       "title": "Machine Learning/Deep Learning Engineer New Grad \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "WSP",
@@ -6947,6 +7082,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Crypto Electronic Trading Support Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Revel",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "dc5f6290a499",
+      "jobType": "full-time",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer - Entry-Junior"
     },
     {
       "age": "1d",
@@ -23061,7 +23211,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 259,
-    "Simplify New Grad": 227,
+    "Simplify New Grad": 237,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
