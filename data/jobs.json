@@ -1,7 +1,7 @@
 {
-  "count": 1605,
-  "fetchedAt": "2026-07-21T17:35:22.504189+00:00",
-  "generatedAt": "2026-07-21T17:35:22.504189+00:00",
+  "count": 1611,
+  "fetchedAt": "2026-07-21T17:40:27.791055+00:00",
+  "generatedAt": "2026-07-21T17:40:27.791055+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -251,6 +251,66 @@
       "companyTier": "Tier 3",
       "degreeLevel": "unknown",
       "id": "0179f75820a7",
+      "jobType": "internship",
+      "location": "California",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Palo Alto Networks",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "0f66c911fef6",
+      "jobType": "internship",
+      "location": "California",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Palo Alto Networks",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "26bd12f3a4d2",
+      "jobType": "internship",
+      "location": "California",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Palo Alto Networks",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "31b7ad76b0f2",
+      "jobType": "internship",
+      "location": "California",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Palo Alto Networks",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "8cd1abd137b6",
       "jobType": "internship",
       "location": "California",
       "salary": "",
@@ -1684,6 +1744,21 @@
       "title": "Machine Learning Intern - Autonomy"
     },
     {
+      "age": "17d",
+      "applyUrl": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Moss & Associates",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "96ac653e0d65",
+      "jobType": "internship",
+      "location": "McKinney, TXTampa, FLFort Lauderdale, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Construction Technologies Intern"
+    },
+    {
       "age": "19d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -1802,6 +1877,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ticket Strategy & Analytics Intern"
+    },
+    {
+      "age": "20d",
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "thyssenkrupp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a6886a61617",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics Intern"
     },
     {
       "age": "20d",
@@ -24080,7 +24170,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 279,
+    "Simplify Internships": 285,
     "Simplify New Grad": 276,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
