@@ -1,7 +1,7 @@
 {
-  "count": 1566,
-  "fetchedAt": "2026-07-21T09:30:34.694094+00:00",
-  "generatedAt": "2026-07-21T09:05:23.196594+00:00",
+  "count": 1568,
+  "fetchedAt": "2026-07-21T09:35:22.466787+00:00",
+  "generatedAt": "2026-07-21T09:35:22.466787+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4144,7 +4144,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Faros AI",
@@ -4159,7 +4159,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Checkout.com",
@@ -4444,7 +4444,7 @@
       "title": "iOS Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -5267,6 +5267,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Boeing Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6c06c39f3884",
+      "jobType": "full-time",
+      "location": "Richardson, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
     },
     {
       "age": "1mo",
@@ -7414,7 +7429,7 @@
       "title": "Software Development New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Corvus Robotics",
@@ -7504,7 +7519,7 @@
       "title": "FPGA Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -7652,6 +7667,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Accelerated Computing Solutions Analyst \u2013 Early Career \ud83c\udf93"
+    },
+    {
+      "age": "3mo",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "647cb0593779",
+      "jobType": "full-time",
+      "location": "Madison, ALDurham, NCHillsboro, OR",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Verification Engineer \u2013 New College Grad"
     },
     {
       "age": "3mo",
@@ -23496,7 +23526,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 258,
-    "Simplify New Grad": 257,
+    "Simplify New Grad": 259,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
     "Vansh Internships": 64,
