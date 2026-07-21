@@ -1,7 +1,7 @@
 {
-  "count": 1617,
-  "fetchedAt": "2026-07-21T20:05:24.072641+00:00",
-  "generatedAt": "2026-07-21T20:05:24.072641+00:00",
+  "count": 1618,
+  "fetchedAt": "2026-07-21T20:10:25.592663+00:00",
+  "generatedAt": "2026-07-21T20:10:25.592663+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4532,6 +4532,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "656c56081239",
+      "jobType": "full-time",
+      "location": "4 locationsAustin, TXRemote in USARedmond, WASanta Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Compiler Engineer New Grad - Infrastructure"
     },
     {
       "age": "1d",
@@ -24261,7 +24276,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 290,
-    "Simplify New Grad": 277,
+    "Simplify New Grad": 278,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
