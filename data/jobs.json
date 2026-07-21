@@ -1,7 +1,7 @@
 {
-  "count": 1602,
-  "fetchedAt": "2026-07-21T17:05:23.950662+00:00",
-  "generatedAt": "2026-07-21T16:35:24.539261+00:00",
+  "count": 1604,
+  "fetchedAt": "2026-07-21T17:10:25.795693+00:00",
+  "generatedAt": "2026-07-21T17:10:25.795693+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -212,6 +212,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "17d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "The Boeing Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8374ecd1714b",
+      "jobType": "internship",
+      "location": "30 locationsGermantown, MDSeattle, WAHouston, TXNew Orleans, LALong Beach, CANewburgh, NYMesa, AZMiami, FLColorado Springs, COFairfax, VAPhiladelphia, PAMerritt Island, FLSeal Beach, CATukwila, WASt Charles, MOSan Antonio, TXSt. Louis, MOEverett, WAAuburn, WARidgecrest, CAHeath, OHFort Walton Beach, FLOklahoma City, OKKent, WAPortland, ORHuntsville, ALNorth Charleston, SCHuntington Beach, CAHazelwood, MOEl Segundo, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Intern to Entry Level Conversion Intern Program - Engineering"
     },
     {
       "age": "18d",
@@ -1952,6 +1967,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineering Aide Intern"
+    },
+    {
+      "age": "26d",
+      "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "National Laboratory of the Rockies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c012fafcf447",
+      "jobType": "internship",
+      "location": "Golden, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Graduate Intern"
     },
     {
       "age": "26d",
@@ -24035,7 +24065,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 277,
+    "Simplify Internships": 279,
     "Simplify New Grad": 275,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
