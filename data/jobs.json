@@ -1,7 +1,7 @@
 {
   "count": 1633,
-  "fetchedAt": "2026-07-21T22:00:38.891142+00:00",
-  "generatedAt": "2026-07-21T21:33:52.097943+00:00",
+  "fetchedAt": "2026-07-21T22:05:20.975183+00:00",
+  "generatedAt": "2026-07-21T22:05:20.975183+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1172,21 +1172,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Builder Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Solink",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3c365b8552fa",
-      "jobType": "internship",
-      "location": "Ottawa, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - R&D- Data Integrations"
     },
     {
       "age": "1mo",
@@ -2477,21 +2462,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Sales Strategy & Analytics Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://navaide.breezy.hr/p/3fe610df21d6/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Navaide",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e26cb6b603b6",
-      "jobType": "internship",
-      "location": "Arlington, VASan Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology & Innovation Intern"
     },
     {
       "age": "1mo",
@@ -3977,6 +3947,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "FPGA Intern"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Microchip Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8e84c1811888",
+      "jobType": "internship",
+      "location": "Fairview, OR",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Equipment Engineering Technician Intern - Metrology"
     },
     {
       "age": "12d",
@@ -8417,6 +8402,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR104793?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Micron Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "852ca6b5ff0f",
+      "jobType": "full-time",
+      "location": "Boise, ID",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group"
     },
     {
       "age": "12d",
@@ -24500,8 +24500,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 301,
-    "Simplify New Grad": 282,
+    "Simplify Internships": 300,
+    "Simplify New Grad": 283,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
