@@ -1,7 +1,7 @@
 {
-  "count": 1604,
-  "fetchedAt": "2026-07-21T17:30:34.534167+00:00",
-  "generatedAt": "2026-07-21T17:10:25.795693+00:00",
+  "count": 1605,
+  "fetchedAt": "2026-07-21T17:35:22.504189+00:00",
+  "generatedAt": "2026-07-21T17:35:22.504189+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8102,6 +8102,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Low Power ASIC Engineer New Grad"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6f808a2c0635",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -24066,7 +24081,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 279,
-    "Simplify New Grad": 275,
+    "Simplify New Grad": 276,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
