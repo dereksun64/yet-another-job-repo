@@ -1,8 +1,53 @@
 {
-  "count": 1547,
-  "fetchedAt": "2026-07-21T02:05:23.758331+00:00",
-  "generatedAt": "2026-07-21T02:05:23.758331+00:00",
+  "count": 1553,
+  "fetchedAt": "2026-07-21T02:10:26.411605+00:00",
+  "generatedAt": "2026-07-21T02:10:26.411605+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Onware",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7ffbca67eaf9",
+      "jobType": "internship",
+      "location": "Edmonton, AB, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Full Stack Developer-Intern Opportunity"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Bloxd",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ffe6331dcf45",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/varick-agents/b2df1c3b-43c7-40d4-8271-150a06f10bf2/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Varick Agents",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b273e877dbcc",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
@@ -1339,6 +1384,36 @@
       "title": "Product Operations Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/aptura/fbe2e597-52df-49f8-9bed-0e3a21e620a9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Aptura",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "2eadfabdb275",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Investment Banking MBA Intern - AI Research \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Kinetic Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "add78907f591",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Applied AI Intern \ud83c\udf93"
+    },
+    {
       "age": "4d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -1399,7 +1474,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "World Surf League",
@@ -1549,7 +1624,7 @@
       "title": "Machine Learning Center of Excellence Intern - NLP \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Valeo",
@@ -3332,6 +3407,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Developer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Revise Robotics",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8d08e7020603",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineer Intern"
     },
     {
       "age": "7d",
@@ -23210,7 +23300,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 259,
+    "Simplify Internships": 265,
     "Simplify New Grad": 237,
     "SpeedyApply USA Internships": 133,
     "SpeedyApply USA New Grad": 294,
