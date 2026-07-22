@@ -1,7 +1,7 @@
 {
-  "count": 1748,
-  "fetchedAt": "2026-07-22T17:30:33.954839+00:00",
-  "generatedAt": "2026-07-22T15:05:23.655526+00:00",
+  "count": 1747,
+  "fetchedAt": "2026-07-22T17:35:19.662840+00:00",
+  "generatedAt": "2026-07-22T17:35:19.662840+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6437,21 +6437,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Automation"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://job-boards.greenhouse.io/axon/jobs/7576969003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Axon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fc03268aab67",
-      "jobType": "full-time",
-      "location": "Boston, MASeattle, WAScottsdale, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "3mo",
@@ -26226,7 +26211,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 282,
-    "Simplify New Grad": 305,
+    "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
