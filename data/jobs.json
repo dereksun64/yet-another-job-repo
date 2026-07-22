@@ -1,7 +1,7 @@
 {
-  "count": 1749,
-  "fetchedAt": "2026-07-22T15:00:44.269263+00:00",
-  "generatedAt": "2026-07-22T14:35:29.217498+00:00",
+  "count": 1748,
+  "fetchedAt": "2026-07-22T15:05:23.655526+00:00",
+  "generatedAt": "2026-07-22T15:05:23.655526+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -926,21 +926,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "e905dfa62368",
-      "jobType": "internship",
-      "location": "East Lansing, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Application Development Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Delta Dental",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cab52737849f",
       "jobType": "internship",
       "location": "East Lansing, MI",
       "salary": "",
@@ -7219,7 +7204,7 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -26240,7 +26225,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 283,
+    "Simplify Internships": 282,
     "Simplify New Grad": 305,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
