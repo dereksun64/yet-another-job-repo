@@ -1,23 +1,8 @@
 {
-  "count": 1657,
-  "fetchedAt": "2026-07-22T09:00:57.143999+00:00",
-  "generatedAt": "2026-07-22T08:35:20.079127+00:00",
+  "count": 1653,
+  "fetchedAt": "2026-07-22T09:05:23.450332+00:00",
+  "generatedAt": "2026-07-22T09:05:23.450332+00:00",
   "jobs": [
-    {
-      "age": "1d",
-      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Onware",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7ffbca67eaf9",
-      "jobType": "internship",
-      "location": "Edmonton, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full Stack Developer-Intern Opportunity"
-    },
     {
       "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -62,21 +47,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineer Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Denari",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ac8c3b1948b1",
-      "jobType": "internship",
-      "location": "Madison, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product & Software Internship"
     },
     {
       "age": "1d",
@@ -857,21 +827,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern - Technology"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LexisNexis Risk Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "428af49473ae",
-      "jobType": "internship",
-      "location": "Southampton, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Apprentice"
     },
     {
       "age": "1mo",
@@ -2882,21 +2837,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Tencent",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "587c8b57450e",
-      "jobType": "internship",
-      "location": "Bellevue, WA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -24860,7 +24800,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 303,
+    "Simplify Internships": 299,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
