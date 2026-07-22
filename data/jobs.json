@@ -1,7 +1,7 @@
 {
-  "count": 1745,
-  "fetchedAt": "2026-07-22T19:00:41.955344+00:00",
-  "generatedAt": "2026-07-22T18:35:26.026767+00:00",
+  "count": 1742,
+  "fetchedAt": "2026-07-22T19:05:27.907017+00:00",
+  "generatedAt": "2026-07-22T19:05:27.907017+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2344,21 +2344,6 @@
       "title": "Configuration and Data Management Analyst Co-op"
     },
     {
-      "age": "29d",
-      "applyUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Carnegie Mellon University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "653d87f9329a",
-      "jobType": "internship",
-      "location": "Pittsburgh, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern - College of Engineering - Electrical and Computer Engineering"
-    },
-    {
       "age": "30d",
       "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -3902,21 +3887,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineering Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Ralliant",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c4e4cbba5280",
-      "jobType": "internship",
-      "location": "Beaverton, OR",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Mecop"
     },
     {
       "age": "1mo",
@@ -8132,21 +8102,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Conversion - Software Engineer 1"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Entry-level-Embedded-Controller-Firmware-Developer_3161371?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Hewlett Packard (HP)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1c27bca26ae9",
-      "jobType": "full-time",
-      "location": "Spring, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Embedded Controller Firmware Developer"
     },
     {
       "age": "2d",
@@ -26180,8 +26135,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 282,
-    "Simplify New Grad": 302,
+    "Simplify Internships": 280,
+    "Simplify New Grad": 301,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
