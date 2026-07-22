@@ -1,7 +1,7 @@
 {
-  "count": 1633,
-  "fetchedAt": "2026-07-22T10:35:19.994968+00:00",
-  "generatedAt": "2026-07-22T10:35:19.994968+00:00",
+  "count": 1634,
+  "fetchedAt": "2026-07-22T10:40:24.543005+00:00",
+  "generatedAt": "2026-07-22T10:40:24.543005+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -8027,6 +8027,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Quantitative Trader"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Old Mission",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "877e3cc4aaf2",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Quantitative Researcher \ud83c\udf93"
     },
     {
       "age": "2mo",
@@ -24501,7 +24516,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 279,
-    "Simplify New Grad": 304,
+    "Simplify New Grad": 305,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
