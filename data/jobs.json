@@ -1,7 +1,7 @@
 {
-  "count": 1638,
-  "fetchedAt": "2026-07-22T00:30:36.668943+00:00",
-  "generatedAt": "2026-07-22T00:05:20.085271+00:00",
+  "count": 1641,
+  "fetchedAt": "2026-07-22T00:35:23.269255+00:00",
+  "generatedAt": "2026-07-22T00:35:23.269255+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -619,7 +619,7 @@
       "title": "AI Automation Engineer Co-op"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "HARMAN",
@@ -634,7 +634,7 @@
       "title": "Intern \u2013 Software Engineering \ud83d\udec2"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "VetsEZ",
@@ -649,7 +649,7 @@
       "title": "Full Stack Developer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Mindsmith",
@@ -664,7 +664,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sandhills Global",
@@ -4475,6 +4475,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Westinghouse Electric Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b4dc34053755",
+      "jobType": "full-time",
+      "location": "Cranberry Twp, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Safety Software Engineer 1&C HMI Systems"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Revel",
@@ -7340,6 +7355,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "CarbonChain",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "724e9d982c9b",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Engineer"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "GRAIL",
@@ -8237,6 +8267,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer - Entry-Junior"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Entry-level-Embedded-Controller-Firmware-Developer_3161371?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Hewlett Packard (HP)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1c27bca26ae9",
+      "jobType": "full-time",
+      "location": "Spring, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Embedded Controller Firmware Developer"
     },
     {
       "age": "2d",
@@ -24576,7 +24621,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 298,
-    "Simplify New Grad": 290,
+    "Simplify New Grad": 293,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
