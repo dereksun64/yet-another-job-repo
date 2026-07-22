@@ -1,7 +1,7 @@
 {
-  "count": 1741,
-  "fetchedAt": "2026-07-22T22:00:41.994084+00:00",
-  "generatedAt": "2026-07-22T21:35:21.034491+00:00",
+  "count": 1740,
+  "fetchedAt": "2026-07-22T22:05:21.813012+00:00",
+  "generatedAt": "2026-07-22T22:05:21.813012+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -3872,21 +3872,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Mechanical Production Engineering Apprentice"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Generac",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "415858209dbf",
-      "jobType": "internship",
-      "location": "Reno, NV",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Firmware Engineering Intern"
     },
     {
       "age": "1mo",
@@ -8387,21 +8372,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Avionics Hardware Engineer 1"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "723eb94cc7f0",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "ASIC Physical Design and Timing Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "20d",
@@ -19939,6 +19909,21 @@
       "title": "Intern - R&D Software Engineering - AI & Test Automation"
     },
     {
+      "age": "34d",
+      "applyUrl": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674",
+      "category": "Other",
+      "company": "Generac",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "415858209dbf",
+      "jobType": "internship",
+      "location": "Reno, NV +1",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Intern Firmware Engineering"
+    },
+    {
       "age": "35d",
       "applyUrl": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56",
       "category": "Software Engineering",
@@ -26120,8 +26105,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 280,
-    "Simplify New Grad": 300,
+    "Simplify Internships": 279,
+    "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
