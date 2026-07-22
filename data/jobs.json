@@ -1,7 +1,7 @@
 {
-  "count": 1658,
-  "fetchedAt": "2026-07-22T08:30:35.201371+00:00",
-  "generatedAt": "2026-07-22T07:10:27.827423+00:00",
+  "count": 1657,
+  "fetchedAt": "2026-07-22T08:35:20.079127+00:00",
+  "generatedAt": "2026-07-22T08:35:20.079127+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1337,21 +1337,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LiveRamp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ef012d93b506",
-      "jobType": "internship",
-      "location": "4 locationsSeattle, WASFLittle Rock, ARNYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - Conversions API"
     },
     {
       "age": "1mo",
@@ -24875,7 +24860,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 304,
+    "Simplify Internships": 303,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
