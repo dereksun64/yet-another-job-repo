@@ -1,7 +1,7 @@
 {
-  "count": 1658,
-  "fetchedAt": "2026-07-22T07:04:57.327051+00:00",
-  "generatedAt": "2026-07-22T07:04:57.327051+00:00",
+  "count": 1660,
+  "fetchedAt": "2026-07-22T07:05:20.117806+00:00",
+  "generatedAt": "2026-07-22T07:05:20.117806+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -137,6 +137,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Forward Deployed Engineer Intern"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Solar Turbines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "06c469a0aac9",
+      "jobType": "internship",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Gas Turbine Products Engineering Intern"
     },
     {
       "age": "7d",
@@ -3919,7 +3934,7 @@
       "title": "Quantitative Research Analyst Intern"
     },
     {
-      "age": "21d",
+      "age": "20d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -3934,7 +3949,7 @@
       "title": "Quantitative Research Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "21d",
+      "age": "20d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -4877,6 +4892,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Applied AI"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Solar Turbines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "518206541344",
+      "jobType": "full-time",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Gas Turbine Product Engineer - Gtpe"
     },
     {
       "age": "6d",
@@ -24875,8 +24905,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 304,
-    "Simplify New Grad": 304,
+    "Simplify Internships": 305,
+    "Simplify New Grad": 305,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
