@@ -1,7 +1,7 @@
 {
-  "count": 1644,
-  "fetchedAt": "2026-07-22T02:00:40.461291+00:00",
-  "generatedAt": "2026-07-22T01:35:20.318768+00:00",
+  "count": 1651,
+  "fetchedAt": "2026-07-22T02:05:20.807438+00:00",
+  "generatedAt": "2026-07-22T02:05:20.807438+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -568,6 +568,21 @@
       "id": "99de08a56db1",
       "jobType": "internship",
       "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "27d",
+      "applyUrl": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Altasciences",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0dbc15c4e9b0",
+      "jobType": "internship",
+      "location": "Overland Park, KS",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1864,7 +1879,7 @@
       "title": "Energy Data Analysis Intern"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "World Surf League",
@@ -2029,7 +2044,7 @@
       "title": "Machine Learning Center of Excellence Intern - NLP \ud83c\udf93"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Valeo",
@@ -2044,7 +2059,7 @@
       "title": "Warranty Engineering Co-op"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Pennsylvania State University",
@@ -4100,6 +4115,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Baker Hughes",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a942630ffbdd",
+      "jobType": "internship",
+      "location": "Bristol, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Mechanical Production Engineering Apprentice"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Generac",
@@ -4849,7 +4879,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Twitch",
@@ -5389,7 +5419,7 @@
       "title": "Software Developer New Grad"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -5659,6 +5689,21 @@
       "title": "Software Engineer 1"
     },
     {
+      "age": "24d",
+      "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cox",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "59e1bc85bfad",
+      "jobType": "full-time",
+      "location": "Austin, TXBurlington, VTAtlanta, GA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
       "age": "25d",
       "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -5884,6 +5929,21 @@
       "title": "Entry Level Software Engineer \ud83c\udf93"
     },
     {
+      "age": "29d",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/73193/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "General Dynamics Mission Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7e84b282d924",
+      "jobType": "full-time",
+      "location": "Scottsdale, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
       "age": "1mo",
       "applyUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Junior-Business---Technology-Analyst---Application-Developer_JR4465?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
@@ -5912,6 +5972,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cadence Design Systems",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "69338874657d",
+      "jobType": "full-time",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 2 New Grad"
     },
     {
       "age": "1mo",
@@ -6980,6 +7055,21 @@
     },
     {
       "age": "4mo",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "47a5001ff192",
+      "jobType": "full-time",
+      "location": "Sunnyvale, CAWarren, MI",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems \ud83c\udf93"
+    },
+    {
+      "age": "4mo",
       "applyUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -7609,7 +7699,7 @@
       "title": "Machine Learning/Deep Learning Engineer New Grad \ud83c\udf93"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "WSP",
@@ -7787,6 +7877,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Scientist New Grad - Model Optimization"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Allen Control Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2370f9804bde",
+      "jobType": "full-time",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Computer Vision & Machine Learning Engineer"
     },
     {
       "age": "2mo",
@@ -8629,7 +8734,7 @@
       "title": "Avionics Hardware Engineer 1"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -24665,8 +24770,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 298,
-    "Simplify New Grad": 296,
+    "Simplify Internships": 300,
+    "Simplify New Grad": 301,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
