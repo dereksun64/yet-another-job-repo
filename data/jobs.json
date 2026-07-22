@@ -1,7 +1,7 @@
 {
-  "count": 1747,
-  "fetchedAt": "2026-07-22T18:30:34.280731+00:00",
-  "generatedAt": "2026-07-22T17:35:19.662840+00:00",
+  "count": 1745,
+  "fetchedAt": "2026-07-22T18:35:26.026767+00:00",
+  "generatedAt": "2026-07-22T18:35:26.026767+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4655,21 +4655,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Software-Engineer-I---Computational-Fluid-Dynamics--CFD-_R55487-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cadence Design Systems",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "81f1769263af",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Computational Fluid Dynamics - Computational Fluid Dynamics"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InstaLILY",
@@ -4772,21 +4757,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northslope Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b7d56d72b70a",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Forward Deployed Software Engineer New Grad"
     },
     {
       "age": "8d",
@@ -26211,7 +26181,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 282,
-    "Simplify New Grad": 304,
+    "Simplify New Grad": 302,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
