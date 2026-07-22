@@ -1,7 +1,7 @@
 {
-  "count": 1641,
-  "fetchedAt": "2026-07-22T01:00:41.122767+00:00",
-  "generatedAt": "2026-07-22T00:35:23.269255+00:00",
+  "count": 1644,
+  "fetchedAt": "2026-07-22T01:05:22.390624+00:00",
+  "generatedAt": "2026-07-22T01:05:22.390624+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6605,6 +6605,21 @@
     },
     {
       "age": "3mo",
+      "applyUrl": "https://job-boards.greenhouse.io/axon/jobs/7576969003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Axon",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fc03268aab67",
+      "jobType": "full-time",
+      "location": "Boston, MASeattle, WAScottsdale, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "3mo",
       "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "GM financial",
@@ -8270,6 +8285,36 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineer-I---ASIC-FPGA--Onsite-_01861017?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "689b24c0688e",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Electrical Engineer 1 - ASIC/FPGA"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "15fd1ed16ef3",
+      "jobType": "full-time",
+      "location": "St. Petersburg, FL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Conversion - Software Engineer 1"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Entry-level-Embedded-Controller-Firmware-Developer_3161371?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Hewlett Packard (HP)",
@@ -8584,6 +8629,21 @@
       "title": "Avionics Hardware Engineer 1"
     },
     {
+      "age": "19d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "723eb94cc7f0",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ASIC Physical Design and Timing Engineer New Grad \ud83c\udf93"
+    },
+    {
       "age": "20d",
       "applyUrl": "https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
@@ -8747,21 +8807,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New grad / early career"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4a3f2e11e5f0",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Accelerated Computing Solutions Analyst \u2013 Early Career \ud83c\udf93"
     },
     {
       "age": "2mo",
@@ -24621,7 +24666,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 298,
-    "Simplify New Grad": 293,
+    "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
     "Vansh Internships": 64,
