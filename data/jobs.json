@@ -1,7 +1,7 @@
 {
   "count": 1660,
-  "fetchedAt": "2026-07-22T03:30:34.339908+00:00",
-  "generatedAt": "2026-07-22T02:35:20.076741+00:00",
+  "fetchedAt": "2026-07-22T03:35:21.254153+00:00",
+  "generatedAt": "2026-07-22T03:35:21.254153+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5285,6 +5285,21 @@
     },
     {
       "age": "13d",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cadence Design Systems",
+      "companyTier": "Tier 4",
+      "degreeLevel": "bachelors",
+      "id": "5a05dddc6271",
+      "jobType": "full-time",
+      "location": "Burlington, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Undergrads"
+    },
+    {
+      "age": "13d",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Design Systems",
@@ -7682,21 +7697,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Aws - Databricks"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "\ud83d\udd25 Amazon",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "821f5465f420",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1 - Amazon Business Ops Analytics"
     },
     {
       "age": "9d",
