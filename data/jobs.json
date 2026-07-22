@@ -1,7 +1,7 @@
 {
-  "count": 1631,
-  "fetchedAt": "2026-07-22T13:05:20.309511+00:00",
-  "generatedAt": "2026-07-22T12:35:23.368615+00:00",
+  "count": 1635,
+  "fetchedAt": "2026-07-22T13:10:26.187664+00:00",
+  "generatedAt": "2026-07-22T13:10:26.187664+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -470,6 +470,21 @@
     },
     {
       "age": "25d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7a3998d5a113",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "kos.ai",
@@ -677,6 +692,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5de22b586eef",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -1894,6 +1924,21 @@
       "title": "Construction Technologies Intern"
     },
     {
+      "age": "18d",
+      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "University of Maryland - College Park",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a81db810a3d6",
+      "jobType": "internship",
+      "location": "Hyattsville, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Office of Career Services Intern - Technology Team"
+    },
+    {
       "age": "20d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -2972,6 +3017,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Analyst Intern - Competency Management"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ebfe3e3907fb",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multimedia Development Intern"
     },
     {
       "age": "1mo",
@@ -24470,7 +24530,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 277,
+    "Simplify Internships": 281,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
