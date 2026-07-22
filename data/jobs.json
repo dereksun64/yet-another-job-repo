@@ -1,7 +1,7 @@
 {
-  "count": 1635,
-  "fetchedAt": "2026-07-22T13:35:19.899748+00:00",
-  "generatedAt": "2026-07-22T13:10:26.187664+00:00",
+  "count": 1637,
+  "fetchedAt": "2026-07-22T13:40:29.900115+00:00",
+  "generatedAt": "2026-07-22T13:40:29.900115+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -748,6 +748,21 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1502,21 +1517,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Systems Engineer Intern \ud83c\udf93"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://job-boards.greenhouse.io/solidpower/jobs/6118972004?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Solid Power",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e4147539e77b",
-      "jobType": "internship",
-      "location": "Thornton, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Development Intern"
     },
     {
       "age": "4d",
@@ -3020,6 +3020,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "CHEP",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3aa5e0dbc0d9",
+      "jobType": "internship",
+      "location": "London, UKOrlando, FLAtlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "FP&A Business Intelligence Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Tencent",
@@ -3962,6 +3977,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research and Development Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Magna",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "890e04f5bd4d",
+      "jobType": "internship",
+      "location": "Southfield, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Systems Intern"
     },
     {
       "age": "1mo",
@@ -24530,7 +24560,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 281,
+    "Simplify Internships": 283,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 135,
     "SpeedyApply USA New Grad": 291,
