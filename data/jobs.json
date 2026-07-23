@@ -1,7 +1,7 @@
 {
-  "count": 1742,
-  "fetchedAt": "2026-07-23T08:05:23.462563+00:00",
-  "generatedAt": "2026-07-23T07:40:28.233274+00:00",
+  "count": 1741,
+  "fetchedAt": "2026-07-23T08:10:26.644122+00:00",
+  "generatedAt": "2026-07-23T08:10:26.644122+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -137,21 +137,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Forward Deployed Engineer Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Custom Computer Specialists",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "62019a965393",
-      "jobType": "internship",
-      "location": "Long Island, New York",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Developer Intern"
     },
     {
       "age": "9d",
@@ -26135,7 +26120,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 272,
+    "Simplify Internships": 271,
     "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
