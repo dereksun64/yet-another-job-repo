@@ -1,8 +1,23 @@
 {
-  "count": 1739,
-  "fetchedAt": "2026-07-23T23:30:36.640556+00:00",
-  "generatedAt": "2026-07-23T23:10:25.909802+00:00",
+  "count": 1743,
+  "fetchedAt": "2026-07-23T23:35:24.068941+00:00",
+  "generatedAt": "2026-07-23T23:35:24.068941+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Appian",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1729195aa5b0",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007?utm_source=Simplify&ref=Simplify",
@@ -17,6 +32,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Power Modeling & AI Tools"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R66130?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Motorola",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c1be335a77b0",
+      "jobType": "internship",
+      "location": "Gatineau, QC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op"
     },
     {
       "age": "2d",
@@ -3875,6 +3905,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Zello",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "21fff42b575f",
+      "jobType": "full-time",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - AI Generalist"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Bridger",
@@ -3887,6 +3932,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Product Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cerebras",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "192d45aeeba7",
+      "jobType": "full-time",
+      "location": "Toronto, ON, CanadaSunnyvale, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "ML Software Engineer New Grad - Integration & Quality"
     },
     {
       "age": "0d",
@@ -26090,8 +26150,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 258,
-    "Simplify New Grad": 309,
+    "Simplify Internships": 260,
+    "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
     "Vansh Internships": 64,
