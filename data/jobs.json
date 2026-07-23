@@ -1,7 +1,7 @@
 {
-  "count": 1743,
-  "fetchedAt": "2026-07-23T03:30:33.017533+00:00",
-  "generatedAt": "2026-07-23T03:05:23.472006+00:00",
+  "count": 1744,
+  "fetchedAt": "2026-07-23T03:35:18.029002+00:00",
+  "generatedAt": "2026-07-23T03:35:18.029002+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -3694,7 +3694,7 @@
       "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Bosch Home Comfort",
@@ -7142,6 +7142,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Analyst"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "51eec8079e06",
+      "jobType": "full-time",
+      "location": "5 locationsWashingtonCaliforniaTexasNYCMassachusetts",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -26151,7 +26166,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 273,
-    "Simplify New Grad": 307,
+    "Simplify New Grad": 308,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
