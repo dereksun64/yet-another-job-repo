@@ -1,7 +1,7 @@
 {
-  "count": 1728,
-  "fetchedAt": "2026-07-23T13:35:21.722532+00:00",
-  "generatedAt": "2026-07-23T13:35:21.722532+00:00",
+  "count": 1726,
+  "fetchedAt": "2026-07-23T13:40:28.253035+00:00",
+  "generatedAt": "2026-07-23T13:40:28.253035+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -3935,21 +3935,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308257-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Fidelity National Information Services",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6108b7323485",
-      "jobType": "full-time",
-      "location": "Columbus, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Mainframe Software Engineer 1"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Westinghouse Electric Company",
@@ -5912,21 +5897,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer \ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GE Healthcare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "57bc42dd9f10",
-      "jobType": "full-time",
-      "location": "Orange, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "3mo",
@@ -25926,7 +25896,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 259,
-    "Simplify New Grad": 306,
+    "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
