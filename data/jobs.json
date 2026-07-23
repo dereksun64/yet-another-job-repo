@@ -1,7 +1,7 @@
 {
-  "count": 1750,
-  "fetchedAt": "2026-07-23T01:05:19.433156+00:00",
-  "generatedAt": "2026-07-23T00:40:26.588792+00:00",
+  "count": 1748,
+  "fetchedAt": "2026-07-23T01:10:24.039992+00:00",
+  "generatedAt": "2026-07-23T01:10:24.039992+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6905,21 +6905,6 @@
     },
     {
       "age": "5mo",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Salesforce",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "913b7f4ae78c",
-      "jobType": "full-time",
-      "location": "4 locationsPalo Alto, CASFBellevue, WASeattle, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineering AMTS/MTS \u2013 College Grad"
-    },
-    {
-      "age": "5mo",
       "applyUrl": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Giga AI",
@@ -8252,21 +8237,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Conversion - Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Boeing Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0edc0b1291cb",
-      "jobType": "full-time",
-      "location": "Hazelwood, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "3d",
@@ -26256,7 +26226,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 279,
-    "Simplify New Grad": 309,
+    "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
