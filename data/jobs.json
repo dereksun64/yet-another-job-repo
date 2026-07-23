@@ -1,7 +1,7 @@
 {
-  "count": 1739,
-  "fetchedAt": "2026-07-23T16:30:36.794819+00:00",
-  "generatedAt": "2026-07-23T15:35:21.142684+00:00",
+  "count": 1742,
+  "fetchedAt": "2026-07-23T16:35:26.093423+00:00",
+  "generatedAt": "2026-07-23T16:35:26.093423+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -3917,6 +3917,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Nanofabrication Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "mthree",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "550cb28ec9d6",
+      "jobType": "full-time",
+      "location": "London, UKChristchurch, UKGlasgow, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Developer"
     },
     {
       "age": "0d",
@@ -7910,6 +7925,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "85d4a8a970a3",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -8327,6 +8357,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "ASIC Floorplan Design Engineer New Grad \ud83c\udf93"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a9b27bc8147a",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -26091,7 +26136,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 261,
-    "Simplify New Grad": 306,
+    "Simplify New Grad": 309,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
     "Vansh Internships": 64,
