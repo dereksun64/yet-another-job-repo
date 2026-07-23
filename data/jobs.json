@@ -1,7 +1,7 @@
 {
-  "count": 1727,
-  "fetchedAt": "2026-07-23T12:00:50.767234+00:00",
-  "generatedAt": "2026-07-23T11:40:25.360400+00:00",
+  "count": 1723,
+  "fetchedAt": "2026-07-23T12:05:23.095766+00:00",
+  "generatedAt": "2026-07-23T12:05:23.095766+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -605,6 +605,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5de22b586eef",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Magna",
@@ -785,6 +800,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 Intel",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "b8c3d54bc760",
+      "jobType": "internship",
+      "location": "Phoenix, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Delta Dental",
@@ -887,21 +917,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Software Engineer Intern - Transaction Platform"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "16769a2e8b9f",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -1865,21 +1880,6 @@
     },
     {
       "age": "26d",
-      "applyUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Liberty University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c37f9a24e8dc",
-      "jobType": "internship",
-      "location": "Virginia",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Analyst Apprentice"
-    },
-    {
-      "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Applied Intuition",
@@ -2720,21 +2720,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Tencent",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ebfe3e3907fb",
-      "jobType": "internship",
-      "location": "Palo Alto, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Multimedia Development Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Nio",
@@ -2927,21 +2912,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Intern - AI/LLM Network \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Agilent Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "100fb57ab340",
-      "jobType": "internship",
-      "location": "Wilmington, DE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Predictive Sales Prospecting Intern"
     },
     {
       "age": "1mo",
@@ -3587,21 +3557,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research and Development Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "890e04f5bd4d",
-      "jobType": "internship",
-      "location": "Southfield, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Systems Intern"
     },
     {
       "age": "1mo",
@@ -6784,7 +6739,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -8177,21 +8132,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Edgehog Trading",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "28ead68f20b8",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior FPGA Developer"
     },
     {
       "age": "1mo",
@@ -25910,8 +25850,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 257,
-    "Simplify New Grad": 307,
+    "Simplify Internships": 254,
+    "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
