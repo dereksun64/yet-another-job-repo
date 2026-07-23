@@ -1,7 +1,7 @@
 {
-  "count": 1743,
-  "fetchedAt": "2026-07-23T07:35:21.469010+00:00",
-  "generatedAt": "2026-07-23T07:10:27.172320+00:00",
+  "count": 1742,
+  "fetchedAt": "2026-07-23T07:40:28.233274+00:00",
+  "generatedAt": "2026-07-23T07:40:28.233274+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -4562,21 +4562,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - General"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Intuit",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "dd784a25b926",
-      "jobType": "full-time",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "8d",
@@ -26151,7 +26136,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 272,
-    "Simplify New Grad": 308,
+    "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
