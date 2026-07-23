@@ -1,7 +1,7 @@
 {
-  "count": 1745,
-  "fetchedAt": "2026-07-23T03:00:36.851322+00:00",
-  "generatedAt": "2026-07-23T02:35:21.766710+00:00",
+  "count": 1743,
+  "fetchedAt": "2026-07-23T03:05:23.472006+00:00",
+  "generatedAt": "2026-07-23T03:05:23.472006+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -4340,21 +4340,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Boeing Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e54ad59d94c0",
-      "jobType": "full-time",
-      "location": "Hazelwood, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "STV",
@@ -8162,21 +8147,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Conversion - Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Boeing Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0edc0b1291cb",
-      "jobType": "full-time",
-      "location": "Hazelwood, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "3d",
@@ -26181,7 +26151,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 273,
-    "Simplify New Grad": 309,
+    "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
     "Vansh Internships": 64,
