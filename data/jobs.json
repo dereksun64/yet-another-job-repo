@@ -1,7 +1,7 @@
 {
-  "count": 1728,
-  "fetchedAt": "2026-07-23T11:30:34.515677+00:00",
-  "generatedAt": "2026-07-23T11:05:19.218410+00:00",
+  "count": 1727,
+  "fetchedAt": "2026-07-23T11:35:22.552100+00:00",
+  "generatedAt": "2026-07-23T11:35:22.552100+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -379,7 +379,7 @@
       "title": "Financial Reporting AI Co-op"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Equifax",
@@ -392,21 +392,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7a3998d5a113",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "26d",
@@ -658,6 +643,21 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1637,21 +1637,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Intern - Autonomy"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "bachelors",
-      "id": "e2f77cdc64ba",
-      "jobType": "internship",
-      "location": "Ferndale, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Student Intern"
     },
     {
       "age": "19d",
@@ -25925,7 +25910,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 258,
+    "Simplify Internships": 257,
     "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 171,
     "SpeedyApply USA New Grad": 370,
