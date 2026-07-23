@@ -1,7 +1,7 @@
 {
-  "count": 1733,
-  "fetchedAt": "2026-07-23T19:00:42.970864+00:00",
-  "generatedAt": "2026-07-23T18:35:20.801713+00:00",
+  "count": 1731,
+  "fetchedAt": "2026-07-23T19:05:20.919027+00:00",
+  "generatedAt": "2026-07-23T19:05:20.919027+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -2720,21 +2720,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Sundt",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "20f4ead5c032",
-      "jobType": "internship",
-      "location": "Tempe, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Support Group Intern - Artificial Intelligence"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CHEP",
@@ -2957,21 +2942,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Intern - AI/LLM Network \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Boys Town",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e442c0d5e14b",
-      "jobType": "internship",
-      "location": "Omaha, NE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Artificial Intelligence & Machine Learning Intern"
     },
     {
       "age": "1mo",
@@ -26000,7 +25970,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 257,
+    "Simplify Internships": 255,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
