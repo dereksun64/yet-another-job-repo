@@ -1,7 +1,7 @@
 {
-  "count": 1737,
-  "fetchedAt": "2026-07-23T15:30:39.671230+00:00",
-  "generatedAt": "2026-07-23T15:05:23.970054+00:00",
+  "count": 1739,
+  "fetchedAt": "2026-07-23T15:35:21.142684+00:00",
+  "generatedAt": "2026-07-23T15:35:21.142684+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -3917,6 +3917,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Nanofabrication Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "450cc7c9d368",
+      "jobType": "full-time",
+      "location": "Concord, MATewksbury, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "0d",
@@ -7892,6 +7907,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Crypto Electronic Trading Support Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2cc5dbd95ef4",
+      "jobType": "full-time",
+      "location": "Marlborough, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "1d",
@@ -26061,7 +26091,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 261,
-    "Simplify New Grad": 304,
+    "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
     "Vansh Internships": 64,
