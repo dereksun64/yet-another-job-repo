@@ -1,7 +1,7 @@
 {
-  "count": 1738,
-  "fetchedAt": "2026-07-23T15:00:54.325922+00:00",
-  "generatedAt": "2026-07-23T14:35:23.847379+00:00",
+  "count": 1737,
+  "fetchedAt": "2026-07-23T15:05:23.970054+00:00",
+  "generatedAt": "2026-07-23T15:05:23.970054+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1427,21 +1427,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Intern - Money Movement"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Adaptive Security",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d2fea93e2d26",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Product Operations Intern"
     },
     {
       "age": "29d",
@@ -6949,7 +6934,7 @@
       "title": "Machine Learning Engineer 1"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -26075,7 +26060,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 262,
+    "Simplify Internships": 261,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
