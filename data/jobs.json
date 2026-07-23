@@ -1,7 +1,7 @@
 {
-  "count": 1731,
-  "fetchedAt": "2026-07-23T22:00:42.277980+00:00",
-  "generatedAt": "2026-07-23T19:05:20.919027+00:00",
+  "count": 1727,
+  "fetchedAt": "2026-07-23T22:05:23.898788+00:00",
+  "generatedAt": "2026-07-23T22:05:23.898788+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -812,21 +812,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Capital Platform"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 Intel",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "b8c3d54bc760",
-      "jobType": "internship",
-      "location": "Phoenix, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -1787,21 +1772,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "RL Engineer Intern - RL Engineer - Tesla AI"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://www.bseglobal.net/job/?gh_jid=7637035003&gh_jid=7637035003&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "BSE Global",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bdb1d241e6a9",
-      "jobType": "internship",
-      "location": "Brooklyn, NY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Ticket Strategy & Analytics Intern"
     },
     {
       "age": "22d",
@@ -5285,21 +5255,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Junior-Business---Technology-Analyst---Application-Developer_JR4465?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Axos Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6ef4a24b4266",
-      "jobType": "full-time",
-      "location": "San Diego, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Business & Technology Analyst - Application Developer"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Design Systems",
@@ -6752,21 +6707,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Product Manager New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5168369007?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Clinical Architecture",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fed16cd0b045",
-      "jobType": "full-time",
-      "location": "Carmel, IN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Analyst \u2013 Entry Level"
     },
     {
       "age": "4mo",
@@ -25970,8 +25910,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 255,
-    "Simplify New Grad": 304,
+    "Simplify Internships": 253,
+    "Simplify New Grad": 302,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
     "Vansh Internships": 64,
