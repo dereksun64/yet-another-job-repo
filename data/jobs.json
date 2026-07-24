@@ -1,7 +1,7 @@
 {
-  "count": 1764,
-  "fetchedAt": "2026-07-24T08:55:23.015165+00:00",
-  "generatedAt": "2026-07-24T08:40:23.803384+00:00",
+  "count": 1768,
+  "fetchedAt": "2026-07-24T09:00:49.311791+00:00",
+  "generatedAt": "2026-07-24T09:00:49.311791+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17435,6 +17435,66 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah",
+      "category": "AI/ML",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "db1055c7b3b0",
+      "jobType": "internship",
+      "location": "New York, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Investment Data Science Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "130f3d9f190e",
+      "jobType": "internship",
+      "location": "Miami, FL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Equity Volatility Quant Researcher Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "28ff87a3502c",
+      "jobType": "internship",
+      "location": "New York, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Technology Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6d161c407965",
+      "jobType": "internship",
+      "location": "New York, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Risk Technology Analyst Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah",
       "category": "Quant",
       "company": "Radix Trading",
@@ -26469,7 +26529,7 @@
     "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
-    "Vansh Internships": 90,
+    "Vansh Internships": 94,
     "Vansh New Grad": 597
   }
 }
