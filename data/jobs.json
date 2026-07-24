@@ -1,7 +1,7 @@
 {
-  "count": 1768,
-  "fetchedAt": "2026-07-24T22:00:37.000515+00:00",
-  "generatedAt": "2026-07-24T21:35:19.109509+00:00",
+  "count": 1767,
+  "fetchedAt": "2026-07-24T22:05:21.739259+00:00",
+  "generatedAt": "2026-07-24T22:05:21.739259+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4063,21 +4063,6 @@
       "id": "2115f0381e8c",
       "jobType": "full-time",
       "location": "O'Fallon, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Everfox",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a408652da147",
-      "jobType": "full-time",
-      "location": "Richardson, TX",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -26526,7 +26511,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 251,
-    "Simplify New Grad": 311,
+    "Simplify New Grad": 310,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
