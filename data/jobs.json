@@ -1,7 +1,7 @@
 {
-  "count": 1771,
-  "fetchedAt": "2026-07-24T18:30:31.280699+00:00",
-  "generatedAt": "2026-07-24T18:15:24.515802+00:00",
+  "count": 1769,
+  "fetchedAt": "2026-07-24T18:35:21.200100+00:00",
+  "generatedAt": "2026-07-24T18:35:21.200100+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -32,21 +32,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Power Modeling & AI Tools"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R66130?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Motorola",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c1be335a77b0",
-      "jobType": "internship",
-      "location": "Gatineau, QC, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op"
     },
     {
       "age": "3d",
@@ -7787,21 +7772,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Embedded Software Engineer"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "99dd8cef2408",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1d",
@@ -26570,8 +26540,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 253,
-    "Simplify New Grad": 312,
+    "Simplify Internships": 252,
+    "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
