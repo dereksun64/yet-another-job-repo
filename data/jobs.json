@@ -1,7 +1,7 @@
 {
   "count": 1746,
-  "fetchedAt": "2026-07-24T08:25:19.497289+00:00",
-  "generatedAt": "2026-07-24T08:25:19.497289+00:00",
+  "fetchedAt": "2026-07-24T08:30:37.073042+00:00",
+  "generatedAt": "2026-07-24T08:30:37.073042+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17540,6 +17540,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Deepgram",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d9a1edd6afb6",
+      "jobType": "internship",
+      "location": "RemoteUS",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Copart",
@@ -19187,21 +19202,6 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "AI / Software Engineering Intern - Fall 2026"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-      "category": "Software Engineering",
-      "company": "Deepgram",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d9a1edd6afb6",
-      "jobType": "internship",
-      "location": "Remote - USA",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineering- Internship - Fall 2026/Summer 2027"
     },
     {
       "age": "6d",
@@ -26199,7 +26199,7 @@
     "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
-    "Vansh Internships": 68,
+    "Vansh Internships": 69,
     "Vansh New Grad": 597
   }
 }
