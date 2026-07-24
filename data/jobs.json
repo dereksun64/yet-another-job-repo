@@ -1,7 +1,7 @@
 {
-  "count": 1769,
-  "fetchedAt": "2026-07-24T21:30:32.166213+00:00",
-  "generatedAt": "2026-07-24T18:35:21.200100+00:00",
+  "count": 1768,
+  "fetchedAt": "2026-07-24T21:35:19.109509+00:00",
+  "generatedAt": "2026-07-24T21:35:19.109509+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3512,21 +3512,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Mechanical Production Engineering Apprentice"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Tesla",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "700c469c07f0",
-      "jobType": "internship",
-      "location": "Palo Alto, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems"
     },
     {
       "age": "1mo",
@@ -26540,7 +26525,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 252,
+    "Simplify Internships": 251,
     "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
