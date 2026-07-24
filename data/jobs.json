@@ -1,7 +1,7 @@
 {
-  "count": 1771,
-  "fetchedAt": "2026-07-24T17:30:32.421164+00:00",
-  "generatedAt": "2026-07-24T15:05:22.154336+00:00",
+  "count": 1770,
+  "fetchedAt": "2026-07-24T17:35:19.363742+00:00",
+  "generatedAt": "2026-07-24T17:35:19.363742+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5098,21 +5098,6 @@
       "id": "b145630dde32",
       "jobType": "full-time",
       "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cox",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "59e1bc85bfad",
-      "jobType": "full-time",
-      "location": "Austin, TXBurlington, VTAtlanta, GA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -26571,7 +26556,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 253,
-    "Simplify New Grad": 314,
+    "Simplify New Grad": 313,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 100,
