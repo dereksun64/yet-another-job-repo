@@ -1,7 +1,7 @@
 {
-  "count": 1752,
-  "fetchedAt": "2026-07-24T08:15:24.473910+00:00",
-  "generatedAt": "2026-07-24T07:55:23.289886+00:00",
+  "count": 1753,
+  "fetchedAt": "2026-07-24T08:20:28.458157+00:00",
+  "generatedAt": "2026-07-24T08:20:28.458157+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17465,6 +17465,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "Radix Trading",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ada60cf7585d",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quantitative Technologist Intern, C++"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=&utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Hudson River Trading",
@@ -26289,7 +26304,7 @@
     "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
-    "Vansh Internships": 74,
+    "Vansh Internships": 75,
     "Vansh New Grad": 597
   }
 }
