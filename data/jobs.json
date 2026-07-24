@@ -1,7 +1,7 @@
 {
-  "count": 1769,
-  "fetchedAt": "2026-07-24T10:55:22.020202+00:00",
-  "generatedAt": "2026-07-24T10:35:21.219382+00:00",
+  "count": 1770,
+  "fetchedAt": "2026-07-24T11:01:06.983671+00:00",
+  "generatedAt": "2026-07-24T11:01:06.983671+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -737,6 +737,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RELX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1cd802a48c15",
+      "jobType": "internship",
+      "location": "Southampton, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Apprentice"
     },
     {
       "age": "1mo",
@@ -1699,7 +1714,7 @@
       "title": "Student Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Moss & Associates",
@@ -26540,7 +26555,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 254,
+    "Simplify Internships": 255,
     "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
