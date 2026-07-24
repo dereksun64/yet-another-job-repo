@@ -1,7 +1,7 @@
 {
-  "count": 1766,
-  "fetchedAt": "2026-07-24T09:25:26.812494+00:00",
-  "generatedAt": "2026-07-24T09:10:29.264600+00:00",
+  "count": 1769,
+  "fetchedAt": "2026-07-24T09:30:35.808145+00:00",
+  "generatedAt": "2026-07-24T09:30:35.808145+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17525,6 +17525,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Old Mission",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c5c7ed354462",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.janestreet.com/join-jane-street/position/8599644002/?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Jane Street",
@@ -17747,6 +17762,51 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Quantitative Trader Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.imc.com/us/careers/jobs/4823945101?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "IMC",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fd5c49f03d49",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.imc.com/us/careers/jobs/4907399101?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "IMC",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "44d4ecb8d654",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quantitative Research Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.imc.com/us/careers/jobs/4907400101?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "IMC",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "46ed6ad041bb",
+      "jobType": "internship",
+      "location": "Chicago",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quantitative Research Intern (PHD)"
     },
     {
       "age": "0d",
@@ -19592,21 +19652,6 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Software Engineer - Agent Platform - Intern - 2026-2027"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
-      "category": "Software Engineering",
-      "company": "Old Mission Capital",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c5c7ed354462",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineer - 2027 Internship Program - June Start"
     },
     {
       "age": "7d",
@@ -26499,7 +26544,7 @@
     "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
-    "Vansh Internships": 96,
+    "Vansh Internships": 100,
     "Vansh New Grad": 597
   }
 }
