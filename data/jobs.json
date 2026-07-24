@@ -1,7 +1,7 @@
 {
-  "count": 1778,
-  "fetchedAt": "2026-07-24T23:30:32.124855+00:00",
-  "generatedAt": "2026-07-24T23:05:18.622599+00:00",
+  "count": 1775,
+  "fetchedAt": "2026-07-24T23:35:20.520574+00:00",
+  "generatedAt": "2026-07-24T23:35:20.520574+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2402,21 +2402,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Tencent",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "587c8b57450e",
-      "jobType": "internship",
-      "location": "Bellevue, WA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -6559,7 +6544,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Whoop",
@@ -6767,36 +6752,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Developer \u2013 New Graduate"
-    },
-    {
-      "age": "7mo",
-      "applyUrl": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "TrueBuilt",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "364866410954",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Founding Engineer"
-    },
-    {
-      "age": "7mo",
-      "applyUrl": "https://job-boards.greenhouse.io/uareai/jobs/4036519009?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Uare.ai",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6fbc26a763eb",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 Early Career"
     },
     {
       "age": "7d",
@@ -26675,8 +26630,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 253,
-    "Simplify New Grad": 319,
+    "Simplify Internships": 252,
+    "Simplify New Grad": 317,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
