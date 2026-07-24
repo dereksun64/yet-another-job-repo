@@ -1,7 +1,7 @@
 {
-  "count": 1771,
-  "fetchedAt": "2026-07-24T13:30:34.765871+00:00",
-  "generatedAt": "2026-07-24T13:10:26.391752+00:00",
+  "count": 1770,
+  "fetchedAt": "2026-07-24T13:35:25.471783+00:00",
+  "generatedAt": "2026-07-24T13:35:25.471783+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1547,21 +1547,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Applied AI Intern \ud83c\udf93"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Technical-Intern_R-00187499?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9e8cc361a380",
-      "jobType": "internship",
-      "location": "San Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Signal Processing Technical Intern"
     },
     {
       "age": "7d",
@@ -26570,7 +26555,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 254,
+    "Simplify Internships": 253,
     "Simplify New Grad": 313,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
