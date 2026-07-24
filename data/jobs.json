@@ -1,7 +1,7 @@
 {
-  "count": 1770,
-  "fetchedAt": "2026-07-24T11:35:19.273610+00:00",
-  "generatedAt": "2026-07-24T11:35:19.273610+00:00",
+  "count": 1769,
+  "fetchedAt": "2026-07-24T11:40:27.466644+00:00",
+  "generatedAt": "2026-07-24T11:40:27.466644+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -424,7 +424,7 @@
       "title": "Financial Reporting AI Co-op"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Equifax",
@@ -1265,21 +1265,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Magna",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "730ba94765d8",
-      "jobType": "internship",
-      "location": "Oakville, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Junior Full Stack Developer Co-op"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Autodesk",
@@ -1579,6 +1564,21 @@
       "title": "Management Analyst Intern - Research and Planning Division"
     },
     {
+      "age": "7d",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "JP Morgan Chase",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "223c23fa08f8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
+    },
+    {
       "age": "8d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -1699,7 +1699,7 @@
       "title": "Machine Learning Intern - Autonomy"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Magna",
@@ -1817,21 +1817,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "RL Engineer Intern - RL Engineer - Tesla AI"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "thyssenkrupp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0a6886a61617",
-      "jobType": "internship",
-      "location": "Cleveland, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analytics Intern"
     },
     {
       "age": "23d",
@@ -26555,7 +26540,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 255,
+    "Simplify Internships": 254,
     "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
