@@ -1,7 +1,7 @@
 {
-  "count": 1773,
-  "fetchedAt": "2026-07-24T15:00:41.963881+00:00",
-  "generatedAt": "2026-07-24T14:40:27.137705+00:00",
+  "count": 1771,
+  "fetchedAt": "2026-07-24T15:05:22.154336+00:00",
+  "generatedAt": "2026-07-24T15:05:22.154336+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3859,7 +3859,7 @@
       "title": "ML Software Engineer New Grad - Integration & Quality"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -6889,7 +6889,7 @@
       "title": "Machine Learning Engineer 1"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -7400,21 +7400,6 @@
     },
     {
       "age": "3mo",
-      "applyUrl": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst--Data---Analytics---New-Grad--May-2026-_JR5658-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "BDO Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4a4e9436ded7",
-      "jobType": "full-time",
-      "location": "7 locationsMontreal, QC, CanadaToronto, ON, CanadaCalgary, AB, CanadaOakville, ON, CanadaEdmonton, AB, CanadaOttawa, ON, CanadaHalifax Regional Municipality, NS, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Consultant \u2013 New Grad - Data & Analytics"
-    },
-    {
-      "age": "3mo",
       "applyUrl": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Handshake",
@@ -7888,21 +7873,6 @@
       "id": "2cc5dbd95ef4",
       "jobType": "full-time",
       "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3f1171dfa5fd",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -26601,7 +26571,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 253,
-    "Simplify New Grad": 316,
+    "Simplify New Grad": 314,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 100,
