@@ -1,7 +1,7 @@
 {
-  "count": 1751,
-  "fetchedAt": "2026-07-24T07:50:24.795310+00:00",
-  "generatedAt": "2026-07-24T07:45:28.502983+00:00",
+  "count": 1752,
+  "fetchedAt": "2026-07-24T07:55:23.289886+00:00",
+  "generatedAt": "2026-07-24T07:55:23.289886+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17525,6 +17525,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a42998a7b29d",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Akuna Capital",
@@ -26274,7 +26289,7 @@
     "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 167,
     "SpeedyApply USA New Grad": 380,
-    "Vansh Internships": 73,
+    "Vansh Internships": 74,
     "Vansh New Grad": 597
   }
 }
