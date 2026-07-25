@@ -1,7 +1,7 @@
 {
-  "count": 1777,
-  "fetchedAt": "2026-07-25T13:00:37.026640+00:00",
-  "generatedAt": "2026-07-25T12:05:29.306708+00:00",
+  "count": 1778,
+  "fetchedAt": "2026-07-25T13:05:21.676106+00:00",
+  "generatedAt": "2026-07-25T13:05:21.676106+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -7099,7 +7099,7 @@
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Southern California",
@@ -8267,6 +8267,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Avionics Hardware Engineer 1"
+    },
+    {
+      "age": "18d",
+      "applyUrl": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Embedded-Systems-Engineer-I_JR500701?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Everfox",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7bc3d6db0ef7",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Systems Engineer 1"
     },
     {
       "age": "1mo",
@@ -26661,7 +26676,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 252,
-    "Simplify New Grad": 319,
+    "Simplify New Grad": 320,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
