@@ -1,7 +1,7 @@
 {
   "count": 1776,
-  "fetchedAt": "2026-07-25T11:00:38.413002+00:00",
-  "generatedAt": "2026-07-25T10:35:19.871490+00:00",
+  "fetchedAt": "2026-07-25T11:05:17.307066+00:00",
+  "generatedAt": "2026-07-25T11:05:17.307066+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1564,21 +1564,6 @@
       "title": "Management Analyst Intern - Research and Planning Division"
     },
     {
-      "age": "8d",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "JP Morgan Chase",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "223c23fa08f8",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
-    },
-    {
       "age": "9d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -1714,7 +1699,7 @@
       "title": "Student Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Moss & Associates",
@@ -3887,6 +3872,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Developer"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Black Cape",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "26f0c9712dea",
+      "jobType": "full-time",
+      "location": "Colorado Springs, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Full Stack Software Engineer"
     },
     {
       "age": "2d",
@@ -7099,7 +7099,7 @@
       "title": "Research Engineer 1 \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Travelers",
@@ -26645,8 +26645,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 252,
-    "Simplify New Grad": 318,
+    "Simplify Internships": 251,
+    "Simplify New Grad": 319,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
