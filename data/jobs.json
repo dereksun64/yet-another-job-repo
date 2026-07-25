@@ -1,7 +1,7 @@
 {
-  "count": 1775,
-  "fetchedAt": "2026-07-25T10:00:42.244175+00:00",
-  "generatedAt": "2026-07-25T09:35:17.787450+00:00",
+  "count": 1776,
+  "fetchedAt": "2026-07-25T10:05:23.523369+00:00",
+  "generatedAt": "2026-07-25T10:05:23.523369+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1969,7 +1969,7 @@
       "title": "Automation Co-op"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -3422,6 +3422,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute \ud83c\udf93"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "CoreWeave",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7dd9ec181faa",
+      "jobType": "internship",
+      "location": "Denton, TXCalhoun, GAAberdeen, SD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Center Apprentice"
     },
     {
       "age": "23d",
@@ -26630,7 +26645,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 251,
+    "Simplify Internships": 252,
     "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
