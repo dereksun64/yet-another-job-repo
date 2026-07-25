@@ -1,7 +1,7 @@
 {
   "count": 1774,
-  "fetchedAt": "2026-07-25T09:00:40.335652+00:00",
-  "generatedAt": "2026-07-25T08:33:03.263570+00:00",
+  "fetchedAt": "2026-07-25T09:05:19.104216+00:00",
+  "generatedAt": "2026-07-25T09:05:19.104216+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -32,21 +32,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Power Modeling & AI Tools"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Onware",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7ffbca67eaf9",
-      "jobType": "internship",
-      "location": "Edmonton, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full Stack Developer-Intern Opportunity"
     },
     {
       "age": "4d",
@@ -7217,6 +7202,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "University of Maryland - College Park",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7b5065d47100",
+      "jobType": "full-time",
+      "location": "Hyattsville, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Engineer - Faculty Specialist"
     },
     {
       "age": "1mo",
@@ -26615,8 +26615,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 251,
-    "Simplify New Grad": 317,
+    "Simplify Internships": 250,
+    "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 162,
     "SpeedyApply USA New Grad": 384,
     "Vansh Internships": 102,
