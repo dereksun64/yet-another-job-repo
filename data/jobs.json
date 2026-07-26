@@ -1,7 +1,7 @@
 {
-  "count": 1761,
-  "fetchedAt": "2026-07-26T12:00:37.636169+00:00",
-  "generatedAt": "2026-07-26T11:40:24.345423+00:00",
+  "count": 1765,
+  "fetchedAt": "2026-07-26T12:05:19.328173+00:00",
+  "generatedAt": "2026-07-26T12:05:19.328173+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -695,6 +695,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Viridien",
@@ -707,6 +722,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RELX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1cd802a48c15",
+      "jobType": "internship",
+      "location": "Southampton, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Apprentice"
     },
     {
       "age": "1mo",
@@ -2612,6 +2642,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Generative AI Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "CHEP",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3aa5e0dbc0d9",
+      "jobType": "internship",
+      "location": "London, UKOrlando, FLAtlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "FP&A Business Intelligence Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ebfe3e3907fb",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multimedia Development Intern"
     },
     {
       "age": "1mo",
@@ -6574,7 +6634,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -26420,7 +26480,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 236,
+    "Simplify Internships": 240,
     "Simplify New Grad": 321,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 384,
