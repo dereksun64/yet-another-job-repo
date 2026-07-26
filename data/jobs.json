@@ -1,7 +1,7 @@
 {
-  "count": 1765,
-  "fetchedAt": "2026-07-26T09:00:42.238602+00:00",
-  "generatedAt": "2026-07-26T07:10:25.392786+00:00",
+  "count": 1764,
+  "fetchedAt": "2026-07-26T09:05:23.439543+00:00",
+  "generatedAt": "2026-07-26T09:05:23.439543+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1352,21 +1352,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Recommendation Infrastructure"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Meshy",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1afce3c0b5ae",
-      "jobType": "internship",
-      "location": "San Francisco, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Infra Engineer Intern"
     },
     {
       "age": "8d",
@@ -26480,7 +26465,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 240,
+    "Simplify Internships": 239,
     "Simplify New Grad": 321,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 384,
