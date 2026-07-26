@@ -1,7 +1,7 @@
 {
-  "count": 1763,
-  "fetchedAt": "2026-07-26T10:00:41.049821+00:00",
-  "generatedAt": "2026-07-26T09:40:24.635617+00:00",
+  "count": 1764,
+  "fetchedAt": "2026-07-26T10:05:22.694205+00:00",
+  "generatedAt": "2026-07-26T10:05:22.694205+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -92,6 +92,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineer Intern"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Denari",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ac8c3b1948b1",
+      "jobType": "internship",
+      "location": "Madison, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product & Software Internship"
     },
     {
       "age": "5d",
@@ -1909,7 +1924,7 @@
       "title": "Automation Co-op"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Laboratory of the Rockies",
@@ -26450,7 +26465,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 238,
+    "Simplify Internships": 239,
     "Simplify New Grad": 321,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 384,
