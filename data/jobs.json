@@ -1,7 +1,7 @@
 {
-  "count": 1765,
-  "fetchedAt": "2026-07-26T12:30:30.735113+00:00",
-  "generatedAt": "2026-07-26T12:05:19.328173+00:00",
+  "count": 1764,
+  "fetchedAt": "2026-07-26T12:35:25.441375+00:00",
+  "generatedAt": "2026-07-26T12:35:25.441375+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1667,21 +1667,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Construction Technologies Intern"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "University of Maryland - College Park",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a81db810a3d6",
-      "jobType": "internship",
-      "location": "Hyattsville, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Office of Career Services Intern - Technology Team"
     },
     {
       "age": "24d",
@@ -6934,7 +6919,7 @@
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Southern California",
@@ -26480,7 +26465,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 240,
+    "Simplify Internships": 239,
     "Simplify New Grad": 321,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 384,
