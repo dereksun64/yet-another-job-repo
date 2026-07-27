@@ -1,7 +1,7 @@
 {
   "count": 1759,
-  "fetchedAt": "2026-07-27T15:30:34.923466+00:00",
-  "generatedAt": "2026-07-27T15:05:21.518351+00:00",
+  "fetchedAt": "2026-07-27T15:35:25.842163+00:00",
+  "generatedAt": "2026-07-27T15:35:25.842163+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -1772,6 +1772,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Power Platform Intern"
+    },
+    {
+      "age": "27d",
+      "applyUrl": "https://www.tesla.com/careers/search/job/272928?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 Tesla",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "0388d34d4345",
+      "jobType": "internship",
+      "location": "Fremont, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineer Intern - Applications Engineering"
     },
     {
       "age": "27d",
@@ -6572,21 +6587,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Product Ownership - Junior Data Engineer"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Engineer-Analyst_R1444?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Torch Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "155053ad5afc",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Engineer/Analyst"
     },
     {
       "age": "4d",
@@ -26390,8 +26390,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 232,
-    "Simplify New Grad": 318,
+    "Simplify Internships": 233,
+    "Simplify New Grad": 317,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 110,
