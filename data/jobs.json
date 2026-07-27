@@ -1,7 +1,7 @@
 {
-  "count": 1755,
-  "fetchedAt": "2026-07-27T23:35:17.906631+00:00",
-  "generatedAt": "2026-07-27T23:05:21.148727+00:00",
+  "count": 1761,
+  "fetchedAt": "2026-07-27T23:40:29.605264+00:00",
+  "generatedAt": "2026-07-27T23:40:29.605264+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3050,6 +3050,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Axon",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "da6533a1e211",
+      "jobType": "internship",
+      "location": "Boston, MASeattle, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Firmware Engineering Internship"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Revise Robotics",
@@ -3455,6 +3470,51 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "92699865faa8",
+      "jobType": "full-time",
+      "location": "Sparks, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Sea Systems"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Chainlink Labs",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "eb99731efde7",
+      "jobType": "full-time",
+      "location": "8 locationsLas Vegas, NVTampa, FLRemote in UKRemote in IrelandCharlotte, NCPhoenix, AZRemote in SpainRemote in Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RunSybil",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d48e6bd35afe",
+      "jobType": "full-time",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "UW Credit Union",
@@ -3500,6 +3560,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Software-Engineer-I_R-083975?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Rocket Companies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "487089e8b6c8",
+      "jobType": "full-time",
+      "location": "TexasMichigan",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RELX",
@@ -3527,6 +3602,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 Graduate"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "CoStar Group",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4901b51417cb",
+      "jobType": "full-time",
+      "location": "Arlington, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 CoStar Suite"
     },
     {
       "age": "0d",
@@ -6199,7 +6289,7 @@
       "title": "Software Engineer \u2013 Early Career"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Peraton",
@@ -26330,8 +26420,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 230,
-    "Simplify New Grad": 313,
+    "Simplify Internships": 231,
+    "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 112,
