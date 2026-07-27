@@ -1,7 +1,7 @@
 {
-  "count": 1764,
-  "fetchedAt": "2026-07-27T01:00:41.364840+00:00",
-  "generatedAt": "2026-07-27T00:35:20.340134+00:00",
+  "count": 1765,
+  "fetchedAt": "2026-07-27T01:05:22.026241+00:00",
+  "generatedAt": "2026-07-27T01:05:22.026241+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -1142,6 +1142,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "3D Graphics Engineer Intern - PICO Foundation"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7533369475380070663/detail?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "7d920b7282b9",
+      "jobType": "internship",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Payment Network - Global Payment"
     },
     {
       "age": "1mo",
@@ -26465,7 +26480,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 238,
+    "Simplify Internships": 239,
     "Simplify New Grad": 321,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
