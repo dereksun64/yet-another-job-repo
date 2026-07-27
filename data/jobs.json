@@ -1,7 +1,7 @@
 {
-  "count": 1754,
-  "fetchedAt": "2026-07-27T22:00:41.546354+00:00",
-  "generatedAt": "2026-07-27T19:35:32.436948+00:00",
+  "count": 1753,
+  "fetchedAt": "2026-07-27T22:05:24.636146+00:00",
+  "generatedAt": "2026-07-27T22:05:24.636146+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -6797,21 +6797,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Warehouse Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers-vch.icims.com/jobs/164020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Vancouver Coastal Health",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a050ae01fbaa",
-      "jobType": "full-time",
-      "location": "Vancouver, BC, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Business Advisor - Data & Analytics"
     },
     {
       "age": "1mo",
@@ -26316,7 +26301,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 231,
-    "Simplify New Grad": 311,
+    "Simplify New Grad": 310,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 112,
