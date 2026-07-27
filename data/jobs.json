@@ -1,7 +1,7 @@
 {
-  "count": 1765,
-  "fetchedAt": "2026-07-27T03:00:37.935514+00:00",
-  "generatedAt": "2026-07-27T02:05:21.535311+00:00",
+  "count": 1763,
+  "fetchedAt": "2026-07-27T03:05:20.478243+00:00",
+  "generatedAt": "2026-07-27T03:05:20.478243+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -6230,21 +6230,6 @@
     },
     {
       "age": "4mo",
-      "applyUrl": "https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Whoop",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "88525389da5e",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Frontend - Growth"
-    },
-    {
-      "age": "4mo",
       "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "State Street",
@@ -6377,21 +6362,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "5mo",
-      "applyUrl": "https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Whoop",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "51b462cdd027",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Backend"
     },
     {
       "age": "5mo",
@@ -7369,7 +7339,7 @@
       "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD \ud83c\udf93"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Software Quality Experts",
@@ -26481,7 +26451,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 239,
-    "Simplify New Grad": 321,
+    "Simplify New Grad": 319,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
     "Vansh Internships": 103,
