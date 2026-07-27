@@ -1,7 +1,7 @@
 {
-  "count": 1755,
-  "fetchedAt": "2026-07-27T11:00:47.882351+00:00",
-  "generatedAt": "2026-07-27T10:35:18.809046+00:00",
+  "count": 1757,
+  "fetchedAt": "2026-07-27T11:05:21.009656+00:00",
+  "generatedAt": "2026-07-27T11:05:21.009656+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -425,21 +425,6 @@
     },
     {
       "age": "30d",
-      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Copart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7a3998d5a113",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "30d",
       "applyUrl": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "kos.ai",
@@ -650,6 +635,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Copart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5de22b586eef",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/iherb/jobs/7776154003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "iHerb",
@@ -673,6 +673,21 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sony",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "25ef2fef02e8",
+      "jobType": "internship",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1429,6 +1444,21 @@
       "title": "Applied AI Intern \ud83c\udf93"
     },
     {
+      "age": "10d",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "JP Morgan Chase",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "223c23fa08f8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
+    },
+    {
       "age": "11d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -1564,7 +1594,7 @@
       "title": "Student Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Moss & Associates",
@@ -6739,7 +6769,7 @@
       "title": "Research Engineer 1 \ud83c\udf93"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Travelers",
@@ -26330,7 +26360,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 231,
+    "Simplify Internships": 233,
     "Simplify New Grad": 316,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
