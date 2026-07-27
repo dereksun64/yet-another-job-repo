@@ -1,7 +1,7 @@
 {
-  "count": 1759,
-  "fetchedAt": "2026-07-27T17:30:41.585319+00:00",
-  "generatedAt": "2026-07-27T15:35:25.842163+00:00",
+  "count": 1755,
+  "fetchedAt": "2026-07-27T17:35:22.679156+00:00",
+  "generatedAt": "2026-07-27T17:35:22.679156+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -3605,21 +3605,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Zello",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "21fff42b575f",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - AI Generalist"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Bridger",
@@ -5477,21 +5462,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Wyetech",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "deb5f2e30ea1",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -7534,21 +7504,6 @@
       "title": "Fixed Income Trading Analyst - Early Careers"
     },
     {
-      "age": "6mo",
-      "applyUrl": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Susquehanna International Group (SIG)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f8115b842267",
-      "jobType": "full-time",
-      "location": "Ardmore, PA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Quantitative Strategy Developer New Grad"
-    },
-    {
       "age": "7mo",
       "applyUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -7682,21 +7637,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Conversion - Software Engineer 1"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Engineer--Product-Architecture_JR101745?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a9c8adb779da",
-      "jobType": "full-time",
-      "location": "San Jose, CABoise, IDFolsom, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "New Grad Product Architecture Engineer - Product Architecture"
     },
     {
       "age": "7d",
@@ -26391,7 +26331,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 233,
-    "Simplify New Grad": 317,
+    "Simplify New Grad": 313,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 110,
