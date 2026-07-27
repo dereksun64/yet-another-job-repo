@@ -1,7 +1,7 @@
 {
-  "count": 1755,
-  "fetchedAt": "2026-07-27T15:00:48.781825+00:00",
-  "generatedAt": "2026-07-27T14:50:33.339124+00:00",
+  "count": 1759,
+  "fetchedAt": "2026-07-27T15:05:21.518351+00:00",
+  "generatedAt": "2026-07-27T15:05:21.518351+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -1339,6 +1339,21 @@
       "title": "Systems Architect Apprentice"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Product---Quality-Specialist-Apprenticeship-Programme_REQ138959-1?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "TJX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f17c557ac35c",
+      "jobType": "internship",
+      "location": "Watford, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product & Quality Specialist Apprentice"
+    },
+    {
       "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -1757,21 +1772,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Power Platform Intern"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://www.tesla.com/careers/search/job/272928?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 Tesla",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "0388d34d4345",
-      "jobType": "internship",
-      "location": "Fremont, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineer Intern - Applications Engineering"
     },
     {
       "age": "27d",
@@ -3484,19 +3484,79 @@
       "title": "Hardware Engineering Co-op"
     },
     {
-      "age": "1d",
-      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "age": "0d",
+      "applyUrl": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
-      "company": "Huntington Ingalls Industries",
+      "company": "UW Credit Union",
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
-      "id": "f50267511264",
+      "id": "5eac719bf38d",
       "jobType": "full-time",
-      "location": "Newport News, VA",
+      "location": "Madison, WI",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cd81090f8685",
+      "jobType": "full-time",
+      "location": "Dulles, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "14ba4466f613",
+      "jobType": "full-time",
+      "location": "State College, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Java Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RELX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ca89b7a730b1",
+      "jobType": "full-time",
+      "location": "Southampton, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Graduate"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "LexisNexis Risk Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d7649dabebc4",
+      "jobType": "full-time",
+      "location": "Southampton, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 Graduate"
     },
     {
       "age": "3d",
@@ -3574,7 +3634,7 @@
       "title": "ML Software Engineer New Grad - Integration & Quality"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -6559,7 +6619,7 @@
       "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -26331,7 +26391,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 232,
-    "Simplify New Grad": 314,
+    "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 110,
