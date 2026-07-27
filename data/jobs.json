@@ -1,7 +1,7 @@
 {
-  "count": 1759,
-  "fetchedAt": "2026-07-27T05:25:19.766042+00:00",
-  "generatedAt": "2026-07-27T05:05:21.413380+00:00",
+  "count": 1760,
+  "fetchedAt": "2026-07-27T05:30:30.543994+00:00",
+  "generatedAt": "2026-07-27T05:30:30.543994+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -17210,6 +17210,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "Stevens Capital Management",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "29a0253b1a0b",
+      "jobType": "internship",
+      "location": "Radnor, PA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quantitative Research Analyst Internship"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Quadrillion Labs",
@@ -26394,7 +26409,7 @@
     "Simplify New Grad": 316,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
-    "Vansh Internships": 109,
+    "Vansh Internships": 110,
     "Vansh New Grad": 597
   }
 }
