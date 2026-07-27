@@ -1,7 +1,7 @@
 {
-  "count": 1760,
-  "fetchedAt": "2026-07-27T05:00:43.949412+00:00",
-  "generatedAt": "2026-07-27T04:35:21.155721+00:00",
+  "count": 1759,
+  "fetchedAt": "2026-07-27T05:05:21.413380+00:00",
+  "generatedAt": "2026-07-27T05:05:21.413380+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -5942,21 +5942,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 Early Career"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Berkshire Hathaway Energy",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e26cf184d87c",
-      "jobType": "full-time",
-      "location": "5 locationsDes Moines, IARichmond, VAReno, NVSioux City, IADavenport, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 Intern"
     },
     {
       "age": "3mo",
@@ -26406,7 +26391,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 236,
-    "Simplify New Grad": 317,
+    "Simplify New Grad": 316,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
     "Vansh Internships": 109,
