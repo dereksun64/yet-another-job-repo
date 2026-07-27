@@ -1,7 +1,7 @@
 {
-  "count": 1757,
-  "fetchedAt": "2026-07-27T10:00:48.210953+00:00",
-  "generatedAt": "2026-07-27T09:35:19.509689+00:00",
+  "count": 1758,
+  "fetchedAt": "2026-07-27T10:05:22.941823+00:00",
+  "generatedAt": "2026-07-27T10:05:22.941823+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -92,6 +92,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineer Intern"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Denari",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ac8c3b1948b1",
+      "jobType": "internship",
+      "location": "Madison, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product & Software Internship"
     },
     {
       "age": "6d",
@@ -26360,7 +26375,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 233,
+    "Simplify Internships": 234,
     "Simplify New Grad": 316,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 387,
