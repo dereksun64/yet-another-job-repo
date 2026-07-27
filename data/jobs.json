@@ -1,7 +1,7 @@
 {
-  "count": 1755,
-  "fetchedAt": "2026-07-27T18:00:43.448634+00:00",
-  "generatedAt": "2026-07-27T17:35:22.679156+00:00",
+  "count": 1754,
+  "fetchedAt": "2026-07-27T18:05:26.709715+00:00",
+  "generatedAt": "2026-07-27T18:05:26.709715+00:00",
   "jobs": [
     {
       "age": "3d",
@@ -107,21 +107,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product & Software Internship"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Schweitzer Engineering Laboratories",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "829c172bf491",
-      "jobType": "internship",
-      "location": "Boise, ID",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "11d",
@@ -7322,21 +7307,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Engineer"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://jobs.smartrecruiters.com/AJBell1/744000139941573?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance New Grad Roles",
-      "company": "AJ Bell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e3814dc071db",
-      "jobType": "full-time",
-      "location": "London, UKManchester, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Investment Analyst"
     },
     {
       "age": "13d",
@@ -17255,6 +17225,21 @@
     },
     {
       "age": "3d",
+      "applyUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Schweitzer Engineering Laboratories",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "829c172bf491",
+      "jobType": "internship",
+      "location": "Boise, ID",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002?utm_source=github-vansh-ouckah",
       "category": "Quant",
       "company": "Radix Trading",
@@ -26330,8 +26315,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 233,
-    "Simplify New Grad": 313,
+    "Simplify Internships": 232,
+    "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 110,
