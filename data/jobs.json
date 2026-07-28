@@ -1,7 +1,7 @@
 {
-  "count": 1761,
-  "fetchedAt": "2026-07-28T18:30:40.829821+00:00",
-  "generatedAt": "2026-07-28T18:10:34.573603+00:00",
+  "count": 1758,
+  "fetchedAt": "2026-07-28T18:35:22.212911+00:00",
+  "generatedAt": "2026-07-28T18:35:22.212911+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3575,36 +3575,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RELX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ca89b7a730b1",
-      "jobType": "full-time",
-      "location": "Southampton, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Graduate"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LexisNexis Risk Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d7649dabebc4",
-      "jobType": "full-time",
-      "location": "Southampton, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 Graduate"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cox Automotive",
@@ -6973,21 +6943,6 @@
       "id": "23692147279d",
       "jobType": "full-time",
       "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3/application?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Teamworks",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b0d5c628b931",
-      "jobType": "full-time",
-      "location": "North Carolina",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -26421,7 +26376,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 230,
-    "Simplify New Grad": 312,
+    "Simplify New Grad": 309,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
