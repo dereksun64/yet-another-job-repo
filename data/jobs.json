@@ -1,7 +1,7 @@
 {
-  "count": 1762,
-  "fetchedAt": "2026-07-28T09:00:49.557201+00:00",
-  "generatedAt": "2026-07-28T07:35:23.588124+00:00",
+  "count": 1759,
+  "fetchedAt": "2026-07-28T09:05:28.526942+00:00",
+  "generatedAt": "2026-07-28T09:05:28.526942+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -32,21 +32,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Power Modeling & AI Tools"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Onware",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7ffbca67eaf9",
-      "jobType": "internship",
-      "location": "Edmonton, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full Stack Developer-Intern Opportunity"
     },
     {
       "age": "7d",
@@ -92,21 +77,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Denari",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ac8c3b1948b1",
-      "jobType": "internship",
-      "location": "Madison, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product & Software Internship"
     },
     {
       "age": "12d",
@@ -752,21 +722,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern - Technology"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LexisNexis Risk Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "428af49473ae",
-      "jobType": "internship",
-      "location": "Southampton, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Apprentice"
     },
     {
       "age": "1mo",
@@ -26435,7 +26390,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 230,
+    "Simplify Internships": 227,
     "Simplify New Grad": 320,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
