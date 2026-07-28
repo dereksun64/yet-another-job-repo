@@ -1,7 +1,7 @@
 {
   "count": 1757,
-  "fetchedAt": "2026-07-28T12:30:34.862246+00:00",
-  "generatedAt": "2026-07-28T12:05:29.236855+00:00",
+  "fetchedAt": "2026-07-28T12:35:29.642846+00:00",
+  "generatedAt": "2026-07-28T12:35:29.642846+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -673,21 +673,6 @@
       "id": "71838e088bcd",
       "jobType": "internship",
       "location": "United States",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sony",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "25ef2fef02e8",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -2552,6 +2537,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "FP&A Business Intelligence Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Tencent",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ebfe3e3907fb",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multimedia Development Intern"
     },
     {
       "age": "1mo",
@@ -6829,7 +6829,7 @@
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Southern California",
