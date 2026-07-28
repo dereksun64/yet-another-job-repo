@@ -1,7 +1,7 @@
 {
-  "count": 1766,
-  "fetchedAt": "2026-07-28T05:30:32.342009+00:00",
-  "generatedAt": "2026-07-28T03:05:23.000456+00:00",
+  "count": 1765,
+  "fetchedAt": "2026-07-28T05:35:18.109246+00:00",
+  "generatedAt": "2026-07-28T05:35:18.109246+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -5486,21 +5486,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "6c06c39f3884",
-      "jobType": "full-time",
-      "location": "Richardson, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Boeing Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3f55ef0fe5cf",
       "jobType": "full-time",
       "location": "Richardson, TX",
       "salary": "",
@@ -26496,7 +26481,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 231,
-    "Simplify New Grad": 323,
+    "Simplify New Grad": 322,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 112,
