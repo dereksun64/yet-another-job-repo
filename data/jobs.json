@@ -1,7 +1,7 @@
 {
-  "count": 1760,
-  "fetchedAt": "2026-07-28T10:30:36.510651+00:00",
-  "generatedAt": "2026-07-28T10:05:22.007096+00:00",
+  "count": 1758,
+  "fetchedAt": "2026-07-28T10:35:25.959975+00:00",
+  "generatedAt": "2026-07-28T10:35:25.959975+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -244,7 +244,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "The Boeing Company",
@@ -1414,21 +1414,6 @@
       "title": "Applied AI Intern \ud83c\udf93"
     },
     {
-      "age": "11d",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "JP Morgan Chase",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "223c23fa08f8",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026 \ud83c\udf93"
-    },
-    {
       "age": "12d",
       "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -1667,6 +1652,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "RL Engineer Intern - RL Engineer - Tesla AI"
+    },
+    {
+      "age": "27d",
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "thyssenkrupp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a6886a61617",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics Intern"
     },
     {
       "age": "27d",
@@ -2837,36 +2837,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Research Analyst Bachelor's or master's degree Intern \ud83c\udf93"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Citadel Securities",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "31056af3f375",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Credit & Rates Rotational Trader Intern"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Citadel Securities",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "30c676b8c248",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Designated Market Maker Intern - Designated Market Maker - Trader"
     },
     {
       "age": "22d",
@@ -7474,7 +7444,7 @@
       "title": "Quantitative Research Analyst University Graduate"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Franklin Templeton",
@@ -26405,7 +26375,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 230,
+    "Simplify Internships": 228,
     "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
