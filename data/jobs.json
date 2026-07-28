@@ -1,10 +1,25 @@
 {
-  "count": 1754,
-  "fetchedAt": "2026-07-28T23:00:35.836011+00:00",
-  "generatedAt": "2026-07-28T22:35:20.394706+00:00",
+  "count": 1756,
+  "fetchedAt": "2026-07-28T23:05:24.705722+00:00",
+  "generatedAt": "2026-07-28T23:05:24.705722+00:00",
   "jobs": [
     {
-      "age": "4d",
+      "age": "0d",
+      "applyUrl": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Savannah River National Laboratory",
+      "companyTier": "Unlisted",
+      "degreeLevel": "bachelors",
+      "id": "eddd2ecb6932",
+      "jobType": "internship",
+      "location": "North Augusta, SC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Developer Undergraduate Intern"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -1504,7 +1519,7 @@
       "title": "Campus Data Engineer Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=7623013&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "EquipmentShare",
@@ -2869,7 +2884,7 @@
       "title": "Quantitative Research Analyst Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -3455,6 +3470,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Qualifacts",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "059274c48c05",
+      "jobType": "full-time",
+      "location": "Ontario, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -3527,6 +3557,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cd81090f8685",
+      "jobType": "full-time",
+      "location": "Dulles, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "14ba4466f613",
+      "jobType": "full-time",
+      "location": "State College, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Java Software Engineer 1"
     },
     {
       "age": "1d",
@@ -3662,21 +3722,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "4ef568cf41b5",
-      "jobType": "full-time",
-      "location": "Redmond, WASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters \ud83c\udf93"
     },
     {
       "age": "6d",
@@ -3890,21 +3935,6 @@
     },
     {
       "age": "11d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "76dff39e057e",
-      "jobType": "full-time",
-      "location": "Seattle, WASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale"
-    },
-    {
-      "age": "11d",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Mastercard",
@@ -3919,7 +3949,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -4159,7 +4189,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -4369,7 +4399,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -4618,6 +4648,21 @@
       "id": "41dbd5726d4d",
       "jobType": "full-time",
       "location": "4 locationsSparks, MDHartford, CTAtlanta, GASt Paul, MN",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "27d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "47c589d11bd4",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -7624,7 +7669,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -7667,21 +7712,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d04e4030d40f",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "FPGA Engineer 1"
     },
     {
       "age": "20d",
@@ -26315,8 +26345,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 229,
-    "Simplify New Grad": 305,
+    "Simplify Internships": 230,
+    "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
