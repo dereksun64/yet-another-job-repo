@@ -1,7 +1,7 @@
 {
-  "count": 1758,
-  "fetchedAt": "2026-07-28T19:00:42.457557+00:00",
-  "generatedAt": "2026-07-28T18:35:22.212911+00:00",
+  "count": 1757,
+  "fetchedAt": "2026-07-28T19:05:20.319627+00:00",
+  "generatedAt": "2026-07-28T19:05:20.319627+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -6617,21 +6617,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Engineer"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "GRAIL",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aa7ce568b53a",
-      "jobType": "full-time",
-      "location": "Durham, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Analytics Engineer 1"
     },
     {
       "age": "7d",
@@ -26376,7 +26361,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 230,
-    "Simplify New Grad": 309,
+    "Simplify New Grad": 308,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
