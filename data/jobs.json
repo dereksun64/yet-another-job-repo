@@ -1,7 +1,7 @@
 {
   "count": 1756,
-  "fetchedAt": "2026-07-28T21:35:22.469850+00:00",
-  "generatedAt": "2026-07-28T21:35:22.469850+00:00",
+  "fetchedAt": "2026-07-28T21:40:26.194774+00:00",
+  "generatedAt": "2026-07-28T21:40:26.194774+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3452,21 +3452,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mitratech",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "48146190a89b",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Assurehire - Go"
     },
     {
       "age": "0d",
@@ -21395,6 +21380,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+      "category": "Software Engineering",
+      "company": "Mitratech",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "48146190a89b",
+      "jobType": "full-time",
+      "location": "Remote - USA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - AssureHire - Go"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/en-US/publicservicecareers/job/ITE-CE-College-East/Lecturer---Cloud-Management---Operations--ITE-College-East----2-Year-Contract_JR-10000053444",
       "category": "Other",
       "company": "Singapore Public Service",
@@ -26346,7 +26346,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 229,
-    "Simplify New Grad": 308,
+    "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
