@@ -1,7 +1,7 @@
 {
-  "count": 1761,
-  "fetchedAt": "2026-07-28T10:00:45.989398+00:00",
-  "generatedAt": "2026-07-28T09:40:26.168286+00:00",
+  "count": 1760,
+  "fetchedAt": "2026-07-28T10:05:22.007096+00:00",
+  "generatedAt": "2026-07-28T10:05:22.007096+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -1670,21 +1670,6 @@
     },
     {
       "age": "27d",
-      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "thyssenkrupp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0a6886a61617",
-      "jobType": "internship",
-      "location": "Cleveland, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analytics Intern"
-    },
-    {
-      "age": "27d",
       "applyUrl": "https://careers-sig.icims.com/jobs/11078/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Susquehanna International Group (SIG)",
@@ -2537,6 +2522,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Generative AI Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "CHEP",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3aa5e0dbc0d9",
+      "jobType": "internship",
+      "location": "London, UKOrlando, FLAtlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "FP&A Business Intelligence Intern"
     },
     {
       "age": "1mo",
@@ -7097,21 +7097,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Scientist New Grad - Model Optimization"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Allen Control Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2370f9804bde",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Computer Vision & Machine Learning Engineer"
     },
     {
       "age": "2mo",
@@ -26421,7 +26406,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 230,
-    "Simplify New Grad": 319,
+    "Simplify New Grad": 318,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 388,
     "Vansh Internships": 112,
