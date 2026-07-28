@@ -1,7 +1,7 @@
 {
-  "count": 1756,
-  "fetchedAt": "2026-07-28T22:00:40.986235+00:00",
-  "generatedAt": "2026-07-28T21:40:26.194774+00:00",
+  "count": 1754,
+  "fetchedAt": "2026-07-28T22:05:26.863531+00:00",
+  "generatedAt": "2026-07-28T22:05:26.863531+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -508,21 +508,6 @@
       "id": "99de08a56db1",
       "jobType": "internship",
       "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Altasciences",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0dbc15c4e9b0",
-      "jobType": "internship",
-      "location": "Overland Park, KS",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -2627,6 +2612,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7533045355162044690/detail?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "f255570bb3cb",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -5480,21 +5480,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "McDonald's",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "369b0b7bd963",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 C#"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Integrity",
@@ -6557,21 +6542,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Geospatial/Remote Sensing Analyst"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "51eec8079e06",
-      "jobType": "full-time",
-      "location": "5 locationsWashingtonCaliforniaTexasNYCMassachusetts",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93"
     },
     {
       "age": "7d",
@@ -26346,7 +26316,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 229,
-    "Simplify New Grad": 307,
+    "Simplify New Grad": 305,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
