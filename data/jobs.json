@@ -1,7 +1,7 @@
 {
-  "count": 1757,
-  "fetchedAt": "2026-07-28T21:30:35.956140+00:00",
-  "generatedAt": "2026-07-28T19:05:20.319627+00:00",
+  "count": 1756,
+  "fetchedAt": "2026-07-28T21:35:22.469850+00:00",
+  "generatedAt": "2026-07-28T21:35:22.469850+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -2627,21 +2627,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.bytedance.com/en/position/7533045355162044690/detail?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 ByteDance",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "f255570bb3cb",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -26360,7 +26345,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 230,
+    "Simplify Internships": 229,
     "Simplify New Grad": 308,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
