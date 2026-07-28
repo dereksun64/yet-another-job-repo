@@ -1,7 +1,7 @@
 {
-  "count": 1764,
-  "fetchedAt": "2026-07-28T18:05:20.000128+00:00",
-  "generatedAt": "2026-07-28T17:35:23.781013+00:00",
+  "count": 1761,
+  "fetchedAt": "2026-07-28T18:10:34.573603+00:00",
+  "generatedAt": "2026-07-28T18:10:34.573603+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -4250,21 +4250,6 @@
     },
     {
       "age": "14d",
-      "applyUrl": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "WhatNot",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a977763839cd",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "14d",
       "applyUrl": "https://jobs.lever.co/aledade/3eafe371-4bee-492f-af5c-fd2e3f71b8da/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Aledade",
@@ -7549,21 +7534,6 @@
       "title": "Junior Embedded Software Engineer"
     },
     {
-      "age": "4d",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---XD-Server-Engineering---Early-Career_1209599?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Hewlett Packard Enterprise",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "891aeb444302",
-      "jobType": "full-time",
-      "location": "Spring, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Electrical Hardware Engineer \u2013 Early Career - XD Server Engineering"
-    },
-    {
       "age": "5d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -7862,21 +7832,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8621629002?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Relativity Space",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7767522f1529",
-      "jobType": "full-time",
-      "location": "Long Beach, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Avionics Hardware Engineer 1"
     },
     {
       "age": "21d",
@@ -26466,7 +26421,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 230,
-    "Simplify New Grad": 315,
+    "Simplify New Grad": 312,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
