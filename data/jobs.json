@@ -1,7 +1,7 @@
 {
   "count": 1766,
-  "fetchedAt": "2026-07-28T15:00:43.904180+00:00",
-  "generatedAt": "2026-07-28T14:35:25.440165+00:00",
+  "fetchedAt": "2026-07-28T15:05:29.455292+00:00",
+  "generatedAt": "2026-07-28T15:05:29.455292+00:00",
   "jobs": [
     {
       "age": "4d",
@@ -3560,21 +3560,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cd81090f8685",
-      "jobType": "full-time",
-      "location": "Dulles, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -3709,7 +3694,7 @@
       "title": "Early Career Product Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -6679,7 +6664,7 @@
       "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -17120,6 +17105,36 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Chicago Trading Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "031e06d5b84c",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "Chicago Trading Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5f6b1155af35",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quant Trading Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Appian",
@@ -19427,21 +19442,6 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "AI/SWE Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "category": "Software Engineering",
-      "company": "Chicago Trading Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "031e06d5b84c",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineering Internship - Summer 2027"
     },
     {
       "age": "7d",
@@ -26496,10 +26496,10 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 230,
-    "Simplify New Grad": 317,
+    "Simplify New Grad": 316,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
-    "Vansh Internships": 112,
+    "Vansh Internships": 114,
     "Vansh New Grad": 597
   }
 }
