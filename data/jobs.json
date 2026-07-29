@@ -1,7 +1,7 @@
 {
   "count": 1760,
-  "fetchedAt": "2026-07-29T09:30:39.905966+00:00",
-  "generatedAt": "2026-07-29T09:05:29.954358+00:00",
+  "fetchedAt": "2026-07-29T09:35:33.459303+00:00",
+  "generatedAt": "2026-07-29T09:35:33.459303+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17,21 +17,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Undergraduate Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f359c1530dd3",
-      "jobType": "internship",
-      "location": "Urbana, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "5d",
@@ -65,6 +50,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Onware",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7ffbca67eaf9",
+      "jobType": "internship",
+      "location": "Edmonton, AB, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Full Stack Developer-Intern Opportunity"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Bloxd",
@@ -92,21 +92,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Denari",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ac8c3b1948b1",
-      "jobType": "internship",
-      "location": "Madison, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product & Software Internship"
     },
     {
       "age": "13d",
@@ -755,6 +740,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "LexisNexis Risk Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "428af49473ae",
+      "jobType": "internship",
+      "location": "Southampton, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Apprentice"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://lifeattiktok.com/search/7538301580093720840?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1354,7 +1354,7 @@
       "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Mistral AI",
@@ -1549,7 +1549,7 @@
       "title": "Construction Technologies Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "JP Morgan Chase",
@@ -2839,7 +2839,7 @@
       "title": "Campus Quantitative Researcher Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel Securities",
@@ -2899,7 +2899,7 @@
       "title": "Relationship Manager Commercial Markets Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -2914,7 +2914,7 @@
       "title": "Quantitative Researcher \u2013 PhD Intern \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -4129,7 +4129,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Faros AI",
@@ -4144,7 +4144,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Checkout.com",
@@ -4519,7 +4519,7 @@
       "title": "iOS Engineer 1"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -5098,21 +5098,6 @@
       "id": "0ab0c2a582d7",
       "jobType": "full-time",
       "location": "Mason, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "DAT Freight & Analytics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "85efcd00402a",
-      "jobType": "full-time",
-      "location": "Seattle, WA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -7699,7 +7684,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Corvus Robotics",
@@ -7789,7 +7774,7 @@
       "title": "ASIC Verification Engineer New Grad"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -24665,6 +24650,21 @@
     },
     {
       "age": "35d",
+      "applyUrl": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004",
+      "category": "Software Engineering",
+      "company": "DAT Freight & Analytics",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "85efcd00402a",
+      "jobType": "full-time",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I"
+    },
+    {
+      "age": "35d",
       "applyUrl": "https://job-boards.greenhouse.io/eulerity/jobs/4691221006",
       "category": "Software Engineering",
       "company": "Eulerity",
@@ -26406,7 +26406,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 229,
-    "Simplify New Grad": 311,
+    "Simplify New Grad": 310,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
