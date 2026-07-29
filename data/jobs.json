@@ -1,7 +1,7 @@
 {
-  "count": 1752,
-  "fetchedAt": "2026-07-29T13:00:51.213827+00:00",
-  "generatedAt": "2026-07-29T12:35:29.281160+00:00",
+  "count": 1753,
+  "fetchedAt": "2026-07-29T13:05:29.909245+00:00",
+  "generatedAt": "2026-07-29T13:05:29.909245+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1592,6 +1592,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "RL Engineer Intern - RL Engineer - Tesla AI"
+    },
+    {
+      "age": "28d",
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "thyssenkrupp",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a6886a61617",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics Intern"
     },
     {
       "age": "28d",
@@ -26285,7 +26300,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 223,
+    "Simplify Internships": 224,
     "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
