@@ -1,7 +1,7 @@
 {
-  "count": 1755,
-  "fetchedAt": "2026-07-29T18:30:36.068529+00:00",
-  "generatedAt": "2026-07-29T18:05:26.297573+00:00",
+  "count": 1753,
+  "fetchedAt": "2026-07-29T18:35:27.315635+00:00",
+  "generatedAt": "2026-07-29T18:35:27.315635+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3680,21 +3680,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Black Cape",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "26f0c9712dea",
-      "jobType": "full-time",
-      "location": "Colorado Springs, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Full Stack Software Engineer"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -6347,21 +6332,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Developer \u2013 New Graduate"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27988?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Fanatics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "63cba3698d6b",
-      "jobType": "full-time",
-      "location": "Manchester, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Product Developer"
     },
     {
       "age": "12d",
@@ -26331,7 +26301,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 223,
-    "Simplify New Grad": 306,
+    "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
