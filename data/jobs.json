@@ -1,7 +1,7 @@
 {
-  "count": 1764,
-  "fetchedAt": "2026-07-29T09:00:51.364027+00:00",
-  "generatedAt": "2026-07-29T08:35:25.387775+00:00",
+  "count": 1760,
+  "fetchedAt": "2026-07-29T09:05:29.954358+00:00",
+  "generatedAt": "2026-07-29T09:05:29.954358+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -62,21 +62,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Power Modeling & AI Tools"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Onware",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7ffbca67eaf9",
-      "jobType": "internship",
-      "location": "Edmonton, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full Stack Developer-Intern Opportunity"
     },
     {
       "age": "8d",
@@ -767,21 +752,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern - Technology"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LexisNexis Risk Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "428af49473ae",
-      "jobType": "internship",
-      "location": "Southampton, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Apprentice"
     },
     {
       "age": "1mo",
@@ -6965,21 +6935,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "University of Maryland - College Park",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7b5065d47100",
-      "jobType": "full-time",
-      "location": "Hyattsville, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Engineer - Faculty Specialist"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 NVIDIA",
@@ -7562,21 +7517,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Systems Engineer New Grad"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Observable Space",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3100aac21c75",
-      "jobType": "full-time",
-      "location": "LA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Embedded Software Engineer"
     },
     {
       "age": "6d",
@@ -26465,8 +26405,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 231,
-    "Simplify New Grad": 313,
+    "Simplify Internships": 229,
+    "Simplify New Grad": 311,
     "SpeedyApply USA Internships": 157,
     "SpeedyApply USA New Grad": 393,
     "Vansh Internships": 113,
