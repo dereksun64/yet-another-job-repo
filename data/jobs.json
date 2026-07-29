@@ -1,7 +1,7 @@
 {
-  "count": 1757,
-  "fetchedAt": "2026-07-29T15:00:46.996730+00:00",
-  "generatedAt": "2026-07-29T14:40:38.838037+00:00",
+  "count": 1758,
+  "fetchedAt": "2026-07-29T15:05:33.224074+00:00",
+  "generatedAt": "2026-07-29T15:05:33.224074+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3679,7 +3679,7 @@
       "title": "Early Career Product Engineer"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -6439,6 +6439,21 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "dcc6a9f83d4d",
+      "jobType": "full-time",
+      "location": "Phoenix, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Engineer 1 - Global Servicing Technology"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -6529,7 +6544,7 @@
       "title": "Entry Level Geospatial/Remote Sensing Analyst"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -26361,7 +26376,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 224,
-    "Simplify New Grad": 307,
+    "Simplify New Grad": 308,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
