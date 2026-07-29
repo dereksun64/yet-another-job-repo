@@ -1,7 +1,7 @@
 {
-  "count": 1758,
-  "fetchedAt": "2026-07-29T23:30:38.950069+00:00",
-  "generatedAt": "2026-07-29T23:05:25.762204+00:00",
+  "count": 1759,
+  "fetchedAt": "2026-07-29T23:35:27.355684+00:00",
+  "generatedAt": "2026-07-29T23:35:27.355684+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3407,6 +3407,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer - AI-Forward"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Remitly",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ea1425447782",
+      "jobType": "full-time",
+      "location": "Arlington, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Fullstack Software Development Engineer 1 - Card"
     },
     {
       "age": "0d",
@@ -26376,7 +26391,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 224,
-    "Simplify New Grad": 308,
+    "Simplify New Grad": 309,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
