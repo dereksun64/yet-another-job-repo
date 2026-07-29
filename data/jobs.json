@@ -1,7 +1,7 @@
 {
-  "count": 1756,
-  "fetchedAt": "2026-07-29T18:00:40.221197+00:00",
-  "generatedAt": "2026-07-29T17:35:22.142470+00:00",
+  "count": 1755,
+  "fetchedAt": "2026-07-29T18:05:26.297573+00:00",
+  "generatedAt": "2026-07-29T18:05:26.297573+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1817,21 +1817,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Inference Optimization Intern - Performance Modeling"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "F. Schumacher & Co.",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e28f6ed141f7",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Data Strategy and Operations Intern"
     },
     {
       "age": "1mo",
@@ -26345,7 +26330,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 224,
+    "Simplify Internships": 223,
     "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
