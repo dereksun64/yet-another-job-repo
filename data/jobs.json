@@ -1,7 +1,7 @@
 {
-  "count": 1757,
-  "fetchedAt": "2026-07-29T17:30:36.801450+00:00",
-  "generatedAt": "2026-07-29T15:35:33.809473+00:00",
+  "count": 1756,
+  "fetchedAt": "2026-07-29T17:35:22.142470+00:00",
+  "generatedAt": "2026-07-29T17:35:22.142470+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7423,21 +7423,6 @@
       "id": "51a0c20c48e6",
       "jobType": "full-time",
       "location": "Tewksbury, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "85d4a8a970a3",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -26361,7 +26346,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 224,
-    "Simplify New Grad": 307,
+    "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
