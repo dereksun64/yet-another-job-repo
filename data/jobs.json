@@ -1,7 +1,7 @@
 {
   "count": 1760,
-  "fetchedAt": "2026-07-29T10:00:44.067783+00:00",
-  "generatedAt": "2026-07-29T09:35:33.459303+00:00",
+  "fetchedAt": "2026-07-29T10:05:31.152217+00:00",
+  "generatedAt": "2026-07-29T10:05:31.152217+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4925,21 +4925,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Momentum Engineering",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b145630dde32",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "NCR Voyix",
@@ -5878,6 +5863,21 @@
       "id": "e672176d5a93",
       "jobType": "full-time",
       "location": "SFNYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "3mo",
+      "applyUrl": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Realm",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1b308b1b5ce6",
+      "jobType": "full-time",
+      "location": "Remote in USA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
