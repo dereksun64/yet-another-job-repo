@@ -1,7 +1,7 @@
 {
-  "count": 1586,
-  "fetchedAt": "2026-07-30T21:55:29.572279+00:00",
-  "generatedAt": "2026-07-30T21:50:33.269328+00:00",
+  "count": 1587,
+  "fetchedAt": "2026-07-30T22:00:49.689512+00:00",
+  "generatedAt": "2026-07-30T22:00:49.689512+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5912,6 +5912,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "Appian",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "33c4bd8895e9",
+      "jobType": "full-time",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "New Grad 2027: Software Engineer \ud83d\udec2"
     },
     {
       "age": "6d",
@@ -23800,6 +23815,6 @@
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 109,
-    "Vansh New Grad": 574
+    "Vansh New Grad": 575
   }
 }
