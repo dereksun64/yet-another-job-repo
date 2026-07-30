@@ -1,7 +1,7 @@
 {
-  "count": 1610,
-  "fetchedAt": "2026-07-30T21:30:35.700661+00:00",
-  "generatedAt": "2026-07-30T20:55:20.756254+00:00",
+  "count": 1609,
+  "fetchedAt": "2026-07-30T21:35:21.095388+00:00",
+  "generatedAt": "2026-07-30T21:35:21.095388+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1517,21 +1517,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nooks",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0b1ccc84fdc2",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "0d",
@@ -24156,7 +24141,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 294,
+    "Simplify New Grad": 293,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 109,
