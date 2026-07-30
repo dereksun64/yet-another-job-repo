@@ -1,7 +1,7 @@
 {
   "count": 1587,
-  "fetchedAt": "2026-07-30T22:00:49.689512+00:00",
-  "generatedAt": "2026-07-30T22:00:49.689512+00:00",
+  "fetchedAt": "2026-07-30T22:07:02.196609+00:00",
+  "generatedAt": "2026-07-30T22:07:02.196609+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -319,7 +319,7 @@
       "title": "Technology Intern"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Marshall Wace",
@@ -394,7 +394,7 @@
       "title": "Forward Deployed Software Engineer Intern - Commercial"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Palantir",
@@ -1069,7 +1069,7 @@
       "title": "Quantitative Systematic Trading Intern \ud83c\udf93"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Voloridge",
@@ -2194,7 +2194,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Wyetech",
@@ -2644,7 +2644,7 @@
       "title": "Software Engineer \u2013 Early Career - AI"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://jobs.lever.co/spotify/b4ad9572-e20f-4185-a284-99d9740d04f0/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "Spotify",
@@ -3377,21 +3377,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "C++ Junior Software Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Snap Finance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "29d532a845b0",
-      "jobType": "full-time",
-      "location": "Arizona",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -14479,6 +14464,21 @@
       "title": "Embedded DSP Software Engineer"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "General Dynamics Information Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c900322803f5",
+      "jobType": "internship",
+      "location": "Albany, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Systems Engineer Intern"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
@@ -23811,10 +23811,10 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 293,
+    "Simplify New Grad": 292,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
-    "Vansh Internships": 109,
+    "Vansh Internships": 110,
     "Vansh New Grad": 575
   }
 }
