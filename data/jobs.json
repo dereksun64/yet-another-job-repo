@@ -1,7 +1,7 @@
 {
-  "count": 1625,
-  "fetchedAt": "2026-07-30T05:30:40.146150+00:00",
-  "generatedAt": "2026-07-30T05:05:20.678758+00:00",
+  "count": 1624,
+  "fetchedAt": "2026-07-30T05:35:27.768354+00:00",
+  "generatedAt": "2026-07-30T05:35:27.768354+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4037,21 +4037,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Full Stack Engineer (Java/React) \ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Scout AI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a9c60623f3b8",
-      "jobType": "full-time",
-      "location": "Sunnyvale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Firmware Engineer \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "4mo",
@@ -24381,7 +24366,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 304,
+    "Simplify New Grad": 303,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
