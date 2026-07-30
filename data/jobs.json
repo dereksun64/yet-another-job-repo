@@ -1,7 +1,7 @@
 {
-  "count": 1596,
-  "fetchedAt": "2026-07-30T23:35:24.768919+00:00",
-  "generatedAt": "2026-07-30T23:05:28.910652+00:00",
+  "count": 1595,
+  "fetchedAt": "2026-07-30T23:40:27.089723+00:00",
+  "generatedAt": "2026-07-30T23:40:27.089723+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2897,21 +2897,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Confido",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14e312a38cc7",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "29d",
@@ -23946,7 +23931,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 104,
-    "Simplify New Grad": 298,
+    "Simplify New Grad": 297,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
