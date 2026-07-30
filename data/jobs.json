@@ -1,7 +1,7 @@
 {
   "count": 1622,
-  "fetchedAt": "2026-07-30T09:00:44.003233+00:00",
-  "generatedAt": "2026-07-30T08:40:35.239778+00:00",
+  "fetchedAt": "2026-07-30T09:05:21.862054+00:00",
+  "generatedAt": "2026-07-30T09:05:21.862054+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -32,21 +32,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "62b9bfba4abb",
-      "jobType": "internship",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "5d",
@@ -5117,6 +5102,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning Engineer 1"
+    },
+    {
+      "age": "3mo",
+      "applyUrl": "https://jobs.lever.co/planettechnologies/3a0d29bd-59a3-4326-b5ca-40e747708102/apply?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Planet Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "de75c2561b39",
+      "jobType": "full-time",
+      "location": "Washington, DC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Scientist"
     },
     {
       "age": "3mo",
@@ -24335,8 +24335,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 101,
-    "Simplify New Grad": 302,
+    "Simplify Internships": 100,
+    "Simplify New Grad": 303,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 112,
