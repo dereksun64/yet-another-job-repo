@@ -1,7 +1,7 @@
 {
-  "count": 1618,
-  "fetchedAt": "2026-07-30T13:00:41.438815+00:00",
-  "generatedAt": "2026-07-30T12:35:27.463440+00:00",
+  "count": 1617,
+  "fetchedAt": "2026-07-30T13:05:29.688595+00:00",
+  "generatedAt": "2026-07-30T13:05:29.688595+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -587,21 +587,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineering Intern"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GE Healthcare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bf3429ed6990",
-      "jobType": "internship",
-      "location": "Waukesha, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Development Program Intern - Software"
     },
     {
       "age": "15d",
@@ -24275,7 +24260,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 100,
+    "Simplify Internships": 99,
     "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
