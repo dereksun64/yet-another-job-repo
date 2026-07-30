@@ -1,7 +1,7 @@
 {
-  "count": 1623,
-  "fetchedAt": "2026-07-30T10:00:43.678354+00:00",
-  "generatedAt": "2026-07-30T09:35:21.241470+00:00",
+  "count": 1622,
+  "fetchedAt": "2026-07-30T10:05:23.638263+00:00",
+  "generatedAt": "2026-07-30T10:05:23.638263+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -302,21 +302,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern"
-    },
-    {
-      "age": "25d",
-      "applyUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CTGT",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bffbde951c34",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "28d",
@@ -1174,7 +1159,7 @@
       "title": "Quantitative Developer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Blackstone",
@@ -24350,7 +24335,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 101,
+    "Simplify Internships": 100,
     "Simplify New Grad": 303,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
