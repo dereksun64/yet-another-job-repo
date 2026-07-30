@@ -1,7 +1,7 @@
 {
-  "count": 1619,
-  "fetchedAt": "2026-07-30T12:30:38.477573+00:00",
-  "generatedAt": "2026-07-30T12:05:25.660736+00:00",
+  "count": 1618,
+  "fetchedAt": "2026-07-30T12:35:27.463440+00:00",
+  "generatedAt": "2026-07-30T12:35:27.463440+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17,21 +17,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Frontend Developer Internship"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "237d0ad81005",
-      "jobType": "internship",
-      "location": "State College, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -4849,7 +4834,7 @@
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "University of Southern California",
@@ -24290,7 +24275,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 101,
+    "Simplify Internships": 100,
     "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
