@@ -1,7 +1,7 @@
 {
-  "count": 1757,
-  "fetchedAt": "2026-07-30T01:00:39.401806+00:00",
-  "generatedAt": "2026-07-30T00:35:18.829237+00:00",
+  "count": 1756,
+  "fetchedAt": "2026-07-30T01:05:24.067447+00:00",
+  "generatedAt": "2026-07-30T01:05:24.067447+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5102,21 +5102,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cadence Design Systems",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "69338874657d",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 2 New Grad"
     },
     {
       "age": "1mo",
@@ -26361,7 +26346,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 224,
-    "Simplify New Grad": 307,
+    "Simplify New Grad": 306,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
