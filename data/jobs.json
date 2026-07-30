@@ -1,7 +1,7 @@
 {
-  "count": 1758,
-  "fetchedAt": "2026-07-30T00:30:34.212965+00:00",
-  "generatedAt": "2026-07-30T00:05:21.195879+00:00",
+  "count": 1757,
+  "fetchedAt": "2026-07-30T00:35:18.829237+00:00",
+  "generatedAt": "2026-07-30T00:35:18.829237+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -7922,21 +7922,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Flight Software Engineer 1"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Aurora Innovation",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "74912676a17e",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "4mo",
@@ -26376,7 +26361,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 224,
-    "Simplify New Grad": 308,
+    "Simplify New Grad": 307,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
