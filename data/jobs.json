@@ -1,7 +1,7 @@
 {
-  "count": 1613,
-  "fetchedAt": "2026-07-30T19:05:19.610658+00:00",
-  "generatedAt": "2026-07-30T18:10:35.967852+00:00",
+  "count": 1611,
+  "fetchedAt": "2026-07-30T19:10:28.288163+00:00",
+  "generatedAt": "2026-07-30T19:10:28.288163+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1640,21 +1640,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Everfox",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b7e21eb82a02",
-      "jobType": "full-time",
-      "location": "Richardson, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Crusoe",
@@ -2012,21 +1997,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - Test - Entry-Junior"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Revel",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0a583666c409",
-      "jobType": "full-time",
-      "location": "LA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Full Stack Software Engineer - Entry-Junior"
     },
     {
       "age": "9d",
@@ -24201,7 +24171,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 296,
+    "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 110,
