@@ -1,7 +1,7 @@
 {
-  "count": 1620,
-  "fetchedAt": "2026-07-30T11:30:45.699893+00:00",
-  "generatedAt": "2026-07-30T11:05:22.859710+00:00",
+  "count": 1618,
+  "fetchedAt": "2026-07-30T11:35:20.453051+00:00",
+  "generatedAt": "2026-07-30T11:35:20.453051+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1895,21 +1895,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "450cc7c9d368",
-      "jobType": "full-time",
-      "location": "Concord, MATewksbury, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Traba",
@@ -2704,7 +2689,7 @@
       "title": "Software Engineer \u2013 University Graduate"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-50268?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Travelers",
@@ -4864,7 +4849,7 @@
       "title": "Research Engineer 1 \ud83c\udf93"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Travelers",
@@ -5327,21 +5312,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career AI/ML Engineer"
-    },
-    {
-      "age": "6mo",
-      "applyUrl": "https://careers.medpace.com/jobs/12454?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Medpace",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e1e2a03e89b9",
-      "jobType": "full-time",
-      "location": "Cincinnati, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Engineer"
     },
     {
       "age": "16d",
@@ -24306,7 +24276,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 100,
-    "Simplify New Grad": 301,
+    "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 112,
