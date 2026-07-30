@@ -1,7 +1,7 @@
 {
-  "count": 1616,
-  "fetchedAt": "2026-07-30T18:05:28.626989+00:00",
-  "generatedAt": "2026-07-30T17:35:29.327956+00:00",
+  "count": 1613,
+  "fetchedAt": "2026-07-30T18:10:35.967852+00:00",
+  "generatedAt": "2026-07-30T18:10:35.967852+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2885,21 +2885,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.jobvite.com/altamiracorps/job/oPlpAfwT?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Altamira Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e7c9128c2f7e",
-      "jobType": "full-time",
-      "location": "4 locationsAugusta, GAState College, PACentennial, COGainesville, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "PointOne",
@@ -3137,21 +3122,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Engineer-Analyst_R1275?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Torch Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1bc75c927ebc",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Engineer/Analyst"
     },
     {
       "age": "1mo",
@@ -4907,21 +4877,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Warehouse Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705/application?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Flashpoint",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a5ccec2b310",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1"
     },
     {
       "age": "1mo",
@@ -24246,7 +24201,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 299,
+    "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 110,
