@@ -1,7 +1,7 @@
 {
-  "count": 1623,
-  "fetchedAt": "2026-07-30T08:35:23.669511+00:00",
-  "generatedAt": "2026-07-30T07:10:30.431362+00:00",
+  "count": 1622,
+  "fetchedAt": "2026-07-30T08:40:35.239778+00:00",
+  "generatedAt": "2026-07-30T08:40:35.239778+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2012,21 +2012,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Full Stack Software Engineer - Entry-Junior"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Supernova Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3f1d8d729174",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
     },
     {
       "age": "9d",
@@ -24351,7 +24336,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 303,
+    "Simplify New Grad": 302,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 112,
