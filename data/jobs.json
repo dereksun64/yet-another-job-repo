@@ -1,8 +1,23 @@
 {
-  "count": 1589,
-  "fetchedAt": "2026-07-30T23:00:40.673617+00:00",
-  "generatedAt": "2026-07-30T22:40:31.312227+00:00",
+  "count": 1596,
+  "fetchedAt": "2026-07-30T23:05:28.910652+00:00",
+  "generatedAt": "2026-07-30T23:05:28.910652+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GoDaddy",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "a91b341bd169",
+      "jobType": "internship",
+      "location": "Tempe, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Development Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=Simplify&ref=Simplify",
@@ -109,7 +124,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -439,7 +454,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Appian",
@@ -664,7 +679,7 @@
       "title": "Data Analyst Co-op"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "AlixPartners",
@@ -782,6 +797,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Trading Operations Analyst Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "University of Virginia Investment Management Company (UVIMCO)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5ae99f7b1fbc",
+      "jobType": "internship",
+      "location": "Charlottesville, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Investment Analyst Intern"
     },
     {
       "age": "6d",
@@ -1189,7 +1219,7 @@
       "title": "Quantitative Strategy Developer Intern"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -1535,6 +1565,51 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.esri.com/careers/5198108007?gh_jid=5198108007&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Esri",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5dccf67d464f",
+      "jobType": "full-time",
+      "location": "West Redlands, Redlands, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Product Engineer 1 - ArcGIS Maps SDKs"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.esri.com/careers/5185281007?gh_jid=5185281007&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Esri",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "427c79c393c3",
+      "jobType": "full-time",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "C++ Software Development Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "47e4107913cb",
+      "jobType": "full-time",
+      "location": "Fulton, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -1577,6 +1652,51 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a64f45a4ce0a",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Bank of Montreal",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cca479dd23fb",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Developer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Bank of Montreal",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bd8595825e2e",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Developer New Grad"
     },
     {
       "age": "0d",
@@ -1744,22 +1864,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cubic",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d4a3c4155514",
-      "jobType": "full-time",
-      "location": "Ashburn, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Unified Video Sustainment"
-    },
-    {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -2134,7 +2239,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -2374,7 +2479,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -2584,7 +2689,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5599,7 +5704,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -23840,8 +23945,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 102,
-    "Simplify New Grad": 293,
+    "Simplify Internships": 104,
+    "Simplify New Grad": 298,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
