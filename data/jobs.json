@@ -1,7 +1,7 @@
 {
-  "count": 1624,
-  "fetchedAt": "2026-07-30T06:00:41.433790+00:00",
-  "generatedAt": "2026-07-30T05:35:27.768354+00:00",
+  "count": 1623,
+  "fetchedAt": "2026-07-30T06:04:45.471414+00:00",
+  "generatedAt": "2026-07-30T06:04:45.471414+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4022,21 +4022,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 Early Career"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Mission Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "27ce3ca43b93",
-      "jobType": "full-time",
-      "location": "Dedham, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Full Stack Engineer (Java/React) \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "4mo",
@@ -24366,7 +24351,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 101,
-    "Simplify New Grad": 303,
+    "Simplify New Grad": 302,
     "SpeedyApply USA Internships": 156,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 113,
