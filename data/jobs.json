@@ -1,7 +1,7 @@
 {
   "count": 1591,
-  "fetchedAt": "2026-07-31T09:05:20.242972+00:00",
-  "generatedAt": "2026-07-31T07:05:22.517443+00:00",
+  "fetchedAt": "2026-07-31T09:10:26.245015+00:00",
+  "generatedAt": "2026-07-31T09:10:26.245015+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -92,21 +92,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "62b9bfba4abb",
-      "jobType": "internship",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "6d",
@@ -2102,6 +2087,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - Test - Entry-Junior"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Supernova Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3f1d8d729174",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
     },
     {
       "age": "10d",
@@ -23870,8 +23870,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 104,
-    "Simplify New Grad": 293,
+    "Simplify Internships": 103,
+    "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
