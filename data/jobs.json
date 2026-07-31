@@ -1,7 +1,7 @@
 {
-  "count": 1588,
-  "fetchedAt": "2026-07-31T11:00:49.561259+00:00",
-  "generatedAt": "2026-07-31T10:35:20.905804+00:00",
+  "count": 1589,
+  "fetchedAt": "2026-07-31T11:05:20.960359+00:00",
+  "generatedAt": "2026-07-31T11:05:20.960359+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1487,6 +1487,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "FPGA Engineer Intern"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Ciena",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ddbf42779835",
+      "jobType": "internship",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "29d",
@@ -3017,6 +3032,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Momentum Engineering",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b145630dde32",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -4847,21 +4877,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Warehouse Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Travelers",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7eea2674710c",
-      "jobType": "full-time",
-      "location": "Hartford, CTSt Paul, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1 - Python - AWS"
     },
     {
       "age": "1mo",
@@ -23825,7 +23840,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 100,
+    "Simplify Internships": 101,
     "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
