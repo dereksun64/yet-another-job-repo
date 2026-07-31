@@ -1,7 +1,7 @@
 {
-  "count": 1593,
-  "fetchedAt": "2026-07-31T07:00:43.741304+00:00",
-  "generatedAt": "2026-07-31T06:35:24.031054+00:00",
+  "count": 1591,
+  "fetchedAt": "2026-07-31T07:05:22.517443+00:00",
+  "generatedAt": "2026-07-31T07:05:22.517443+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -662,21 +662,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineering Intern"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GE Healthcare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bf3429ed6990",
-      "jobType": "internship",
-      "location": "Waukesha, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Development Program Intern - Software"
     },
     {
       "age": "16d",
@@ -2867,21 +2852,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Developer New Grad"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "U.S. Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3cff6536e61b",
-      "jobType": "full-time",
-      "location": "5 locationsBrookfield, WIHopkins, MNIrving, TXAtlanta, GACincinnati, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Mainframe - Cobol"
     },
     {
       "age": "29d",
@@ -23900,8 +23870,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 105,
-    "Simplify New Grad": 294,
+    "Simplify Internships": 104,
+    "Simplify New Grad": 293,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
