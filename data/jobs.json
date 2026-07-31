@@ -1,7 +1,7 @@
 {
-  "count": 1587,
-  "fetchedAt": "2026-07-31T13:30:41.285399+00:00",
-  "generatedAt": "2026-07-31T13:05:23.027998+00:00",
+  "count": 1586,
+  "fetchedAt": "2026-07-31T13:35:21.501901+00:00",
+  "generatedAt": "2026-07-31T13:35:21.501901+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -530,18 +530,18 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
+      "applyUrl": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "G-Research",
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
-      "id": "d7f1396ee1e9",
+      "id": "bfa50a5b41df",
       "jobType": "internship",
       "location": "London, UK",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Machine Learning Research Intern"
+      "title": "Natural Language Processing Intern"
     },
     {
       "age": "10d",
@@ -4892,21 +4892,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Research Scientist New Grad - Efficient Deep Learning \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "University of Texas at Austin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "23692147279d",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1"
     },
     {
       "age": "2mo",
@@ -23811,7 +23796,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 99,
-    "Simplify New Grad": 294,
+    "Simplify New Grad": 293,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
