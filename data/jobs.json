@@ -1,7 +1,7 @@
 {
   "count": 1847,
-  "fetchedAt": "2026-07-31T20:31:15.139023+00:00",
-  "generatedAt": "2026-07-31T20:25:21.516507+00:00",
+  "fetchedAt": "2026-07-31T20:35:26.790152+00:00",
+  "generatedAt": "2026-07-31T20:35:26.790152+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14750,21 +14750,6 @@
     },
     {
       "age": "0d",
-      "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah",
-      "category": "Software Engineering",
-      "company": "Old Mission",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c5c7ed354462",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "0d",
       "applyUrl": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "DRW",
@@ -15088,6 +15073,21 @@
       "id": "d83bf23aeac1",
       "jobType": "internship",
       "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003&utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Old Mission",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c5c7ed354462",
+      "jobType": "internship",
+      "location": "Chicago, IL",
       "salary": "",
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
@@ -27714,7 +27714,7 @@
     "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
-    "Vansh Internships": 123,
+    "Vansh Internships": 122,
     "Vansh New Grad": 590
   }
 }
