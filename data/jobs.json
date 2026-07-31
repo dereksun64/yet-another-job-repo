@@ -1,7 +1,7 @@
 {
-  "count": 1847,
-  "fetchedAt": "2026-07-31T20:35:26.790152+00:00",
-  "generatedAt": "2026-07-31T20:35:26.790152+00:00",
+  "count": 1848,
+  "fetchedAt": "2026-07-31T20:40:28.600343+00:00",
+  "generatedAt": "2026-07-31T20:40:28.600343+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14750,6 +14750,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "SK Hynix Memory Solution",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1d2d1d283842",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "DRW",
@@ -27714,7 +27729,7 @@
     "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
-    "Vansh Internships": 122,
+    "Vansh Internships": 123,
     "Vansh New Grad": 590
   }
 }
