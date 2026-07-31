@@ -1,7 +1,7 @@
 {
-  "count": 1851,
-  "fetchedAt": "2026-07-31T23:00:40.827619+00:00",
-  "generatedAt": "2026-07-31T22:35:22.835213+00:00",
+  "count": 1850,
+  "fetchedAt": "2026-07-31T23:05:21.511225+00:00",
+  "generatedAt": "2026-07-31T23:05:21.511225+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -169,7 +169,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -499,7 +499,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Appian",
@@ -694,7 +694,7 @@
       "title": "Data Analyst Co-op"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "AlixPartners",
@@ -812,6 +812,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Trading Operations Analyst Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "University of Virginia Investment Management Company (UVIMCO)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5ae99f7b1fbc",
+      "jobType": "internship",
+      "location": "Charlottesville, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Investment Analyst Intern"
     },
     {
       "age": "7d",
@@ -1219,7 +1234,7 @@
       "title": "Quantitative Strategy Developer Intern"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -1669,7 +1684,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://www.esri.com/careers/5198108007?gh_jid=5198108007&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Esri",
@@ -1684,7 +1699,7 @@
       "title": "Product Engineer 1 - ArcGIS Maps SDKs"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://www.esri.com/careers/5185281007?gh_jid=5185281007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Esri",
@@ -1954,7 +1969,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -2314,7 +2329,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -2554,7 +2569,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -2749,7 +2764,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -3407,21 +3422,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Full Stack Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/axon/jobs/7690510003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Axon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7178307967fb",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -4457,21 +4457,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 / 2 - New York"
-    },
-    {
-      "age": "5mo",
-      "applyUrl": "https://job-boards.greenhouse.io/axon/jobs/7620148003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Axon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "731020bb6293",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "5mo",
@@ -5734,7 +5719,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -27770,8 +27755,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 105,
-    "Simplify New Grad": 298,
+    "Simplify Internships": 106,
+    "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 123,
