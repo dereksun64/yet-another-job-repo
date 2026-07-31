@@ -1,7 +1,7 @@
 {
-  "count": 1594,
-  "fetchedAt": "2026-07-31T03:30:41.774111+00:00",
-  "generatedAt": "2026-07-31T02:35:21.721121+00:00",
+  "count": 1593,
+  "fetchedAt": "2026-07-31T03:35:23.352715+00:00",
+  "generatedAt": "2026-07-31T03:35:23.352715+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5882,21 +5882,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New grad / early career"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "283e5bedb4b4",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Low Power ASIC Engineer \u2013 New College Grad"
     },
     {
       "age": "3mo",
@@ -23916,7 +23901,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 104,
-    "Simplify New Grad": 296,
+    "Simplify New Grad": 295,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
     "Vansh Internships": 111,
