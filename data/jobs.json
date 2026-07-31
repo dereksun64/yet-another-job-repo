@@ -1,7 +1,7 @@
 {
-  "count": 1591,
-  "fetchedAt": "2026-07-31T09:30:36.381749+00:00",
-  "generatedAt": "2026-07-31T09:10:26.245015+00:00",
+  "count": 1592,
+  "fetchedAt": "2026-07-31T09:35:25.384532+00:00",
+  "generatedAt": "2026-07-31T09:35:25.384532+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -92,6 +92,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Leidos",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62b9bfba4abb",
+      "jobType": "internship",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Developer Intern"
     },
     {
       "age": "6d",
@@ -274,7 +289,7 @@
       "title": "Forward Deployed Engineer Intern"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Circleback",
@@ -2329,7 +2344,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Faros AI",
@@ -2344,7 +2359,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Checkout.com",
@@ -2719,7 +2734,7 @@
       "title": "iOS Engineer 1"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -5614,7 +5629,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Corvus Robotics",
@@ -5704,7 +5719,7 @@
       "title": "ASIC Verification Engineer New Grad"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -23870,7 +23885,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 103,
+    "Simplify Internships": 104,
     "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
