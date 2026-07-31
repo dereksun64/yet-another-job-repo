@@ -1,7 +1,7 @@
 {
-  "count": 1589,
-  "fetchedAt": "2026-07-31T10:30:34.467766+00:00",
-  "generatedAt": "2026-07-31T10:05:28.239728+00:00",
+  "count": 1588,
+  "fetchedAt": "2026-07-31T10:35:20.905804+00:00",
+  "generatedAt": "2026-07-31T10:35:20.905804+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -319,21 +319,6 @@
       "title": "Software Engineer Intern - C++ or Python"
     },
     {
-      "age": "21d",
-      "applyUrl": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Pylon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7d258f4dae31",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
       "age": "23d",
       "applyUrl": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
@@ -362,6 +347,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern"
+    },
+    {
+      "age": "26d",
+      "applyUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "CTGT",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bffbde951c34",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "29d",
@@ -872,21 +872,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Institutional Trader Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "G-Research",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2917e93e7e12",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Research Internship \ud83c\udf93"
     },
     {
       "age": "8d",
@@ -23840,7 +23825,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 101,
+    "Simplify Internships": 100,
     "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
