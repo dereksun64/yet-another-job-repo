@@ -1,7 +1,7 @@
 {
-  "count": 1586,
-  "fetchedAt": "2026-07-31T14:00:52.772886+00:00",
-  "generatedAt": "2026-07-31T13:35:21.501901+00:00",
+  "count": 1589,
+  "fetchedAt": "2026-07-31T14:05:27.106988+00:00",
+  "generatedAt": "2026-07-31T14:05:27.106988+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -35,6 +35,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2d97b5626b5a",
+      "jobType": "internship",
+      "location": "Anaheim, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -62,6 +77,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Frontend Developer Internship"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "237d0ad81005",
+      "jobType": "internship",
+      "location": "State College, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "2d",
@@ -842,6 +872,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Institutional Trader Intern"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "G-Research",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2917e93e7e12",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Research Internship \ud83c\udf93"
     },
     {
       "age": "8d",
@@ -23795,7 +23840,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 99,
+    "Simplify Internships": 102,
     "Simplify New Grad": 293,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 397,
