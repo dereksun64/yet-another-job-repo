@@ -1,7 +1,7 @@
 {
-  "count": 1827,
-  "fetchedAt": "2026-07-31T15:30:33.103682+00:00",
-  "generatedAt": "2026-07-31T15:05:21.489800+00:00",
+  "count": 1828,
+  "fetchedAt": "2026-07-31T15:35:21.223344+00:00",
+  "generatedAt": "2026-07-31T15:35:21.223344+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1562,6 +1562,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Palantir",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "cf75a4d5cc38",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Infrastructure"
     },
     {
       "age": "0d",
@@ -27411,7 +27426,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 104,
-    "Simplify New Grad": 295,
+    "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 111,
