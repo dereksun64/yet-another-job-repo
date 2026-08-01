@@ -1,7 +1,7 @@
 {
-  "count": 1657,
-  "fetchedAt": "2026-08-01T17:05:23.511222+00:00",
-  "generatedAt": "2026-08-01T16:35:20.608596+00:00",
+  "count": 1659,
+  "fetchedAt": "2026-08-01T17:10:32.711066+00:00",
+  "generatedAt": "2026-08-01T17:10:32.711066+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -212,6 +212,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern"
+    },
+    {
+      "age": "28d",
+      "applyUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "CTGT",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bffbde951c34",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "30d",
@@ -752,6 +767,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Trading System Engineer Intern"
+    },
+    {
+      "age": "26d",
+      "applyUrl": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Susquehanna International Group (SIG)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7f0927fc4dd4",
+      "jobType": "internship",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategy Developer Intern"
     },
     {
       "age": "26d",
@@ -24860,7 +24890,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 72,
+    "Simplify Internships": 74,
     "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
