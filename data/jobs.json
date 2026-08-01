@@ -1,7 +1,7 @@
 {
   "count": 1856,
-  "fetchedAt": "2026-08-01T10:05:23.417175+00:00",
-  "generatedAt": "2026-08-01T09:35:21.752490+00:00",
+  "fetchedAt": "2026-08-01T10:10:26.861898+00:00",
+  "generatedAt": "2026-08-01T10:10:26.861898+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -590,21 +590,6 @@
     },
     {
       "age": "11d",
-      "applyUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Castleton Commodities International",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ff3b6cdb8182",
-      "jobType": "internship",
-      "location": "Houston, TXStamford, CT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Science Machine Learning Intern"
-    },
-    {
-      "age": "11d",
       "applyUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Castleton Commodities International",
@@ -647,21 +632,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineering Intern"
-    },
-    {
-      "age": "17d",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Motorola",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cb09d44d519d",
-      "jobType": "internship",
-      "location": "Remote in Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Analyst Co-op"
     },
     {
       "age": "25d",
@@ -1084,21 +1054,6 @@
       "title": "Quantitative Research Intern \ud83c\udf93"
     },
     {
-      "age": "16d",
-      "applyUrl": "https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Susquehanna International Group (SIG)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6985a2530c0c",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Systematic Trading Intern \ud83c\udf93"
-    },
-    {
       "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -1219,7 +1174,7 @@
       "title": "Quantitative Developer Intern"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Blackstone",
@@ -1310,6 +1265,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Susquehanna International Group (SIG)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bf294e8c3507",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Trader Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Susquehanna International Group (SIG)",
@@ -1337,6 +1307,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Systematic Trading Intern \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Susquehanna International Group (SIG)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "37871c15c7cf",
+      "jobType": "internship",
+      "location": "Philadelphia, PANYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Research Intern \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -14989,6 +14974,21 @@
       "title": "FPGA Intern"
     },
     {
+      "age": "1d",
+      "applyUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344?utm_source=github-vansh-ouckah",
+      "category": "AI/ML",
+      "company": "Castleton Commodities International",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ff3b6cdb8182",
+      "jobType": "internship",
+      "location": "Stamford, CTHouston, TXNew York City, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Data Science Machine Learning Intern"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity?utm_source=github-vansh-ouckah",
       "category": "Legend",
@@ -27845,7 +27845,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 103,
+    "Simplify Internships": 102,
     "Simplify New Grad": 305,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
