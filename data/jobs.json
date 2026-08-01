@@ -1,7 +1,7 @@
 {
-  "count": 1657,
-  "fetchedAt": "2026-08-01T17:55:24.257707+00:00",
-  "generatedAt": "2026-08-01T17:40:28.723196+00:00",
+  "count": 1659,
+  "fetchedAt": "2026-08-01T18:00:47.519778+00:00",
+  "generatedAt": "2026-08-01T18:00:47.519778+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5492,6 +5492,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005?utm_source=vansh",
+      "category": "The List \ud83d\udeb4\ud83c\udfd4",
+      "company": "Chicago Trading Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9af4d0ba30c4",
+      "jobType": "full-time",
+      "location": "Chicago, ILNew York, NY",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "New Grad 2027: Associate Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005?utm_source=vansh",
+      "category": "Quant",
+      "company": "Chicago Trading Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "af47c7a905fd",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "New Grad 2027: Quant Trading Associate"
     },
     {
       "age": "1d",
@@ -24865,6 +24895,6 @@
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
-    "Vansh New Grad": 590
+    "Vansh New Grad": 592
   }
 }
