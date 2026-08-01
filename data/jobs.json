@@ -1,7 +1,7 @@
 {
-  "count": 1664,
-  "fetchedAt": "2026-08-01T20:30:35.867128+00:00",
-  "generatedAt": "2026-08-01T20:10:26.289539+00:00",
+  "count": 1665,
+  "fetchedAt": "2026-08-01T20:34:22.848544+00:00",
+  "generatedAt": "2026-08-01T20:34:22.848544+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1279,6 +1279,21 @@
       "title": "FPGA Engineer Intern"
     },
     {
+      "age": "11d",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Ciena",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ddbf42779835",
+      "jobType": "internship",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
       "age": "30d",
       "applyUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -2057,21 +2072,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer New Grad"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://jobs.ashbyhq.com/healf/7e2ef20d-bf76-4cb8-b5a9-aac9d24506b8/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Healf",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3da217c4688c",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Founding Engineer - Deeper Engagement"
     },
     {
       "age": "12d",
@@ -4322,6 +4322,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Product Ownership - Junior Data Engineer"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://careers.medpace.com/jobs/12873?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Medpace",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9f5f67f61cf1",
+      "jobType": "full-time",
+      "location": "Cincinnati, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Governance Analyst"
     },
     {
       "age": "11d",
@@ -24965,7 +24980,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 86,
+    "Simplify Internships": 87,
     "Simplify New Grad": 285,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
