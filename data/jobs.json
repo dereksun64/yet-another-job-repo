@@ -1,7 +1,7 @@
 {
-  "count": 1659,
-  "fetchedAt": "2026-08-01T17:35:22.127532+00:00",
-  "generatedAt": "2026-08-01T17:10:32.711066+00:00",
+  "count": 1657,
+  "fetchedAt": "2026-08-01T17:40:28.723196+00:00",
+  "generatedAt": "2026-08-01T17:40:28.723196+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -182,6 +182,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - C++ or Python"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Pylon",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7d258f4dae31",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "25d",
@@ -2389,21 +2404,6 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "24d",
-      "applyUrl": "https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d/application?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Handshake",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cfd9b2016501",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "iOS Engineer 1"
-    },
-    {
       "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -4309,21 +4309,6 @@
       "title": "Machine Learning Engineer New Grad"
     },
     {
-      "age": "23d",
-      "applyUrl": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Gen Digital",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f70d729b56c4",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI & Machine Learning Engineer 1 \ud83c\udf93"
-    },
-    {
       "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -5207,21 +5192,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "ASIC Design Engineer New Grad"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3b6fdeaa28f7",
-      "jobType": "full-time",
-      "location": "Boise, ID",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
     },
     {
       "age": "24d",
@@ -24890,8 +24860,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 74,
-    "Simplify New Grad": 294,
+    "Simplify Internships": 75,
+    "Simplify New Grad": 291,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
