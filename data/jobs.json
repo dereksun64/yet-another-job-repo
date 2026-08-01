@@ -1,7 +1,7 @@
 {
-  "count": 1660,
-  "fetchedAt": "2026-08-01T15:00:44.338204+00:00",
-  "generatedAt": "2026-08-01T14:35:21.630336+00:00",
+  "count": 1659,
+  "fetchedAt": "2026-08-01T15:05:21.721263+00:00",
+  "generatedAt": "2026-08-01T15:05:21.721263+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1654,7 +1654,7 @@
       "title": "Early Career Product Engineer"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "mthree",
@@ -4219,7 +4219,7 @@
       "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -4382,21 +4382,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93"
-    },
-    {
-      "age": "28d",
-      "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Travelers",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2241da92cd0f",
-      "jobType": "full-time",
-      "location": "Hartford, CTRichardson, TXSt Paul, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1 - Multiple Teams"
     },
     {
       "age": "28d",
@@ -24906,7 +24891,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 70,
-    "Simplify New Grad": 300,
+    "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
