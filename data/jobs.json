@@ -1,7 +1,7 @@
 {
   "count": 1852,
-  "fetchedAt": "2026-08-01T11:00:41.438540+00:00",
-  "generatedAt": "2026-08-01T10:35:26.020226+00:00",
+  "fetchedAt": "2026-08-01T11:05:23.585074+00:00",
+  "generatedAt": "2026-08-01T11:05:23.585074+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5045,6 +5045,21 @@
     },
     {
       "age": "2mo",
+      "applyUrl": "https://careers-apogeeusa.icims.com/jobs/1442/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Apogee Engineering",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e2a807673e21",
+      "jobType": "full-time",
+      "location": "Wright-Patterson AFB, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Technical Intelligence Analyst"
+    },
+    {
+      "age": "2mo",
       "applyUrl": "https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Quadric",
@@ -5132,21 +5147,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI \ud83c\udf93"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Handshake",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8ba0dca2fca6",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer 1"
     },
     {
       "age": "3mo",
