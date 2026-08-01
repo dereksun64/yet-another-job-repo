@@ -1,7 +1,7 @@
 {
-  "count": 1659,
-  "fetchedAt": "2026-08-01T18:00:47.519778+00:00",
-  "generatedAt": "2026-08-01T18:00:47.519778+00:00",
+  "count": 1657,
+  "fetchedAt": "2026-08-01T18:05:24.265170+00:00",
+  "generatedAt": "2026-08-01T18:05:24.265170+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2255,21 +2255,6 @@
     },
     {
       "age": "22d",
-      "applyUrl": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Maritz",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "75e4fe367351",
-      "jobType": "full-time",
-      "location": "Fenton, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "22d",
       "applyUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Pylon",
@@ -4277,21 +4262,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Aws - Databricks"
-    },
-    {
-      "age": "19d",
-      "applyUrl": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Milwaukee Tool",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4296bb36444e",
-      "jobType": "full-time",
-      "location": "Brookfield, WI",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology"
     },
     {
       "age": "23d",
@@ -24891,7 +24861,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 75,
-    "Simplify New Grad": 291,
+    "Simplify New Grad": 289,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
