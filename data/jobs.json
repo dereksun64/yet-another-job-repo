@@ -1,7 +1,7 @@
 {
-  "count": 1841,
-  "fetchedAt": "2026-08-01T12:00:40.311597+00:00",
-  "generatedAt": "2026-08-01T11:35:20.365342+00:00",
+  "count": 1839,
+  "fetchedAt": "2026-08-01T12:05:21.772696+00:00",
+  "generatedAt": "2026-08-01T12:05:21.772696+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -212,21 +212,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "16d",
-      "applyUrl": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Cybernetic Labs",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2762a3feea3f",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full-Stack Software Engineer Intern - Product"
     },
     {
       "age": "17d",
@@ -827,21 +812,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Trading Analyst Intern"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Castleton Commodities International",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5e442f7aafa1",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Commodities Trading Analyst Intern"
     },
     {
       "age": "13d",
@@ -3500,21 +3470,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nightwing Intelligence Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a5d940ddd60c",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Integrity",
@@ -4384,7 +4339,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -4877,6 +4832,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Analyst"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://careers-apogeeusa.icims.com/jobs/1432/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Apogee Engineering",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6b6bd765c3b6",
+      "jobType": "full-time",
+      "location": "Wright-Patterson AFB, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Intelligence Program Analyst"
     },
     {
       "age": "2mo",
@@ -27620,7 +27590,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 88,
+    "Simplify Internships": 86,
     "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
