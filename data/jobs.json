@@ -1,8 +1,38 @@
 {
-  "count": 1681,
-  "fetchedAt": "2026-08-01T23:00:48.770464+00:00",
-  "generatedAt": "2026-08-01T22:35:25.283632+00:00",
+  "count": 1692,
+  "fetchedAt": "2026-08-01T23:05:19.451478+00:00",
+  "generatedAt": "2026-08-01T23:05:19.451478+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "HPR (Hyannis Port Research)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "daddbb00cbc8",
+      "jobType": "internship",
+      "location": "Needham, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "9b325b959750",
+      "jobType": "internship",
+      "location": "21 locationsBoston, MASanta Ana, CAFridley, MNSanta Rosa, CAIrvine, CAMansfield, MAMounds View, MNTempe, AZMemphis, TNBrooklyn Center, MNPlymouth, MNBrooklyn Park, MNFort Worth, TXDexter, MINorth Haven, CTLafayette, COMinneapolis, MNNewton, MAJacksonville, FLEatontown, NJBoulder, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -169,7 +199,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -499,7 +529,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Appian",
@@ -527,6 +557,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "ConocoPhillips",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d502d311c304",
+      "jobType": "internship",
+      "location": "Bartlesville, OK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "GIS Intern"
     },
     {
       "age": "5d",
@@ -724,7 +769,7 @@
       "title": "Data Analyst Co-op"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "AlixPartners",
@@ -1264,7 +1309,7 @@
       "title": "Quantitative Strategy Developer Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -1504,6 +1549,21 @@
       "title": "Equity Volatility Quant Researcher Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "HPR (Hyannis Port Research)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c736f2d838d0",
+      "jobType": "internship",
+      "location": "Needham, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "FPGA Engineer Intern"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657286002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -1592,6 +1652,96 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/18762?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "02bcec924f7f",
+      "jobType": "full-time",
+      "location": "Olathe, KS",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Real Time Aviation Data"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "98303c7b2a08",
+      "jobType": "full-time",
+      "location": "Olathe, KS",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Connect IQ Applications"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e08abe3d10e9",
+      "jobType": "full-time",
+      "location": "Olathe, KS",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Web Development/Applications"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/18511?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "00ca8614c773",
+      "jobType": "full-time",
+      "location": "Chandler, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0d096ebb59b9",
+      "jobType": "full-time",
+      "location": "Olathe, KS",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Noblis",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a9961fc703b3",
+      "jobType": "full-time",
+      "location": "Reston, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Developer"
     },
     {
       "age": "1d",
@@ -1789,7 +1939,7 @@
       "title": "Application Software Developer New Grad"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.esri.com/careers/5198108007?gh_jid=5198108007&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Esri",
@@ -1804,7 +1954,7 @@
       "title": "Product Engineer 1 - ArcGIS Maps SDKs"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.esri.com/careers/5185281007?gh_jid=5185281007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Esri",
@@ -2074,7 +2224,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -2404,7 +2554,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -2599,7 +2749,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -2779,7 +2929,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5299,6 +5449,21 @@
       "title": "Fixed Income Trading Analyst - Early Careers"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Garmin",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "349f3f372eae",
+      "jobType": "full-time",
+      "location": "Olathe, KS",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
@@ -5539,7 +5704,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -25220,8 +25385,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 106,
-    "Simplify New Grad": 285,
+    "Simplify Internships": 110,
+    "Simplify New Grad": 292,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
