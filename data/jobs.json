@@ -1,7 +1,7 @@
 {
-  "count": 1657,
-  "fetchedAt": "2026-08-01T18:05:24.265170+00:00",
-  "generatedAt": "2026-08-01T18:05:24.265170+00:00",
+  "count": 1659,
+  "fetchedAt": "2026-08-01T18:10:27.219516+00:00",
+  "generatedAt": "2026-08-01T18:10:27.219516+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -737,6 +737,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Trading Analyst Intern"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Arrowstreet Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9501a6cd7428",
+      "jobType": "internship",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Developer Intern"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Arrowstreet Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9ea7bf282697",
+      "jobType": "internship",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Researcher Intern"
     },
     {
       "age": "23d",
@@ -24860,7 +24890,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 75,
+    "Simplify Internships": 77,
     "Simplify New Grad": 289,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
