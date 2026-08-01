@@ -1,7 +1,7 @@
 {
-  "count": 1663,
-  "fetchedAt": "2026-08-01T14:00:53.222227+00:00",
-  "generatedAt": "2026-08-01T14:00:53.222227+00:00",
+  "count": 1661,
+  "fetchedAt": "2026-08-01T14:05:20.961766+00:00",
+  "generatedAt": "2026-08-01T14:05:20.961766+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3815,21 +3815,6 @@
     },
     {
       "age": "4mo",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "State Street",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "a3efb881e560",
-      "jobType": "full-time",
-      "location": "Burlington, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Full Stack"
-    },
-    {
-      "age": "4mo",
       "applyUrl": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Titan",
@@ -4007,21 +3992,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 Early Career - AI/ML - PhD \ud83c\udf93"
-    },
-    {
-      "age": "5mo",
-      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53009?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cadence Design Systems",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "8a213f5d6ad3",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "6mo",
@@ -24951,7 +24921,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 73,
-    "Simplify New Grad": 301,
+    "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
