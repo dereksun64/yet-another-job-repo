@@ -1,7 +1,7 @@
 {
-  "count": 1659,
-  "fetchedAt": "2026-08-01T16:30:39.431872+00:00",
-  "generatedAt": "2026-08-01T16:05:21.595697+00:00",
+  "count": 1657,
+  "fetchedAt": "2026-08-01T16:35:20.608596+00:00",
+  "generatedAt": "2026-08-01T16:35:20.608596+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2522,36 +2522,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Adtran",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2204ba307988",
-      "jobType": "full-time",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Travelers",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "41dbd5726d4d",
-      "jobType": "full-time",
-      "location": "4 locationsSparks, MDHartford, CTAtlanta, GASt Paul, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -24891,7 +24861,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 72,
-    "Simplify New Grad": 296,
+    "Simplify New Grad": 294,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
