@@ -1,7 +1,7 @@
 {
-  "count": 1834,
-  "fetchedAt": "2026-08-01T13:05:20.426554+00:00",
-  "generatedAt": "2026-08-01T12:35:19.894210+00:00",
+  "count": 1831,
+  "fetchedAt": "2026-08-01T13:10:26.923158+00:00",
+  "generatedAt": "2026-08-01T13:10:26.923158+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -482,21 +482,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science Machine Learning Intern"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Castleton Commodities International",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "414027ee2949",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineering Intern"
     },
     {
       "age": "25d",
@@ -4730,21 +4715,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://careers-steampunk.icims.com/jobs/7740/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Steampunk",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "86e8d801e69a",
-      "jobType": "full-time",
-      "location": "El Paso, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Analyst"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://careers-apogeeusa.icims.com/jobs/1432/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Apogee Engineering",
@@ -4877,21 +4847,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "University of Arkansas",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7e54f6d656e8",
-      "jobType": "full-time",
-      "location": "Little Rock, AR",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Cosmos - Data Engineer 1"
     },
     {
       "age": "4mo",
@@ -27515,8 +27470,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 81,
-    "Simplify New Grad": 302,
+    "Simplify Internships": 80,
+    "Simplify New Grad": 300,
     "SpeedyApply USA Internships": 160,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 123,
