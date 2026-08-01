@@ -1,7 +1,7 @@
 {
-  "count": 1659,
-  "fetchedAt": "2026-08-01T15:05:21.721263+00:00",
-  "generatedAt": "2026-08-01T15:05:21.721263+00:00",
+  "count": 1658,
+  "fetchedAt": "2026-08-01T15:10:27.634777+00:00",
+  "generatedAt": "2026-08-01T15:10:27.634777+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -422,21 +422,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Walleye Capital",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "db1055c7b3b0",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Investment Data Science Intern"
     },
     {
       "age": "1mo",
@@ -932,21 +917,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "PhD Quantitative Researcher Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Walleye Capital",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "21fa28f6f137",
-      "jobType": "internship",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantic \u2013 Quantitative Researcher Intern"
     },
     {
       "age": "1mo",
@@ -14570,6 +14540,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah",
+      "category": "AI/ML",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "db1055c7b3b0",
+      "jobType": "internship",
+      "location": "New York, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Investment Data Science Intern"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Walleye Capital",
@@ -24890,7 +24875,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 70,
+    "Simplify Internships": 68,
     "Simplify New Grad": 299,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
