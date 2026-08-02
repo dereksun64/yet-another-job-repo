@@ -1,7 +1,7 @@
 {
   "count": 1698,
-  "fetchedAt": "2026-08-02T10:00:50.100597+00:00",
-  "generatedAt": "2026-08-02T09:35:21.301798+00:00",
+  "fetchedAt": "2026-08-02T10:05:22.517722+00:00",
+  "generatedAt": "2026-08-02T10:05:22.517722+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -13,6 +13,21 @@
       "id": "daddbb00cbc8",
       "jobType": "internship",
       "location": "Needham, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "9b325b959750",
+      "jobType": "internship",
+      "location": "21 locationsBoston, MASanta Ana, CAFridley, MNSanta Rosa, CAIrvine, CAMansfield, MAMounds View, MNTempe, AZMemphis, TNBrooklyn Center, MNPlymouth, MNBrooklyn Park, MNFort Worth, TXDexter, MINorth Haven, CTLafayette, COMinneapolis, MNNewton, MAJacksonville, FLEatontown, NJBoulder, CO",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1339,7 +1354,7 @@
       "title": "Quantitative Developer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Blackstone",
@@ -1774,7 +1789,7 @@
       "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -4067,21 +4082,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Automation"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "856e06e43f7e",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Test Solutions"
     },
     {
       "age": "3mo",
@@ -25475,8 +25475,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 111,
-    "Simplify New Grad": 297,
+    "Simplify Internships": 112,
+    "Simplify New Grad": 296,
     "SpeedyApply USA Internships": 155,
     "SpeedyApply USA New Grad": 469,
     "Vansh Internships": 123,
