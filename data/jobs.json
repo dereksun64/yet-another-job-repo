@@ -1,7 +1,7 @@
 {
-  "count": 1728,
-  "fetchedAt": "2026-08-03T02:30:38.185029+00:00",
-  "generatedAt": "2026-08-03T02:05:29.544614+00:00",
+  "count": 1729,
+  "fetchedAt": "2026-08-03T02:35:24.898997+00:00",
+  "generatedAt": "2026-08-03T02:35:24.898997+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1682,6 +1682,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Walgreens",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "89794bce5149",
+      "jobType": "full-time",
+      "location": "Deerfield, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Java"
     },
     {
       "age": "0d",
@@ -25926,7 +25941,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 112,
-    "Simplify New Grad": 297,
+    "Simplify New Grad": 298,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 123,
