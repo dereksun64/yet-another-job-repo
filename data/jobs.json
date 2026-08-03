@@ -1,7 +1,7 @@
 {
-  "count": 1825,
-  "fetchedAt": "2026-08-03T10:00:50.261373+00:00",
-  "generatedAt": "2026-08-03T09:35:28.618506+00:00",
+  "count": 1826,
+  "fetchedAt": "2026-08-03T10:05:24.458592+00:00",
+  "generatedAt": "2026-08-03T10:05:24.458592+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3079,7 +3079,7 @@
       "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -3602,21 +3602,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer - AI-Forward"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cd81090f8685",
-      "jobType": "full-time",
-      "location": "Dulles, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "7d",
@@ -6274,6 +6259,21 @@
       "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
+      "age": "11d",
+      "applyUrl": "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "WebFX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "032985244b25",
+      "jobType": "full-time",
+      "location": "Harrisburg, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Business Data Analyst"
+    },
+    {
       "age": "12d",
       "applyUrl": "https://careers.medpace.com/jobs/12873?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -6797,6 +6797,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career AI/ML Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048830?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Maven Securities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ed0e00b622cc",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Quantitative Researcher New Grad"
     },
     {
       "age": "2d",
@@ -27381,7 +27396,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 171,
-    "Simplify New Grad": 335,
+    "Simplify New Grad": 336,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 126,
