@@ -1,7 +1,7 @@
 {
-  "count": 1729,
-  "fetchedAt": "2026-08-03T06:30:35.029419+00:00",
-  "generatedAt": "2026-08-03T02:35:24.898997+00:00",
+  "count": 1740,
+  "fetchedAt": "2026-08-03T06:35:21.921648+00:00",
+  "generatedAt": "2026-08-03T06:35:21.921648+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -49,7 +49,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Heliux",
@@ -184,7 +184,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Quadrillion",
@@ -229,7 +229,7 @@
       "title": "Software Engineer Intern - Software Engineer"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Axon",
@@ -304,7 +304,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cybernetic Labs",
@@ -529,6 +529,51 @@
       "title": "Software Engineer Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "685ca92cd61b",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital Product Analyst Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "99e8117ccab0",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "\ud83d\udd25 Microsoft",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "bcd53a8c5e7f",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Manager Intern"
+    },
+    {
       "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -557,6 +602,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "497517d96ae7",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "092d7e109a90",
+      "jobType": "internship",
+      "location": "Phoenix, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Undergraduate Intern - Strategy & Analytics"
     },
     {
       "age": "1d",
@@ -1309,7 +1384,7 @@
       "title": "Quantitative Trading Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Susquehanna International Group (SIG)",
@@ -1324,7 +1399,7 @@
       "title": "Trading System Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Susquehanna International Group (SIG)",
@@ -1682,6 +1757,66 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Peterson Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c80266ac205c",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Independent Software",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "abe441878a97",
+      "jobType": "full-time",
+      "location": "Fort Meade, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GliaCell Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0cbe6df42a84",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Java Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GliaCell Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3f6a1e4d6e0a",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
     },
     {
       "age": "0d",
@@ -2179,7 +2314,7 @@
       "title": "Product Engineer 1 - Research and Development"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Texas Sports Academy",
@@ -2644,7 +2779,7 @@
       "title": "Software Engineer New Grad - Performance"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cybernetic Labs",
@@ -3094,7 +3229,7 @@
       "title": "Android Engineer 1 - Subscriptions"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citadel",
@@ -4684,6 +4819,36 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Capgemini",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "2646c68a50eb",
+      "jobType": "full-time",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Engineer/Junior Data Scientist"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Capgemini",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "401916099f76",
+      "jobType": "full-time",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Engineer/Junior Data Scientist"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/64287?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -5449,7 +5614,7 @@
       "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel",
@@ -5524,7 +5689,7 @@
       "title": "Fixed Income Trading Analyst - Early Careers"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -5539,7 +5704,7 @@
       "title": "Software Engineer 1 - Embedded Aviation"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://careers.garmin.com/jobs/18602?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -25940,8 +26105,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 112,
-    "Simplify New Grad": 298,
+    "Simplify Internships": 117,
+    "Simplify New Grad": 304,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 123,
