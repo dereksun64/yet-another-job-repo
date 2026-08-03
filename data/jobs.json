@@ -1,7 +1,7 @@
 {
-  "count": 1835,
-  "fetchedAt": "2026-08-03T18:30:39.210968+00:00",
-  "generatedAt": "2026-08-03T17:40:32.913450+00:00",
+  "count": 1833,
+  "fetchedAt": "2026-08-03T18:35:23.610251+00:00",
+  "generatedAt": "2026-08-03T18:35:23.610251+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3469,21 +3469,6 @@
       "title": "Associate Software Engineer 1"
     },
     {
-      "age": "4d",
-      "applyUrl": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Cooper Companies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6630a18ba8b0",
-      "jobType": "full-time",
-      "location": "Bridgeport, CT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Engineer 1 - Research and Development"
-    },
-    {
       "age": "5d",
       "applyUrl": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -6572,21 +6557,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Neuroimaging Data Analyst Junior"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "WSP",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "51bed552fe35",
-      "jobType": "full-time",
-      "location": "Phoenix, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Early Career GIS Analyst"
     },
     {
       "age": "1mo",
@@ -27531,7 +27501,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 173,
-    "Simplify New Grad": 345,
+    "Simplify New Grad": 343,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 124,
