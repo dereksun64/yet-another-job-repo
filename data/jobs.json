@@ -1,7 +1,7 @@
 {
-  "count": 1809,
-  "fetchedAt": "2026-08-03T09:00:48.078729+00:00",
-  "generatedAt": "2026-08-03T07:35:39.225907+00:00",
+  "count": 1808,
+  "fetchedAt": "2026-08-03T09:05:24.832963+00:00",
+  "generatedAt": "2026-08-03T09:05:24.832963+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6227,21 +6227,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "University of Maryland - College Park",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7b5065d47100",
-      "jobType": "full-time",
-      "location": "Hyattsville, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Engineer - Faculty Specialist"
     },
     {
       "age": "1mo",
@@ -27141,7 +27126,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 163,
-    "Simplify New Grad": 327,
+    "Simplify New Grad": 326,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 126,
