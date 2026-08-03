@@ -1,7 +1,7 @@
 {
-  "count": 1840,
-  "fetchedAt": "2026-08-03T15:35:20.117439+00:00",
-  "generatedAt": "2026-08-03T15:10:28.758169+00:00",
+  "count": 1839,
+  "fetchedAt": "2026-08-03T15:40:25.322355+00:00",
+  "generatedAt": "2026-08-03T15:40:25.322355+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5599,7 +5599,7 @@
       "title": "Software Engineer 1 - Fullstack"
     },
     {
-      "age": "4mo",
+      "age": "5mo",
       "applyUrl": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Titan",
@@ -7247,21 +7247,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "FPGA Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eeb3b48a5e73",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "3d",
@@ -27606,7 +27591,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 174,
-    "Simplify New Grad": 347,
+    "Simplify New Grad": 346,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 126,
