@@ -1,7 +1,7 @@
 {
-  "count": 1822,
-  "fetchedAt": "2026-08-03T12:35:22.683271+00:00",
-  "generatedAt": "2026-08-03T12:05:22.886873+00:00",
+  "count": 1823,
+  "fetchedAt": "2026-08-03T12:40:32.871630+00:00",
+  "generatedAt": "2026-08-03T12:40:32.871630+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -418,6 +418,21 @@
       "id": "daddbb00cbc8",
       "jobType": "internship",
       "location": "Needham, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "9b325b959750",
+      "jobType": "internship",
+      "location": "21 locationsBoston, MASanta Ana, CAFridley, MNSanta Rosa, CAIrvine, CAMansfield, MAMounds View, MNTempe, AZMemphis, TNBrooklyn Center, MNPlymouth, MNBrooklyn Park, MNFort Worth, TXDexter, MINorth Haven, CTLafayette, COMinneapolis, MNNewton, MAJacksonville, FLEatontown, NJBoulder, CO",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -27335,7 +27350,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 169,
+    "Simplify Internships": 170,
     "Simplify New Grad": 334,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
