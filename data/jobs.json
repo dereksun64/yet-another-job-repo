@@ -1,7 +1,7 @@
 {
   "count": 1799,
-  "fetchedAt": "2026-08-03T07:15:29.373260+00:00",
-  "generatedAt": "2026-08-03T07:05:21.503600+00:00",
+  "fetchedAt": "2026-08-03T07:20:32.052785+00:00",
+  "generatedAt": "2026-08-03T07:20:32.052785+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15994,6 +15994,36 @@
       "title": "Embedded DSP Software Engineer"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "2fe6af0a00b5",
+      "jobType": "internship",
+      "location": "5 locationsFridley, MNTempe, AZEatontown, NJSanta Rosa, CALafayette, CO",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineering Intern \ud83d\udec2"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Heliux",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "23752ccfbc0c",
+      "jobType": "internship",
+      "location": "San Francisco, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
@@ -18092,36 +18122,6 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Software Developer - Ph.D. Intern - New York - Summer 2027"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
-      "category": "Software Engineering",
-      "company": "Medtronic",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "2fe6af0a00b5",
-      "jobType": "internship",
-      "location": "Fridley, MN +20",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineering Intern - Summer 2027"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
-      "category": "Software Engineering",
-      "company": "Heliux",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "23752ccfbc0c",
-      "jobType": "internship",
-      "location": "San Francisco, CA",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineer - Internship - Summer 2027"
     },
     {
       "age": "2d",
@@ -26994,7 +26994,7 @@
     "Simplify New Grad": 324,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
-    "Vansh Internships": 123,
+    "Vansh Internships": 126,
     "Vansh New Grad": 592
   }
 }
