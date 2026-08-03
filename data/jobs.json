@@ -1,7 +1,7 @@
 {
-  "count": 1832,
-  "fetchedAt": "2026-08-03T21:35:27.142103+00:00",
-  "generatedAt": "2026-08-03T19:05:21.396961+00:00",
+  "count": 1833,
+  "fetchedAt": "2026-08-03T21:40:30.415845+00:00",
+  "generatedAt": "2026-08-03T21:40:30.415845+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16520,6 +16520,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Microsoft",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "7a33f39535c1",
+      "jobType": "internship",
+      "location": "Multiple Locations, United States",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, CoreAI"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Medtronic",
@@ -27489,7 +27504,7 @@
     "Simplify New Grad": 342,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
-    "Vansh Internships": 124,
+    "Vansh Internships": 125,
     "Vansh New Grad": 592
   }
 }
