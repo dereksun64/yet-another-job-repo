@@ -1,7 +1,7 @@
 {
-  "count": 1823,
-  "fetchedAt": "2026-08-03T13:00:39.511123+00:00",
-  "generatedAt": "2026-08-03T12:40:32.871630+00:00",
+  "count": 1822,
+  "fetchedAt": "2026-08-03T13:05:32.292891+00:00",
+  "generatedAt": "2026-08-03T13:05:32.292891+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5492,21 +5492,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "PingWind",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8a71c73b325e",
-      "jobType": "full-time",
-      "location": "Alexandria, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "BI Dashboard Software Engineer 1"
     },
     {
       "age": "4mo",
@@ -27351,7 +27336,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 170,
-    "Simplify New Grad": 334,
+    "Simplify New Grad": 333,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 126,
