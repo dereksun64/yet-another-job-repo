@@ -1,7 +1,7 @@
 {
-  "count": 1833,
-  "fetchedAt": "2026-08-03T19:00:51.026241+00:00",
-  "generatedAt": "2026-08-03T18:35:23.610251+00:00",
+  "count": 1832,
+  "fetchedAt": "2026-08-03T19:05:21.396961+00:00",
+  "generatedAt": "2026-08-03T19:05:21.396961+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4112,21 +4112,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer - C++"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "24dc3a00d1d4",
-      "jobType": "full-time",
-      "location": "Remote in USASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server \ud83c\udf93"
     },
     {
       "age": "21d",
@@ -27501,7 +27486,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 173,
-    "Simplify New Grad": 343,
+    "Simplify New Grad": 342,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 124,
