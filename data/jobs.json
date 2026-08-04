@@ -1,7 +1,7 @@
 {
-  "count": 1895,
-  "fetchedAt": "2026-08-04T14:15:33.907705+00:00",
-  "generatedAt": "2026-08-04T14:15:33.907705+00:00",
+  "count": 1900,
+  "fetchedAt": "2026-08-04T14:20:28.337133+00:00",
+  "generatedAt": "2026-08-04T14:20:28.337133+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17375,6 +17375,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091&utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Samsara",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fa2c8bbf342e",
+      "jobType": "internship",
+      "location": "San Francisco, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "Modal",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6636a48cf341",
+      "jobType": "internship",
+      "location": "New York, NYSan Francisco, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "ML Research Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922&utm_source=github-vansh-ouckah",
       "category": "Product",
       "company": "Microsoft",
@@ -17447,6 +17477,51 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineer Intern, Data Platform/Analytics"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://joinbytedance.com/search/7668374190764050741?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "7b0f55a64b5f",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://joinbytedance.com/search/7668373268886161669?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "265cdad4a335",
+      "jobType": "internship",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://joinbytedance.com/search/7668212952030841093?utm_source=github-vansh-ouckah",
+      "category": "AI/ML",
+      "company": "ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "77e8ec66ee03",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, AI Platform \ud83d\udec2"
     },
     {
       "age": "1d",
@@ -28434,7 +28509,7 @@
     "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
-    "Vansh Internships": 130,
+    "Vansh Internships": 139,
     "Vansh New Grad": 592
   }
 }
