@@ -1,7 +1,7 @@
 {
-  "count": 1893,
-  "fetchedAt": "2026-08-04T13:05:29.858118+00:00",
-  "generatedAt": "2026-08-04T13:05:29.858118+00:00",
+  "count": 1892,
+  "fetchedAt": "2026-08-04T13:10:31.562063+00:00",
+  "generatedAt": "2026-08-04T13:10:31.562063+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1622,21 +1622,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Scientist Intern - Multi-modal Agentic Databases \ud83c\udf93"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "JP Morgan Chase",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "e60f352b27fa",
-      "jobType": "internship",
-      "location": "8 locationsPalo Alto, CANewark, DEPlano, TXChicago, ILJersey City, NJColumbus, OHNYCWilmington, DE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data & AI Intern - Analyst"
     },
     {
       "age": "1d",
@@ -28400,7 +28385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 219,
+    "Simplify Internships": 218,
     "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
