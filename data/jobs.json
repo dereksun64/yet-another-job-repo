@@ -1,7 +1,7 @@
 {
-  "count": 1899,
-  "fetchedAt": "2026-08-04T23:00:36.801839+00:00",
-  "generatedAt": "2026-08-04T22:35:21.370880+00:00",
+  "count": 1909,
+  "fetchedAt": "2026-08-04T23:05:24.637416+00:00",
+  "generatedAt": "2026-08-04T23:05:24.637416+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -214,7 +214,7 @@
       "title": "Software Developer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -859,7 +859,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -1190,6 +1190,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "b791b7ff6336",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Development Intern - US Consumer Services"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -1324,7 +1339,7 @@
       "title": "Product Management Internship"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Appian",
@@ -1579,7 +1594,7 @@
       "title": "Digital Technology Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8096268&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "StepStone Group",
@@ -2314,7 +2329,7 @@
       "title": "Data Analyst Co-op"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "AlixPartners",
@@ -2372,6 +2387,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "DV Trading",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "662de81e362e",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Risk Intern"
     },
     {
       "age": "1d",
@@ -2974,7 +3004,7 @@
       "title": "Quantitative Strategy Developer Intern"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -3185,6 +3215,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Walleye Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "69817ec1d58e",
+      "jobType": "internship",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Developer Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Walleye Capital",
@@ -3229,7 +3274,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 SpaceX",
@@ -3350,6 +3395,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Peraton",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2bce57dec7f1",
+      "jobType": "full-time",
+      "location": "Las Cruces, NM",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer - Developer - Space Communications Program"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -3410,6 +3470,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cox",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "57649047791f",
+      "jobType": "full-time",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -3424,7 +3499,7 @@
       "title": "Software Engineer 1 - User Systems"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -3572,6 +3647,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Founders Initiatives"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "IntelliGenesis",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cae456a54c09",
+      "jobType": "full-time",
+      "location": "Annapolis Junction, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 0"
     },
     {
       "age": "1d",
@@ -4159,7 +4249,7 @@
       "title": "Application Software Developer New Grad"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://www.esri.com/careers/5185281007?gh_jid=5185281007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Esri",
@@ -4354,7 +4444,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -4367,6 +4457,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "92699865faa8",
+      "jobType": "full-time",
+      "location": "Sparks, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Sea Systems"
     },
     {
       "age": "8d",
@@ -4624,6 +4729,21 @@
       "title": "Software Engineer 1"
     },
     {
+      "age": "15d",
+      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Capital One",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "fcce1bae434c",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Software Engineer"
+    },
+    {
       "age": "18d",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -4654,7 +4774,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -4849,7 +4969,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -5014,7 +5134,7 @@
       "title": "Junior Software Engineer - AI Agent Platform"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5747,21 +5867,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Developer"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://careers.dat.com/jobs/6007145004?gh_jid=6007145004&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "DAT Freight & Analytics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7ec6593ad053",
-      "jobType": "full-time",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -6707,6 +6812,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning Engineer New Grad - Search Ads"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Shirley Ryan AbilityLab",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "22dab465bab8",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Ops Engineer 1 - CBM Lab"
     },
     {
       "age": "1d",
@@ -7909,6 +8029,21 @@
       "title": "Fixed Income Trading Analyst - Early Careers"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Gentex Corporation",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "383d79151ed1",
+      "jobType": "full-time",
+      "location": "Grand Rapids, MIZeeland, MI",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
@@ -8194,7 +8329,7 @@
       "title": "Hardware Engineer 1 - Sensors"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Anduril",
@@ -27425,6 +27560,21 @@
     },
     {
       "age": "67d",
+      "applyUrl": "https://careers.dat.com/jobs/6007145004?gh_jid=6007145004",
+      "category": "Software Engineering",
+      "company": "DAT Freight & Analytics",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7ec6593ad053",
+      "jobType": "full-time",
+      "location": "Denver, CO",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I"
+    },
+    {
+      "age": "67d",
       "applyUrl": "https://job-boards.greenhouse.io/relaypro/jobs/7950142",
       "category": "Software Engineering",
       "company": "Relay",
@@ -28490,8 +28640,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 223,
-    "Simplify New Grad": 347,
+    "Simplify Internships": 226,
+    "Simplify New Grad": 353,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 175,
