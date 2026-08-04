@@ -1,7 +1,7 @@
 {
-  "count": 1897,
-  "fetchedAt": "2026-08-04T18:00:42.169319+00:00",
-  "generatedAt": "2026-08-04T17:40:38.887418+00:00",
+  "count": 1896,
+  "fetchedAt": "2026-08-04T18:05:26.187808+00:00",
+  "generatedAt": "2026-08-04T18:05:26.187808+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6077,21 +6077,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Salesforce",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "f20d89e4327f",
-      "jobType": "full-time",
-      "location": "5 locationsPalo Alto, CASeattle, WASFDallas, TXBellevue, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineering AMTS College Grad"
     },
     {
       "age": "4mo",
@@ -28461,7 +28446,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 215,
-    "Simplify New Grad": 353,
+    "Simplify New Grad": 352,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 175,
