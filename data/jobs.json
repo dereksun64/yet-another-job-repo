@@ -1,7 +1,7 @@
 {
-  "count": 1892,
-  "fetchedAt": "2026-08-04T12:00:54.206393+00:00",
-  "generatedAt": "2026-08-04T11:35:27.251172+00:00",
+  "count": 1893,
+  "fetchedAt": "2026-08-04T12:05:27.713595+00:00",
+  "generatedAt": "2026-08-04T12:05:27.713595+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8327,6 +8327,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Systems Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Micron Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4b1e413f2a11",
+      "jobType": "full-time",
+      "location": "Boise, ID",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory"
     },
     {
       "age": "1mo",
@@ -28386,7 +28401,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 220,
-    "Simplify New Grad": 353,
+    "Simplify New Grad": 354,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 498,
     "Vansh Internships": 125,
