@@ -1,7 +1,7 @@
 {
-  "count": 1897,
-  "fetchedAt": "2026-08-04T17:30:37.586817+00:00",
-  "generatedAt": "2026-08-04T16:10:33.629014+00:00",
+  "count": 1896,
+  "fetchedAt": "2026-08-04T17:35:32.240530+00:00",
+  "generatedAt": "2026-08-04T17:35:32.240530+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3767,21 +3767,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://careers.garmin.com/jobs/18762?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Garmin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "02bcec924f7f",
-      "jobType": "full-time",
-      "location": "Olathe, KS",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Real Time Aviation Data"
     },
     {
       "age": "3d",
@@ -28461,7 +28446,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 215,
-    "Simplify New Grad": 354,
+    "Simplify New Grad": 353,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 174,
