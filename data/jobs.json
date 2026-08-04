@@ -1,7 +1,7 @@
 {
-  "count": 1896,
-  "fetchedAt": "2026-08-04T18:30:35.361852+00:00",
-  "generatedAt": "2026-08-04T18:05:26.187808+00:00",
+  "count": 1893,
+  "fetchedAt": "2026-08-04T18:35:27.853446+00:00",
+  "generatedAt": "2026-08-04T18:35:27.853446+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4070,21 +4070,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "03459c45ccdd",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 \ud83c\udf93"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Bank of Montreal",
@@ -6335,21 +6320,6 @@
     },
     {
       "age": "5mo",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Salesforce",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "913b7f4ae78c",
-      "jobType": "full-time",
-      "location": "4 locationsPalo Alto, CASFBellevue, WASeattle, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineering AMTS/MTS \u2013 College Grad"
-    },
-    {
-      "age": "5mo",
       "applyUrl": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Giga AI",
@@ -7022,21 +6992,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Machine Learning Platform"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "State Street",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "938849c7f44f",
-      "jobType": "full-time",
-      "location": "Quincy, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior SIEM Data Engineer"
     },
     {
       "age": "6d",
@@ -28446,7 +28401,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 215,
-    "Simplify New Grad": 352,
+    "Simplify New Grad": 349,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 175,
