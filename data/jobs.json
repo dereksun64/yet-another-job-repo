@@ -1,7 +1,7 @@
 {
-  "count": 1891,
-  "fetchedAt": "2026-08-04T10:00:46.743778+00:00",
-  "generatedAt": "2026-08-04T09:35:21.892134+00:00",
+  "count": 1892,
+  "fetchedAt": "2026-08-04T10:05:21.988889+00:00",
+  "generatedAt": "2026-08-04T10:05:21.988889+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3335,6 +3335,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f359a939fca2",
+      "jobType": "full-time",
+      "location": "Fullerton, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -3919,7 +3934,7 @@
       "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -4007,21 +4022,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Forward Deployed Software Engineer New Grad - UK Government"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://careers.cisco.com/global/en/job/1449197?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cisco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f5d928c6953a",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "4d",
@@ -8777,6 +8777,21 @@
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
       "title": "Analytics Engineer"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://careers.cisco.com/global/en/job/1449197?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f5d928c6953a",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "4d",
