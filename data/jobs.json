@@ -1,7 +1,7 @@
 {
-  "count": 1892,
-  "fetchedAt": "2026-08-04T22:00:44.842135+00:00",
-  "generatedAt": "2026-08-04T19:35:23.907221+00:00",
+  "count": 1890,
+  "fetchedAt": "2026-08-04T22:05:30.219177+00:00",
+  "generatedAt": "2026-08-04T22:05:30.219177+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2719,7 +2719,7 @@
       "title": "Quantitative Systematic Trading Intern \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Voloridge",
@@ -4472,21 +4472,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer New Grad"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "656c56081239",
-      "jobType": "full-time",
-      "location": "4 locationsAustin, TXRemote in USARedmond, WASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Compiler Engineer New Grad - Infrastructure"
     },
     {
       "age": "15d",
@@ -6932,21 +6917,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Engineer/Junior Data Scientist"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Engineer_R3322?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Waystar",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "39b0528811f7",
-      "jobType": "full-time",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Engineer"
     },
     {
       "age": "1d",
@@ -28386,7 +28356,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 215,
-    "Simplify New Grad": 348,
+    "Simplify New Grad": 346,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 175,
