@@ -1,7 +1,7 @@
 {
-  "count": 1896,
-  "fetchedAt": "2026-08-04T17:35:32.240530+00:00",
-  "generatedAt": "2026-08-04T17:35:32.240530+00:00",
+  "count": 1897,
+  "fetchedAt": "2026-08-04T17:40:38.887418+00:00",
+  "generatedAt": "2026-08-04T17:40:38.887418+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17435,6 +17435,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Melius",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f2f19902add0",
+      "jobType": "internship",
+      "location": "New York City, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://joinbytedance.com/search/7668374190764050741?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "ByteDance",
@@ -28449,7 +28464,7 @@
     "Simplify New Grad": 353,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
-    "Vansh Internships": 174,
+    "Vansh Internships": 175,
     "Vansh New Grad": 592
   }
 }
