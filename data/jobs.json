@@ -1,7 +1,7 @@
 {
-  "count": 1998,
-  "fetchedAt": "2026-08-05T15:00:48.589316+00:00",
-  "generatedAt": "2026-08-05T14:35:32.321934+00:00",
+  "count": 2000,
+  "fetchedAt": "2026-08-05T15:05:31.939024+00:00",
+  "generatedAt": "2026-08-05T15:05:31.939024+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2507,6 +2507,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Maven Securities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b9889f6586f9",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Trader Intern - Summer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Maven Securities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "78ceed774f2b",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Trader Intern"
     },
     {
       "age": "0d",
@@ -29975,7 +30005,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 234,
+    "Simplify Internships": 236,
     "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
