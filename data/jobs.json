@@ -1,7 +1,7 @@
 {
-  "count": 1913,
-  "fetchedAt": "2026-08-05T05:30:37.461648+00:00",
-  "generatedAt": "2026-08-05T02:40:25.098525+00:00",
+  "count": 1911,
+  "fetchedAt": "2026-08-05T05:35:24.744473+00:00",
+  "generatedAt": "2026-08-05T05:35:24.744473+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5330,21 +5330,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Citi",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "92c3488aa449",
-      "jobType": "full-time",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Applications Developer - Programmer Analyst"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -5942,21 +5927,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Refresh Software Engineer New Grad - Product"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://jobs.halliburton.com/job/Houston-a_-Software-Engineer-Early-Career-Landmark-TX-77032/1392092600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Halliburton",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cd45e3d9fe0a",
-      "jobType": "full-time",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer Early Career"
     },
     {
       "age": "2mo",
@@ -28701,7 +28671,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 229,
-    "Simplify New Grad": 354,
+    "Simplify New Grad": 352,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 175,
