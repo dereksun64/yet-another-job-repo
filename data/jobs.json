@@ -1,7 +1,7 @@
 {
-  "count": 1919,
-  "fetchedAt": "2026-08-05T10:01:47.608138+00:00",
-  "generatedAt": "2026-08-05T09:35:27.027979+00:00",
+  "count": 1920,
+  "fetchedAt": "2026-08-05T10:05:20.543734+00:00",
+  "generatedAt": "2026-08-05T10:05:20.543734+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4174,7 +4174,7 @@
       "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -5282,6 +5282,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "28d",
+      "applyUrl": "https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d/application?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
+      "company": "Handshake",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cfd9b2016501",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "iOS Engineer 1"
     },
     {
       "age": "29d",
@@ -28791,7 +28806,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 233,
-    "Simplify New Grad": 355,
+    "Simplify New Grad": 356,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 176,
