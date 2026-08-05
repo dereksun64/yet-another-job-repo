@@ -1,7 +1,7 @@
 {
-  "count": 1918,
-  "fetchedAt": "2026-08-05T13:30:36.849878+00:00",
-  "generatedAt": "2026-08-05T13:05:29.098641+00:00",
+  "count": 1917,
+  "fetchedAt": "2026-08-05T13:35:22.979312+00:00",
+  "generatedAt": "2026-08-05T13:35:22.979312+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -808,21 +808,6 @@
       "id": "2d97b5626b5a",
       "jobType": "internship",
       "location": "Anaheim, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9e8f6f4ac807",
-      "jobType": "internship",
-      "location": "McKinney, TX",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -4610,6 +4595,21 @@
     },
     {
       "age": "9d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "14ba4466f613",
+      "jobType": "full-time",
+      "location": "State College, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Java Software Engineer 1"
+    },
+    {
+      "age": "9d",
       "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cox Automotive",
@@ -7279,21 +7279,6 @@
       "title": "Junior Data Engineer/Junior Data Scientist"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/NEW-YORK-MIDTOWN/Software-Engineer-I--Generative-AI-Applications_JR-261077?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Robert Half",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d44ee5003203",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Generative AI Applications"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/64287?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -7832,21 +7817,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "University of Arkansas",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7e54f6d656e8",
-      "jobType": "full-time",
-      "location": "Little Rock, AR",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Cosmos - Data Engineer 1"
     },
     {
       "age": "4mo",
@@ -17642,6 +17612,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineering Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9e8f6f4ac807",
+      "jobType": "internship",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Fleet Health Instrumentation \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "1d",
@@ -28775,8 +28760,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 232,
-    "Simplify New Grad": 355,
+    "Simplify Internships": 231,
+    "Simplify New Grad": 354,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 176,
