@@ -1,7 +1,7 @@
 {
-  "count": 2000,
-  "fetchedAt": "2026-08-05T21:30:34.345882+00:00",
-  "generatedAt": "2026-08-05T17:35:27.805325+00:00",
+  "count": 2001,
+  "fetchedAt": "2026-08-05T21:35:25.599646+00:00",
+  "generatedAt": "2026-08-05T21:35:25.599646+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17675,6 +17675,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us&utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Roblox",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "bbbbdea3c240",
+      "jobType": "internship",
+      "location": "San Mateo, CA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976&utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Boeing",
@@ -30009,7 +30024,7 @@
     "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
-    "Vansh Internships": 176,
+    "Vansh Internships": 177,
     "Vansh New Grad": 592
   }
 }
