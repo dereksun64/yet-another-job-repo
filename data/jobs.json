@@ -1,7 +1,7 @@
 {
-  "count": 2013,
-  "fetchedAt": "2026-08-05T23:30:35.839271+00:00",
-  "generatedAt": "2026-08-05T23:30:35.839271+00:00",
+  "count": 2012,
+  "fetchedAt": "2026-08-05T23:35:18.709060+00:00",
+  "generatedAt": "2026-08-05T23:35:18.709060+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6380,21 +6380,6 @@
     },
     {
       "age": "3mo",
-      "applyUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "mthree",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3ea917bef486",
-      "jobType": "full-time",
-      "location": "Newark, DE",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "3mo",
       "applyUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Intuit",
@@ -6844,7 +6829,7 @@
       "title": "Product Engineer 1"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -30201,7 +30186,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 247,
-    "Simplify New Grad": 356,
+    "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
     "Vansh Internships": 177,
