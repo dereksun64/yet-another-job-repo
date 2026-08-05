@@ -1,7 +1,7 @@
 {
-  "count": 1919,
-  "fetchedAt": "2026-08-05T13:00:43.982536+00:00",
-  "generatedAt": "2026-08-05T12:35:22.861783+00:00",
+  "count": 1918,
+  "fetchedAt": "2026-08-05T13:05:29.098641+00:00",
+  "generatedAt": "2026-08-05T13:05:29.098641+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -797,6 +797,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Engineer Intern"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2d97b5626b5a",
+      "jobType": "internship",
+      "location": "Anaheim, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "6d",
@@ -8342,21 +8357,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer - Entry-Junior"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "15fd1ed16ef3",
-      "jobType": "full-time",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Conversion - Software Engineer 1"
     },
     {
       "age": "16d",
@@ -17642,21 +17642,6 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineering Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=github-vansh-ouckah",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2d97b5626b5a",
-      "jobType": "internship",
-      "location": "Fullerton, CA",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Software Engineer Intern, Fleet Health Instrumentation \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "1d",
@@ -28790,8 +28775,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 231,
-    "Simplify New Grad": 356,
+    "Simplify Internships": 232,
+    "Simplify New Grad": 355,
     "SpeedyApply USA Internships": 154,
     "SpeedyApply USA New Grad": 496,
     "Vansh Internships": 176,
