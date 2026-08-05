@@ -1,7 +1,7 @@
 {
-  "count": 2001,
-  "fetchedAt": "2026-08-05T21:35:25.599646+00:00",
-  "generatedAt": "2026-08-05T21:35:25.599646+00:00",
+  "count": 1999,
+  "fetchedAt": "2026-08-05T21:40:23.820426+00:00",
+  "generatedAt": "2026-08-05T21:40:23.820426+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4699,21 +4699,6 @@
       "title": "Java Software Engineer 1"
     },
     {
-      "age": "9d",
-      "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cox Automotive",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bb7c2863ab09",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
       "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -6047,21 +6032,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Backend Engineer"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4654059006?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "mthree",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3259fbd9aadc",
-      "jobType": "full-time",
-      "location": "London, UKChristchurch, UKGlasgow, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Developer"
     },
     {
       "age": "2mo",
@@ -30021,7 +29991,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 236,
-    "Simplify New Grad": 355,
+    "Simplify New Grad": 353,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
     "Vansh Internships": 177,
