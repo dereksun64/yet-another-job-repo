@@ -1,7 +1,7 @@
 {
   "count": 2013,
-  "fetchedAt": "2026-08-05T23:25:20.768294+00:00",
-  "generatedAt": "2026-08-05T23:05:19.946090+00:00",
+  "fetchedAt": "2026-08-05T23:30:35.839271+00:00",
+  "generatedAt": "2026-08-05T23:30:35.839271+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9047,6 +9047,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "Quora",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c2166c608e84",
+      "jobType": "full-time",
+      "location": "Remote",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "New Grad: Software Engineer"
     },
     {
       "age": "4d",
@@ -23990,21 +24005,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
-      "category": "AI/ML",
-      "company": "Quora",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c2166c608e84",
-      "jobType": "full-time",
-      "location": "Remote - USA +1",
-      "salary": "",
-      "source": "SpeedyApply USA New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
-      "title": "Software Engineer - Machine Learning Platform - New Grad - Quora - Remote"
-    },
-    {
-      "age": "4d",
       "applyUrl": "http://simisinc.applytojob.com/apply/UtaFwTRZV9/Junior-Software-Developer-Modeling-Simulation",
       "category": "Software Engineering",
       "company": "SimIS",
@@ -30205,6 +30205,6 @@
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
     "Vansh Internships": 177,
-    "Vansh New Grad": 592
+    "Vansh New Grad": 593
   }
 }
