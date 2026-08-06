@@ -1,7 +1,7 @@
 {
-  "count": 2029,
-  "fetchedAt": "2026-08-06T13:00:43.081383+00:00",
-  "generatedAt": "2026-08-06T12:05:23.000575+00:00",
+  "count": 2028,
+  "fetchedAt": "2026-08-06T13:05:28.127299+00:00",
+  "generatedAt": "2026-08-06T13:05:28.127299+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -167,21 +167,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "GE Appliances",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "454c4a09107b",
-      "jobType": "internship",
-      "location": "LaFayette, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Co-op"
     },
     {
       "age": "1d",
@@ -30440,7 +30425,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 261,
+    "Simplify Internships": 260,
     "Simplify New Grad": 358,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
