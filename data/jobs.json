@@ -1,7 +1,7 @@
 {
-  "count": 2048,
-  "fetchedAt": "2026-08-06T15:31:18.944751+00:00",
-  "generatedAt": "2026-08-06T15:05:28.168802+00:00",
+  "count": 2047,
+  "fetchedAt": "2026-08-06T15:37:31.430160+00:00",
+  "generatedAt": "2026-08-06T15:37:31.430160+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3992,21 +3992,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Air Traffic Solutions"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Peraton",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2bce57dec7f1",
-      "jobType": "full-time",
-      "location": "Las Cruces, NM",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - Developer - Space Communications Program"
     },
     {
       "age": "2d",
@@ -30726,7 +30711,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 258,
-    "Simplify New Grad": 363,
+    "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
