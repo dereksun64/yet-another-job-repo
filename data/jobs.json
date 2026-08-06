@@ -1,7 +1,7 @@
 {
-  "count": 2030,
-  "fetchedAt": "2026-08-06T13:55:27.159496+00:00",
-  "generatedAt": "2026-08-06T13:55:27.159496+00:00",
+  "count": 2031,
+  "fetchedAt": "2026-08-06T14:00:40.050351+00:00",
+  "generatedAt": "2026-08-06T14:00:40.050351+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -18080,6 +18080,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4&utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "CNO Financial Group",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "465ff73353b4",
+      "jobType": "internship",
+      "location": "RemoteCarmel, IN",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Cyber Security IT Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://joinbytedance.com/search/7670009669494704437?utm_source=github-vansh-ouckah",
       "category": "AI/ML",
       "company": "ByteDance",
@@ -30459,7 +30474,7 @@
     "Simplify New Grad": 358,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
-    "Vansh Internships": 182,
+    "Vansh Internships": 183,
     "Vansh New Grad": 593
   }
 }
