@@ -1,7 +1,7 @@
 {
-  "count": 2045,
-  "fetchedAt": "2026-08-06T15:00:40.649528+00:00",
-  "generatedAt": "2026-08-06T14:35:28.616809+00:00",
+  "count": 2048,
+  "fetchedAt": "2026-08-06T15:05:28.168802+00:00",
+  "generatedAt": "2026-08-06T15:05:28.168802+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3890,6 +3890,51 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Salesforce",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "587b91447755",
+      "jobType": "full-time",
+      "location": "6 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXBellevue, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer College Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Salesforce",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "3a3ec76e33f9",
+      "jobType": "full-time",
+      "location": "6 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXBellevue, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer College Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Integration-Engineer_R2127834?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "KBR",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5b64e71136dd",
+      "jobType": "full-time",
+      "location": "Beavercreek, OH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer Intern - Software Integration"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -5282,21 +5327,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Software Engineer"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mastercard",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "ee831f4408de",
-      "jobType": "full-time",
-      "location": "O'Fallon, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "20d",
@@ -7190,6 +7220,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "LiveScore Group",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2408b19162d4",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Scientist - Marketing Analytics"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114562?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Varsity Brands",
@@ -7834,7 +7879,7 @@
       "title": "Junior Data Governance Analyst"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -8540,6 +8585,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7343fde38b57",
+      "jobType": "full-time",
+      "location": "Woburn, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1416228900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "L3Harris Technologies",
@@ -8672,21 +8732,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Embedded Aviation"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://careers.garmin.com/jobs/18602?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Garmin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "69971c87b557",
-      "jobType": "full-time",
-      "location": "Boulder, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Software Engineer 1"
     },
     {
       "age": "5d",
@@ -30681,7 +30726,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 258,
-    "Simplify New Grad": 360,
+    "Simplify New Grad": 363,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
