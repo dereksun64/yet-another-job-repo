@@ -1,7 +1,7 @@
 {
-  "count": 2028,
-  "fetchedAt": "2026-08-06T12:00:44.502768+00:00",
-  "generatedAt": "2026-08-06T11:40:28.249218+00:00",
+  "count": 2029,
+  "fetchedAt": "2026-08-06T12:05:23.000575+00:00",
+  "generatedAt": "2026-08-06T12:05:23.000575+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7247,6 +7247,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01864368?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "64aa8ad2ddab",
+      "jobType": "full-time",
+      "location": "Woburn, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Digital Product Configuration Management Engineer 1"
     },
     {
       "age": "1d",
@@ -30426,7 +30441,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 261,
-    "Simplify New Grad": 357,
+    "Simplify New Grad": 358,
     "SpeedyApply USA Internships": 202,
     "SpeedyApply USA New Grad": 575,
     "Vansh Internships": 177,
