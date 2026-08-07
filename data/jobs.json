@@ -1,7 +1,7 @@
 {
-  "count": 2054,
-  "fetchedAt": "2026-08-07T06:00:42.431552+00:00",
-  "generatedAt": "2026-08-07T05:35:20.886527+00:00",
+  "count": 2053,
+  "fetchedAt": "2026-08-07T06:05:20.048236+00:00",
+  "generatedAt": "2026-08-07T06:05:20.048236+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5777,21 +5777,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Graduate/Junior Software Engineer - Backend"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cadence Design Systems",
-      "companyTier": "Tier 4",
-      "degreeLevel": "bachelors",
-      "id": "5a05dddc6271",
-      "jobType": "full-time",
-      "location": "Burlington, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Undergrads"
     },
     {
       "age": "29d",
@@ -30816,7 +30801,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 264,
-    "Simplify New Grad": 361,
+    "Simplify New Grad": 360,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
