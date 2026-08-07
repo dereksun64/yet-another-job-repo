@@ -1,7 +1,7 @@
 {
-  "count": 2054,
-  "fetchedAt": "2026-08-07T01:00:44.497484+00:00",
-  "generatedAt": "2026-08-07T00:05:19.964132+00:00",
+  "count": 2053,
+  "fetchedAt": "2026-08-07T01:05:19.758905+00:00",
+  "generatedAt": "2026-08-07T01:05:19.758905+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4714,7 +4714,7 @@
       "title": "Early Career Infrastructure Software Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/61501?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ManTech",
@@ -7789,7 +7789,7 @@
       "title": "Junior Data Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/64287?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "ManTech",
@@ -9287,21 +9287,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Digital Design Engineer New Grad - Memory Interface Chip \ud83c\udf93"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "647cb0593779",
-      "jobType": "full-time",
-      "location": "Madison, ALDurham, NCHillsboro, OR",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "ASIC Verification Engineer \u2013 New College Grad"
     },
     {
       "age": "3mo",
@@ -30816,7 +30801,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 261,
-    "Simplify New Grad": 364,
+    "Simplify New Grad": 363,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
