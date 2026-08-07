@@ -1,7 +1,7 @@
 {
-  "count": 2052,
-  "fetchedAt": "2026-08-07T12:00:40.151344+00:00",
-  "generatedAt": "2026-08-07T11:35:23.196753+00:00",
+  "count": 2053,
+  "fetchedAt": "2026-08-07T12:04:47.342898+00:00",
+  "generatedAt": "2026-08-07T12:04:47.342898+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -287,6 +287,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GE Appliances",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "40ac9219d071",
+      "jobType": "internship",
+      "location": "Louisville, KY",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - Software Engineering"
     },
     {
       "age": "3d",
@@ -30785,7 +30800,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 262,
+    "Simplify Internships": 263,
     "Simplify New Grad": 360,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
