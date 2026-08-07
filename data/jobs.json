@@ -1,7 +1,7 @@
 {
-  "count": 2067,
-  "fetchedAt": "2026-08-07T15:00:48.026667+00:00",
-  "generatedAt": "2026-08-07T14:35:27.460623+00:00",
+  "count": 2066,
+  "fetchedAt": "2026-08-07T15:05:32.688934+00:00",
+  "generatedAt": "2026-08-07T15:05:32.688934+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6950,21 +6950,6 @@
     },
     {
       "age": "5mo",
-      "applyUrl": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Chamberlain Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5c67a91cb14c",
-      "jobType": "full-time",
-      "location": "Western Springs, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - AI"
-    },
-    {
-      "age": "5mo",
       "applyUrl": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Titan",
@@ -7294,7 +7279,7 @@
       "title": "Data Engineer 1 - Inventory Optimization"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "LiveScore Group",
@@ -7924,7 +7909,7 @@
       "title": "Junior Data Governance Analyst"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -31011,7 +30996,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 262,
-    "Simplify New Grad": 361,
+    "Simplify New Grad": 360,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
     "Vansh Internships": 183,
