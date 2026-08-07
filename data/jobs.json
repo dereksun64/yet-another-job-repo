@@ -1,7 +1,7 @@
 {
   "count": 2055,
-  "fetchedAt": "2026-08-07T11:00:40.607954+00:00",
-  "generatedAt": "2026-08-07T10:35:22.018265+00:00",
+  "fetchedAt": "2026-08-07T11:05:24.005906+00:00",
+  "generatedAt": "2026-08-07T11:05:24.005906+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4202,21 +4202,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Frontend Software Engineer New Grad - Ads Interface"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://lifeattiktok.com/search/7668701361741007109?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "1bce4dd9c8b8",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "3d",
@@ -22535,6 +22520,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://lifeattiktok.com/search/7668701361741007109",
+      "category": "Software Engineering",
+      "company": "TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "1bce4dd9c8b8",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "$202k/yr",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer Graduate - Global SRE - 2027 Start"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://lifeattiktok.com/search/7668824169648097541",
       "category": "Software Engineering",
       "company": "TikTok",
@@ -30831,7 +30831,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 263,
-    "Simplify New Grad": 363,
+    "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
