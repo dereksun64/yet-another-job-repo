@@ -1,7 +1,7 @@
 {
-  "count": 2086,
-  "fetchedAt": "2026-08-07T23:35:24.003753+00:00",
-  "generatedAt": "2026-08-07T23:05:26.816907+00:00",
+  "count": 2084,
+  "fetchedAt": "2026-08-07T23:40:24.389454+00:00",
+  "generatedAt": "2026-08-07T23:40:24.389454+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6605,21 +6605,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Collective",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ee11981920e9",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Texas Instruments",
@@ -8492,21 +8477,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Technical Intelligence Analyst"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Quadric",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f1c440ef2c20",
-      "jobType": "full-time",
-      "location": "Burlingame, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Scientist New Grad - Model Optimization"
     },
     {
       "age": "2mo",
@@ -31296,7 +31266,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 283,
-    "Simplify New Grad": 362,
+    "Simplify New Grad": 360,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
     "Vansh Internships": 183,
