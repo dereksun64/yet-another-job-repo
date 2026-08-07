@@ -1,7 +1,7 @@
 {
-  "count": 2063,
-  "fetchedAt": "2026-08-07T19:35:24.086283+00:00",
-  "generatedAt": "2026-08-07T19:05:22.263003+00:00",
+  "count": 2062,
+  "fetchedAt": "2026-08-07T19:40:34.147168+00:00",
+  "generatedAt": "2026-08-07T19:40:34.147168+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7922,21 +7922,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Development Program Associate - Analytics"
-    },
-    {
-      "age": "29d",
-      "applyUrl": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Quora",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3ef374658289",
-      "jobType": "full-time",
-      "location": "Remote in USARemote in Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer New Grad"
     },
     {
       "age": "1mo",
@@ -30951,7 +30936,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 260,
-    "Simplify New Grad": 359,
+    "Simplify New Grad": 358,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
     "Vansh Internships": 183,
