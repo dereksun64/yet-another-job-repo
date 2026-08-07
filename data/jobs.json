@@ -1,7 +1,7 @@
 {
-  "count": 2055,
-  "fetchedAt": "2026-08-07T11:30:32.429820+00:00",
-  "generatedAt": "2026-08-07T11:05:24.005906+00:00",
+  "count": 2052,
+  "fetchedAt": "2026-08-07T11:35:23.196753+00:00",
+  "generatedAt": "2026-08-07T11:35:23.196753+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -287,21 +287,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GE Appliances",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "40ac9219d071",
-      "jobType": "internship",
-      "location": "Louisville, KY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - Software Engineering"
     },
     {
       "age": "3d",
@@ -7204,21 +7189,6 @@
       "title": "Backend Engineer \u2013 New Grad"
     },
     {
-      "age": "7mo",
-      "applyUrl": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "D2L",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "12198e963f2a",
-      "jobType": "full-time",
-      "location": "4 locationsWinnipeg, MB, CanadaToronto, ON, CanadaKitchener, ON, CanadaVancouver, BC, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Developer \u2013 New Graduate"
-    },
-    {
       "age": "0d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8663710002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -7352,21 +7322,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01864368?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "64aa8ad2ddab",
-      "jobType": "full-time",
-      "location": "Woburn, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Digital Product Configuration Management Engineer 1"
     },
     {
       "age": "2d",
@@ -30830,8 +30785,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 263,
-    "Simplify New Grad": 362,
+    "Simplify Internships": 262,
+    "Simplify New Grad": 360,
     "SpeedyApply USA Internships": 207,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
