@@ -1,7 +1,7 @@
 {
-  "count": 2061,
-  "fetchedAt": "2026-08-07T22:01:09.646811+00:00",
-  "generatedAt": "2026-08-07T21:35:22.826931+00:00",
+  "count": 2059,
+  "fetchedAt": "2026-08-07T22:05:21.323966+00:00",
+  "generatedAt": "2026-08-07T22:05:21.323966+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8719,21 +8719,6 @@
       "title": "FPGA Engineer 1"
     },
     {
-      "age": "7d",
-      "applyUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Hardware-Engineering_R441646?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Comcast",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0cc2ecf02afe",
-      "jobType": "full-time",
-      "location": "Philadelphia, PA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Hardware Engineer 1"
-    },
-    {
       "age": "8d",
       "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -9242,21 +9227,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Hardware Engineer 1"
-    },
-    {
-      "age": "6mo",
-      "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Software--Embedded--Engineer-I---Early-Career--2026-Starts-_R58482?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Blue Origin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3ebc7340d09e",
-      "jobType": "full-time",
-      "location": "LAKent, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I"
     },
     {
       "age": "2d",
@@ -30921,7 +30891,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 259,
-    "Simplify New Grad": 358,
+    "Simplify New Grad": 356,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
     "Vansh Internships": 183,
