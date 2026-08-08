@@ -1,7 +1,7 @@
 {
   "count": 2089,
-  "fetchedAt": "2026-08-08T05:35:24.804368+00:00",
-  "generatedAt": "2026-08-08T02:35:21.672799+00:00",
+  "fetchedAt": "2026-08-08T05:40:26.893009+00:00",
+  "generatedAt": "2026-08-08T05:40:26.893009+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1067,21 +1067,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Netsmart",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9ab6988696c4",
-      "jobType": "internship",
-      "location": "Overland Park, KS",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "5d",
@@ -18650,6 +18635,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Netsmart",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9ab6988696c4",
+      "jobType": "internship",
+      "location": "Overland Park, KS",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern \ud83d\udec2"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a?utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Modal",
@@ -31340,7 +31340,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 285,
+    "Simplify Internships": 284,
     "Simplify New Grad": 363,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
