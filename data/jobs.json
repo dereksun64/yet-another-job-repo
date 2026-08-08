@@ -1,7 +1,7 @@
 {
   "count": 2085,
-  "fetchedAt": "2026-08-08T13:05:19.042931+00:00",
-  "generatedAt": "2026-08-08T13:04:44.507726+00:00",
+  "fetchedAt": "2026-08-08T13:10:25.950717+00:00",
+  "generatedAt": "2026-08-08T13:10:25.950717+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -317,21 +317,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Roblox",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "a54b87a49fb2",
-      "jobType": "internship",
-      "location": "San Mateo, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "2d",
@@ -20464,6 +20449,21 @@
       "title": "Quantitative Developer Intern"
     },
     {
+      "age": "2d",
+      "applyUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "category": "Software Engineering",
+      "company": "Roblox",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "a54b87a49fb2",
+      "jobType": "internship",
+      "location": "San Mateo, CA",
+      "salary": "$64/hr",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Summer 2027 Software Engineer Intern"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
       "category": "FAANG+",
@@ -31280,7 +31280,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 284,
+    "Simplify Internships": 283,
     "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
