@@ -1,7 +1,7 @@
 {
   "count": 2089,
-  "fetchedAt": "2026-08-08T11:30:35.755482+00:00",
-  "generatedAt": "2026-08-08T10:35:19.583659+00:00",
+  "fetchedAt": "2026-08-08T11:35:18.539351+00:00",
+  "generatedAt": "2026-08-08T11:35:18.539351+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2942,21 +2942,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Intern - Technology"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "FTI Consulting",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b8204d0037d3",
-      "jobType": "internship",
-      "location": "7 locationsHouston, TXWashington, DCSFLAChicago, ILNYCAtlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern"
     },
     {
       "age": "16d",
@@ -18875,6 +18860,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1?utm_source=github-vansh-ouckah",
+      "category": "Legend",
+      "company": "FTI Consulting",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b8204d0037d3",
+      "jobType": "internship",
+      "location": "12 locationsAtlanta, GAChicago, ILHouston, TXLos Angeles, CANew York, NYSan Francisco, CAWashington, DCChicago, ILLos Angeles, CANew York, NYSan Francisco, CAWashington, DC",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Technology Intern"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "DRW",
@@ -31340,7 +31340,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 284,
+    "Simplify Internships": 283,
     "Simplify New Grad": 363,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 596,
