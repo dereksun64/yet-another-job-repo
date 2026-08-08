@@ -1,7 +1,7 @@
 {
-  "count": 2085,
-  "fetchedAt": "2026-08-08T15:00:42.285117+00:00",
-  "generatedAt": "2026-08-08T14:40:26.804564+00:00",
+  "count": 2084,
+  "fetchedAt": "2026-08-08T15:05:29.927378+00:00",
+  "generatedAt": "2026-08-08T15:05:29.927378+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7594,7 +7594,7 @@
       "title": "Data Engineer 1 - Inventory Optimization"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "LiveScore Group",
@@ -8239,7 +8239,7 @@
       "title": "Junior Data Governance Analyst"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -8612,21 +8612,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "SentiLink",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "87448e9e6618",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Scientist \u2013 New Grad"
     },
     {
       "age": "4mo",
@@ -31281,7 +31266,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 284,
-    "Simplify New Grad": 362,
+    "Simplify New Grad": 361,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
     "Vansh Internships": 183,
