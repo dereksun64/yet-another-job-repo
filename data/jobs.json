@@ -1,7 +1,7 @@
 {
-  "count": 2083,
-  "fetchedAt": "2026-08-09T14:00:44.752333+00:00",
-  "generatedAt": "2026-08-09T13:05:22.914851+00:00",
+  "count": 2082,
+  "fetchedAt": "2026-08-09T14:04:45.995505+00:00",
+  "generatedAt": "2026-08-09T14:04:45.995505+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2336,21 +2336,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "c5f332e60ee2",
-      "jobType": "internship",
-      "location": "Greenville, SCSchenectady, NYAtlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Digital Technology Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-2?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "GE Vernova",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d73d93701247",
       "jobType": "internship",
       "location": "Greenville, SCSchenectady, NYAtlanta, GA",
       "salary": "",
@@ -31250,7 +31235,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 280,
+    "Simplify Internships": 279,
     "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
