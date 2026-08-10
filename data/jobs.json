@@ -1,7 +1,7 @@
 {
   "count": 2086,
-  "fetchedAt": "2026-08-10T08:00:40.733412+00:00",
-  "generatedAt": "2026-08-10T07:35:30.009869+00:00",
+  "fetchedAt": "2026-08-10T08:05:21.733828+00:00",
+  "generatedAt": "2026-08-10T08:05:21.733828+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -677,21 +677,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Microsoft",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "626a81ec39b1",
-      "jobType": "internship",
-      "location": "Redmond, WA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - CoreAI"
     },
     {
       "age": "7d",
@@ -20584,6 +20569,21 @@
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond"
     },
     {
+      "age": "6d",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "category": "Software Engineering",
+      "company": "Microsoft",
+      "companyTier": "Tier 1",
+      "degreeLevel": "bachelors",
+      "id": "626a81ec39b1",
+      "jobType": "internship",
+      "location": "Washington, DC",
+      "salary": "$52/hr",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI"
+    },
+    {
       "age": "8d",
       "applyUrl": "https://lifeattiktok.com/search/7668837276597127477",
       "category": "Software Engineering",
@@ -31295,7 +31295,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 280,
+    "Simplify Internships": 279,
     "Simplify New Grad": 365,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
