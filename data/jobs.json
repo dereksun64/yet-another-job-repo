@@ -1,7 +1,7 @@
 {
-  "count": 2090,
-  "fetchedAt": "2026-08-10T22:00:45.303042+00:00",
-  "generatedAt": "2026-08-10T21:35:24.070027+00:00",
+  "count": 2089,
+  "fetchedAt": "2026-08-10T22:05:23.790248+00:00",
+  "generatedAt": "2026-08-10T22:05:23.790248+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5327,21 +5327,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://careers.garmin.com/jobs/17742?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Garmin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "81784c9cda72",
-      "jobType": "full-time",
-      "location": "Chandler, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
       "age": "9d",
@@ -31356,7 +31341,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 292,
-    "Simplify New Grad": 363,
+    "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
