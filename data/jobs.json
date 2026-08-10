@@ -1,7 +1,7 @@
 {
-  "count": 2086,
-  "fetchedAt": "2026-08-10T09:00:44.506280+00:00",
-  "generatedAt": "2026-08-10T08:05:21.733828+00:00",
+  "count": 2085,
+  "fetchedAt": "2026-08-10T09:05:23.359558+00:00",
+  "generatedAt": "2026-08-10T09:05:23.359558+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -6287,21 +6287,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Founding Engineer - Early Careers"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "PointOne",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8b68889080f0",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "1mo",
@@ -31296,7 +31281,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 279,
-    "Simplify New Grad": 365,
+    "Simplify New Grad": 364,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
     "Vansh Internships": 183,
