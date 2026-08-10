@@ -1,7 +1,7 @@
 {
-  "count": 2083,
-  "fetchedAt": "2026-08-10T15:30:51.351850+00:00",
-  "generatedAt": "2026-08-10T15:10:39.034887+00:00",
+  "count": 2081,
+  "fetchedAt": "2026-08-10T15:35:24.458237+00:00",
+  "generatedAt": "2026-08-10T15:35:24.458237+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1052,21 +1052,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "3a075140ccef",
-      "jobType": "internship",
-      "location": "Plano, TXMcLean, VARichmond, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern"
     },
     {
       "age": "8d",
@@ -8192,21 +8177,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Machine Learning Engineer"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "WSP",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "f6a7512dcc80",
-      "jobType": "full-time",
-      "location": "5 locationsSeattle, WAAustin, TXFort Lauderdale, FLNYCMinneapolis, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Early Career Project Controls Data Analyst"
     },
     {
       "age": "13d",
@@ -31250,8 +31220,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 286,
-    "Simplify New Grad": 363,
+    "Simplify Internships": 285,
+    "Simplify New Grad": 362,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
