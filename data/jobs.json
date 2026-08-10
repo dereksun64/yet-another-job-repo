@@ -1,7 +1,7 @@
 {
-  "count": 2084,
-  "fetchedAt": "2026-08-10T10:05:22.797281+00:00",
-  "generatedAt": "2026-08-10T09:35:24.624887+00:00",
+  "count": 2083,
+  "fetchedAt": "2026-08-10T10:10:35.167676+00:00",
+  "generatedAt": "2026-08-10T10:10:35.167676+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -287,21 +287,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Aeronautics Systems"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Information Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6b34970a30e2",
-      "jobType": "internship",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "4d",
@@ -5119,7 +5104,7 @@
       "title": "Software Engineer 1 - Aviation Web Development"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -7384,6 +7369,21 @@
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "SharkNinja",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1310d51b7be4",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Product Management Associate - Digital - Early Careers"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8663710002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -8134,7 +8134,7 @@
       "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Hitachi",
@@ -9002,21 +9002,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "System AI Engineer New Grad - Display - ASICS Engineering"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "L3Harris Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0ebaf40b0f8b",
-      "jobType": "full-time",
-      "location": "Melbourne, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Software Engineer 1"
     },
     {
       "age": "5d",
@@ -31265,7 +31250,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 279,
+    "Simplify Internships": 278,
     "Simplify New Grad": 363,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 593,
