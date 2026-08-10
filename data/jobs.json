@@ -1,7 +1,7 @@
 {
-  "count": 2116,
-  "fetchedAt": "2026-08-10T23:05:28.919741+00:00",
-  "generatedAt": "2026-08-10T23:05:28.919741+00:00",
+  "count": 2117,
+  "fetchedAt": "2026-08-10T23:10:34.622393+00:00",
+  "generatedAt": "2026-08-10T23:10:34.622393+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4984,7 +4984,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -5089,7 +5089,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5104,7 +5104,7 @@
       "title": "Software Engineer 1 - User Systems"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -5989,7 +5989,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -6289,7 +6289,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -6484,7 +6484,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -8059,7 +8059,7 @@
       "title": "Quantitative Scientist New Grad - Multiple Teams"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Cortica",
@@ -9544,7 +9544,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
@@ -9992,6 +9992,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Low Power ASIC Engineer New Grad"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Lila Sciences",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a36c24b41ad4",
+      "jobType": "full-time",
+      "location": "Cambridge, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Instrument Software"
     },
     {
       "age": "3mo",
@@ -31746,7 +31761,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 307,
-    "Simplify New Grad": 374,
+    "Simplify New Grad": 375,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
