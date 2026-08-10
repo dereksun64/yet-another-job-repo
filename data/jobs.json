@@ -1,7 +1,7 @@
 {
-  "count": 2078,
-  "fetchedAt": "2026-08-10T19:00:44.534170+00:00",
-  "generatedAt": "2026-08-10T18:35:26.877458+00:00",
+  "count": 2079,
+  "fetchedAt": "2026-08-10T19:05:25.513502+00:00",
+  "generatedAt": "2026-08-10T19:05:25.513502+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4307,6 +4307,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Teledyne",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "652293acca8d",
+      "jobType": "full-time",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
     },
     {
       "age": "2d",
@@ -31176,7 +31191,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 284,
-    "Simplify New Grad": 360,
+    "Simplify New Grad": 361,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
