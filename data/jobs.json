@@ -1,7 +1,7 @@
 {
-  "count": 2145,
-  "fetchedAt": "2026-08-11T19:00:42.372635+00:00",
-  "generatedAt": "2026-08-11T18:05:21.509127+00:00",
+  "count": 2144,
+  "fetchedAt": "2026-08-11T19:05:25.116545+00:00",
+  "generatedAt": "2026-08-11T19:05:25.116545+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2269,7 +2269,7 @@
       "title": "AI & Automation Intern - Enterprise Data & Analytics"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671291260529821957/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2284,7 +2284,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671109787509213445/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2299,7 +2299,7 @@
       "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671105026009925893/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2314,7 +2314,7 @@
       "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671096345243535669/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2329,7 +2329,7 @@
       "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -2344,7 +2344,7 @@
       "title": "Sustainability Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -2359,7 +2359,7 @@
       "title": "Artificial Intelligence Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -2374,7 +2374,7 @@
       "title": "System Administrator Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -3754,7 +3754,7 @@
       "title": "Quantitative Analyst Associate - Quantitative Technology Services"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "Montenson",
@@ -8117,21 +8117,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "LPL Financial Holdings",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2ea6f41ff70b",
-      "jobType": "full-time",
-      "location": "Austin, TXFort Mill, SCCharlotte, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Management New Grad - Product"
     },
     {
       "age": "4d",
@@ -32181,7 +32166,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 329,
-    "Simplify New Grad": 370,
+    "Simplify New Grad": 369,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
