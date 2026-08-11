@@ -1,7 +1,7 @@
 {
-  "count": 2147,
-  "fetchedAt": "2026-08-11T18:00:45.178231+00:00",
-  "generatedAt": "2026-08-11T17:35:25.060632+00:00",
+  "count": 2145,
+  "fetchedAt": "2026-08-11T18:05:21.509127+00:00",
+  "generatedAt": "2026-08-11T18:05:21.509127+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -362,21 +362,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Frontend Engineer Intern - Ads Interface"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Atoms",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a588e4a58038",
-      "jobType": "internship",
-      "location": "5 locationsSeattle, WASFLANYCMountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
     },
     {
       "age": "3d",
@@ -2120,6 +2105,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Deloitte",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "213bff724147",
+      "jobType": "internship",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quantbot Technologies",
@@ -3785,21 +3785,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "PEAK6",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ec6c5480b0ed",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Trading Intern"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "PEAK6",
@@ -5132,21 +5117,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - AI and Decision Product Enablement"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "LPL Financial Holdings",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "30788d1f766f",
-      "jobType": "full-time",
-      "location": "Austin, TXFort Mill, SCCharlotte, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineering New Grad"
     },
     {
       "age": "1d",
@@ -32210,8 +32180,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 330,
-    "Simplify New Grad": 371,
+    "Simplify Internships": 329,
+    "Simplify New Grad": 370,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
