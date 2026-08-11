@@ -1,7 +1,7 @@
 {
   "count": 2124,
-  "fetchedAt": "2026-08-11T02:30:38.309254+00:00",
-  "generatedAt": "2026-08-11T02:05:24.457455+00:00",
+  "fetchedAt": "2026-08-11T02:35:23.001452+00:00",
+  "generatedAt": "2026-08-11T02:35:23.001452+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5629,7 +5629,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Walgreens",
@@ -8882,21 +8882,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Neuroimaging Data Analyst Junior"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Babel Street",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "68a1bbeec47f",
-      "jobType": "full-time",
-      "location": "4 locationsCambridge, MARemote in USAReston, VASolon, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Warehouse Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -29840,6 +29825,21 @@
     },
     {
       "age": "44d",
+      "applyUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833",
+      "category": "Software Engineering",
+      "company": "Babel Street",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "68a1bbeec47f",
+      "jobType": "full-time",
+      "location": "Reston, VA +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Data Warehouse Software Engineer I"
+    },
+    {
+      "age": "44d",
       "applyUrl": "https://job-boards.greenhouse.io/discord/jobs/8609250002",
       "category": "Software Engineering",
       "company": "Discord",
@@ -31866,7 +31866,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 313,
-    "Simplify New Grad": 376,
+    "Simplify New Grad": 375,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
