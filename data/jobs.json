@@ -1,7 +1,7 @@
 {
-  "count": 2123,
-  "fetchedAt": "2026-08-11T04:30:37.989313+00:00",
-  "generatedAt": "2026-08-11T03:05:24.270112+00:00",
+  "count": 2122,
+  "fetchedAt": "2026-08-11T04:35:20.139904+00:00",
+  "generatedAt": "2026-08-11T04:35:20.139904+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9647,21 +9647,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1416228900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "L3Harris Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a3daca661174",
-      "jobType": "full-time",
-      "location": "Salt Lake City, UT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "5d",
@@ -31851,7 +31836,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 312,
-    "Simplify New Grad": 375,
+    "Simplify New Grad": 374,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
