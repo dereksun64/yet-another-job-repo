@@ -1,8 +1,23 @@
 {
-  "count": 2153,
-  "fetchedAt": "2026-08-11T23:00:43.810012+00:00",
-  "generatedAt": "2026-08-11T22:35:28.339402+00:00",
+  "count": 2168,
+  "fetchedAt": "2026-08-11T23:05:21.594796+00:00",
+  "generatedAt": "2026-08-11T23:05:21.594796+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sentry",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "aefdde96f203",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
@@ -124,7 +139,7 @@
       "title": "Software Development Intern - Summer 2027"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671162985123907845/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -844,7 +859,7 @@
       "title": "Software Engineer Intern - Global CRM"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -1429,7 +1444,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Appian",
@@ -2089,7 +2104,7 @@
       "title": "Product Management Internship"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8041243?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Appian",
@@ -2240,6 +2255,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Booz Allen",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e63658445842",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI RAN Telecommunications Engineer Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://lifeattiktok.com/search/7667582040108222773?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -2254,7 +2284,7 @@
       "title": "Issue Discovery Operations Intern - Content Ecosystem"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citadel",
@@ -2974,7 +3004,7 @@
       "title": "Digital Technology Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8096268&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "StepStone Group",
@@ -3679,21 +3709,6 @@
       "title": "Master's Data Science Internship \ud83c\udf93"
     },
     {
-      "age": "27d",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Motorola",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cb09d44d519d",
-      "jobType": "internship",
-      "location": "Remote in Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Analyst Co-op"
-    },
-    {
       "age": "1mo",
       "applyUrl": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -3737,6 +3752,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Quantbot Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "570f76744a23",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Researcher Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Quantbot Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3dc77d5a6ae8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Trading Analyst Intern - Data Trading Lab"
     },
     {
       "age": "0d",
@@ -4879,7 +4924,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 SpaceX",
@@ -5000,6 +5045,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "PathAI",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e8961cb07119",
+      "jobType": "full-time",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Fullstack"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sentry",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2a41fda04f54",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.apple.com/en-us/details/200677377?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -5102,6 +5177,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Comcast",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "461ee83d9c35",
+      "jobType": "full-time",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Software Development & Engineering"
     },
     {
       "age": "1d",
@@ -5222,6 +5312,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - AI and Decision Product Enablement"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "LPL Financial Holdings",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "30788d1f766f",
+      "jobType": "full-time",
+      "location": "Austin, TXFort Mill, SCCharlotte, NC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineering New Grad"
     },
     {
       "age": "1d",
@@ -5419,7 +5524,7 @@
       "title": "Junior Software Engineer - Clearance Sponsorship"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -5524,7 +5629,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5539,7 +5644,7 @@
       "title": "Software Engineer 1 - User Systems"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -6409,7 +6514,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -6859,7 +6964,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -7550,6 +7655,21 @@
     },
     {
       "age": "2mo",
+      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "True Anomaly",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4a14586d2d81",
+      "jobType": "full-time",
+      "location": "Long Beach, CADenver, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - QA"
+    },
+    {
+      "age": "2mo",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Motorola",
@@ -8224,6 +8344,21 @@
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
     },
     {
+      "age": "1d",
+      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "LPL Financial Holdings",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2ea6f41ff70b",
+      "jobType": "full-time",
+      "location": "Austin, TXFort Mill, SCCharlotte, NC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Product Management New Grad - Product"
+    },
+    {
       "age": "5d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8663710002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -8345,6 +8480,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lake-Vista-TX/Machine-Learning-Engineer-I_R-084092?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Rocket Companies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f0e2986ea8fa",
+      "jobType": "full-time",
+      "location": "Lago Vista, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Data-Engineer-I_R2000691512?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Loblaw Companies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "61154510e95a",
+      "jobType": "full-time",
+      "location": "Brampton, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Guidehouse",
@@ -8434,7 +8599,7 @@
       "title": "Quantitative Scientist New Grad - Multiple Teams"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Cortica",
@@ -9800,6 +9965,66 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "06e7b4b2b93e",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9da464fdbc87",
+      "jobType": "full-time",
+      "location": "Jupiter, FL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "010bbd79bcae",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Ciena",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5aeb14c2ac94",
+      "jobType": "full-time",
+      "location": "Ottawa, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Developer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AeroVironment",
@@ -9934,7 +10159,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
@@ -32300,8 +32525,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 333,
-    "Simplify New Grad": 374,
+    "Simplify Internships": 336,
+    "Simplify New Grad": 386,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
