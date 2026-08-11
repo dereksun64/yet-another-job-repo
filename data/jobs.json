@@ -1,7 +1,7 @@
 {
-  "count": 2120,
-  "fetchedAt": "2026-08-11T11:00:42.821202+00:00",
-  "generatedAt": "2026-08-11T10:35:22.644532+00:00",
+  "count": 2118,
+  "fetchedAt": "2026-08-11T11:05:29.928738+00:00",
+  "generatedAt": "2026-08-11T11:05:29.928738+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4910,21 +4910,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Torch Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8f47858b6084",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8662881002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -7489,7 +7474,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "3mo",
+      "age": "4mo",
       "applyUrl": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Realm",
@@ -7922,21 +7907,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "SharkNinja",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1310d51b7be4",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Management Associate - Digital - Early Careers"
     },
     {
       "age": "1d",
@@ -31806,7 +31776,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 313,
-    "Simplify New Grad": 371,
+    "Simplify New Grad": 369,
     "SpeedyApply USA Internships": 217,
     "SpeedyApply USA New Grad": 589,
     "Vansh Internships": 183,
