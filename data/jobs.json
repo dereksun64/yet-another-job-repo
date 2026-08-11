@@ -1,7 +1,7 @@
 {
-  "count": 2124,
-  "fetchedAt": "2026-08-11T17:00:44.127194+00:00",
-  "generatedAt": "2026-08-11T16:35:44.143684+00:00",
+  "count": 2123,
+  "fetchedAt": "2026-08-11T17:05:26.370783+00:00",
+  "generatedAt": "2026-08-11T17:05:26.370783+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6304,21 +6304,6 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "25d",
-      "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Nuro",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "d26e41e5fadb",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Performance"
-    },
-    {
       "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -8552,21 +8537,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Engineer"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/64287?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "ManTech",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "255dfcd3a650",
-      "jobType": "full-time",
-      "location": "Arlington County, Arlington, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Artificial Intelligence/Machine Learning Strategist"
     },
     {
       "age": "10d",
@@ -28430,6 +28400,21 @@
     },
     {
       "age": "25d",
+      "applyUrl": "https://nuro.ai/careersitem?gh_jid=6972272",
+      "category": "Software Engineering",
+      "company": "Nuro",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "d26e41e5fadb",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - Performance - New Grad"
+    },
+    {
+      "age": "25d",
       "applyUrl": "https://apply.workable.com/pgtek/j/DB958E1A45/",
       "category": "AI/ML",
       "company": "PGTEK",
@@ -31866,7 +31851,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 313,
-    "Simplify New Grad": 366,
+    "Simplify New Grad": 364,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
