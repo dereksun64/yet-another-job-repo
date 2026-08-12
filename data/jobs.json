@@ -1,7 +1,7 @@
 {
   "count": 2159,
-  "fetchedAt": "2026-08-12T11:05:22.765951+00:00",
-  "generatedAt": "2026-08-12T10:39:15.380634+00:00",
+  "fetchedAt": "2026-08-12T11:10:27.676814+00:00",
+  "generatedAt": "2026-08-12T11:10:27.676814+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -92,6 +92,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - DV Commodities"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f847d5aae027",
+      "jobType": "internship",
+      "location": "Burnsville, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -7847,21 +7862,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Realm",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "802c6e661b4a",
-      "jobType": "full-time",
-      "location": "Remote in US",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer - New Grad \ud83c\uddfa\ud83c\uddf8"
     },
     {
       "age": "4mo",
@@ -32390,8 +32390,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 329,
-    "Simplify New Grad": 383,
+    "Simplify Internships": 330,
+    "Simplify New Grad": 382,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
