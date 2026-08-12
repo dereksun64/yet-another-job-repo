@@ -1,7 +1,7 @@
 {
-  "count": 2171,
-  "fetchedAt": "2026-08-12T23:00:39.260300+00:00",
-  "generatedAt": "2026-08-12T22:36:34.253504+00:00",
+  "count": 2174,
+  "fetchedAt": "2026-08-12T23:05:24.979106+00:00",
+  "generatedAt": "2026-08-12T23:05:24.979106+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5210,6 +5210,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Uniswap",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bb46115b5517",
+      "jobType": "full-time",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer - Early Career"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AbbVie",
@@ -5869,7 +5884,7 @@
       "title": "Junior Software Engineer - Clearance Sponsorship"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -5959,7 +5974,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -5974,7 +5989,7 @@
       "title": "Software Engineer 1 - User Systems"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -6844,7 +6859,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "The Trade Desk",
@@ -7279,7 +7294,7 @@
       "title": "Conversion Software Engineer 1"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -8884,7 +8899,7 @@
       "title": "Quantitative Scientist New Grad - Multiple Teams"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Cortica",
@@ -10220,6 +10235,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "General Matter",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "16ea1b0cf22b",
+      "jobType": "full-time",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Rocket Lab USA",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "85a1629ed28f",
+      "jobType": "full-time",
+      "location": "Littleton, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Flight Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Mach Industries",
@@ -10519,7 +10564,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
@@ -32571,7 +32616,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 347,
-    "Simplify New Grad": 399,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
