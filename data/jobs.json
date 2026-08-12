@@ -1,7 +1,7 @@
 {
-  "count": 2171,
-  "fetchedAt": "2026-08-12T03:30:34.784517+00:00",
-  "generatedAt": "2026-08-12T02:40:36.546994+00:00",
+  "count": 2170,
+  "fetchedAt": "2026-08-12T03:35:21.987160+00:00",
+  "generatedAt": "2026-08-12T03:35:21.987160+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6815,21 +6815,6 @@
     },
     {
       "age": "26d",
-      "applyUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "KBR",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1f7b39073da1",
-      "jobType": "full-time",
-      "location": "Colorado Springs, COBeavercreek, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cybernetic Labs",
@@ -8117,21 +8102,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New Grads - Multiple Teams"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8459320002?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Twitch",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4b2b038dfef1",
-      "jobType": "full-time",
-      "location": "Seattle, WASF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Commerce Engineering"
     },
     {
       "age": "4mo",
@@ -11207,6 +11177,21 @@
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
       "title": "New Grad: Software Engineer"
+    },
+    {
+      "age": "140d",
+      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8459320002?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "Twitch",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4b2b038dfef1",
+      "jobType": "full-time",
+      "location": "Seattle, WASan Francisco, CA",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Software Engineer I, Commerce Engineering"
     },
     {
       "age": "140d",
@@ -32571,7 +32556,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 335,
-    "Simplify New Grad": 390,
+    "Simplify New Grad": 388,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
