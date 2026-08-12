@@ -1,7 +1,7 @@
 {
-  "count": 2174,
-  "fetchedAt": "2026-08-12T23:30:33.276731+00:00",
-  "generatedAt": "2026-08-12T23:10:25.999615+00:00",
+  "count": 2172,
+  "fetchedAt": "2026-08-12T23:35:24.416679+00:00",
+  "generatedAt": "2026-08-12T23:35:24.416679+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8000,21 +8000,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Visionist",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "294f28036bba",
-      "jobType": "full-time",
-      "location": "Laurel, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -10487,21 +10472,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Firmware Engineer - Early Career \ud83c\udf93"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--Radar-Analyst_01865798?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b80de5456a77",
-      "jobType": "full-time",
-      "location": "Woburn, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Systems Engineer 1 - Radar Analyst"
     },
     {
       "age": "2d",
@@ -32616,7 +32586,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 347,
-    "Simplify New Grad": 402,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
