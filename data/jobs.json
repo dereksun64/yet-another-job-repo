@@ -1,7 +1,7 @@
 {
-  "count": 2162,
-  "fetchedAt": "2026-08-12T10:35:19.969908+00:00",
-  "generatedAt": "2026-08-12T10:05:25.017204+00:00",
+  "count": 2159,
+  "fetchedAt": "2026-08-12T10:39:15.380634+00:00",
+  "generatedAt": "2026-08-12T10:39:15.380634+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -92,21 +92,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - DV Commodities"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f847d5aae027",
-      "jobType": "internship",
-      "location": "Burnsville, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -5539,21 +5524,6 @@
       "title": "Software Engineer 1 - Metrics for Release"
     },
     {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fa84b78fcf38",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Air Traffic Solutions"
-    },
-    {
       "age": "8d",
       "applyUrl": "https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -6094,7 +6064,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -6109,7 +6079,7 @@
       "title": "Software Engineer 1 - Connect IQ Applications"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -6124,7 +6094,7 @@
       "title": "Software Engineer 1 - Web Development/Applications"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -10145,21 +10115,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R73402?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Medtronic",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "da274020d7c3",
-      "jobType": "full-time",
-      "location": "Mounds View, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Firmware Engineer 1 - CRM"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Gentex Corporation",
@@ -10189,7 +10144,7 @@
       "title": "Software Engineer 1 - Embedded Aviation"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -32435,8 +32390,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 330,
-    "Simplify New Grad": 385,
+    "Simplify Internships": 329,
+    "Simplify New Grad": 383,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
