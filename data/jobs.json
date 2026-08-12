@@ -1,7 +1,7 @@
 {
-  "count": 2133,
-  "fetchedAt": "2026-08-12T15:00:59.415324+00:00",
-  "generatedAt": "2026-08-12T14:35:24.084276+00:00",
+  "count": 2135,
+  "fetchedAt": "2026-08-12T15:05:28.502901+00:00",
+  "generatedAt": "2026-08-12T15:05:28.502901+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7430,6 +7430,36 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Trustpilot",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "574b9b4ecd71",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Trust Tech"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Trustpilot",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e718cd102951",
+      "jobType": "full-time",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Trust Tech"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://lexical.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Lexical Intelligence",
@@ -8449,7 +8479,7 @@
       "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "LiveScore Group",
@@ -9034,7 +9064,7 @@
       "title": "Junior Data Governance Analyst"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "CarbonChain",
@@ -10384,7 +10414,7 @@
       "title": "Embedded Systems Engineer 1"
     },
     {
-      "age": "1mo",
+      "age": "2mo",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR89353?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Micron Technology",
@@ -32001,7 +32031,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 328,
-    "Simplify New Grad": 381,
+    "Simplify New Grad": 383,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
