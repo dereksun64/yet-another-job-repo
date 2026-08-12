@@ -1,7 +1,7 @@
 {
   "count": 2148,
-  "fetchedAt": "2026-08-12T18:30:53.956697+00:00",
-  "generatedAt": "2026-08-12T17:35:22.946816+00:00",
+  "fetchedAt": "2026-08-12T18:35:22.659719+00:00",
+  "generatedAt": "2026-08-12T18:35:22.659719+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -47,21 +47,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Quantbot Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2c3f75da15ee",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -22385,6 +22370,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+      "category": "Software Engineering",
+      "company": "Quantbot Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2c3f75da15ee",
+      "jobType": "internship",
+      "location": "New York City, NY",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer Summer Internship - 2027 - New York"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
       "category": "Software Engineering",
       "company": "Varda",
@@ -32225,7 +32225,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 336,
+    "Simplify Internships": 335,
     "Simplify New Grad": 388,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
