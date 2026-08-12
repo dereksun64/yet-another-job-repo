@@ -1,7 +1,7 @@
 {
   "count": 2158,
-  "fetchedAt": "2026-08-12T12:00:42.453184+00:00",
-  "generatedAt": "2026-08-12T11:35:24.082069+00:00",
+  "fetchedAt": "2026-08-12T12:05:22.482160+00:00",
+  "generatedAt": "2026-08-12T12:05:22.482160+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7940,21 +7940,6 @@
     },
     {
       "age": "4mo",
-      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8457711002?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Twitch",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ec7b154fbeb2",
-      "jobType": "full-time",
-      "location": "Seattle, WASF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Commerce Engineering"
-    },
-    {
-      "age": "4mo",
       "applyUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freedom Technology Solutions Group",
@@ -10997,6 +10982,21 @@
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
       "title": "New Grad: Software Engineer"
+    },
+    {
+      "age": "140d",
+      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8457711002?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "Twitch",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ec7b154fbeb2",
+      "jobType": "full-time",
+      "location": "San Francisco, CASeattle, WA",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Software Engineer I, Commerce Engineering"
     },
     {
       "age": "140d",
@@ -32376,7 +32376,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 329,
-    "Simplify New Grad": 382,
+    "Simplify New Grad": 381,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
