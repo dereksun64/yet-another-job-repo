@@ -1,7 +1,7 @@
 {
-  "count": 2204,
-  "fetchedAt": "2026-08-13T23:30:33.303699+00:00",
-  "generatedAt": "2026-08-13T23:05:23.786584+00:00",
+  "count": 2203,
+  "fetchedAt": "2026-08-13T23:35:25.149145+00:00",
+  "generatedAt": "2026-08-13T23:35:25.149145+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7625,21 +7625,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Built Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14a359583fc4",
-      "jobType": "full-time",
-      "location": "Nashville, TN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Internal Tooling"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Motorola",
@@ -10292,36 +10277,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Algorithm Developer New Grad - Quant Researcher"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Akuna Capital University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f1e0435c4e3b",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Quantitative Researcher"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Akuna Capital University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d2805426a33b",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Quantitative Developer & Strategist"
     },
     {
       "age": "1mo",
@@ -25910,6 +25865,21 @@
     },
     {
       "age": "30d",
+      "applyUrl": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
+      "category": "Quant",
+      "company": "Akuna Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d2805426a33b",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "$191k/yr",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Junior Quantitative Developer & Strategist"
+    },
+    {
+      "age": "30d",
       "applyUrl": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
       "category": "Software Engineering",
       "company": "Akuna Capital",
@@ -30620,6 +30590,21 @@
     },
     {
       "age": "35d",
+      "applyUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005",
+      "category": "Software Engineering",
+      "company": "Built Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "14a359583fc4",
+      "jobType": "full-time",
+      "location": "Nashville, TN",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - Internal Tooling"
+    },
+    {
+      "age": "35d",
       "applyUrl": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066",
       "category": "Software Engineering",
       "company": "Faros",
@@ -33066,7 +33051,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 360,
-    "Simplify New Grad": 405,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
