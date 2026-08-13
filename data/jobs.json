@@ -1,7 +1,7 @@
 {
-  "count": 2194,
-  "fetchedAt": "2026-08-13T15:35:22.782804+00:00",
-  "generatedAt": "2026-08-13T15:35:22.782804+00:00",
+  "count": 2196,
+  "fetchedAt": "2026-08-13T15:40:29.431987+00:00",
+  "generatedAt": "2026-08-13T15:40:29.431987+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6050,21 +6050,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Information Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "dc4555e302de",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - Clearance Sponsorship"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Samsara",
@@ -10352,6 +10337,51 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Embedded Systems"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c734265e9e68",
+      "jobType": "full-time",
+      "location": "Goleta, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01866138?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8e973de360c1",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "90ba899340d2",
+      "jobType": "full-time",
+      "location": "Goleta, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "0d",
@@ -32916,7 +32946,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 356,
-    "Simplify New Grad": 399,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
