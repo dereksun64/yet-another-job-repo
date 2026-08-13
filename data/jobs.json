@@ -1,7 +1,7 @@
 {
-  "count": 2195,
-  "fetchedAt": "2026-08-13T17:00:43.226786+00:00",
-  "generatedAt": "2026-08-13T16:35:22.796448+00:00",
+  "count": 2193,
+  "fetchedAt": "2026-08-13T17:05:30.105214+00:00",
+  "generatedAt": "2026-08-13T17:05:30.105214+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5177,21 +5177,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Thermal Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c1db6248df4e",
-      "jobType": "internship",
-      "location": "Woburn, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
     },
     {
       "age": "7d",
@@ -10453,21 +10438,6 @@
       "id": "2bc9b0b1e4e0",
       "jobType": "full-time",
       "location": "West Valley City, UT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I_01865652?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c5f74f604fd0",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -32930,8 +32900,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 356,
-    "Simplify New Grad": 400,
+    "Simplify Internships": 355,
+    "Simplify New Grad": 399,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
