@@ -1,7 +1,7 @@
 {
-  "count": 2176,
-  "fetchedAt": "2026-08-13T03:05:21.397773+00:00",
-  "generatedAt": "2026-08-13T02:35:21.304723+00:00",
+  "count": 2174,
+  "fetchedAt": "2026-08-13T03:10:27.267547+00:00",
+  "generatedAt": "2026-08-13T03:10:27.267547+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -7475,21 +7475,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Danaher Corporation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "327370a52d77",
-      "jobType": "full-time",
-      "location": "Indianapolis, IN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d/application?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "Handshake",
@@ -8807,21 +8792,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Analyst"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Jr-Software-and-Data-Engineer_R016066?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Aerospace Corporation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bb9c0ec451e4",
-      "jobType": "full-time",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software and Data Engineer - Information Systems and Cyber Division - Data Platforms and Architectures Department"
     },
     {
       "age": "2d",
@@ -32646,7 +32616,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 349,
-    "Simplify New Grad": 402,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
