@@ -1,8 +1,23 @@
 {
-  "count": 2177,
-  "fetchedAt": "2026-08-13T07:05:22.714663+00:00",
-  "generatedAt": "2026-08-13T06:35:24.838349+00:00",
+  "count": 2181,
+  "fetchedAt": "2026-08-13T07:10:27.506671+00:00",
+  "generatedAt": "2026-08-13T07:10:27.506671+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://specteraerospace.bamboohr.com/careers/122/?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Specter Aerospace",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b34329457aba",
+      "jobType": "internship",
+      "location": "Boston, MAPeabody, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Full Stack Developer Co-op"
+    },
     {
       "age": "0d",
       "applyUrl": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209?utm_source=Simplify&ref=Simplify",
@@ -2300,6 +2315,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Wells Fargo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0a06ab974f76",
+      "jobType": "internship",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Analytics Intern - Multiple Teams \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Wells Fargo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b8e266f7ea22",
+      "jobType": "internship",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Analytics Intern - Multiple Teams \ud83c\udf93"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "TMEIC Corporation Americas",
@@ -3962,6 +4007,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Investment Analyst Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Wells Fargo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "1bcea63acf2e",
+      "jobType": "internship",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Analytics Intern - Capital Markets - Masters \ud83c\udf93"
     },
     {
       "age": "0d",
@@ -32660,7 +32720,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 351,
+    "Simplify Internships": 355,
     "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
