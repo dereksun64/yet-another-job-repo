@@ -1,7 +1,7 @@
 {
-  "count": 2181,
-  "fetchedAt": "2026-08-13T08:00:44.515151+00:00",
-  "generatedAt": "2026-08-13T07:10:27.506671+00:00",
+  "count": 2180,
+  "fetchedAt": "2026-08-13T08:05:21.118996+00:00",
+  "generatedAt": "2026-08-13T08:05:21.118996+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8897,21 +8897,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Analyst"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lake-Vista-TX/Machine-Learning-Engineer-I_R-084092?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Rocket Companies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f0e2986ea8fa",
-      "jobType": "full-time",
-      "location": "Lago Vista, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer 1"
     },
     {
       "age": "2d",
@@ -32721,7 +32706,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 355,
-    "Simplify New Grad": 401,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
