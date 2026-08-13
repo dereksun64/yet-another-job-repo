@@ -1,7 +1,7 @@
 {
-  "count": 2181,
-  "fetchedAt": "2026-08-13T11:00:43.719871+00:00",
-  "generatedAt": "2026-08-13T10:35:25.099216+00:00",
+  "count": 2178,
+  "fetchedAt": "2026-08-13T11:05:24.066168+00:00",
+  "generatedAt": "2026-08-13T11:05:24.066168+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5135,21 +5135,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b9f51c1cb8fb",
-      "jobType": "internship",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Intern"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -6902,21 +6887,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Bank of Montreal",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cca479dd23fb",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Developer New Grad"
     },
     {
       "age": "14d",
@@ -8882,21 +8852,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Scientist New Grad - Masters Degree \ud83c\udf93"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703237006?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "SharkNinja",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1a9a52019e7e",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Applied AI & Analytics - Early Careers"
     },
     {
       "age": "2d",
@@ -32720,8 +32675,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 355,
-    "Simplify New Grad": 401,
+    "Simplify Internships": 354,
+    "Simplify New Grad": 399,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
