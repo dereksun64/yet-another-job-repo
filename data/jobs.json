@@ -1,7 +1,7 @@
 {
-  "count": 2193,
-  "fetchedAt": "2026-08-13T17:30:36.151901+00:00",
-  "generatedAt": "2026-08-13T17:05:30.105214+00:00",
+  "count": 2192,
+  "fetchedAt": "2026-08-13T17:35:30.781161+00:00",
+  "generatedAt": "2026-08-13T17:35:30.781161+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -124,7 +124,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Kimley-Horn",
@@ -139,7 +139,7 @@
       "title": "Software Developer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672386983965100341/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -2434,7 +2434,7 @@
       "title": "Modeling, Simulation & Analysis Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Deloitte",
@@ -2449,7 +2449,7 @@
       "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quantbot Technologies",
@@ -2464,7 +2464,7 @@
       "title": "Machine Learning Research Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672394389001816325/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2479,7 +2479,7 @@
       "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672382828525832501/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2494,7 +2494,7 @@
       "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672391300141877557/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2509,7 +2509,7 @@
       "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672392998231050549/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -4114,7 +4114,7 @@
       "title": "Data Trading Analyst Intern - Data Trading Lab"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Quantbot Technologies",
@@ -4129,7 +4129,7 @@
       "title": "Quantitative Developer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Quantbot Technologies",
@@ -4144,7 +4144,7 @@
       "title": "Quantitative Researcher Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Quantbot Technologies",
@@ -7427,21 +7427,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/aledade/3eafe371-4bee-492f-af5c-fd2e3f71b8da/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Aledade",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c7dcde594448",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Senior Software Engineer 1 - Data & Insights Engineering"
     },
     {
       "age": "1mo",
@@ -32901,7 +32886,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 355,
-    "Simplify New Grad": 399,
+    "Simplify New Grad": 398,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
