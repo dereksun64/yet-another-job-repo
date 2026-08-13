@@ -1,7 +1,7 @@
 {
-  "count": 2172,
-  "fetchedAt": "2026-08-13T00:30:36.337347+00:00",
-  "generatedAt": "2026-08-13T00:05:28.401237+00:00",
+  "count": 2171,
+  "fetchedAt": "2026-08-13T00:35:21.526810+00:00",
+  "generatedAt": "2026-08-13T00:35:21.526810+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5522,21 +5522,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Comcast",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "461ee83d9c35",
-      "jobType": "full-time",
-      "location": "Philadelphia, PA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Software Development & Engineering"
     },
     {
       "age": "2d",
@@ -32586,7 +32571,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 347,
-    "Simplify New Grad": 400,
+    "Simplify New Grad": 399,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
