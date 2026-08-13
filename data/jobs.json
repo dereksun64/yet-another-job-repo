@@ -1,7 +1,7 @@
 {
-  "count": 2175,
-  "fetchedAt": "2026-08-13T02:00:41.970488+00:00",
-  "generatedAt": "2026-08-13T01:35:23.462391+00:00",
+  "count": 2176,
+  "fetchedAt": "2026-08-13T02:05:21.234051+00:00",
+  "generatedAt": "2026-08-13T02:05:21.234051+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -109,7 +109,7 @@
       "title": "Software Engineer Intern - AML-Engine-Orchestration"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -124,7 +124,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -529,7 +529,7 @@
       "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://lifeattiktok.com/search/7670281449668905269?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1999,7 +1999,7 @@
       "title": "MBA Intern - Product Management \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -5240,6 +5240,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://cdcn.avature.net/careers/JobDetail/8611?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Consumer Direct Care Network",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4e223fdb86a",
+      "jobType": "full-time",
+      "location": "Missoula, MT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7249,7 +7264,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Twitch",
@@ -32631,7 +32646,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 349,
-    "Simplify New Grad": 401,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 220,
     "SpeedyApply USA New Grad": 580,
     "Vansh Internships": 183,
