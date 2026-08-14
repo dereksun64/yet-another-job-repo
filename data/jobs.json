@@ -1,7 +1,7 @@
 {
-  "count": 2212,
-  "fetchedAt": "2026-08-14T05:30:36.320506+00:00",
-  "generatedAt": "2026-08-14T05:05:19.765272+00:00",
+  "count": 2210,
+  "fetchedAt": "2026-08-14T05:35:24.201179+00:00",
+  "generatedAt": "2026-08-14T05:35:24.201179+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4367,21 +4367,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Trading Intern - Summer 2027"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ea81ddfb15eb",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets"
     },
     {
       "age": "7d",
@@ -10727,21 +10712,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9da464fdbc87",
-      "jobType": "full-time",
-      "location": "Jupiter, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "3d",
@@ -33185,8 +33155,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 363,
-    "Simplify New Grad": 408,
+    "Simplify Internships": 362,
+    "Simplify New Grad": 407,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
