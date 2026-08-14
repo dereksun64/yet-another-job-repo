@@ -1,7 +1,7 @@
 {
-  "count": 2210,
-  "fetchedAt": "2026-08-14T06:00:41.395495+00:00",
-  "generatedAt": "2026-08-14T05:35:24.201179+00:00",
+  "count": 2212,
+  "fetchedAt": "2026-08-14T06:05:20.127632+00:00",
+  "generatedAt": "2026-08-14T06:05:20.127632+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2372,6 +2372,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "KeyBank",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2f727cdcc561",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling"
     },
     {
       "age": "0d",
@@ -5432,6 +5447,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Composio",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "651bedf10488",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Fullstack Engineer New Grad - Product Team"
     },
     {
       "age": "0d",
@@ -33155,8 +33185,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 362,
-    "Simplify New Grad": 407,
+    "Simplify Internships": 363,
+    "Simplify New Grad": 408,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
