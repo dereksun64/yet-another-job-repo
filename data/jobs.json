@@ -1,7 +1,7 @@
 {
   "count": 2208,
-  "fetchedAt": "2026-08-14T08:01:18.892974+00:00",
-  "generatedAt": "2026-08-14T08:01:18.892974+00:00",
+  "fetchedAt": "2026-08-14T08:04:02.195310+00:00",
+  "generatedAt": "2026-08-14T08:04:02.195310+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7592,21 +7592,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Akuna Capital University",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "779cde252f7f",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer - C++"
     },
     {
       "age": "1mo",
@@ -25940,6 +25925,21 @@
     },
     {
       "age": "30d",
+      "applyUrl": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+      "category": "Software Engineering",
+      "company": "Akuna Capital",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "779cde252f7f",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "$191k/yr",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - Entry-Level - C++"
+    },
+    {
+      "age": "30d",
       "applyUrl": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
       "category": "Quant",
       "company": "Akuna Capital",
@@ -33126,7 +33126,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 362,
-    "Simplify New Grad": 405,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
