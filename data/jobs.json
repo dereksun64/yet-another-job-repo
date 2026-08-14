@@ -1,7 +1,7 @@
 {
-  "count": 2204,
-  "fetchedAt": "2026-08-14T15:30:38.223448+00:00",
-  "generatedAt": "2026-08-14T15:05:22.121245+00:00",
+  "count": 2202,
+  "fetchedAt": "2026-08-14T15:35:23.017779+00:00",
+  "generatedAt": "2026-08-14T15:35:23.017779+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2570,21 +2570,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "PIMCO",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ebc2fd422064",
-      "jobType": "internship",
-      "location": "Newport Beach, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Client Solutions & Analytics Analyst Intern"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "TMEIC Corporation Americas",
@@ -2882,21 +2867,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Montenson",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7074f3b0b893",
-      "jobType": "internship",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Sustainability Engineer Intern"
     },
     {
       "age": "3d",
@@ -33065,7 +33035,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 364,
+    "Simplify Internships": 362,
     "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 215,
     "SpeedyApply USA New Grad": 598,
