@@ -1,7 +1,7 @@
 {
-  "count": 2211,
-  "fetchedAt": "2026-08-14T06:55:25.679997+00:00",
-  "generatedAt": "2026-08-14T06:35:24.730171+00:00",
+  "count": 2210,
+  "fetchedAt": "2026-08-14T07:05:22.433435+00:00",
+  "generatedAt": "2026-08-14T07:05:22.433435+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5492,21 +5492,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "AI Software Engineer 1"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://cdcn.avature.net/careers/JobDetail/8611?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Consumer Direct Care Network",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f4e223fdb86a",
-      "jobType": "full-time",
-      "location": "Missoula, MT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1d",
@@ -33171,7 +33156,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 363,
-    "Simplify New Grad": 407,
+    "Simplify New Grad": 406,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
