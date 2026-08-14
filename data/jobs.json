@@ -1,7 +1,7 @@
 {
-  "count": 2208,
-  "fetchedAt": "2026-08-14T09:00:41.918861+00:00",
-  "generatedAt": "2026-08-14T08:04:02.195310+00:00",
+  "count": 2207,
+  "fetchedAt": "2026-08-14T09:05:23.014263+00:00",
+  "generatedAt": "2026-08-14T09:05:23.014263+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3032,21 +3032,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ef6a3f3d245d",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services"
     },
     {
       "age": "8d",
@@ -10069,21 +10054,6 @@
       "title": "Data Engineer 1"
     },
     {
-      "age": "3mo",
-      "applyUrl": "https://about.nextdoor.com/careers-list/?gh_jid=7264954&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Nextdoor",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d5fc980c18fa",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer New Grad \ud83c\udf93"
-    },
-    {
       "age": "4mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -13562,6 +13532,21 @@
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
       "title": "ADC Engineer I, PEET ADC \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "age": "288d",
+      "applyUrl": "https://about.nextdoor.com/careers-list/?gh_jid=7264954&utm_source=vansh&ref=vansh",
+      "category": "AI/ML",
+      "company": "Nextdoor",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d5fc980c18fa",
+      "jobType": "full-time",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "New Grad 2026: Machine Learning Engineer, Machine Learning"
     },
     {
       "age": "288d",
@@ -33125,8 +33110,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 362,
-    "Simplify New Grad": 404,
+    "Simplify Internships": 361,
+    "Simplify New Grad": 403,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
