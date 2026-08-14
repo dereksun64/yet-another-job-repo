@@ -1,7 +1,7 @@
 {
-  "count": 2212,
-  "fetchedAt": "2026-08-14T11:00:44.375299+00:00",
-  "generatedAt": "2026-08-14T10:35:21.824687+00:00",
+  "count": 2211,
+  "fetchedAt": "2026-08-14T11:05:25.370996+00:00",
+  "generatedAt": "2026-08-14T11:05:25.370996+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10097,21 +10097,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Scientist, Core Data \ud83c\udf93"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10147074?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "The Walt Disney Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d3b808470d80",
-      "jobType": "full-time",
-      "location": "Santa Monica, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1"
     },
     {
       "age": "4mo",
@@ -33186,7 +33171,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 367,
-    "Simplify New Grad": 401,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
