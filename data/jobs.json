@@ -1,7 +1,7 @@
 {
   "count": 2212,
-  "fetchedAt": "2026-08-14T10:30:38.672516+00:00",
-  "generatedAt": "2026-08-14T10:05:20.850808+00:00",
+  "fetchedAt": "2026-08-14T10:35:21.824687+00:00",
+  "generatedAt": "2026-08-14T10:35:21.824687+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5855,21 +5855,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "PathAI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e8961cb07119",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Fullstack"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sentry",
@@ -6859,7 +6844,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -6874,7 +6859,7 @@
       "title": "Software Engineer 1 - Connect IQ Applications"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -6889,7 +6874,7 @@
       "title": "Software Engineer 1 - Web Development/Applications"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -10984,7 +10969,7 @@
       "title": "Software Engineer 1 - Embedded Aviation"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -26600,6 +26585,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
+      "category": "Software Engineering",
+      "company": "PathAI",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e8961cb07119",
+      "jobType": "full-time",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - Fullstack"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Software-Engineer_R0137225",
       "category": "Software Engineering",
       "company": "PayPal",
@@ -33186,7 +33186,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 367,
-    "Simplify New Grad": 402,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 219,
     "SpeedyApply USA New Grad": 599,
     "Vansh Internships": 183,
