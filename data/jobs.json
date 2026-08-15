@@ -1,7 +1,7 @@
 {
   "count": 2251,
-  "fetchedAt": "2026-08-15T04:30:35.165322+00:00",
-  "generatedAt": "2026-08-15T04:05:22.946416+00:00",
+  "fetchedAt": "2026-08-15T04:35:23.586647+00:00",
+  "generatedAt": "2026-08-15T04:35:23.586647+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5765,6 +5765,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Amazon",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "3b0e917254c1",
+      "jobType": "full-time",
+      "location": "Vancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Development Engineer - Early Career"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Flow Engineering",
@@ -6223,21 +6238,6 @@
       "id": "ecb4f8214711",
       "jobType": "full-time",
       "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "50f4f2a51655",
-      "jobType": "full-time",
-      "location": "Annapolis, MD",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
