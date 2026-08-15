@@ -1,7 +1,7 @@
 {
-  "count": 2248,
-  "fetchedAt": "2026-08-15T10:00:42.579247+00:00",
-  "generatedAt": "2026-08-15T09:33:08.368050+00:00",
+  "count": 2249,
+  "fetchedAt": "2026-08-15T10:05:22.927466+00:00",
+  "generatedAt": "2026-08-15T10:05:22.927466+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2569,7 +2569,7 @@
       "title": "Enterprise Analytics Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673608499872827701/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -2584,7 +2584,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673617571165620533/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -4369,6 +4369,36 @@
       "title": "Machine Learning Research Intern \ud83c\udf93"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://higher.gs.com/roles/175423?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "f094be47a1a1",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "c68aef876d5f",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
@@ -5479,7 +5509,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -7339,7 +7369,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -8177,21 +8207,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 Early Career - AI"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/spotify/b4ad9572-e20f-4185-a284-99d9740d04f0/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Spotify",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "c2da17d19f66",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Android Engineer 1 - Subscriptions"
     },
     {
       "age": "1mo",
@@ -10234,7 +10249,7 @@
       "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Hitachi",
@@ -33725,8 +33740,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 384,
-    "Simplify New Grad": 425,
+    "Simplify Internships": 386,
+    "Simplify New Grad": 424,
     "SpeedyApply USA Internships": 215,
     "SpeedyApply USA New Grad": 598,
     "Vansh Internships": 183,
