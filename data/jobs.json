@@ -1,7 +1,7 @@
 {
-  "count": 2248,
-  "fetchedAt": "2026-08-15T11:35:22.310203+00:00",
-  "generatedAt": "2026-08-15T10:35:23.135053+00:00",
+  "count": 2246,
+  "fetchedAt": "2026-08-15T11:40:26.009096+00:00",
+  "generatedAt": "2026-08-15T11:40:26.009096+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8030,21 +8030,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/spotify/5089cbe3-5e62-4c24-89a2-9a1487eb5034/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Spotify",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "d74e5f1a7781",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "iOS Engineer 1 - Subscriptions"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -11248,21 +11233,6 @@
       "id": "d6d16272b061",
       "jobType": "full-time",
       "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01865956?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2bc9b0b1e4e0",
-      "jobType": "full-time",
-      "location": "West Valley City, UT",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -33726,7 +33696,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 385,
-    "Simplify New Grad": 424,
+    "Simplify New Grad": 422,
     "SpeedyApply USA Internships": 215,
     "SpeedyApply USA New Grad": 598,
     "Vansh Internships": 183,
