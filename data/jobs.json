@@ -1,7 +1,7 @@
 {
-  "count": 2246,
-  "fetchedAt": "2026-08-15T12:01:14.989956+00:00",
-  "generatedAt": "2026-08-15T11:40:26.009096+00:00",
+  "count": 2244,
+  "fetchedAt": "2026-08-15T12:05:22.944435+00:00",
+  "generatedAt": "2026-08-15T12:05:22.944435+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6080,21 +6080,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b68e85c34cea",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -8882,21 +8867,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering New Grad Roles",
-      "company": "Liquid",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6110e68c982c",
-      "jobType": "full-time",
-      "location": "New York, NY",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Member of Technical Staff"
     },
     {
       "age": "4mo",
@@ -33696,7 +33666,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 385,
-    "Simplify New Grad": 422,
+    "Simplify New Grad": 420,
     "SpeedyApply USA Internships": 215,
     "SpeedyApply USA New Grad": 598,
     "Vansh Internships": 183,
