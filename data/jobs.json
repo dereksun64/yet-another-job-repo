@@ -1,7 +1,7 @@
 {
-  "count": 2270,
-  "fetchedAt": "2026-08-15T13:30:34.270633+00:00",
-  "generatedAt": "2026-08-15T12:50:27.703994+00:00",
+  "count": 2269,
+  "fetchedAt": "2026-08-15T13:35:22.407488+00:00",
+  "generatedAt": "2026-08-15T13:35:22.407488+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -11098,21 +11098,6 @@
       "id": "c734265e9e68",
       "jobType": "full-time",
       "location": "Goleta, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01866138?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8e973de360c1",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -34056,7 +34041,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 384,
-    "Simplify New Grad": 419,
+    "Simplify New Grad": 418,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 620,
     "Vansh Internships": 183,
