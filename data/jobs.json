@@ -1,8 +1,23 @@
 {
   "count": 2259,
-  "fetchedAt": "2026-08-17T16:05:37.513701+00:00",
-  "generatedAt": "2026-08-17T15:52:21.492739+00:00",
+  "fetchedAt": "2026-08-17T16:10:25.249666+00:00",
+  "generatedAt": "2026-08-17T16:10:25.249666+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Optiver",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "245542135c40",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.fastenterprises.com/jobs/1709?icims=1&utm_source=Simplify&ref=Simplify",
@@ -1984,21 +1999,6 @@
       "title": "Summer Analyst Intern - Wealth Management - Product Management and Design"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Hershey",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e16f3e5bd182",
-      "jobType": "internship",
-      "location": "Hershey, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Development Intern - R&D"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://lifeattiktok.com/search/7673340525029673221?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -2582,6 +2582,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineer Intern - Data Platform Global Live"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Ryan Companies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "dd587bc0db11",
+      "jobType": "internship",
+      "location": "7 locationsDes Moines, IAAustin, TXTampa, FLDallas, TXChicago, ILMinneapolis, MNAtlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Business Intelligence Intern - Mission Critical"
     },
     {
       "age": "2d",
@@ -5522,21 +5537,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Susquehanna International Group (SIG)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bf294e8c3507",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Trader Intern"
     },
     {
       "age": "1mo",
