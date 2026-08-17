@@ -1,7 +1,7 @@
 {
-  "count": 2255,
-  "fetchedAt": "2026-08-17T21:33:06.657846+00:00",
-  "generatedAt": "2026-08-17T21:33:06.657846+00:00",
+  "count": 2252,
+  "fetchedAt": "2026-08-17T21:35:22.057691+00:00",
+  "generatedAt": "2026-08-17T21:35:22.057691+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6410,21 +6410,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cohesity",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9aa4af52914c",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5384983008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Captivation",
@@ -6977,21 +6962,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 0"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "WonderBotz",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d4f6c48d0b06",
-      "jobType": "full-time",
-      "location": "Princeton, NJ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
     },
     {
       "age": "14d",
@@ -11006,21 +10976,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "c734265e9e68",
-      "jobType": "full-time",
-      "location": "Goleta, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "90ba899340d2",
       "jobType": "full-time",
       "location": "Goleta, CA",
       "salary": "",
@@ -33831,7 +33786,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 395,
-    "Simplify New Grad": 399,
+    "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
