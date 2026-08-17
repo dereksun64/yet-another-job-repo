@@ -1,7 +1,7 @@
 {
-  "count": 2275,
-  "fetchedAt": "2026-08-17T06:00:40.920512+00:00",
-  "generatedAt": "2026-08-17T05:35:19.727844+00:00",
+  "count": 2274,
+  "fetchedAt": "2026-08-17T06:04:34.896796+00:00",
+  "generatedAt": "2026-08-17T06:04:34.896796+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6049,7 +6049,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -6118,21 +6118,6 @@
       "id": "f4c9d82db931",
       "jobType": "full-time",
       "location": "Fullerton, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineer-I--Onsite-_01866686?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d3a50ebb03a9",
-      "jobType": "full-time",
-      "location": "Burnsville, MN",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -34131,7 +34116,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 393,
-    "Simplify New Grad": 415,
+    "Simplify New Grad": 414,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
