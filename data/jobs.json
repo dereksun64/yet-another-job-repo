@@ -1,7 +1,7 @@
 {
-  "count": 2252,
-  "fetchedAt": "2026-08-17T22:05:24.703961+00:00",
-  "generatedAt": "2026-08-17T21:35:22.057691+00:00",
+  "count": 2251,
+  "fetchedAt": "2026-08-17T22:09:36.186468+00:00",
+  "generatedAt": "2026-08-17T22:09:36.186468+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9424,21 +9424,6 @@
       "title": "AI Innovation Research Engineer New Grad \ud83c\udf93"
     },
     {
-      "age": "4d",
-      "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Cigna Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cb2a78a88ccd",
-      "jobType": "full-time",
-      "location": "Morris Plains, NJSt. Louis, MOBloomfield, CT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Technology Development Program New Grad - Data & Analytics Engineering Track"
-    },
-    {
       "age": "5d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2625997?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -11102,36 +11087,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Developer New Grad"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AeroVironment",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a336bfe24bb9",
-      "jobType": "full-time",
-      "location": "Sunrise, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Embedded"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AeroVironment",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "adb05bfb7199",
-      "jobType": "full-time",
-      "location": "Sunrise, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1-2 - Embedded"
     },
     {
       "age": "6d",
@@ -27935,6 +27890,36 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
+      "category": "Software Engineering",
+      "company": "AeroVironment",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a336bfe24bb9",
+      "jobType": "full-time",
+      "location": "Sunrise, FL",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I-1"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367",
+      "category": "Software Engineering",
+      "company": "AeroVironment",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "adb05bfb7199",
+      "jobType": "full-time",
+      "location": "Sunrise, FL",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I-2"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://careers-aacr.icims.com/jobs/1787/junior-salesforce-developer/job",
       "category": "Other",
       "company": "American Association for Cancer Research",
@@ -33786,7 +33771,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 395,
-    "Simplify New Grad": 396,
+    "Simplify New Grad": 393,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
