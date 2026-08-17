@@ -1,7 +1,7 @@
 {
-  "count": 2271,
-  "fetchedAt": "2026-08-17T10:00:44.125966+00:00",
-  "generatedAt": "2026-08-17T09:35:21.573793+00:00",
+  "count": 2269,
+  "fetchedAt": "2026-08-17T10:03:10.605995+00:00",
+  "generatedAt": "2026-08-17T10:03:10.605995+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2614,7 +2614,7 @@
       "title": "Enterprise Analytics Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673608499872827701/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -2629,7 +2629,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673617571165620533/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -5614,7 +5614,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -5717,21 +5717,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e5e9f0053e8f",
-      "jobType": "internship",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Electrical Computer-Aided Design Engineer Intern"
     },
     {
       "age": "4d",
@@ -7399,7 +7384,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -10174,21 +10159,6 @@
       "title": "Software Engineer New Grad - Machine Learning Platform"
     },
     {
-      "age": "18d",
-      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "American Express",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "dcc6a9f83d4d",
-      "jobType": "full-time",
-      "location": "Phoenix, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1 - Global Servicing Technology"
-    },
-    {
       "age": "20d",
       "applyUrl": "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -10249,7 +10219,7 @@
       "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Hitachi",
@@ -34070,8 +34040,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 393,
-    "Simplify New Grad": 411,
+    "Simplify Internships": 392,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
