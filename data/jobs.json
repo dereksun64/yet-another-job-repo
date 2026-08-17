@@ -1,7 +1,7 @@
 {
-  "count": 2276,
-  "fetchedAt": "2026-08-17T05:30:34.976464+00:00",
-  "generatedAt": "2026-08-17T05:03:06.609889+00:00",
+  "count": 2275,
+  "fetchedAt": "2026-08-17T05:35:19.727844+00:00",
+  "generatedAt": "2026-08-17T05:35:19.727844+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6118,21 +6118,6 @@
       "id": "f4c9d82db931",
       "jobType": "full-time",
       "location": "Fullerton, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3c6feec31679",
-      "jobType": "full-time",
-      "location": "Melbourne, FL",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -34146,7 +34131,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 393,
-    "Simplify New Grad": 416,
+    "Simplify New Grad": 415,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
