@@ -1,7 +1,7 @@
 {
-  "count": 2258,
-  "fetchedAt": "2026-08-17T17:04:00.397343+00:00",
-  "generatedAt": "2026-08-17T16:35:21.982631+00:00",
+  "count": 2257,
+  "fetchedAt": "2026-08-17T17:05:24.660533+00:00",
+  "generatedAt": "2026-08-17T17:05:24.660533+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8222,21 +8222,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Founding Engineer - Early Careers"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Integration Innovation (i3)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ea2070c7d619",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "1mo",
@@ -33876,7 +33861,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 395,
-    "Simplify New Grad": 402,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
