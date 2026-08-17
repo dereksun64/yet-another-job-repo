@@ -1,7 +1,7 @@
 {
-  "count": 2274,
-  "fetchedAt": "2026-08-17T09:00:44.685400+00:00",
-  "generatedAt": "2026-08-17T06:35:21.757448+00:00",
+  "count": 2273,
+  "fetchedAt": "2026-08-17T09:05:23.514852+00:00",
+  "generatedAt": "2026-08-17T09:05:23.514852+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6193,21 +6193,6 @@
       "id": "e572567e6aed",
       "jobType": "full-time",
       "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "616674fe7723",
-      "jobType": "full-time",
-      "location": "West Valley City, UT",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -34116,7 +34101,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 393,
-    "Simplify New Grad": 414,
+    "Simplify New Grad": 413,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
