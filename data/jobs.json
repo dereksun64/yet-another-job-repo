@@ -1,7 +1,7 @@
 {
-  "count": 2255,
-  "fetchedAt": "2026-08-17T13:00:44.080003+00:00",
-  "generatedAt": "2026-08-17T12:55:22.294491+00:00",
+  "count": 2253,
+  "fetchedAt": "2026-08-17T13:05:22.861033+00:00",
+  "generatedAt": "2026-08-17T13:05:22.861033+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -827,21 +827,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Backend Software Engineer Intern - Creation Platform"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "GE Appliances",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "454c4a09107b",
-      "jobType": "internship",
-      "location": "LaFayette, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Co-op"
     },
     {
       "age": "12d",
@@ -6238,21 +6223,6 @@
       "id": "ecb4f8214711",
       "jobType": "full-time",
       "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ddbcb8d9c086",
-      "jobType": "full-time",
-      "location": "Fort Wayne, IN",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -33830,8 +33800,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 389,
-    "Simplify New Grad": 405,
+    "Simplify Internships": 388,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
