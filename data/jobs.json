@@ -1,7 +1,7 @@
 {
-  "count": 2277,
-  "fetchedAt": "2026-08-17T05:00:42.536404+00:00",
-  "generatedAt": "2026-08-17T04:35:19.222604+00:00",
+  "count": 2276,
+  "fetchedAt": "2026-08-17T05:03:06.609889+00:00",
+  "generatedAt": "2026-08-17T05:03:06.609889+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -6148,21 +6148,6 @@
       "id": "d3a50ebb03a9",
       "jobType": "full-time",
       "location": "Burnsville, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01867023?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a4d481cb2c51",
-      "jobType": "full-time",
-      "location": "Annapolis, MD",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -34161,7 +34146,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 393,
-    "Simplify New Grad": 417,
+    "Simplify New Grad": 416,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
