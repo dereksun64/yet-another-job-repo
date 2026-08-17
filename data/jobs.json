@@ -1,7 +1,7 @@
 {
-  "count": 2267,
-  "fetchedAt": "2026-08-17T11:00:41.753594+00:00",
-  "generatedAt": "2026-08-17T10:35:22.593595+00:00",
+  "count": 2263,
+  "fetchedAt": "2026-08-17T11:01:36.161149+00:00",
+  "generatedAt": "2026-08-17T11:01:36.161149+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -257,21 +257,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - NHRC"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d22b35874127",
-      "jobType": "internship",
-      "location": "Annapolis, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "4d",
@@ -6290,21 +6275,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "57011c686101",
-      "jobType": "full-time",
-      "location": "Anaheim, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -6452,21 +6422,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 0 - Multiple Teams"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953615?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Microsoft",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "5f7692631519",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1/2 - Identity and Network Access"
     },
     {
       "age": "7d",
@@ -8042,21 +7997,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - General"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Katalyst Space Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f2249de9fed0",
-      "jobType": "full-time",
-      "location": "Broomfield, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Model and Simulation"
     },
     {
       "age": "1mo",
@@ -34010,8 +33950,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 392,
-    "Simplify New Grad": 408,
+    "Simplify Internships": 391,
+    "Simplify New Grad": 405,
     "SpeedyApply USA Internships": 222,
     "SpeedyApply USA New Grad": 619,
     "Vansh Internships": 184,
