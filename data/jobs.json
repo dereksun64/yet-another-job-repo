@@ -1,7 +1,7 @@
 {
-  "count": 2288,
-  "fetchedAt": "2026-08-18T12:30:33.569933+00:00",
-  "generatedAt": "2026-08-18T12:05:22.124027+00:00",
+  "count": 2289,
+  "fetchedAt": "2026-08-18T12:35:22.233115+00:00",
+  "generatedAt": "2026-08-18T12:35:22.233115+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6212,6 +6212,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "27975b6c4e5e",
+      "jobType": "internship",
+      "location": "East Hartford, CT",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "4d",
@@ -34325,7 +34340,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 428,
+    "Simplify Internships": 429,
     "Simplify New Grad": 395,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
