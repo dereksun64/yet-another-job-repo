@@ -1,7 +1,7 @@
 {
-  "count": 2290,
-  "fetchedAt": "2026-08-18T10:35:20.540258+00:00",
-  "generatedAt": "2026-08-18T10:35:20.540258+00:00",
+  "count": 2291,
+  "fetchedAt": "2026-08-18T10:40:30.476894+00:00",
+  "generatedAt": "2026-08-18T10:40:30.476894+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -508,6 +508,21 @@
       "id": "61cd70cc698e",
       "jobType": "internship",
       "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "48d0093aa4ea",
+      "jobType": "internship",
+      "location": "West Valley City, UT",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -34355,7 +34370,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 430,
+    "Simplify Internships": 431,
     "Simplify New Grad": 395,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
