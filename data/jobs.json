@@ -1,8 +1,68 @@
 {
-  "count": 2284,
-  "fetchedAt": "2026-08-18T06:30:33.041090+00:00",
-  "generatedAt": "2026-08-18T06:10:26.735473+00:00",
+  "count": 2298,
+  "fetchedAt": "2026-08-18T06:35:20.260290+00:00",
+  "generatedAt": "2026-08-18T06:35:20.260290+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "eac109e98037",
+      "jobType": "internship",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI Engineer Intern - Enterprise Technology Services \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "4daa3cbbf3df",
+      "jobType": "internship",
+      "location": "Phoenix, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Enterprise Technology Services"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "90b0c0a8a2a8",
+      "jobType": "internship",
+      "location": "Cambridge, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Intelligent Software & Systems"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "87f0d6c7f56a",
+      "jobType": "internship",
+      "location": "Cambridge, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify",
@@ -197,6 +257,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b51785741b18",
+      "jobType": "internship",
+      "location": "Melbourne, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Spring 2027"
     },
     {
       "age": "1d",
@@ -484,7 +559,7 @@
       "title": "Android Platform Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://specteraerospace.bamboohr.com/careers/122/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Specter Aerospace",
@@ -499,7 +574,7 @@
       "title": "Full Stack Developer Co-op"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RRS Group",
@@ -904,7 +979,7 @@
       "title": "Digital Co-op"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -1159,7 +1234,7 @@
       "title": "Software Engineer Intern - AI Platform"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7667935633764370741?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -1174,7 +1249,7 @@
       "title": "Backend Software Engineer Intern - Product Infrastructure"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668725183121000757?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1189,7 +1264,7 @@
       "title": "Software Engineer Intern - Effects Performance"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668834837268138293?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1204,7 +1279,7 @@
       "title": "Backend Software Engineer Intern - Global E-Commerce"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668834837268416821?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1219,7 +1294,7 @@
       "title": "Backend Software Engineer Intern - Global E-Commerce"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7669705785962727733?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1234,7 +1309,7 @@
       "title": "Software Engineer Intern - Ads Interface"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668921505254410549?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1249,7 +1324,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7669711844487399685?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1354,7 +1429,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "JP Morgan Chase",
@@ -1369,7 +1444,7 @@
       "title": "Software Engineer Intern - Software Engineer Program"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662700594251958581?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1384,7 +1459,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662684280234232117?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1399,7 +1474,7 @@
       "title": "Software Engineer Intern - Trust and Safety Engineering"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935565120112949?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1414,7 +1489,7 @@
       "title": "Backend Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667934860750063925?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1429,7 +1504,7 @@
       "title": "Backend Software Engineer Intern - Innovative Growth"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667934302872537397?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1444,7 +1519,7 @@
       "title": "Backend Software Engineer Intern - Digital Content Center"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935399050692917?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1459,7 +1534,7 @@
       "title": "Software Engineer Intern - Social Friending"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667933335084124469?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1474,7 +1549,7 @@
       "title": "Backend Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667934635573692725?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1489,7 +1564,7 @@
       "title": "Backend Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667933770819897605?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1504,7 +1579,7 @@
       "title": "Backend Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935739300792629?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1519,7 +1594,7 @@
       "title": "Frontend Engineer Intern - Open Platform"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935739300317493?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1534,7 +1609,7 @@
       "title": "Backend Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935738376227077?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1549,7 +1624,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668582146236631349?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1564,7 +1639,7 @@
       "title": "Software Engineer Intern - Data Architecture - E-commerce"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668445566565321013?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1579,7 +1654,7 @@
       "title": "Software Engineer Intern - Agentic Creation-Effect Platform"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668584916620527925?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1594,7 +1669,7 @@
       "title": "Software Engineer Intern - Business Integrity"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668642761473902901?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1609,7 +1684,7 @@
       "title": "Software Engineer Intern - Creative Intelligence and Brand Innovation"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668581636242016565?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1624,7 +1699,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668582031916435717?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1639,7 +1714,7 @@
       "title": "Software Engineer Intern - Ads Measurement Signal and Privacy"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668582086899763461?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1654,7 +1729,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668584161852229893?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1669,7 +1744,7 @@
       "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668675500744837381?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1744,7 +1819,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Heliux",
@@ -1819,7 +1894,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Quadrillion",
@@ -1864,7 +1939,7 @@
       "title": "Software Engineer Intern - Software Engineer"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Axon",
@@ -2599,7 +2674,7 @@
       "title": "Product Management Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -2614,7 +2689,7 @@
       "title": "Digital Product Analyst Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -2687,6 +2762,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Deloitte",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "70024b389ffe",
+      "jobType": "internship",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Forensic Analytics Summer Scholar Intern - Forensic Analytics"
     },
     {
       "age": "0d",
@@ -2957,6 +3047,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Intelligence Intern - Mission Critical"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "25b10943d353",
+      "jobType": "internship",
+      "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Modeling, Simulation & Analysis Intern - Summer 2027"
     },
     {
       "age": "1d",
@@ -3769,7 +3874,7 @@
       "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7670009669494704437/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -4054,7 +4159,7 @@
       "title": "Machine Learning Engineer Intern - Performance Monetization"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668379675467761925?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4069,7 +4174,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7669700361976809733?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4084,7 +4189,7 @@
       "title": "Machine Learning Engineer Intern - Ads Signal & Measurement"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7669702702763018501?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4219,7 +4324,7 @@
       "title": "Research Scientist Intern - Multi-modal Agentic Databases \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "JP Morgan Chase",
@@ -4234,7 +4339,7 @@
       "title": "Data Internship - Data & AI Program"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "JP Morgan Chase",
@@ -4249,7 +4354,7 @@
       "title": "Data & AI Intern - Analyst"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662653087863081221?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4264,7 +4369,7 @@
       "title": "Machine Learning Engineer Intern - Recommendation \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662672554084059445?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4279,7 +4384,7 @@
       "title": "Machine Learning Engineer Intern - Trust and Safety \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662672903447988485?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4294,7 +4399,7 @@
       "title": "Research Scientist Intern - Trust and Safety \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662677746436524293?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4309,7 +4414,7 @@
       "title": "Research Scientist Intern - Foundations & Intelligence Service \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662657855099357493?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4324,7 +4429,7 @@
       "title": "Machine Learning Scientist Intern - Recommendation \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7665475888805611781?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4339,7 +4444,7 @@
       "title": "Machine Learning Engineer Intern - Data Search Search Quality \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667338938890930437?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4354,7 +4459,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7665475460339665157?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4369,7 +4474,7 @@
       "title": "Machine Learning Engineer Intern - Search Quality"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667339583362025781?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4384,7 +4489,7 @@
       "title": "Machine Learning Engineer Intern - Basic Ranking \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667349591727278341?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4399,7 +4504,7 @@
       "title": "Machine Learning Engineer Intern - Data Search - Visual Search \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667350291952765237?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4414,7 +4519,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667346576033777925?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4429,7 +4534,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667934792727906565?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4444,7 +4549,7 @@
       "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935738190465285?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -4459,7 +4564,7 @@
       "title": "Artificial Intelligence Engineer Intern - Client Architecture"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667933770625599749?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4474,7 +4579,7 @@
       "title": "Machine Learning Scientist Intern - Content Ecology - LLM Application \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667934169444485429?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4489,7 +4594,7 @@
       "title": "Machine Learning Scientist Intern \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667935738840090933?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4504,7 +4609,7 @@
       "title": "Research Scientist Intern - Neural Graphics and World Models \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668183035989281029?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4519,7 +4624,7 @@
       "title": "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7662661203281447221?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -4534,7 +4639,7 @@
       "title": "Research Scientist Intern - Recommendation \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -4549,7 +4654,7 @@
       "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -5104,7 +5209,7 @@
       "title": "Quantitative Developer Intern - Summer 2027"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "RRS Group",
@@ -5404,7 +5509,7 @@
       "title": "Sales and Trading Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "JP Morgan Chase",
@@ -5419,7 +5524,7 @@
       "title": "Quantitative Research Intern \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "JP Morgan Chase",
@@ -5434,7 +5539,7 @@
       "title": "Quantitative Research Intern - Risk and Treasury \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "JP Morgan Chase",
@@ -5449,7 +5554,7 @@
       "title": "Quantitative Research Summer Analyst Intern - Asset Management"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "JP Morgan Chase",
@@ -6125,6 +6230,66 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8252112594c3",
+      "jobType": "internship",
+      "location": "Indianapolis, IN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d3e9b33f59d2",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "af2a8919a6ab",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2825b9a2f815",
+      "jobType": "internship",
+      "location": "Portsmouth, RI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Systems Engineering Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Boom Supersonic",
@@ -6422,6 +6587,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Charta Health",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0140ac13c87f",
+      "jobType": "full-time",
+      "location": "SFNYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://nexthopai.bamboohr.com/careers/24/?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nexthop.ai",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2182aa905628",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
     },
     {
       "age": "0d",
@@ -6740,6 +6935,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://cdcn.avature.net/careers/JobDetail/8611?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Consumer Direct Care Network",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4e223fdb86a",
+      "jobType": "full-time",
+      "location": "Missoula, MT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -6934,7 +7144,7 @@
       "title": "Software Engineer 0 - Multiple Teams"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cummins",
@@ -6949,7 +7159,7 @@
       "title": "Software Engineer 1 \ud83c\udf93"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cummins",
@@ -7084,7 +7294,7 @@
       "title": "Junior Software Engineer - AI-Native"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://apply.workable.com/interimage/j/35ED59E021/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InterImage",
@@ -7159,7 +7369,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7669789046777940229/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -7249,7 +7459,7 @@
       "title": "Software Engineer 1 - Metrics for Release"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7264,7 +7474,7 @@
       "title": "Frontend Software Engineer New Grad - Ads Interface"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7668879883938203957?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7444,7 +7654,7 @@
       "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Retell AI",
@@ -7459,7 +7669,7 @@
       "title": "Software Engineer New Grad - Founders Initiatives"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IntelliGenesis",
@@ -7474,7 +7684,7 @@
       "title": "Software Engineer 0"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "HarmonyTech",
@@ -7489,7 +7699,7 @@
       "title": "Junior Software Developer - .NET"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "EAi Technologies",
@@ -7504,7 +7714,7 @@
       "title": "Entry Level Software Developer"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "EAi Technologies",
@@ -7519,7 +7729,7 @@
       "title": "Entry Level .NET Software Developer"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Set of X",
@@ -7534,7 +7744,7 @@
       "title": "Software Engineer 0"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7663028952600807733?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7549,7 +7759,7 @@
       "title": "Backend Software Engineer New Grad - Feed Safety"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7564,7 +7774,7 @@
       "title": "Backend Software Engineer New Grad - Trust & Safety"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -7579,7 +7789,7 @@
       "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7664533229944178949?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7594,7 +7804,7 @@
       "title": "Backend Software Engineer New Grad - Trust & Safety"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668592494649690421?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7609,7 +7819,7 @@
       "title": "Software Engineer New Grad - Business Integrity"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668701834807101749?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7624,7 +7834,7 @@
       "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668680253677504821?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7639,7 +7849,7 @@
       "title": "Software Engineer New Grad - Quality and Efficiency Technology"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7654,7 +7864,7 @@
       "title": "Software Engineer New Grad - Ads Measurement Signal Technology"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668724383120804149?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -7669,7 +7879,7 @@
       "title": "Software Engineer New Grad - Ads Signal & Measurement"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Peterson Technologies",
@@ -7684,7 +7894,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Independent Software",
@@ -7699,7 +7909,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "GliaCell Technologies",
@@ -7714,7 +7924,7 @@
       "title": "Junior Java Software Engineer"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "GliaCell Technologies",
@@ -8029,7 +8239,7 @@
       "title": "Junior .NET Engineer - .NET Backend"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nooks",
@@ -8059,7 +8269,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Texas Sports Academy",
@@ -9694,7 +9904,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667573235673073925?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -10129,7 +10339,7 @@
       "title": "Machine Learning Engineer New Grad - Performance Monetization"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://lifeattiktok.com/search/7669698543896054069?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10384,7 +10594,7 @@
       "title": "Research Scientist New Grad - Distributed NoSQL Database Systems \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7665793152026740997?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10399,7 +10609,7 @@
       "title": "Machine Learning Engineer New Grad - Search Quality \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667349591747758341?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10414,7 +10624,7 @@
       "title": "Machine Learning Engineer New Grad - Data Search Visual Search"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7667346535273007413?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10429,7 +10639,7 @@
       "title": "Machine Learning Engineer New Grad - Data Search - Visual Search \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668389759463393589?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10444,7 +10654,7 @@
       "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668376903708281141?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10459,7 +10669,7 @@
       "title": "Machine Learning Engineer New Grad"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://lifeattiktok.com/search/7668390999147776309?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -10474,7 +10684,7 @@
       "title": "Machine Learning Engineer New Grad - E-Commerce Search"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Capgemini",
@@ -10489,7 +10699,7 @@
       "title": "Junior Data Engineer/Junior Data Scientist"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Capgemini",
@@ -10609,7 +10819,7 @@
       "title": "Junior Condition Monitoring and Analytics Engineer"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "WebFX",
@@ -11509,21 +11719,6 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "5d",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Rocket Lab USA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "85a1629ed28f",
-      "jobType": "full-time",
-      "location": "Littleton, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Flight Software Engineer 1"
-    },
-    {
       "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -11674,7 +11869,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TP-Link Systems",
@@ -11704,7 +11899,7 @@
       "title": "Embedded Software Engineer 1"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://qualcomm.eightfold.ai/careers/job/446718599884?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Qualcomm",
@@ -11764,7 +11959,7 @@
       "title": "Embedded Software Engineer 1"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -27875,6 +28070,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003",
+      "category": "Software Engineering",
+      "company": "Rocket Lab",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "85a1629ed28f",
+      "jobType": "full-time",
+      "location": "Littleton, CO",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Flight Software Engineer I"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Washington-DC-RRNA-Headquarters/Software-Systems-Controls-Engineer-I---II_JR6158703",
       "category": "Software Engineering",
       "company": "Rolls-Royce",
@@ -34265,8 +34475,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 428,
-    "Simplify New Grad": 393,
+    "Simplify Internships": 439,
+    "Simplify New Grad": 395,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
