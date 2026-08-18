@@ -1,7 +1,7 @@
 {
   "count": 2291,
-  "fetchedAt": "2026-08-18T08:30:34.021805+00:00",
-  "generatedAt": "2026-08-18T07:05:25.699265+00:00",
+  "fetchedAt": "2026-08-18T08:35:21.630540+00:00",
+  "generatedAt": "2026-08-18T08:35:21.630540+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6455,6 +6455,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "WOOD Consulting Services",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a893b25a40e2",
+      "jobType": "full-time",
+      "location": "Fort Meade, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 0 - Entry-Level Software Engineering"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -11705,21 +11720,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AeroVironment",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5d485027e3e7",
-      "jobType": "full-time",
-      "location": "Sunrise, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Embedded"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Seagate Technology",
@@ -12317,21 +12317,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New grad / early career"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4a3f2e11e5f0",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Accelerated Computing Solutions Analyst \u2013 Early Career \ud83c\udf93"
     },
     {
       "age": "3mo",
@@ -28505,6 +28490,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368",
+      "category": "Software Engineering",
+      "company": "AeroVironment",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5d485027e3e7",
+      "jobType": "full-time",
+      "location": "Sunrise, FL",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I-3"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367",
       "category": "Software Engineering",
       "company": "AeroVironment",
@@ -34371,7 +34371,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 430,
-    "Simplify New Grad": 397,
+    "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
