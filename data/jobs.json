@@ -1,7 +1,7 @@
 {
-  "count": 2295,
-  "fetchedAt": "2026-08-18T15:30:37.085803+00:00",
-  "generatedAt": "2026-08-18T15:05:26.767355+00:00",
+  "count": 2296,
+  "fetchedAt": "2026-08-18T15:35:22.175669+00:00",
+  "generatedAt": "2026-08-18T15:35:22.175669+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9167,6 +9167,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "JavaScript Software Engineer 1 - TS/SCI with Poly"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "State Street",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "cfc3fbd0b839",
+      "jobType": "full-time",
+      "location": "Burlington, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
     },
     {
       "age": "2mo",
@@ -34431,7 +34446,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 437,
-    "Simplify New Grad": 396,
+    "Simplify New Grad": 397,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 614,
     "Vansh Internships": 184,
