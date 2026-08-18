@@ -1,7 +1,7 @@
 {
-  "count": 2289,
-  "fetchedAt": "2026-08-18T04:00:43.541548+00:00",
-  "generatedAt": "2026-08-18T02:40:32.376569+00:00",
+  "count": 2288,
+  "fetchedAt": "2026-08-18T04:05:21.696706+00:00",
+  "generatedAt": "2026-08-18T04:05:21.696706+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -379,7 +379,7 @@
       "title": "Mobile Software Engineer Intern - Global E-Commerce"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33301?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "KPMG",
@@ -394,7 +394,7 @@
       "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33306?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "KPMG",
@@ -572,21 +572,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Aeronautics Systems"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Kimley-Horn",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d9589880642a",
-      "jobType": "internship",
-      "location": "Cary, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "6d",
@@ -3109,7 +3094,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Analysis Group",
@@ -3124,7 +3109,7 @@
       "title": "Research Professional Intern - Generalist"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33307?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "KPMG",
@@ -34340,7 +34325,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 430,
+    "Simplify Internships": 429,
     "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
