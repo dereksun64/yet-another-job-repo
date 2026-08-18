@@ -1,7 +1,7 @@
 {
-  "count": 2291,
-  "fetchedAt": "2026-08-18T02:35:21.720495+00:00",
-  "generatedAt": "2026-08-18T02:10:29.631476+00:00",
+  "count": 2289,
+  "fetchedAt": "2026-08-18T02:40:32.376569+00:00",
+  "generatedAt": "2026-08-18T02:40:32.376569+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -572,21 +572,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Aeronautics Systems"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sentry",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aefdde96f203",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
     },
     {
       "age": "6d",
@@ -6815,21 +6800,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Software-Engineer-I_01865110?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e572567e6aed",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Lennar",
@@ -7804,7 +7774,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Walgreens",
@@ -34370,8 +34340,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 431,
-    "Simplify New Grad": 397,
+    "Simplify Internships": 430,
+    "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 617,
     "Vansh Internships": 184,
