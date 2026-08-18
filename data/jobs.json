@@ -1,7 +1,7 @@
 {
   "count": 2292,
-  "fetchedAt": "2026-08-18T22:05:21.526826+00:00",
-  "generatedAt": "2026-08-18T21:35:21.095797+00:00",
+  "fetchedAt": "2026-08-18T22:08:10.249476+00:00",
+  "generatedAt": "2026-08-18T22:08:10.249476+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1847,21 +1847,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "IT Development Program Intern - IT Development Program"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GoDaddy",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "a91b341bd169",
-      "jobType": "internship",
-      "location": "Tempe, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Engineer Intern"
     },
     {
       "age": "19d",
@@ -21575,6 +21560,21 @@
     },
     {
       "age": "14d",
+      "applyUrl": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "GoDaddy",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "a91b341bd169",
+      "jobType": "internship",
+      "location": "Tempe, AZ",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Development Engineer Intern \ud83d\udec2"
+    },
+    {
+      "age": "14d",
       "applyUrl": "https://joinbytedance.com/search/7668374190764050741?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "ByteDance",
@@ -34385,7 +34385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 434,
+    "Simplify Internships": 433,
     "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 614,
