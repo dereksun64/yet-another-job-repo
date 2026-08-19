@@ -1,7 +1,7 @@
 {
   "count": 2319,
-  "fetchedAt": "2026-08-19T02:30:34.925300+00:00",
-  "generatedAt": "2026-08-19T02:05:35.046846+00:00",
+  "fetchedAt": "2026-08-19T02:35:21.246803+00:00",
+  "generatedAt": "2026-08-19T02:35:21.246803+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6725,6 +6725,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/okx/jobs/7897680003?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "OKX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ab8775a8c881",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "AI-Native Mobile Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers.astrion.us/jobs/24705?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astrion",
@@ -8209,7 +8224,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Walgreens",
@@ -12167,21 +12182,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Embedded"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Seagate Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ebd29fe4916c",
-      "jobType": "full-time",
-      "location": "Longmont, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Firmware Engineer - Early Career \ud83c\udf93"
     },
     {
       "age": "9d",
