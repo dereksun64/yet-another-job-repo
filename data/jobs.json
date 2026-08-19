@@ -1,7 +1,7 @@
 {
-  "count": 2319,
-  "fetchedAt": "2026-08-19T08:25:22.441000+00:00",
-  "generatedAt": "2026-08-19T07:05:21.974095+00:00",
+  "count": 2321,
+  "fetchedAt": "2026-08-19T08:32:11.863510+00:00",
+  "generatedAt": "2026-08-19T08:32:11.863510+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2852,6 +2852,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "masters",
+      "id": "2863bc859f67",
+      "jobType": "internship",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "masters",
+      "id": "1f4b70fc0945",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD \ud83c\udf93"
     },
     {
       "age": "0d",
@@ -34790,7 +34820,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 450,
+    "Simplify Internships": 452,
     "Simplify New Grad": 406,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 614,
