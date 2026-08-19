@@ -1,7 +1,7 @@
 {
-  "count": 2321,
-  "fetchedAt": "2026-08-19T08:32:11.863510+00:00",
-  "generatedAt": "2026-08-19T08:32:11.863510+00:00",
+  "count": 2320,
+  "fetchedAt": "2026-08-19T08:35:27.375058+00:00",
+  "generatedAt": "2026-08-19T08:35:27.375058+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6844,7 +6844,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -9467,21 +9467,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "The Walt Disney Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e12441b8ed66",
-      "jobType": "full-time",
-      "location": "Glendale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Software Engineer 1"
     },
     {
       "age": "2mo",
@@ -34821,7 +34806,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 452,
-    "Simplify New Grad": 406,
+    "Simplify New Grad": 405,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 614,
     "Vansh Internships": 184,
