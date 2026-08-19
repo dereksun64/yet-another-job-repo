@@ -1,7 +1,7 @@
 {
-  "count": 2377,
-  "fetchedAt": "2026-08-19T23:30:33.177001+00:00",
-  "generatedAt": "2026-08-19T23:10:26.297602+00:00",
+  "count": 2375,
+  "fetchedAt": "2026-08-19T23:35:22.277268+00:00",
+  "generatedAt": "2026-08-19T23:35:22.277268+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7009,7 +7009,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Boom Supersonic",
@@ -10654,7 +10654,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Giga AI",
@@ -10907,21 +10907,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Commercial Risk Data Analyst New Grad"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e169abfd9620",
-      "jobType": "full-time",
-      "location": "Springfield, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Cartographic Analyst Junior"
     },
     {
       "age": "4d",
@@ -12707,21 +12692,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/FPGA-Engineer-I_01866334-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4747d6d8b77f",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "FPGA Engineer 1 - Airborne RF Electronics Design"
     },
     {
       "age": "8d",
@@ -35661,7 +35631,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 487,
-    "Simplify New Grad": 410,
+    "Simplify New Grad": 408,
     "SpeedyApply USA Internships": 228,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 184,
