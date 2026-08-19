@@ -1,7 +1,7 @@
 {
-  "count": 2333,
-  "fetchedAt": "2026-08-19T10:30:38.947207+00:00",
-  "generatedAt": "2026-08-19T10:03:12.117972+00:00",
+  "count": 2335,
+  "fetchedAt": "2026-08-19T10:35:22.422564+00:00",
+  "generatedAt": "2026-08-19T10:35:22.422564+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1903,6 +1903,21 @@
       "id": "daddbb00cbc8",
       "jobType": "internship",
       "location": "Needham, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "18d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "9b325b959750",
+      "jobType": "internship",
+      "location": "21 locationsBoston, MASanta Ana, CAFridley, MNSanta Rosa, CAIrvine, CAMansfield, MAMounds View, MNTempe, AZMemphis, TNBrooklyn Center, MNPlymouth, MNBrooklyn Park, MNFort Worth, TXDexter, MINorth Haven, CTLafayette, COMinneapolis, MNNewton, MAJacksonville, FLEatontown, NJBoulder, CO",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -5329,6 +5344,21 @@
       "title": "Quantitative Researcher Intern"
     },
     {
+      "age": "4d",
+      "applyUrl": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "c68aef876d5f",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93"
+    },
+    {
       "age": "5d",
       "applyUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
@@ -8494,7 +8524,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -8509,7 +8539,7 @@
       "title": "Software Engineer 1 - Connect IQ Applications"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -8524,7 +8554,7 @@
       "title": "Software Engineer 1 - Web Development/Applications"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -12529,7 +12559,7 @@
       "title": "Software Engineer 1 - Embedded Aviation"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -35000,7 +35030,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 466,
+    "Simplify Internships": 468,
     "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 218,
     "SpeedyApply USA New Grad": 614,
