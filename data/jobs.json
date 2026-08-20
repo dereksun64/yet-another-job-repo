@@ -1,7 +1,7 @@
 {
-  "count": 2377,
-  "fetchedAt": "2026-08-20T03:00:40.038142+00:00",
-  "generatedAt": "2026-08-20T02:35:21.127236+00:00",
+  "count": 2375,
+  "fetchedAt": "2026-08-20T03:05:21.098819+00:00",
+  "generatedAt": "2026-08-20T03:05:21.098819+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -257,21 +257,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology and Operations Intern - Data"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6a7b938fcd78",
-      "jobType": "internship",
-      "location": "Westford, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "2d",
@@ -10834,6 +10819,21 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Datalab USA",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f33146adc31f",
+      "jobType": "full-time",
+      "location": "Germantown, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Production Programmer \u2013 Entry Level SQL Developer"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Insights-Delivery-Finance--Hybrid---Seattle--WA-_R-867723?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -12125,21 +12125,6 @@
     },
     {
       "age": "6mo",
-      "applyUrl": "https://job-boards.greenhouse.io/artefactus/jobs/8395651002?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Artefact",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5f438351f6cb",
-      "jobType": "full-time",
-      "location": "Montreal, QC, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Analyst - Canada-based"
-    },
-    {
-      "age": "6mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 NVIDIA",
@@ -13052,21 +13037,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Software-Development---New-Grad_R031336?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Ciena",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "144d2dc9c58e",
-      "jobType": "full-time",
-      "location": "Ottawa, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Development New Grad"
     },
     {
       "age": "1mo",
@@ -35660,8 +35630,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 486,
-    "Simplify New Grad": 411,
+    "Simplify Internships": 485,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 228,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 184,
