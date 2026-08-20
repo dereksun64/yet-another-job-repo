@@ -1,7 +1,7 @@
 {
-  "count": 2380,
-  "fetchedAt": "2026-08-20T12:30:33.482673+00:00",
-  "generatedAt": "2026-08-20T12:05:20.915290+00:00",
+  "count": 2381,
+  "fetchedAt": "2026-08-20T12:32:47.461255+00:00",
+  "generatedAt": "2026-08-20T12:32:47.461255+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12482,6 +12482,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Summer 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8adcd1763a5c",
+      "jobType": "full-time",
+      "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2d",
@@ -35706,7 +35721,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 491,
-    "Simplify New Grad": 409,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 228,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 184,
