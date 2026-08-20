@@ -1,7 +1,7 @@
 {
-  "count": 2377,
-  "fetchedAt": "2026-08-20T11:00:40.020781+00:00",
-  "generatedAt": "2026-08-20T10:35:21.698506+00:00",
+  "count": 2378,
+  "fetchedAt": "2026-08-20T11:02:56.376975+00:00",
+  "generatedAt": "2026-08-20T11:02:56.376975+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10877,6 +10877,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Insights Delivery Finance"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Great American Insurance Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cf94d1b8d5cc",
+      "jobType": "full-time",
+      "location": "Remote in USA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Scientist"
     },
     {
       "age": "1d",
@@ -35661,7 +35676,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 489,
-    "Simplify New Grad": 408,
+    "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 228,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 184,
