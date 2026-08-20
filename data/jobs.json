@@ -1,7 +1,7 @@
 {
-  "count": 2383,
-  "fetchedAt": "2026-08-20T08:05:21.745869+00:00",
-  "generatedAt": "2026-08-20T07:10:27.669065+00:00",
+  "count": 2381,
+  "fetchedAt": "2026-08-20T08:10:27.247191+00:00",
+  "generatedAt": "2026-08-20T08:10:27.247191+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7594,7 +7594,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -10145,21 +10145,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "State Street",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "cfc3fbd0b839",
-      "jobType": "full-time",
-      "location": "Burlington, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://lexical.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Lexical Intelligence",
@@ -10427,21 +10412,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer \ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6bfafcde2203",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Test Solutions"
     },
     {
       "age": "3mo",
@@ -35751,7 +35721,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 494,
-    "Simplify New Grad": 409,
+    "Simplify New Grad": 407,
     "SpeedyApply USA Internships": 228,
     "SpeedyApply USA New Grad": 626,
     "Vansh Internships": 184,
