@@ -1,7 +1,7 @@
 {
   "count": 2410,
-  "fetchedAt": "2026-08-20T18:30:34.368980+00:00",
-  "generatedAt": "2026-08-20T17:35:23.405079+00:00",
+  "fetchedAt": "2026-08-20T18:35:23.613740+00:00",
+  "generatedAt": "2026-08-20T18:35:23.613740+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2237,21 +2237,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Software Engineer"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Axon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cf3adc7e3df3",
-      "jobType": "internship",
-      "location": "Boston, MASeattle, WA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Intern"
     },
     {
       "age": "30d",
@@ -22580,6 +22565,21 @@
     },
     {
       "age": "16d",
+      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "RenderATL",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cf3adc7e3df3",
+      "jobType": "internship",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "16d",
       "applyUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Netsmart",
@@ -36155,7 +36155,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 494,
+    "Simplify Internships": 493,
     "Simplify New Grad": 412,
     "SpeedyApply USA Internships": 244,
     "SpeedyApply USA New Grad": 641,
