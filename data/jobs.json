@@ -1,7 +1,7 @@
 {
-  "count": 2438,
-  "fetchedAt": "2026-08-21T07:30:34.898753+00:00",
-  "generatedAt": "2026-08-21T07:05:23.930095+00:00",
+  "count": 2436,
+  "fetchedAt": "2026-08-21T07:35:24.157800+00:00",
+  "generatedAt": "2026-08-21T07:35:24.157800+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7625,21 +7625,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5e4a77da82db",
-      "jobType": "internship",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -13123,21 +13108,6 @@
       "id": "f613b868336f",
       "jobType": "full-time",
       "location": "East Hartford, CT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01866531?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a1f46493e2ee",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -36575,8 +36545,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 521,
-    "Simplify New Grad": 412,
+    "Simplify Internships": 520,
+    "Simplify New Grad": 411,
     "SpeedyApply USA Internships": 244,
     "SpeedyApply USA New Grad": 641,
     "Vansh Internships": 184,
