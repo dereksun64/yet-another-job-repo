@@ -1,7 +1,7 @@
 {
-  "count": 2432,
-  "fetchedAt": "2026-08-21T18:30:32.307047+00:00",
-  "generatedAt": "2026-08-21T18:10:29.501996+00:00",
+  "count": 2431,
+  "fetchedAt": "2026-08-21T18:35:22.031119+00:00",
+  "generatedAt": "2026-08-21T18:35:22.031119+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3332,6 +3332,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computational Engineering Graduate Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "98d3ea453637",
+      "jobType": "internship",
+      "location": "Montreal, QC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Cloud, Data and AI Intern"
     },
     {
       "age": "0d",
@@ -8147,21 +8162,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - IS&T Early Career Opportunities"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Charta Health",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0140ac13c87f",
-      "jobType": "full-time",
-      "location": "SFNYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "3d",
@@ -13622,21 +13622,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Implementation Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Torc Robotics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1b55ba2416af",
-      "jobType": "full-time",
-      "location": "Ann Arbor, MI",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Hardware Engineer 1 - Sensors"
     },
     {
       "age": "1mo",
@@ -36485,8 +36470,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 527,
-    "Simplify New Grad": 403,
+    "Simplify Internships": 528,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
