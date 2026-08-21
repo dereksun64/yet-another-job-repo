@@ -1,7 +1,7 @@
 {
-  "count": 2432,
-  "fetchedAt": "2026-08-21T13:00:43.003427+00:00",
-  "generatedAt": "2026-08-21T13:00:43.003427+00:00",
+  "count": 2433,
+  "fetchedAt": "2026-08-21T13:02:50.071205+00:00",
+  "generatedAt": "2026-08-21T13:02:50.071205+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3242,6 +3242,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computational Engineering Graduate Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Ontario Teachers' Pension Plan",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b0de669551ef",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Risk Intern - Total Fund Risk"
     },
     {
       "age": "0d",
@@ -36485,7 +36500,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 522,
+    "Simplify Internships": 523,
     "Simplify New Grad": 403,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
