@@ -1,8 +1,23 @@
 {
-  "count": 2431,
-  "fetchedAt": "2026-08-21T20:00:40.429969+00:00",
-  "generatedAt": "2026-08-21T19:05:23.617284+00:00",
+  "count": 2435,
+  "fetchedAt": "2026-08-21T20:05:19.925312+00:00",
+  "generatedAt": "2026-08-21T20:05:19.925312+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "269af2118ac9",
+      "jobType": "internship",
+      "location": "South SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
@@ -7922,6 +7937,51 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Mercury Insurance",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e75f29eaa5b1",
+      "jobType": "full-time",
+      "location": "Brea, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 Test"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Mercury Insurance",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d8087c14cbdd",
+      "jobType": "full-time",
+      "location": "Brea, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Hyve Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f373a48eef41",
+      "jobType": "full-time",
+      "location": "Fremont, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
     },
     {
       "age": "0d",
@@ -36470,8 +36530,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 528,
-    "Simplify New Grad": 401,
+    "Simplify Internships": 529,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
