@@ -1,7 +1,7 @@
 {
-  "count": 2439,
-  "fetchedAt": "2026-08-21T07:00:43.593957+00:00",
-  "generatedAt": "2026-08-21T06:35:23.804490+00:00",
+  "count": 2438,
+  "fetchedAt": "2026-08-21T07:05:23.930095+00:00",
+  "generatedAt": "2026-08-21T07:05:23.930095+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8044,7 +8044,7 @@
       "title": "Software Engineer 0 - Entry-Level Software Engineering"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Apple",
@@ -8612,21 +8612,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer 1"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "State Street",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "b565b682a2d6",
-      "jobType": "full-time",
-      "location": "Burlington, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "10d",
@@ -36591,7 +36576,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 521,
-    "Simplify New Grad": 413,
+    "Simplify New Grad": 412,
     "SpeedyApply USA Internships": 244,
     "SpeedyApply USA New Grad": 641,
     "Vansh Internships": 184,
