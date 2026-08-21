@@ -1,7 +1,7 @@
 {
-  "count": 2432,
-  "fetchedAt": "2026-08-21T14:00:40.238945+00:00",
-  "generatedAt": "2026-08-21T13:40:27.950412+00:00",
+  "count": 2429,
+  "fetchedAt": "2026-08-21T14:05:23.275545+00:00",
+  "generatedAt": "2026-08-21T14:05:23.275545+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -842,21 +842,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "61cd70cc698e",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "7d",
@@ -3949,7 +3934,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -8135,21 +8120,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "daa4218628ad",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "LMI",
@@ -11327,21 +11297,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineer 1 - Insights Delivery Finance"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Great American Insurance Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cf94d1b8d5cc",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Scientist"
     },
     {
       "age": "2d",
@@ -36485,8 +36440,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 522,
-    "Simplify New Grad": 403,
+    "Simplify Internships": 521,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 184,
