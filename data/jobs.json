@@ -1,7 +1,7 @@
 {
-  "count": 2418,
-  "fetchedAt": "2026-08-21T15:41:06.007348+00:00",
-  "generatedAt": "2026-08-21T15:35:21.682777+00:00",
+  "count": 2415,
+  "fetchedAt": "2026-08-21T15:45:26.788936+00:00",
+  "generatedAt": "2026-08-21T15:45:26.788936+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -24050,21 +24050,6 @@
     },
     {
       "age": "91d",
-      "applyUrl": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002&utm_source=github-vansh-ouckah",
-      "category": "Quant",
-      "company": "Cubist Systematic Strategies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f01b19efe890",
-      "jobType": "internship",
-      "location": "New York, NY",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Quantitative Developer Intern"
-    },
-    {
-      "age": "91d",
       "applyUrl": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=github-vansh-ouckah",
       "category": "Software Engineering",
       "company": "Aquatic Capital",
@@ -24227,36 +24212,6 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineering Intern, Embedded Systems"
-    },
-    {
-      "age": "104d",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah",
-      "category": "Software Engineering",
-      "company": "Veeam Software",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1bf020687534",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Software Engineering Intern, Policy Engineering"
-    },
-    {
-      "age": "104d",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=github-vansh-ouckah",
-      "category": "AI/ML",
-      "company": "Veeam Software",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5702e6400f6f",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Software Engineering Intern, Platform, Security & AI"
     },
     {
       "age": "104d",
@@ -36279,7 +36234,7 @@
     "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
-    "Vansh Internships": 177,
+    "Vansh Internships": 174,
     "Vansh New Grad": 589
   }
 }
