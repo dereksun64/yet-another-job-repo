@@ -1,7 +1,7 @@
 {
-  "count": 2430,
-  "fetchedAt": "2026-08-21T02:05:20.771897+00:00",
-  "generatedAt": "2026-08-21T02:05:20.771897+00:00",
+  "count": 2428,
+  "fetchedAt": "2026-08-21T02:10:27.039324+00:00",
+  "generatedAt": "2026-08-21T02:10:27.039324+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7624,7 +7624,7 @@
       "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Kikoff",
@@ -9800,21 +9800,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "fcce1bae434c",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Software Engineer"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cybernetic Labs",
@@ -9962,21 +9947,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Conversion Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 DoorDash",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "64dab8dbbde4",
-      "jobType": "full-time",
-      "location": "5 locationsSeattle, WASFLANYCSunnyvale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -36456,7 +36426,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 507,
-    "Simplify New Grad": 418,
+    "Simplify New Grad": 416,
     "SpeedyApply USA Internships": 244,
     "SpeedyApply USA New Grad": 641,
     "Vansh Internships": 184,
