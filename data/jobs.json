@@ -1,7 +1,7 @@
 {
-  "count": 2460,
-  "fetchedAt": "2026-08-22T15:30:33.359266+00:00",
-  "generatedAt": "2026-08-22T15:10:26.428315+00:00",
+  "count": 2462,
+  "fetchedAt": "2026-08-22T15:35:24.940301+00:00",
+  "generatedAt": "2026-08-22T15:35:24.940301+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -709,7 +709,7 @@
       "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Optiver",
@@ -7790,6 +7790,21 @@
     },
     {
       "age": "3d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "7ad4c0d77590",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Hardware Verification Intern"
+    },
+    {
+      "age": "3d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -8327,6 +8342,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Network"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f23b1587205d",
+      "jobType": "full-time",
+      "location": "Aurora, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "2d",
@@ -11734,7 +11764,7 @@
       "title": "Entry Level Data Analyst / Business Analyst"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.viasat.com/jobs/6698?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "ViaSat",
@@ -36905,8 +36935,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 543,
-    "Simplify New Grad": 411,
+    "Simplify Internships": 544,
+    "Simplify New Grad": 412,
     "SpeedyApply USA Internships": 248,
     "SpeedyApply USA New Grad": 647,
     "Vansh Internships": 214,
