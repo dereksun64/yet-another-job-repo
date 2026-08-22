@@ -1,7 +1,7 @@
 {
-  "count": 2459,
-  "fetchedAt": "2026-08-22T03:00:39.743337+00:00",
-  "generatedAt": "2026-08-22T02:05:20.017756+00:00",
+  "count": 2460,
+  "fetchedAt": "2026-08-22T03:05:20.685953+00:00",
+  "generatedAt": "2026-08-22T03:05:20.685953+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -152,6 +152,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Project Engineer Intern - Summer 2027 \ud83c\udf93"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Ecolab",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c483753d0dc3",
+      "jobType": "internship",
+      "location": "Naperville, ILEagan, MNSt Paul, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital & AI Technology Intern"
     },
     {
       "age": "1d",
@@ -9814,7 +9829,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Walgreens",
@@ -11794,7 +11809,7 @@
       "title": "Data Engineer - Early Career"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Datalab USA",
@@ -36890,7 +36905,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 546,
+    "Simplify Internships": 547,
     "Simplify New Grad": 411,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
