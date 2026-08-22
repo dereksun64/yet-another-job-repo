@@ -1,7 +1,7 @@
 {
-  "count": 2445,
-  "fetchedAt": "2026-08-22T00:35:19.151707+00:00",
-  "generatedAt": "2026-08-22T00:35:19.151707+00:00",
+  "count": 2443,
+  "fetchedAt": "2026-08-22T00:40:26.722370+00:00",
+  "generatedAt": "2026-08-22T00:40:26.722370+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8105,21 +8105,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://careers.principal.com/jobs/51898?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Principal Financial Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1d5dc6fd3114",
-      "jobType": "full-time",
-      "location": "Des Moines, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Kikoff",
@@ -12407,21 +12392,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Data Analyst"
-    },
-    {
-      "age": "28d",
-      "applyUrl": "https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Nestle",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aca589a2ff71",
-      "jobType": "full-time",
-      "location": "North York, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Product Ownership - Junior Data Engineer"
     },
     {
       "age": "29d",
@@ -36681,7 +36651,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 532,
-    "Simplify New Grad": 411,
+    "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 246,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
