@@ -1,7 +1,7 @@
 {
-  "count": 2461,
-  "fetchedAt": "2026-08-23T13:05:24.545954+00:00",
-  "generatedAt": "2026-08-23T12:55:24.355402+00:00",
+  "count": 2459,
+  "fetchedAt": "2026-08-23T13:10:30.939584+00:00",
+  "generatedAt": "2026-08-23T13:10:30.939584+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -377,21 +377,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "6ed1022e6d25",
-      "jobType": "internship",
-      "location": "CanadaSanta Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Intern"
     },
     {
       "age": "4d",
@@ -1562,21 +1547,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineering Co-op"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "GE Appliances",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "40ac9219d071",
-      "jobType": "internship",
-      "location": "Louisville, KY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - Software Engineering"
     },
     {
       "age": "19d",
@@ -36920,7 +36890,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 547,
+    "Simplify Internships": 545,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 247,
     "SpeedyApply USA New Grad": 646,
