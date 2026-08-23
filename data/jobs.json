@@ -1,7 +1,7 @@
 {
-  "count": 2459,
-  "fetchedAt": "2026-08-23T13:30:36.596267+00:00",
-  "generatedAt": "2026-08-23T13:10:30.939584+00:00",
+  "count": 2460,
+  "fetchedAt": "2026-08-23T13:35:23.386709+00:00",
+  "generatedAt": "2026-08-23T13:35:23.386709+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -380,6 +380,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "6ed1022e6d25",
+      "jobType": "internship",
+      "location": "CanadaSanta Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Humana",
@@ -724,7 +739,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "W.W. Grainger",
@@ -739,7 +754,7 @@
       "title": "Software Engineer Intern - Grainger Technology Group"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -754,7 +769,7 @@
       "title": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -1547,6 +1562,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineering Co-op"
+    },
+    {
+      "age": "18d",
+      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GE Appliances",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "40ac9219d071",
+      "jobType": "internship",
+      "location": "Louisville, KY",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - Software Engineering"
     },
     {
       "age": "19d",
@@ -4369,7 +4399,7 @@
       "title": "Data Science PhD Intern \ud83c\udf93"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "W.W. Grainger",
@@ -4384,7 +4414,7 @@
       "title": "Business Systems Analyst Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://lifeattiktok.com/search/7674944387893791029?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -4399,7 +4429,7 @@
       "title": "Data Analyst Intern - LIVE"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://lifeattiktok.com/search/7674032146438162693?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -4622,21 +4652,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "BP",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7e6576c6055d",
-      "jobType": "internship",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Geoscience Intern - Geoscientist \ud83c\udf93"
     },
     {
       "age": "9d",
@@ -36890,7 +36905,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 545,
+    "Simplify Internships": 546,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 247,
     "SpeedyApply USA New Grad": 646,
