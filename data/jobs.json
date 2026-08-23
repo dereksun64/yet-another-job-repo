@@ -1,7 +1,7 @@
 {
-  "count": 2470,
-  "fetchedAt": "2026-08-23T10:00:43.977820+00:00",
-  "generatedAt": "2026-08-23T09:35:22.554968+00:00",
+  "count": 2471,
+  "fetchedAt": "2026-08-23T10:05:20.965617+00:00",
+  "generatedAt": "2026-08-23T10:05:20.965617+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4025,6 +4025,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "c807d1375721",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Generative AI Ph.D. Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -4594,7 +4609,7 @@
       "title": "Enterprise Analytics Intern"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673608499872827701/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -4609,7 +4624,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673617571165620533/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -8119,7 +8134,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -37055,7 +37070,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 553,
+    "Simplify Internships": 554,
     "Simplify New Grad": 411,
     "SpeedyApply USA Internships": 248,
     "SpeedyApply USA New Grad": 647,
