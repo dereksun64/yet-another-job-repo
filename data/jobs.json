@@ -1,7 +1,7 @@
 {
-  "count": 2454,
-  "fetchedAt": "2026-08-24T10:30:27.108064+00:00",
-  "generatedAt": "2026-08-24T10:05:24.299259+00:00",
+  "count": 2455,
+  "fetchedAt": "2026-08-24T10:35:26.182344+00:00",
+  "generatedAt": "2026-08-24T10:35:26.182344+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4442,6 +4442,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Modeling, Simulation & Analysis Intern - Summer 2027"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "KeyBank",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9bbb3295d4d0",
+      "jobType": "internship",
+      "location": "Brooklyn, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Intern - Key Technology & Services - Data Track"
     },
     {
       "age": "8d",
@@ -36815,7 +36830,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 547,
+    "Simplify Internships": 548,
     "Simplify New Grad": 403,
     "SpeedyApply USA Internships": 247,
     "SpeedyApply USA New Grad": 646,
