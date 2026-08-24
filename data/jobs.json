@@ -1,8 +1,68 @@
 {
-  "count": 2490,
-  "fetchedAt": "2026-08-24T21:04:42.014642+00:00",
-  "generatedAt": "2026-08-24T21:04:42.014642+00:00",
+  "count": 2502,
+  "fetchedAt": "2026-08-24T21:05:24.711871+00:00",
+  "generatedAt": "2026-08-24T21:05:24.711871+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Springs Window Fashions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "32216eb555ac",
+      "jobType": "internship",
+      "location": "Long Island City, Queens, NY",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131191004?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sage",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "684b98f6d5ac",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Edge - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sage49/jobs/6131185004?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sage",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "52a501eba653",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Full Stack"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Westinghouse Electric Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d459439db9a4",
+      "jobType": "internship",
+      "location": "Cranberry Township, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Engineering / Software Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.medpace.com/jobs/12962?icims=1&utm_source=Simplify&ref=Simplify",
@@ -122,6 +182,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - IEF"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Hartford",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "01141ecd3811",
+      "jobType": "internship",
+      "location": "Hartford, CT",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Tech & Data Program"
     },
     {
       "age": "0d",
@@ -2929,7 +3004,7 @@
       "title": "Product Management Intern - Product Marketing"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://higher.gs.com/roles/182389?type=students&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Goldman Sachs",
@@ -2942,6 +3017,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Analyst Intern - Americas - AWM Product Management"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://higher.gs.com/roles/171513?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "803dcc9c2aa0",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AWM Product Management Analyst Intern"
     },
     {
       "age": "5d",
@@ -3605,6 +3695,51 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "The Hartford",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3d1dae554257",
+      "jobType": "internship",
+      "location": "Hartford, CT",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineer Intern - Technology, Data, AI, and Operations"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "The Hartford",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8cf9ba7f1cfa",
+      "jobType": "internship",
+      "location": "Columbus, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineer Intern - Tech & Data Program"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Summer-Data-Enablement-Co-Op--8-Months-_R-0000185444?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "aa9c0105f44a",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Enablement Co-op - CFO - 8 Months"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Procter & Gamble",
@@ -4025,6 +4160,21 @@
     },
     {
       "age": "3d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62f9ed95d6e6",
+      "jobType": "internship",
+      "location": "Phoenix, AZMinneapolis, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Government Health Consulting Informatics Intern - College Program"
+    },
+    {
+      "age": "3d",
       "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Internal-Audit---Data-Analytics_R-053198?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "LPL Financial Holdings",
@@ -4324,7 +4474,7 @@
       "title": "Computational Physics Intern - Summer 2027"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://lifeattiktok.com/search/7670875283026053381?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -8087,6 +8237,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Research Intern - Quant Research - Undergrad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "MSA Safety",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9a1a43210594",
+      "jobType": "internship",
+      "location": "Cranberry Township, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Product Development - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Daktronics",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "057fed0c8728",
+      "jobType": "internship",
+      "location": "Brookings, SD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Hardware Design Co-op Intern - Firmware"
     },
     {
       "age": "0d",
@@ -37355,7 +37535,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 586,
+    "Simplify Internships": 598,
     "Simplify New Grad": 406,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
