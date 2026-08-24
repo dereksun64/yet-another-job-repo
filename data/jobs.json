@@ -1,7 +1,7 @@
 {
-  "count": 2455,
-  "fetchedAt": "2026-08-24T11:00:46.326759+00:00",
-  "generatedAt": "2026-08-24T10:40:27.962430+00:00",
+  "count": 2453,
+  "fetchedAt": "2026-08-24T11:03:45.479562+00:00",
+  "generatedAt": "2026-08-24T11:03:45.479562+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -8284,21 +8284,6 @@
       "title": "Software Engineer 1 - Multiple Teams"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mercury Insurance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d8087c14cbdd",
-      "jobType": "full-time",
-      "location": "Brea, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -8327,21 +8312,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development Engineer 1"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c4a2e9fe64b3",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Software Engineer New Grad - Card Expansion - Software Engineer"
     },
     {
       "age": "3d",
@@ -36831,7 +36801,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 548,
-    "Simplify New Grad": 403,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 247,
     "SpeedyApply USA New Grad": 646,
     "Vansh Internships": 214,
