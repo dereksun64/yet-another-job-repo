@@ -1,7 +1,7 @@
 {
-  "count": 2446,
-  "fetchedAt": "2026-08-24T13:30:40.333166+00:00",
-  "generatedAt": "2026-08-24T13:05:26.142975+00:00",
+  "count": 2447,
+  "fetchedAt": "2026-08-24T13:35:26.048565+00:00",
+  "generatedAt": "2026-08-24T13:35:26.048565+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -724,7 +724,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "W.W. Grainger",
@@ -739,7 +739,7 @@
       "title": "Software Engineer Intern - Grainger Technology Group"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -754,7 +754,7 @@
       "title": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -1322,6 +1322,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer"
+    },
+    {
+      "age": "17d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7670778018960542005/detail?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "5dbf96391d9b",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Network Software Engineer Intern - Network Switch"
     },
     {
       "age": "17d",
@@ -4354,7 +4369,7 @@
       "title": "Data Science PhD Intern \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "W.W. Grainger",
@@ -4369,7 +4384,7 @@
       "title": "Business Systems Analyst Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://lifeattiktok.com/search/7674944387893791029?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -4384,7 +4399,7 @@
       "title": "Data Analyst Intern - LIVE"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://lifeattiktok.com/search/7674032146438162693?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -36695,7 +36710,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 547,
+    "Simplify Internships": 548,
     "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
