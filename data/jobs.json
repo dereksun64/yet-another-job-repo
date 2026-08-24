@@ -1,7 +1,7 @@
 {
-  "count": 2460,
-  "fetchedAt": "2026-08-24T18:30:37.762225+00:00",
-  "generatedAt": "2026-08-24T18:05:25.423890+00:00",
+  "count": 2458,
+  "fetchedAt": "2026-08-24T18:35:27.342327+00:00",
+  "generatedAt": "2026-08-24T18:35:27.342327+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -467,21 +467,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bb299b733770",
-      "jobType": "internship",
-      "location": "Tewksbury, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern"
     },
     {
       "age": "4d",
@@ -12917,21 +12902,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Neuroimaging Data Analyst Junior"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://careers-bluehawk.icims.com/jobs/2822/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Bluehawk",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6f3254db0710",
-      "jobType": "full-time",
-      "location": "Springfield, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Exploitation Specialist - Data Scientist - Junior"
     },
     {
       "age": "2mo",
@@ -36905,8 +36875,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 561,
-    "Simplify New Grad": 401,
+    "Simplify Internships": 560,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
