@@ -1,7 +1,7 @@
 {
-  "count": 2460,
-  "fetchedAt": "2026-08-24T15:30:40.771383+00:00",
-  "generatedAt": "2026-08-24T15:05:26.593527+00:00",
+  "count": 2459,
+  "fetchedAt": "2026-08-24T15:35:25.696201+00:00",
+  "generatedAt": "2026-08-24T15:35:25.696201+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -11927,21 +11927,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Data Analyst / Business Analyst"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://careers.viasat.com/jobs/6698?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "ViaSat",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d761b6b5405c",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer - Early Career"
     },
     {
       "age": "4d",
@@ -36906,7 +36891,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 559,
-    "Simplify New Grad": 403,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
