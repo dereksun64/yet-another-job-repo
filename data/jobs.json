@@ -1,7 +1,7 @@
 {
-  "count": 2481,
-  "fetchedAt": "2026-08-24T20:35:25.961387+00:00",
-  "generatedAt": "2026-08-24T20:35:25.961387+00:00",
+  "count": 2482,
+  "fetchedAt": "2026-08-24T20:39:38.186680+00:00",
+  "generatedAt": "2026-08-24T20:39:38.186680+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -13787,6 +13787,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Ciena",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "456c49ca8a68",
+      "jobType": "full-time",
+      "location": "Ottawa, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer New Grad"
     },
     {
       "age": "2d",
@@ -37221,7 +37236,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 586,
-    "Simplify New Grad": 397,
+    "Simplify New Grad": 398,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
