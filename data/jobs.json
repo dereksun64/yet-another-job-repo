@@ -1,7 +1,7 @@
 {
-  "count": 2458,
-  "fetchedAt": "2026-08-24T09:00:46.303546+00:00",
-  "generatedAt": "2026-08-24T08:35:21.687500+00:00",
+  "count": 2457,
+  "fetchedAt": "2026-08-24T09:05:22.835533+00:00",
+  "generatedAt": "2026-08-24T09:05:22.835533+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -7790,6 +7790,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "5f0a57309b81",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Hardware ASIC Design Intern - Hardware"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -10760,21 +10775,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "The Walt Disney Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4cd61a616496",
-      "jobType": "full-time",
-      "location": "Glendale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Software Engineer 1"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sophos",
@@ -13637,21 +13637,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "010bbd79bcae",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "13d",
@@ -36875,8 +36860,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 547,
-    "Simplify New Grad": 407,
+    "Simplify Internships": 548,
+    "Simplify New Grad": 405,
     "SpeedyApply USA Internships": 247,
     "SpeedyApply USA New Grad": 646,
     "Vansh Internships": 214,
