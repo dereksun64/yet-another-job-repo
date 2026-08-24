@@ -1,7 +1,7 @@
 {
-  "count": 2460,
-  "fetchedAt": "2026-08-24T16:30:38.293089+00:00",
-  "generatedAt": "2026-08-24T16:05:26.641781+00:00",
+  "count": 2462,
+  "fetchedAt": "2026-08-24T16:35:30.472175+00:00",
+  "generatedAt": "2026-08-24T16:35:30.472175+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3470,6 +3470,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Polaris",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0b788eed6749",
+      "jobType": "internship",
+      "location": "Medina, MNPlymouth, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Predictive Data Science Intern - Digital & IT"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Ontario Teachers' Pension Plan",
@@ -6887,6 +6902,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Investment Analyst Intern"
+    },
+    {
+      "age": "14d",
+      "applyUrl": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "InfiniteQuant",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "57d0b8d51754",
+      "jobType": "internship",
+      "location": "Dubai - United Arab EmiratesNYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Researcher Intern - Summer 2027 \ud83c\udf93"
     },
     {
       "age": "16d",
@@ -36905,7 +36935,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 560,
+    "Simplify Internships": 562,
     "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
