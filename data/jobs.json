@@ -1,7 +1,7 @@
 {
-  "count": 2482,
-  "fetchedAt": "2026-08-24T21:00:44.902547+00:00",
-  "generatedAt": "2026-08-24T20:39:38.186680+00:00",
+  "count": 2490,
+  "fetchedAt": "2026-08-24T21:04:42.014642+00:00",
+  "generatedAt": "2026-08-24T21:04:42.014642+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8795,6 +8795,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "SteerBridge",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6efaa99d8b7d",
+      "jobType": "full-time",
+      "location": "Vienna, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TraceLink",
@@ -8822,6 +8837,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer Early Career - Multiple Teams \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "68e9f0eccd75",
+      "jobType": "full-time",
+      "location": "Mississauga, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Java Full Stack Developer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "17cd47b626e3",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Full Stack Developer New Grad"
     },
     {
       "age": "2d",
@@ -8882,21 +8927,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Multiple Teams"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Hyve Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f373a48eef41",
-      "jobType": "full-time",
-      "location": "Fremont, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "3d",
@@ -8974,7 +9004,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "General Dynamics Mission Systems",
@@ -8989,7 +9019,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -9407,21 +9437,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fullstack Engineer New Grad - Product Team"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Honeywell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ec520096cd90",
-      "jobType": "full-time",
-      "location": "Richmond, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "10d",
@@ -12244,6 +12259,96 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c1995cf0f352",
+      "jobType": "full-time",
+      "location": "Toronto, ON, CanadaVancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst--Strategic-Reporting---New-Grad_R-0000184816?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ca48a12a84ac",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Analyst New Grad - Strategic Reporting"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer-I--New-Grad-_R-0000183231?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62f4fa521590",
+      "jobType": "full-time",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Software Engineer 1 New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "56499669e163",
+      "jobType": "full-time",
+      "location": "Montreal, QC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Junior-Data-Analyst--People-Analytics_JR6894?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "BDO Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "adb01b84e4ed",
+      "jobType": "full-time",
+      "location": "6 locationsBarrie, ON, CanadaToronto, ON, CanadaKitchener-Waterloo, Waterloo Regional Municipality, ON, CanadaLondon, ON, CanadaOttawa, ON, CanadaVancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Analyst - People Analytics"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Calgary---8th-Ave-SW/Junior-Data-Analyst--People-Analytics_JR6898?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "BDO Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7680d012faa8",
+      "jobType": "full-time",
+      "location": "Calgary, AB, CanadaEdmonton, AB, CanadaHalifax Regional Municipality, NS, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Analyst - People Analytics"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -13787,6 +13892,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "88135de06db3",
+      "jobType": "full-time",
+      "location": "Milpitas, CASan Jose, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "0d",
@@ -37236,7 +37356,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 586,
-    "Simplify New Grad": 398,
+    "Simplify New Grad": 406,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
