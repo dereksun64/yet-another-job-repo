@@ -1,8 +1,23 @@
 {
-  "count": 2528,
-  "fetchedAt": "2026-08-25T19:05:22.985205+00:00",
-  "generatedAt": "2026-08-25T18:35:24.063869+00:00",
+  "count": 2530,
+  "fetchedAt": "2026-08-25T19:10:31.037790+00:00",
+  "generatedAt": "2026-08-25T19:10:31.037790+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nokia",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e601a792d3b3",
+      "jobType": "internship",
+      "location": "Ann Arbor, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - Deepfield"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
@@ -2990,6 +3005,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f813f66d43b2",
+      "jobType": "internship",
+      "location": "Fond du Lac, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern - Oils & Lubricants"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://lifeattiktok.com/search/7673361736079329541?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -3770,6 +3800,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "eb2184c89c05",
+      "jobType": "internship",
+      "location": "Fond du Lac, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://lifeattiktok.com/search/7677467052537776437?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -4397,21 +4442,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Internal Audit Intern - Multiple Teams"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "LPL Financial Holdings",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "adb12050cd4b",
-      "jobType": "internship",
-      "location": "Fort Mill, SCCharlotte, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Analytics Intern - FAR Program"
     },
     {
       "age": "4d",
@@ -5719,7 +5749,7 @@
       "title": "Research and Development Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671291260529821957/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -5734,7 +5764,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671109787509213445/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -5749,7 +5779,7 @@
       "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671105026009925893/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -5764,7 +5794,7 @@
       "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7671096345243535669/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -5779,7 +5809,7 @@
       "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -5794,7 +5824,7 @@
       "title": "Sustainability Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -5809,7 +5839,7 @@
       "title": "Artificial Intelligence Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -5824,7 +5854,7 @@
       "title": "System Administrator Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Montenson",
@@ -7474,7 +7504,7 @@
       "title": "Trading Analytics Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "Montenson",
@@ -37925,7 +37955,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 615,
+    "Simplify Internships": 617,
     "Simplify New Grad": 397,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
