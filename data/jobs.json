@@ -1,7 +1,7 @@
 {
-  "count": 2508,
-  "fetchedAt": "2026-08-25T06:00:58.837935+00:00",
-  "generatedAt": "2026-08-25T05:35:23.122538+00:00",
+  "count": 2507,
+  "fetchedAt": "2026-08-25T06:05:24.953149+00:00",
+  "generatedAt": "2026-08-25T06:05:24.953149+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9515,21 +9515,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "791b43b75f33",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "LMI",
@@ -9694,7 +9679,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -37626,7 +37611,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 599,
-    "Simplify New Grad": 410,
+    "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
