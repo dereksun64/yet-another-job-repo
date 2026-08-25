@@ -1,7 +1,7 @@
 {
-  "count": 2525,
-  "fetchedAt": "2026-08-25T21:04:07.558849+00:00",
-  "generatedAt": "2026-08-25T21:04:07.558849+00:00",
+  "count": 2526,
+  "fetchedAt": "2026-08-25T21:05:25.118424+00:00",
+  "generatedAt": "2026-08-25T21:05:25.118424+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1877,6 +1877,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Aeronautics Systems"
+    },
+    {
+      "age": "20d",
+      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "GE Appliances",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "40ac9219d071",
+      "jobType": "internship",
+      "location": "Louisville, KY",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - Software Engineering"
     },
     {
       "age": "21d",
@@ -4669,7 +4684,7 @@
       "title": "Computational Physics Intern - Summer 2027"
     },
     {
-      "age": "6d",
+      "age": "5d",
       "applyUrl": "https://lifeattiktok.com/search/7670875283026053381?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -9544,7 +9559,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "5d",
       "applyUrl": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "General Dynamics Mission Systems",
@@ -9559,7 +9574,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "6d",
+      "age": "5d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -37880,7 +37895,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 614,
+    "Simplify Internships": 615,
     "Simplify New Grad": 395,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
