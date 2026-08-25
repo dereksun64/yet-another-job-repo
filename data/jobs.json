@@ -1,7 +1,7 @@
 {
   "count": 2520,
-  "fetchedAt": "2026-08-25T07:30:36.861634+00:00",
-  "generatedAt": "2026-08-25T07:05:21.663723+00:00",
+  "fetchedAt": "2026-08-25T07:35:31.987316+00:00",
+  "generatedAt": "2026-08-25T07:35:31.987316+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10427,21 +10427,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - User Systems"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Samsara",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d0c0868f3e3d",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 New Grad"
     },
     {
       "age": "21d",
@@ -33830,6 +33815,21 @@
     },
     {
       "age": "20d",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
+      "category": "Software Engineering",
+      "company": "Samsara",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d0c0868f3e3d",
+      "jobType": "full-time",
+      "location": "San Francisco, CA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - New Grad - SF"
+    },
+    {
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8092421",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -37806,7 +37806,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 613,
-    "Simplify New Grad": 408,
+    "Simplify New Grad": 407,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
