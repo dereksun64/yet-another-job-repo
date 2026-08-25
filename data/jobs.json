@@ -1,7 +1,7 @@
 {
-  "count": 2507,
-  "fetchedAt": "2026-08-25T05:30:35.114933+00:00",
-  "generatedAt": "2026-08-25T05:05:23.056447+00:00",
+  "count": 2508,
+  "fetchedAt": "2026-08-25T05:35:23.122538+00:00",
+  "generatedAt": "2026-08-25T05:35:23.122538+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14117,6 +14117,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Dell Technologies",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "f55582711b9c",
+      "jobType": "full-time",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Hardware Engineer 1 - Client Solutions Group"
     },
     {
       "age": "0d",
@@ -37611,7 +37626,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 599,
-    "Simplify New Grad": 409,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
     "Vansh Internships": 214,
