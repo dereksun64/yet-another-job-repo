@@ -1,7 +1,7 @@
 {
-  "count": 2525,
-  "fetchedAt": "2026-08-25T15:03:27.101331+00:00",
-  "generatedAt": "2026-08-25T15:03:27.101331+00:00",
+  "count": 2526,
+  "fetchedAt": "2026-08-25T15:05:27.870840+00:00",
+  "generatedAt": "2026-08-25T15:05:27.870840+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9289,7 +9289,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "1d",
+      "age": "0d",
       "applyUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TraceLink",
@@ -9304,7 +9304,7 @@
       "title": "Software Engineer 1 - Engineering Services"
     },
     {
-      "age": "1d",
+      "age": "0d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -12602,6 +12602,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Analyst New Grad - Strategic Reporting"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Royal Bank of Canada",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "56499669e163",
+      "jobType": "full-time",
+      "location": "Montreal, QC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Software Engineer New Grad"
     },
     {
       "age": "1d",
@@ -37881,7 +37896,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 614,
-    "Simplify New Grad": 397,
+    "Simplify New Grad": 398,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
