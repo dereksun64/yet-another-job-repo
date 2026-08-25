@@ -1,7 +1,7 @@
 {
-  "count": 2529,
-  "fetchedAt": "2026-08-25T20:00:46.013953+00:00",
-  "generatedAt": "2026-08-25T19:35:24.229558+00:00",
+  "count": 2526,
+  "fetchedAt": "2026-08-25T20:05:23.285023+00:00",
+  "generatedAt": "2026-08-25T20:05:23.285023+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -499,7 +499,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Zipline",
@@ -1877,21 +1877,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Aeronautics Systems"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "GE Appliances",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "454c4a09107b",
-      "jobType": "internship",
-      "location": "LaFayette, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Co-op"
     },
     {
       "age": "20d",
@@ -9650,21 +9635,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "GlobalFoundries",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "48a6cfbec7af",
-      "jobType": "full-time",
-      "location": "Austin, TXSanta Clara, CARichardson, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI/ML Software Engineer New Grad"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://careers.astrion.us/jobs/24705?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astrion",
@@ -12077,21 +12047,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Refresh Software Engineer New Grad - Product"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Mission Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "82cb36f726dd",
-      "jobType": "full-time",
-      "location": "Brooklyn, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "3mo",
@@ -37940,8 +37895,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 616,
-    "Simplify New Grad": 397,
+    "Simplify Internships": 615,
+    "Simplify New Grad": 395,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
