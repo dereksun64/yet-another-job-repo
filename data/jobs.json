@@ -1,7 +1,7 @@
 {
-  "count": 2512,
-  "fetchedAt": "2026-08-25T12:30:38.160242+00:00",
-  "generatedAt": "2026-08-25T12:05:27.318667+00:00",
+  "count": 2514,
+  "fetchedAt": "2026-08-25T12:35:22.758623+00:00",
+  "generatedAt": "2026-08-25T12:35:22.758623+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8855,6 +8855,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "5ae6548a26dc",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Mixed Signal Design Intern"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7891460003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Zipline",
@@ -8987,6 +9002,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e5e9f0053e8f",
+      "jobType": "internship",
+      "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Electrical Computer-Aided Design Engineer Intern"
     },
     {
       "age": "12d",
@@ -37685,7 +37715,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 609,
+    "Simplify Internships": 611,
     "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 245,
     "SpeedyApply USA New Grad": 642,
