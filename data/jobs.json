@@ -1,7 +1,7 @@
 {
-  "count": 2525,
-  "fetchedAt": "2026-08-25T15:30:46.551662+00:00",
-  "generatedAt": "2026-08-25T15:10:32.053630+00:00",
+  "count": 2526,
+  "fetchedAt": "2026-08-25T15:35:22.864007+00:00",
+  "generatedAt": "2026-08-25T15:35:22.864007+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -949,7 +949,7 @@
       "title": "Software Engineer Intern - Technology"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Optiver",
@@ -9227,6 +9227,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Fidelity Investments",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c3ede8b77e41",
+      "jobType": "full-time",
+      "location": "Westlake, TXMerrimack, NH",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - LEAP"
     },
     {
       "age": "0d",
@@ -37881,7 +37896,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 614,
-    "Simplify New Grad": 397,
+    "Simplify New Grad": 398,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
