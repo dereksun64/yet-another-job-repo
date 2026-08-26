@@ -1,7 +1,7 @@
 {
-  "count": 2610,
-  "fetchedAt": "2026-08-26T23:35:18.096221+00:00",
-  "generatedAt": "2026-08-26T23:35:18.096221+00:00",
+  "count": 2612,
+  "fetchedAt": "2026-08-26T23:40:28.843755+00:00",
+  "generatedAt": "2026-08-26T23:40:28.843755+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10280,6 +10280,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-1--Onsite-_01853876-2?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7179cffe8b52",
+      "jobType": "full-time",
+      "location": "Fulton, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -10288,6 +10303,21 @@
       "id": "70dbd1f88e5d",
       "jobType": "full-time",
       "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software_R698-26?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Microchip Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bc716ebb2539",
+      "jobType": "full-time",
+      "location": "Chandler, AZ",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -13534,7 +13564,7 @@
       "title": "Software Engineer \u2013 Early Career"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Peraton",
@@ -39156,7 +39186,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 675,
-    "Simplify New Grad": 411,
+    "Simplify New Grad": 413,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
     "Vansh Internships": 214,
