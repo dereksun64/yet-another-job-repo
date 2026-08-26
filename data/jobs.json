@@ -1,7 +1,7 @@
 {
-  "count": 2555,
-  "fetchedAt": "2026-08-26T01:05:19.736736+00:00",
-  "generatedAt": "2026-08-26T01:05:19.736736+00:00",
+  "count": 2556,
+  "fetchedAt": "2026-08-26T01:10:25.378723+00:00",
+  "generatedAt": "2026-08-26T01:10:25.378723+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9515,6 +9515,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "D-Wave Quantum",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4ac71e31a290",
+      "jobType": "full-time",
+      "location": "New Haven, CT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Systems Software Engineering"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -9919,7 +9934,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Crusoe",
@@ -10174,7 +10189,7 @@
       "title": "Software Development Engineer - Early Career"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Flow Engineering",
@@ -10189,7 +10204,7 @@
       "title": "Software Engineer - Early Career"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Notion",
@@ -10204,7 +10219,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Wolverine Trading",
@@ -10219,7 +10234,7 @@
       "title": "Entry Level C++ Software Engineer"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Wolverine Trading",
@@ -10234,7 +10249,7 @@
       "title": "Entry Level C++ Software Engineer"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Intuition",
@@ -11209,7 +11224,7 @@
       "title": "Early Career Infrastructure Software Engineer"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/61501?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ManTech",
@@ -13189,7 +13204,7 @@
       "title": "Commercial Risk Data Analyst New Grad"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Applied Intuition",
@@ -14824,7 +14839,7 @@
       "title": "Embedded Firmware Engineer 1"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Intuition",
@@ -38331,7 +38346,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 634,
-    "Simplify New Grad": 405,
+    "Simplify New Grad": 406,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
