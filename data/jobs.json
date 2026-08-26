@@ -1,7 +1,7 @@
 {
-  "count": 2563,
-  "fetchedAt": "2026-08-26T10:00:47.876460+00:00",
-  "generatedAt": "2026-08-26T09:40:30.833004+00:00",
+  "count": 2562,
+  "fetchedAt": "2026-08-26T10:05:26.438625+00:00",
+  "generatedAt": "2026-08-26T10:05:26.438625+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -988,21 +988,6 @@
       "id": "5e2085e9eea8",
       "jobType": "internship",
       "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "00a1a200e2fd",
-      "jobType": "internship",
-      "location": "Sterling, VA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -5090,6 +5075,21 @@
     },
     {
       "age": "7d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "c807d1375721",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Generative AI Ph.D. Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "7d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -5659,7 +5659,7 @@
       "title": "Enterprise Analytics Intern"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673608499872827701/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -5674,7 +5674,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673617571165620533/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -9514,7 +9514,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 ByteDance",
@@ -10082,21 +10082,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Applied Materials",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "363999e23a1b",
-      "jobType": "full-time",
-      "location": "Kalispell, MT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "6d",
@@ -11449,7 +11434,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Noblis",
@@ -38451,7 +38436,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 646,
-    "Simplify New Grad": 401,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
