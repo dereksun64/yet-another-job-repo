@@ -1,7 +1,7 @@
 {
-  "count": 2558,
-  "fetchedAt": "2026-08-26T12:35:25.584488+00:00",
-  "generatedAt": "2026-08-26T12:35:25.584488+00:00",
+  "count": 2557,
+  "fetchedAt": "2026-08-26T12:40:31.773034+00:00",
+  "generatedAt": "2026-08-26T12:40:31.773034+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14788,21 +14788,6 @@
       "id": "7c3fb9461a4c",
       "jobType": "full-time",
       "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f443da65b1cd",
-      "jobType": "full-time",
-      "location": "Indianapolis, IN",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -38376,7 +38361,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 645,
-    "Simplify New Grad": 397,
+    "Simplify New Grad": 396,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
