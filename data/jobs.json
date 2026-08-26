@@ -1,7 +1,7 @@
 {
-  "count": 2565,
-  "fetchedAt": "2026-08-26T09:00:46.992219+00:00",
-  "generatedAt": "2026-08-26T08:35:22.820923+00:00",
+  "count": 2564,
+  "fetchedAt": "2026-08-26T09:05:25.064293+00:00",
+  "generatedAt": "2026-08-26T09:05:25.064293+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12125,21 +12125,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Applied Materials",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "5277c09b4f42",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 2 \u2013 New College Grad"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SimpliSafe",
@@ -14734,7 +14719,7 @@
       "title": "Embedded Software Engineer 1"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "L3Harris Technologies",
@@ -38481,7 +38466,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 647,
-    "Simplify New Grad": 402,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
