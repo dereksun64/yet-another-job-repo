@@ -1,7 +1,7 @@
 {
-  "count": 2563,
-  "fetchedAt": "2026-08-26T14:05:26.975783+00:00",
-  "generatedAt": "2026-08-26T14:05:26.975783+00:00",
+  "count": 2565,
+  "fetchedAt": "2026-08-26T14:10:39.406421+00:00",
+  "generatedAt": "2026-08-26T14:10:39.406421+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9635,6 +9635,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/74519/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "General Dynamics Mission Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9e421c9db293",
+      "jobType": "full-time",
+      "location": "United States",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Enterprise AI & Data Solutions Leadership Program New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "D-Wave Quantum",
@@ -13669,21 +13684,6 @@
       "title": "Junior Data Analyst"
     },
     {
-      "age": "22d",
-      "applyUrl": "https://careers.publicisgroupe.com/jobs/155621?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Publicis Groupe",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "136262b1c9e4",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Scientist"
-    },
-    {
       "age": "23d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -14552,6 +14552,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Boeing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a9de7611335b",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Boeing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a312142f8e71",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics"
     },
     {
       "age": "0d",
@@ -38451,7 +38481,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 642,
-    "Simplify New Grad": 396,
+    "Simplify New Grad": 398,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
     "Vansh Internships": 214,
