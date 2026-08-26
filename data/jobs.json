@@ -1,7 +1,7 @@
 {
-  "count": 2587,
-  "fetchedAt": "2026-08-26T19:30:35.660345+00:00",
-  "generatedAt": "2026-08-26T19:10:29.743397+00:00",
+  "count": 2589,
+  "fetchedAt": "2026-08-26T19:35:25.147550+00:00",
+  "generatedAt": "2026-08-26T19:35:25.147550+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4142,6 +4142,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Infrastructure Engineer Intern - Recommendation & LLM"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "The Federal Reserve System",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a2008f343088",
+      "jobType": "internship",
+      "location": "Richmond, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Technical Intern - Federal Reserve - National IT"
     },
     {
       "age": "0d",
@@ -9902,6 +9917,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.gov2x.com/jobs/62655?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "V2X",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1c716c5b963e",
+      "jobType": "full-time",
+      "location": "Indianapolis, IN",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Multiple Teams"
     },
     {
       "age": "0d",
@@ -38810,8 +38840,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 660,
-    "Simplify New Grad": 403,
+    "Simplify Internships": 661,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
     "Vansh Internships": 214,
