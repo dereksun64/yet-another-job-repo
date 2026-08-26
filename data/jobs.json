@@ -1,7 +1,7 @@
 {
-  "count": 2568,
-  "fetchedAt": "2026-08-26T06:00:46.941621+00:00",
-  "generatedAt": "2026-08-26T05:40:28.137488+00:00",
+  "count": 2567,
+  "fetchedAt": "2026-08-26T06:05:24.699824+00:00",
+  "generatedAt": "2026-08-26T06:05:24.699824+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10489,7 +10489,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -13262,21 +13262,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning Software Engineer New Grad"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst--Strategic-Reporting---New-Grad_R-0000184816?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ca48a12a84ac",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Analyst New Grad - Strategic Reporting"
     },
     {
       "age": "2d",
@@ -38526,7 +38511,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 647,
-    "Simplify New Grad": 405,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 263,
     "SpeedyApply USA New Grad": 637,
     "Vansh Internships": 214,
