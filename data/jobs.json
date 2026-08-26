@@ -1,7 +1,7 @@
 {
-  "count": 2589,
-  "fetchedAt": "2026-08-26T20:00:50.284905+00:00",
-  "generatedAt": "2026-08-26T19:35:25.147550+00:00",
+  "count": 2590,
+  "fetchedAt": "2026-08-26T20:05:23.103789+00:00",
+  "generatedAt": "2026-08-26T20:05:23.103789+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -784,7 +784,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Zipline",
@@ -4082,6 +4082,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Elk Valley Resources",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "041e305eeb54",
+      "jobType": "internship",
+      "location": "Calgary, AB, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Geographic Information Systems Co-op"
     },
     {
       "age": "0d",
@@ -38840,7 +38855,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 661,
+    "Simplify Internships": 662,
     "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
