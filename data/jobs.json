@@ -1,7 +1,7 @@
 {
-  "count": 2586,
-  "fetchedAt": "2026-08-26T18:30:36.885252+00:00",
-  "generatedAt": "2026-08-26T18:10:35.168211+00:00",
+  "count": 2587,
+  "fetchedAt": "2026-08-26T18:35:25.269465+00:00",
+  "generatedAt": "2026-08-26T18:35:25.269465+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -274,7 +274,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nokia",
@@ -289,7 +289,7 @@
       "title": "Software Engineer Co-op - Deepfield"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -304,7 +304,7 @@
       "title": "Mobile Software Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -319,7 +319,7 @@
       "title": "Security Software Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -334,7 +334,7 @@
       "title": "Frontend Software Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -3229,7 +3229,7 @@
       "title": "Product Management Intern - 2027 Internship Program"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Vertiv",
@@ -4082,6 +4082,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Verisk",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7f09e369078c",
+      "jobType": "internship",
+      "location": "Jersey City, NJ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI Intern - Summer Internship Program"
     },
     {
       "age": "0d",
@@ -9049,7 +9064,7 @@
       "title": "Embedded Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -14929,7 +14944,7 @@
       "title": "Flight Software Engineer 1 New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Alarm.com",
@@ -38795,7 +38810,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 659,
+    "Simplify Internships": 660,
     "Simplify New Grad": 403,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
