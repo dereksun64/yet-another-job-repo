@@ -1,7 +1,7 @@
 {
-  "count": 2605,
-  "fetchedAt": "2026-08-27T09:00:54.858552+00:00",
-  "generatedAt": "2026-08-27T08:35:23.910447+00:00",
+  "count": 2606,
+  "fetchedAt": "2026-08-27T09:05:23.170168+00:00",
+  "generatedAt": "2026-08-27T09:05:23.170168+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6047,6 +6047,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation"
+    },
+    {
+      "age": "13d",
+      "applyUrl": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "KeyBank",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2f727cdcc561",
+      "jobType": "internship",
+      "location": "Cleveland, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling"
     },
     {
       "age": "13d",
@@ -15229,7 +15244,7 @@
       "title": "Embedded Software Engineer 1"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "L3Harris Technologies",
@@ -39080,7 +39095,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 672,
+    "Simplify Internships": 673,
     "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
