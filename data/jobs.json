@@ -1,7 +1,7 @@
 {
-  "count": 2600,
-  "fetchedAt": "2026-08-27T03:30:38.614365+00:00",
-  "generatedAt": "2026-08-27T03:05:22.556604+00:00",
+  "count": 2601,
+  "fetchedAt": "2026-08-27T03:35:23.770040+00:00",
+  "generatedAt": "2026-08-27T03:35:23.770040+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9047,6 +9047,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Systematic Trading Intern - PhD \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7978843003&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Zipline",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8072417f30cf",
+      "jobType": "internship",
+      "location": "South SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Embedded Systems Intern - Summer 2027"
     },
     {
       "age": "0d",
@@ -39005,7 +39020,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 663,
+    "Simplify Internships": 664,
     "Simplify New Grad": 413,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
