@@ -1,7 +1,7 @@
 {
-  "count": 2609,
-  "fetchedAt": "2026-08-27T07:00:52.061277+00:00",
-  "generatedAt": "2026-08-27T06:35:26.049642+00:00",
+  "count": 2608,
+  "fetchedAt": "2026-08-27T07:05:24.838469+00:00",
+  "generatedAt": "2026-08-27T07:05:24.838469+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10397,21 +10397,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Bank of Montreal",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0b72aa28ad49",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Developer New Grad"
     },
     {
       "age": "2d",
@@ -39141,7 +39126,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 674,
-    "Simplify New Grad": 411,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
     "Vansh Internships": 214,
