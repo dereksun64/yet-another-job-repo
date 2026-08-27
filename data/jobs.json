@@ -1,7 +1,7 @@
 {
-  "count": 2599,
-  "fetchedAt": "2026-08-27T06:00:48.337505+00:00",
-  "generatedAt": "2026-08-27T05:35:21.967717+00:00",
+  "count": 2598,
+  "fetchedAt": "2026-08-27T06:05:27.139727+00:00",
+  "generatedAt": "2026-08-27T06:05:27.139727+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10070,21 +10070,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-1--Onsite-_01853876-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7179cffe8b52",
-      "jobType": "full-time",
-      "location": "Fulton, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -10804,7 +10789,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -38991,7 +38976,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 663,
-    "Simplify New Grad": 412,
+    "Simplify New Grad": 411,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
     "Vansh Internships": 214,
