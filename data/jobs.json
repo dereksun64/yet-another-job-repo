@@ -1,7 +1,7 @@
 {
-  "count": 2605,
-  "fetchedAt": "2026-08-27T19:30:37.425752+00:00",
-  "generatedAt": "2026-08-27T19:05:25.863292+00:00",
+  "count": 2604,
+  "fetchedAt": "2026-08-27T19:35:27.598694+00:00",
+  "generatedAt": "2026-08-27T19:35:27.598694+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -88,21 +88,6 @@
       "id": "ed46499bc1f4",
       "jobType": "internship",
       "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - Summer Games"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "371c3d85b660",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -39080,7 +39065,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 677,
+    "Simplify Internships": 676,
     "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
