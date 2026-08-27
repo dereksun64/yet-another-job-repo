@@ -1,8 +1,23 @@
 {
-  "count": 2612,
-  "fetchedAt": "2026-08-27T00:30:37.052774+00:00",
-  "generatedAt": "2026-08-27T00:05:23.323894+00:00",
+  "count": 2613,
+  "fetchedAt": "2026-08-27T00:35:22.445997+00:00",
+  "generatedAt": "2026-08-27T00:35:22.445997+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Auto-Owners Insurance",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fc55e5781a94",
+      "jobType": "internship",
+      "location": "Lansing, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Developer Intern - Summer 2027"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003?utm_source=Simplify&ref=Simplify",
@@ -79,7 +94,7 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Honeywell",
@@ -94,7 +109,7 @@
       "title": "Software Engineer Intern - Computer Science"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Honeywell",
@@ -109,7 +124,7 @@
       "title": "Software Engineer Intern - Computer Science"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Epic Games",
@@ -1757,21 +1772,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - NHRC"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3adf1fd17ac3",
-      "jobType": "internship",
-      "location": "Melbourne, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Aeronautics Systems"
     },
     {
       "age": "15d",
@@ -4429,7 +4429,7 @@
       "title": "Information Systems Intern - Multiple Teams"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Rystad Energy",
@@ -7789,7 +7789,7 @@
       "title": "Trading Operations Intern - Summer 2027"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "DV Trading",
@@ -9230,6 +9230,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Axon",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a69c248ce096",
+      "jobType": "internship",
+      "location": "Boston, MASeattle, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Embedded Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -10234,7 +10249,7 @@
       "title": "Enterprise AI & Data Solutions Leadership Program New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "D-Wave Quantum",
@@ -10249,7 +10264,7 @@
       "title": "Software Engineer 1 - Systems Software Engineering"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -15379,7 +15394,7 @@
       "title": "Hardware Engineer 1 - Client Solutions Group"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.cisco.com/global/en/job/2023527?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cisco",
@@ -39185,7 +39200,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 675,
+    "Simplify Internships": 676,
     "Simplify New Grad": 413,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 652,
