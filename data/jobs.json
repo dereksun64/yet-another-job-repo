@@ -1,8 +1,23 @@
 {
-  "count": 2636,
-  "fetchedAt": "2026-08-27T23:30:40.392343+00:00",
-  "generatedAt": "2026-08-27T23:05:24.653466+00:00",
+  "count": 2639,
+  "fetchedAt": "2026-08-27T23:35:26.113292+00:00",
+  "generatedAt": "2026-08-27T23:35:26.113292+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819/apply?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "AnaVation",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "95c5ab22632d",
+      "jobType": "internship",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Science Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
@@ -3392,6 +3407,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Privacy and Civil Liberties Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcf1 Product Management Internship Roles",
+      "company": "Honeywell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2f2a9b939a97",
+      "jobType": "internship",
+      "location": "United States",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Offering Management Intern"
     },
     {
       "age": "0d",
@@ -15199,7 +15229,7 @@
       "title": "Business Analyst / Data Analyst Entry Level"
     },
     {
-      "age": "6mo",
+      "age": "7mo",
       "applyUrl": "https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Parallel Web Systems",
@@ -15512,6 +15542,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "L3Harris Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d73d82750921",
+      "jobType": "full-time",
+      "location": "Salt Lake City, UT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Software Engineering"
     },
     {
       "age": "0d",
@@ -39545,8 +39590,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 697,
-    "Simplify New Grad": 408,
+    "Simplify Internships": 699,
+    "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
     "Vansh Internships": 214,
