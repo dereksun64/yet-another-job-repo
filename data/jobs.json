@@ -1,7 +1,7 @@
 {
-  "count": 2639,
-  "fetchedAt": "2026-08-28T09:05:26.016121+00:00",
-  "generatedAt": "2026-08-28T09:05:26.016121+00:00",
+  "count": 2640,
+  "fetchedAt": "2026-08-28T09:10:31.645214+00:00",
+  "generatedAt": "2026-08-28T09:10:31.645214+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10127,6 +10127,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computer Architecture and Systems Intern - Research \ud83c\udf93"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "fb9ebb4c741f",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Developer and Performance Technology Intern"
     },
     {
       "age": "9d",
@@ -39590,7 +39605,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 699,
+    "Simplify Internships": 700,
     "Simplify New Grad": 408,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
