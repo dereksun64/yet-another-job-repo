@@ -1,7 +1,7 @@
 {
   "count": 2650,
-  "fetchedAt": "2026-08-28T21:05:25.342598+00:00",
-  "generatedAt": "2026-08-28T21:05:25.342598+00:00",
+  "fetchedAt": "2026-08-28T21:10:30.734816+00:00",
+  "generatedAt": "2026-08-28T21:10:30.734816+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10730,21 +10730,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "D-Wave Quantum",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4ac71e31a290",
-      "jobType": "full-time",
-      "location": "New Haven, CT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Systems Software Engineering"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -10939,7 +10924,7 @@
       "title": "Platform Software Engineer 1"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SteerBridge",
@@ -10967,6 +10952,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer Early Career - Multiple Teams \ud83c\udf93"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nightwing Intelligence Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b96e9fa5bd6c",
+      "jobType": "full-time",
+      "location": "Sterling, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "4d",
@@ -11074,7 +11074,7 @@
       "title": "Software Engineer 1 - Network"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "General Dynamics Mission Systems",
@@ -11089,7 +11089,7 @@
       "title": "Entry Level Software Engineer"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -14120,6 +14120,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers.jhuapl.edu/jobs/59858?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c45daed90648",
+      "jobType": "full-time",
+      "location": "Laurel, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Modeler and Data Analyst New Grad \ud83c\udf93"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Hatch IT",
@@ -15947,21 +15962,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cc952cd476b1",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Electrical Engineer 1 - ASIC/FPGA"
     },
     {
       "age": "8d",
