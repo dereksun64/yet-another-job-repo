@@ -1,7 +1,7 @@
 {
-  "count": 2639,
-  "fetchedAt": "2026-08-28T12:30:37.361200+00:00",
-  "generatedAt": "2026-08-28T12:05:25.475301+00:00",
+  "count": 2642,
+  "fetchedAt": "2026-08-28T12:35:26.512518+00:00",
+  "generatedAt": "2026-08-28T12:35:26.512518+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -137,6 +137,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Medtronic",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "ad3e5dd85c08",
+      "jobType": "internship",
+      "location": "20 locationsBoston, MASanta Ana, CASanta Rosa, CAIrvine, CAMansfield, MAMounds View, MNTempe, AZMemphis, TNBrooklyn Center, MNPlymouth, MNBrooklyn Park, MNFort Worth, TXDexter, MINorth Haven, CTLafayette, COMinneapolis, MNNewton, MAJacksonville, FLEatontown, NJBoulder, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineering Intern"
     },
     {
       "age": "1d",
@@ -1295,6 +1310,21 @@
     },
     {
       "age": "9d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "6ed1022e6d25",
+      "jobType": "internship",
+      "location": "CanadaSanta Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "9d",
       "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Humana",
@@ -1652,6 +1682,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "KeyBank",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b14273d7dcad",
+      "jobType": "internship",
+      "location": "Brooklyn, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Technology Track Intern - Key Technology and Services"
     },
     {
       "age": "11d",
@@ -39590,7 +39635,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 697,
+    "Simplify Internships": 700,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
