@@ -1,7 +1,7 @@
 {
-  "count": 2645,
-  "fetchedAt": "2026-08-28T14:00:46.920766+00:00",
-  "generatedAt": "2026-08-28T13:35:22.509809+00:00",
+  "count": 2648,
+  "fetchedAt": "2026-08-28T14:05:24.442730+00:00",
+  "generatedAt": "2026-08-28T14:05:24.442730+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6274,7 +6274,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -10562,6 +10562,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Torch Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b9c67b820acf",
+      "jobType": "full-time",
+      "location": "Huntsville, AL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer - Entry Level"
     },
     {
       "age": "0d",
@@ -15632,6 +15647,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Boeing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bde831b16262",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Boeing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "00d95e400f5b",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics"
     },
     {
       "age": "0d",
@@ -39681,7 +39726,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 704,
-    "Simplify New Grad": 409,
+    "Simplify New Grad": 412,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
     "Vansh Internships": 214,
