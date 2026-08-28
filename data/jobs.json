@@ -1,7 +1,7 @@
 {
-  "count": 2641,
-  "fetchedAt": "2026-08-28T08:30:40.137640+00:00",
-  "generatedAt": "2026-08-28T07:05:25.355538+00:00",
+  "count": 2639,
+  "fetchedAt": "2026-08-28T08:35:22.342390+00:00",
+  "generatedAt": "2026-08-28T08:35:22.342390+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5824,7 +5824,7 @@
       "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -5839,7 +5839,7 @@
       "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD \ud83c\udf93"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -10130,21 +10130,6 @@
     },
     {
       "age": "9d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "fb9ebb4c741f",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Developer and Performance Technology Intern"
-    },
-    {
-      "age": "9d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -11059,7 +11044,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -15748,21 +15733,6 @@
       "id": "28e2eb129dbb",
       "jobType": "full-time",
       "location": "Olathe, KS",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cisco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "88135de06db3",
-      "jobType": "full-time",
-      "location": "Milpitas, CASan Jose, CA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -39620,8 +39590,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 700,
-    "Simplify New Grad": 409,
+    "Simplify Internships": 699,
+    "Simplify New Grad": 408,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
     "Vansh Internships": 214,
