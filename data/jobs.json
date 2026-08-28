@@ -1,7 +1,7 @@
 {
-  "count": 2642,
-  "fetchedAt": "2026-08-28T07:00:50.351745+00:00",
-  "generatedAt": "2026-08-28T06:35:24.336636+00:00",
+  "count": 2641,
+  "fetchedAt": "2026-08-28T07:05:25.355538+00:00",
+  "generatedAt": "2026-08-28T07:05:25.355538+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10847,21 +10847,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer Early Career - Multiple Teams \ud83c\udf93"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Java-Software-Engineer-Level-1-or-2_R10247380?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "746f0f9b696c",
-      "jobType": "full-time",
-      "location": "Aurora, COMorrisville, NCLinthicum Heights, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Java Software Engineer 1 or 2"
     },
     {
       "age": "4d",
@@ -39636,7 +39621,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 700,
-    "Simplify New Grad": 410,
+    "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 266,
     "SpeedyApply USA New Grad": 660,
     "Vansh Internships": 214,
