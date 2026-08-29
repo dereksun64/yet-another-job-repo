@@ -1,8 +1,53 @@
 {
-  "count": 2705,
-  "fetchedAt": "2026-08-29T01:00:43.632562+00:00",
-  "generatedAt": "2026-08-29T00:35:22.031271+00:00",
+  "count": 2712,
+  "fetchedAt": "2026-08-29T01:05:24.974121+00:00",
+  "generatedAt": "2026-08-29T01:05:24.974121+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Intuit",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cc18f3329d94",
+      "jobType": "internship",
+      "location": "5 locationsCharlotte, NCNYCMountain View, CAAtlanta, GASan Diego, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Full Stack"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Persona AI",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "270a6207e36b",
+      "jobType": "internship",
+      "location": "Houston, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Robotics Software Intern - Manipulation"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Charles Schwab",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "f3a90b8f50a1",
+      "jobType": "internship",
+      "location": "6 locationsAustin, TXWestlake, TXAnn Arbor, MISouthlake, TXOmaha, NEPhoenix, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Technology"
+    },
     {
       "age": "1d",
       "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130?utm_source=Simplify&ref=Simplify",
@@ -1864,7 +1909,7 @@
       "title": "GMU Scholar Program Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Notion",
@@ -1879,7 +1924,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7668315137242351925/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -1894,7 +1939,7 @@
       "title": "Software Engineer Intern - Global Payment Infra and SRE"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672557061679483189/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -1909,7 +1954,7 @@
       "title": "Software Engineer Intern - Global Traffic Architecture"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7672626707586746629/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -4430,6 +4475,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Northwood Space",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "65d8aef31920",
+      "jobType": "internship",
+      "location": "LATorrance, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Supply Chain Data & Analytics Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Charles Schwab",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "5934a0fe0f25",
+      "jobType": "internship",
+      "location": "Austin, TXWestlake, TXSouthlake, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineering Intern - Data Engineering"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Vertiv",
@@ -4502,6 +4577,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Pricing & Product Development Intern - Spring 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Philips",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "82778ce07812",
+      "jobType": "internship",
+      "location": "Plymouth, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D"
     },
     {
       "age": "1d",
@@ -4909,7 +4999,7 @@
       "title": "Data Science Intern - Summer 2027"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://lifeattiktok.com/search/7672671220798818613?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -9829,6 +9919,21 @@
       "title": "Quantitative Trader Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Northwood Space",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c46291236789",
+      "jobType": "internship",
+      "location": "LATorrance, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "RF Engineer Intern - Summer Internship"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7978843003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -10775,6 +10880,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Barry-Wehmiller",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e1cec41a4596",
+      "jobType": "full-time",
+      "location": "5 locationsEau Claire, WIDallas, TXRaleigh, NCSt. Louis, MODenver, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Inductive Automation",
@@ -11209,6 +11329,21 @@
       "title": "Software Engineer - Entry Level"
     },
     {
+      "age": "7d",
+      "applyUrl": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Altice USA",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0d3977e27e3d",
+      "jobType": "full-time",
+      "location": "Plano, TXBethpage, NY",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Development Engineer 1"
+    },
+    {
       "age": "8d",
       "applyUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -11239,7 +11374,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Crusoe",
@@ -11479,7 +11614,7 @@
       "title": "Software Development Engineer - Early Career"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Flow Engineering",
@@ -11494,7 +11629,7 @@
       "title": "Software Engineer - Early Career"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Notion",
@@ -11509,7 +11644,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Wolverine Trading",
@@ -11524,7 +11659,7 @@
       "title": "Entry Level C++ Software Engineer"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Wolverine Trading",
@@ -11539,7 +11674,7 @@
       "title": "Entry Level C++ Software Engineer"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Intuition",
@@ -12544,7 +12679,7 @@
       "title": "Early Career Infrastructure Software Engineer"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://mantech.avature.net/en_US/careers/JobDetail/61501?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ManTech",
@@ -14554,7 +14689,7 @@
       "title": "Commercial Risk Data Analyst New Grad"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Applied Intuition",
@@ -14687,21 +14822,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Data Analyst"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Guidehouse",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eb01af9a48f6",
-      "jobType": "full-time",
-      "location": "6 locationsHouston, TXCharlotte, NCSan Antonio, TXBeavercreek, OHAtlanta, GAHuntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Engineer 1 - Data Science & Analysis"
     },
     {
       "age": "18d",
@@ -15197,21 +15317,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Machine Learning Platform"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Gladstone Institutes",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b7e32e2ee2b3",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Research Engineer 1 - AI / Machine Learning - Jain Lab"
     },
     {
       "age": "1mo",
@@ -16204,7 +16309,7 @@
       "title": "Embedded Firmware Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Intuition",
@@ -40580,7 +40685,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 715,
+    "Simplify Internships": 722,
     "Simplify New Grad": 414,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
