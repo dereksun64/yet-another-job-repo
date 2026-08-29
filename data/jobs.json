@@ -1,7 +1,7 @@
 {
-  "count": 2710,
-  "fetchedAt": "2026-08-29T03:00:45.846781+00:00",
-  "generatedAt": "2026-08-29T02:35:23.126404+00:00",
+  "count": 2709,
+  "fetchedAt": "2026-08-29T03:05:21.577222+00:00",
+  "generatedAt": "2026-08-29T03:05:21.577222+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14584,7 +14584,7 @@
       "title": "Entry Level Data Analyst / Business Analyst"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Datalab USA",
@@ -15302,21 +15302,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Machine Learning Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Meds",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9fff06c68332",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Data Analyst"
     },
     {
       "age": "1mo",
@@ -40656,7 +40641,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 720,
-    "Simplify New Grad": 414,
+    "Simplify New Grad": 413,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
     "Vansh Internships": 214,
