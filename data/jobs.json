@@ -1,8 +1,23 @@
 {
-  "count": 2712,
-  "fetchedAt": "2026-08-29T02:00:47.137571+00:00",
-  "generatedAt": "2026-08-29T01:40:28.479676+00:00",
+  "count": 2711,
+  "fetchedAt": "2026-08-29T02:05:23.845214+00:00",
+  "generatedAt": "2026-08-29T02:05:23.845214+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Northwood Space",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8d8f11db98ba",
+      "jobType": "internship",
+      "location": "LATorrance, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Multiple Teams"
+    },
     {
       "age": "0d",
       "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
@@ -1354,7 +1369,7 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1369,7 +1384,7 @@
       "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://lifeattiktok.com/search/7672926068681951493?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1384,7 +1399,7 @@
       "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -1399,7 +1414,7 @@
       "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -2104,7 +2119,7 @@
       "title": "Software Engineer Intern - AML-Engine-Orchestration"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -2119,7 +2134,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -2374,7 +2389,7 @@
       "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://lifeattiktok.com/search/7670281449668905269?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -3904,6 +3919,36 @@
       "title": "Product Marketing Intern"
     },
     {
+      "age": "9d",
+      "applyUrl": "https://higher.gs.com/roles/182389?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "6f8bf068546d",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://higher.gs.com/roles/171513?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "803dcc9c2aa0",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AWM Product Management Analyst Intern"
+    },
+    {
       "age": "10d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -3932,21 +3977,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/170935?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "93d6cf667507",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design"
     },
     {
       "age": "14d",
@@ -4204,7 +4234,7 @@
       "title": "MBA Intern - Product Management \ud83c\udf93"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -6724,21 +6754,6 @@
       "title": "Data Intern - Key Technology & Services - Data Track"
     },
     {
-      "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/171535?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "fcc6323bd779",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93"
-    },
-    {
       "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -8840,44 +8855,14 @@
     },
     {
       "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c68aef876d5f",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/170675?type=students&utm_source=Simplify&ref=Simplify",
+      "applyUrl": "https://higher.gs.com/roles/175424?type=students&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Goldman Sachs",
       "companyTier": "Tier 1.5",
       "degreeLevel": "unknown",
-      "id": "2b9510f00103",
+      "id": "32336883d07d",
       "jobType": "internship",
       "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/171563?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "acee8f7d8e6f",
-      "jobType": "internship",
-      "location": "NYC",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -8885,48 +8870,33 @@
     },
     {
       "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/175427?type=students&utm_source=Simplify&ref=Simplify",
+      "applyUrl": "https://higher.gs.com/roles/175423?type=students&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Goldman Sachs",
       "companyTier": "Tier 1.5",
       "degreeLevel": "unknown",
-      "id": "14d0f0167e02",
+      "id": "f094be47a1a1",
       "jobType": "internship",
       "location": "London, UK",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93"
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management \ud83c\udf93"
     },
     {
       "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/171546?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
+      "applyUrl": "https://higher.gs.com/roles/171552?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "Goldman Sachs",
       "companyTier": "Tier 1.5",
       "degreeLevel": "unknown",
-      "id": "7228506dcb31",
+      "id": "c7829ed8633f",
       "jobType": "internship",
-      "location": "Dallas, TX",
+      "location": "NYC",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Associate Intern - The Core Quantitative Strats \ud83c\udf93"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://higher.gs.com/roles/181628?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "e1ef09816634",
-      "jobType": "internship",
-      "location": "West Palm Beach, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading"
+      "title": "Summer Associate Intern \ud83c\udf93"
     },
     {
       "age": "15d",
@@ -9917,6 +9887,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Trader Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Northwood Space",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5cfcf655778e",
+      "jobType": "internship",
+      "location": "LATorrance, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Embedded Software Engineer Intern"
     },
     {
       "age": "0d",
@@ -40685,7 +40670,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 722,
+    "Simplify Internships": 721,
     "Simplify New Grad": 414,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
