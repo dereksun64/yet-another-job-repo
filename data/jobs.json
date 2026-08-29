@@ -1,7 +1,7 @@
 {
-  "count": 2707,
-  "fetchedAt": "2026-08-29T12:00:52.579562+00:00",
-  "generatedAt": "2026-08-29T11:35:27.258773+00:00",
+  "count": 2705,
+  "fetchedAt": "2026-08-29T12:05:27.058161+00:00",
+  "generatedAt": "2026-08-29T12:05:27.058161+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3680,21 +3680,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f813f66d43b2",
-      "jobType": "internship",
-      "location": "Fond du Lac, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Management Intern - Oils & Lubricants"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://lifeattiktok.com/search/7673361736079329541?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 TikTok",
@@ -5312,21 +5297,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Client Solutions Intern - Global Business Solutions"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 Google",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "e45d137bd757",
-      "jobType": "internship",
-      "location": "28 locationsPalo Alto, CACambridge, MAMadison, WISeattle, WAWashington, DCSFAustin, TXLASan Jose, CAIrvine, CARedwood City, CARaleigh, NCSan Bruno, CARedmond, WADurham, NCSanta Cruz, CAChicago, ILGoleta, CAPittsburgh, PAKirkland, WANYCBellevue, WASunnyvale, CAMountain View, CAPortland, ORBoulder, COAtlanta, GASan Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern - PhD \ud83c\udf93"
     },
     {
       "age": "4d",
@@ -15529,7 +15499,7 @@
       "title": "Data Engineer - Junior"
     },
     {
-      "age": "3mo",
+      "age": "4mo",
       "applyUrl": "https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "\ud83d\udd25 Figma",
@@ -40610,7 +40580,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 721,
+    "Simplify Internships": 719,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
