@@ -1,7 +1,7 @@
 {
-  "count": 2710,
-  "fetchedAt": "2026-08-29T08:00:49.291874+00:00",
-  "generatedAt": "2026-08-29T06:35:22.905462+00:00",
+  "count": 2708,
+  "fetchedAt": "2026-08-29T08:05:25.208489+00:00",
+  "generatedAt": "2026-08-29T08:05:25.208489+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -800,21 +800,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2922ecdfae85",
-      "jobType": "internship",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Brunswick",
@@ -1472,21 +1457,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Humana",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "05f0e5b228ec",
-      "jobType": "internship",
-      "location": "Louisville, KY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern - Early ID Participants"
     },
     {
       "age": "10d",
@@ -11479,7 +11449,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -40655,7 +40625,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 722,
+    "Simplify Internships": 720,
     "Simplify New Grad": 412,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
