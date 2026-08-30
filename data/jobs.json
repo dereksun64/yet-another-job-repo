@@ -1,7 +1,7 @@
 {
-  "count": 2696,
-  "fetchedAt": "2026-08-30T14:00:50.727360+00:00",
-  "generatedAt": "2026-08-30T13:35:25.367580+00:00",
+  "count": 2697,
+  "fetchedAt": "2026-08-30T14:05:24.436976+00:00",
+  "generatedAt": "2026-08-30T14:05:24.436976+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5090,6 +5090,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Leidos",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "508217eadeef",
+      "jobType": "internship",
+      "location": "Remote in USAShiloh, ILOdenton, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Artificial Intelligence"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -6544,7 +6559,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -40445,7 +40460,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 710,
+    "Simplify Internships": 711,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
