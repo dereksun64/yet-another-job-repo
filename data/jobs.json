@@ -1,7 +1,7 @@
 {
-  "count": 2695,
-  "fetchedAt": "2026-08-30T16:00:50.158072+00:00",
-  "generatedAt": "2026-08-30T15:35:24.612171+00:00",
+  "count": 2697,
+  "fetchedAt": "2026-08-30T16:05:27.326697+00:00",
+  "generatedAt": "2026-08-30T16:05:27.326697+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4757,6 +4757,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Geology & Geophysics Intern"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "95bd925027ad",
+      "jobType": "internship",
+      "location": "Raleigh, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst - Data and Analytics"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2a85e9dec628",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst Intern - Data and Analytics"
     },
     {
       "age": "3d",
@@ -40430,7 +40460,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 709,
+    "Simplify Internships": 711,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
