@@ -1,7 +1,7 @@
 {
-  "count": 2696,
-  "fetchedAt": "2026-08-30T12:00:49.482813+00:00",
-  "generatedAt": "2026-08-30T11:35:23.799688+00:00",
+  "count": 2695,
+  "fetchedAt": "2026-08-30T12:05:27.723530+00:00",
+  "generatedAt": "2026-08-30T12:05:27.723530+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4760,21 +4760,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "95bd925027ad",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst - Data and Analytics"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Marsh",
@@ -6242,21 +6227,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Deep Learning Computer Architecture Intern"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "a3915a914498",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computer Vision and Deep Learning Intern \ud83c\udf93"
     },
     {
       "age": "11d",
@@ -8657,6 +8627,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Strategy Developer Intern"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--May-2027--4-Months-_7170?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "Ontario Teachers' Pension Plan",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4fb281afcad",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Investments Intern"
     },
     {
       "age": "10d",
@@ -40445,7 +40430,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 710,
+    "Simplify Internships": 709,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
