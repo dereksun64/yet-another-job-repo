@@ -1,7 +1,7 @@
 {
-  "count": 2696,
-  "fetchedAt": "2026-08-30T10:35:27.017534+00:00",
-  "generatedAt": "2026-08-30T10:35:27.017534+00:00",
+  "count": 2697,
+  "fetchedAt": "2026-08-30T10:40:30.698803+00:00",
+  "generatedAt": "2026-08-30T10:40:30.698803+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -9797,6 +9797,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Leidos",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "109de5d437a4",
+      "jobType": "internship",
+      "location": "Bethesda, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Engineering Co-op"
     },
     {
       "age": "3d",
@@ -40445,7 +40460,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 710,
+    "Simplify Internships": 711,
     "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 288,
     "SpeedyApply USA New Grad": 684,
