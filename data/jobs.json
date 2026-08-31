@@ -1,7 +1,7 @@
 {
-  "count": 2729,
-  "fetchedAt": "2026-08-31T07:05:25.143293+00:00",
-  "generatedAt": "2026-08-31T06:35:24.199703+00:00",
+  "count": 2727,
+  "fetchedAt": "2026-08-31T07:10:29.706951+00:00",
+  "generatedAt": "2026-08-31T07:10:29.706951+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -11990,21 +11990,6 @@
     },
     {
       "age": "18d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "616674fe7723",
-      "jobType": "full-time",
-      "location": "West Valley City, UT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "18d",
       "applyUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Lennar",
@@ -16307,21 +16292,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "L3Harris Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ad0d451fed3a",
-      "jobType": "full-time",
-      "location": "Melbourne, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "6d",
@@ -40941,7 +40911,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 738,
-    "Simplify New Grad": 407,
+    "Simplify New Grad": 405,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
     "Vansh Internships": 214,
