@@ -1,7 +1,7 @@
 {
-  "count": 2715,
-  "fetchedAt": "2026-08-31T06:00:48.210672+00:00",
-  "generatedAt": "2026-08-31T05:35:25.425615+00:00",
+  "count": 2716,
+  "fetchedAt": "2026-08-31T06:05:24.439501+00:00",
+  "generatedAt": "2026-08-31T06:05:24.439501+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4637,6 +4637,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Analytics Intern - Multiple Teams"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Johnson & Johnson",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "1e4c6b957e30",
+      "jobType": "internship",
+      "location": "Cincinnati, OH",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quality Data Science Co-op - MD Q&C Digital Solutions"
     },
     {
       "age": "0d",
@@ -11689,7 +11704,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -40730,7 +40745,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 723,
+    "Simplify Internships": 724,
     "Simplify New Grad": 408,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
