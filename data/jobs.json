@@ -1,7 +1,7 @@
 {
   "count": 2727,
-  "fetchedAt": "2026-08-31T07:30:44.476355+00:00",
-  "generatedAt": "2026-08-31T07:10:29.706951+00:00",
+  "fetchedAt": "2026-08-31T07:35:26.725578+00:00",
+  "generatedAt": "2026-08-31T07:35:26.725578+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16295,6 +16295,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Dell Technologies",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "f55582711b9c",
+      "jobType": "full-time",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Hardware Engineer 1 - Client Solutions Group"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Micron Technology",
@@ -16367,21 +16382,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Summer 2027"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7c3fb9461a4c",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "11d",
