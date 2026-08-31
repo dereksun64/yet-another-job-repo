@@ -1,7 +1,7 @@
 {
-  "count": 2725,
-  "fetchedAt": "2026-08-31T08:30:43.717276+00:00",
-  "generatedAt": "2026-08-31T08:05:25.980531+00:00",
+  "count": 2727,
+  "fetchedAt": "2026-08-31T08:35:29.399951+00:00",
+  "generatedAt": "2026-08-31T08:35:29.399951+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5060,6 +5060,36 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "95bd925027ad",
+      "jobType": "internship",
+      "location": "Raleigh, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst - Data and Analytics"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2a85e9dec628",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst Intern - Data and Analytics"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Manulife Financial",
@@ -6394,7 +6424,7 @@
       "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -6409,7 +6439,7 @@
       "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -40880,7 +40910,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 737,
+    "Simplify Internships": 739,
     "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
