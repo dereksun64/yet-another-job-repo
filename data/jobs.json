@@ -1,8 +1,23 @@
 {
   "count": 2709,
-  "fetchedAt": "2026-08-31T05:00:49.529196+00:00",
-  "generatedAt": "2026-08-31T04:35:22.171204+00:00",
+  "fetchedAt": "2026-08-31T05:05:25.451043+00:00",
+  "generatedAt": "2026-08-31T05:05:25.451043+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "PIMCO",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "423d42c926b1",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Technology Analyst"
+    },
     {
       "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -3484,6 +3499,21 @@
       "title": "Software Engineer Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "PIMCO",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "71c3981ce5d5",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Analyst Intern"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -4802,36 +4832,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Geology & Geophysics Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "95bd925027ad",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst - Data and Analytics"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a85e9dec628",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - Data and Analytics"
     },
     {
       "age": "4d",
@@ -10579,7 +10579,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
