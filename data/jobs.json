@@ -1,7 +1,7 @@
 {
-  "count": 2722,
-  "fetchedAt": "2026-08-31T13:00:47.549883+00:00",
-  "generatedAt": "2026-08-31T11:35:24.517507+00:00",
+  "count": 2721,
+  "fetchedAt": "2026-08-31T13:05:29.062450+00:00",
+  "generatedAt": "2026-08-31T13:05:29.062450+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -617,21 +617,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Parsons",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "adec5a9d8f90",
-      "jobType": "internship",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Intern - Summer 2027"
     },
     {
       "age": "5d",
@@ -4744,7 +4729,7 @@
       "title": "Technology Intern - Paid"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -16637,21 +16622,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Embedded Aviation"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Garmin",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "349f3f372eae",
-      "jobType": "full-time",
-      "location": "Olathe, KS",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team"
     },
     {
       "age": "1mo",
@@ -29225,6 +29195,21 @@
     },
     {
       "age": "4d",
+      "applyUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388",
+      "category": "Software Engineering",
+      "company": "Parsons",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "adec5a9d8f90",
+      "jobType": "internship",
+      "location": "Denver, CO",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Intern - Summer 2027"
+    },
+    {
+      "age": "4d",
       "applyUrl": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
       "category": "Software Engineering",
       "company": "The Hartford",
@@ -40835,8 +40820,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 733,
-    "Simplify New Grad": 405,
+    "Simplify Internships": 732,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
     "Vansh Internships": 214,
