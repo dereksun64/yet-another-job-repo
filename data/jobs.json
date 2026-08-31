@@ -1,7 +1,7 @@
 {
   "count": 2760,
-  "fetchedAt": "2026-08-31T22:00:45.686381+00:00",
-  "generatedAt": "2026-08-31T21:35:25.902477+00:00",
+  "fetchedAt": "2026-08-31T22:05:26.237401+00:00",
+  "generatedAt": "2026-08-31T22:05:26.237401+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -11809,7 +11809,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Oracle",
@@ -11824,7 +11824,7 @@
       "title": "Application Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://careers.garmin.com/jobs/19732?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -11839,7 +11839,7 @@
       "title": "Software Engineer 1 - Aviation Backend Web"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://careers.garmin.com/jobs/19142?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -11989,7 +11989,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8724316002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -12004,7 +12004,7 @@
       "title": "Software Security Engineer New Grad - Software Security - Starlink"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Oracle",
@@ -12649,7 +12649,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "ASSA ABLOY",
@@ -12842,21 +12842,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Developer New Grad - Integrations"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8663379002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "IXL Learning",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "822f64ab7237",
-      "jobType": "full-time",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "24d",
@@ -15289,7 +15274,7 @@
       "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59791?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -16894,7 +16879,7 @@
       "title": "Embedded Firmware Engineer New Grad"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -37760,6 +37745,21 @@
     },
     {
       "age": "25d",
+      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8663379002",
+      "category": "Software Engineering",
+      "company": "IXL Learning",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "822f64ab7237",
+      "jobType": "full-time",
+      "location": "Raleigh-Durham, NC +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - New Grad"
+    },
+    {
+      "age": "25d",
       "applyUrl": "https://jobs.lever.co/Ketch/9835fb73-d8c3-4b96-b499-2ce10bc70e57",
       "category": "Software Engineering",
       "company": "Ketch",
@@ -41406,7 +41406,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 775,
-    "Simplify New Grad": 403,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
