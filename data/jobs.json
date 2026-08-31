@@ -1,7 +1,7 @@
 {
   "count": 2720,
-  "fetchedAt": "2026-08-31T15:30:43.307534+00:00",
-  "generatedAt": "2026-08-31T15:10:29.115043+00:00",
+  "fetchedAt": "2026-08-31T15:35:25.313252+00:00",
+  "generatedAt": "2026-08-31T15:35:25.313252+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -313,6 +313,21 @@
       "id": "24d0b2c79dfb",
       "jobType": "internship",
       "location": "Woburn, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d354d76d6907",
+      "jobType": "internship",
+      "location": "State College, PA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1759,7 +1774,7 @@
       "title": "Software Engineer Intern - Technology"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Optiver",
@@ -11014,7 +11029,7 @@
       "title": "Junior Product Engineer - Software Engineer 1"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Empower AI",
@@ -13550,21 +13565,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "96af89bba82d",
-      "jobType": "full-time",
-      "location": "4 locationsSpringfield, VASt. Louis, MODenver, CODulles, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR113976?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Varsity Brands",
@@ -14299,7 +14299,7 @@
       "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems \ud83c\udf93"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Deliveroo",
@@ -40805,8 +40805,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 732,
-    "Simplify New Grad": 403,
+    "Simplify Internships": 733,
+    "Simplify New Grad": 402,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
     "Vansh Internships": 214,
