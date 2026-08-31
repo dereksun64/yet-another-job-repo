@@ -1,7 +1,7 @@
 {
-  "count": 2731,
-  "fetchedAt": "2026-08-31T20:00:48.776622+00:00",
-  "generatedAt": "2026-08-31T19:40:35.698473+00:00",
+  "count": 2730,
+  "fetchedAt": "2026-08-31T20:05:26.060861+00:00",
+  "generatedAt": "2026-08-31T20:05:26.060861+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1219,7 +1219,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Zipline",
@@ -5344,7 +5344,7 @@
       "title": "Data Scientist Intern - University"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Elk Valley Resources",
@@ -16699,21 +16699,6 @@
       "title": "Embedded Software Developer New Grad"
     },
     {
-      "age": "20d",
-      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AeroVironment",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a336bfe24bb9",
-      "jobType": "full-time",
-      "location": "Sunrise, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Embedded"
-    },
-    {
       "age": "21d",
       "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -16862,21 +16847,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1/2 - Robotics"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2cc5dbd95ef4",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -35750,6 +35720,21 @@
     },
     {
       "age": "13d",
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
+      "category": "Software Engineering",
+      "company": "AeroVironment",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a336bfe24bb9",
+      "jobType": "full-time",
+      "location": "Sunrise, FL",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I-1"
+    },
+    {
+      "age": "13d",
       "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/e0dcbd0f-ef84-4412-baee-d327a90ff8d3",
       "category": "Software Engineering",
       "company": "Apex Technology",
@@ -40971,7 +40956,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 745,
-    "Simplify New Grad": 403,
+    "Simplify New Grad": 401,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
