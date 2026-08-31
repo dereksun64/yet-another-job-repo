@@ -1,7 +1,7 @@
 {
-  "count": 2727,
-  "fetchedAt": "2026-08-31T08:00:46.877202+00:00",
-  "generatedAt": "2026-08-31T07:35:26.725578+00:00",
+  "count": 2725,
+  "fetchedAt": "2026-08-31T08:05:25.980531+00:00",
+  "generatedAt": "2026-08-31T08:05:25.980531+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17,6 +17,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Full-Stack Web Developer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Stryker",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "131e1fd7ee29",
+      "jobType": "internship",
+      "location": "Fremont, CASan Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Multiple Teams"
     },
     {
       "age": "0d",
@@ -5042,36 +5057,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Geology & Geophysics Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "95bd925027ad",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst - Data and Analytics"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a85e9dec628",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - Data and Analytics"
     },
     {
       "age": "4d",
@@ -11105,21 +11090,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Torch Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b9c67b820acf",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - Entry Level"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Barry-Wehmiller",
@@ -11689,7 +11659,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -40910,8 +40880,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 738,
-    "Simplify New Grad": 405,
+    "Simplify Internships": 737,
+    "Simplify New Grad": 404,
     "SpeedyApply USA Internships": 292,
     "SpeedyApply USA New Grad": 687,
     "Vansh Internships": 214,
