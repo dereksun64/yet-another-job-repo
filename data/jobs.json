@@ -1,7 +1,7 @@
 {
-  "count": 2728,
-  "fetchedAt": "2026-08-31T20:35:26.468148+00:00",
-  "generatedAt": "2026-08-31T20:35:26.468148+00:00",
+  "count": 2727,
+  "fetchedAt": "2026-08-31T20:40:31.173842+00:00",
+  "generatedAt": "2026-08-31T20:40:31.173842+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -11300,21 +11300,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "722db66734b8",
-      "jobType": "full-time",
-      "location": "Boise, ID",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Oracle",
@@ -11524,7 +11509,7 @@
       "title": "Platform Software Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SteerBridge",
@@ -40926,7 +40911,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 743,
-    "Simplify New Grad": 401,
+    "Simplify New Grad": 400,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
