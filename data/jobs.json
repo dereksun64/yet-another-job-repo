@@ -1,7 +1,7 @@
 {
-  "count": 2846,
-  "fetchedAt": "2026-09-01T06:00:48.872815+00:00",
-  "generatedAt": "2026-09-01T05:37:37.426593+00:00",
+  "count": 2847,
+  "fetchedAt": "2026-09-01T06:05:26.845649+00:00",
+  "generatedAt": "2026-09-01T06:05:26.845649+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12785,6 +12785,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Huntington Ingalls Industries",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "441da0067e59",
+      "jobType": "full-time",
+      "location": "Newport News, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - CVN 21 Design"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Huntington Ingalls Industries",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0260d60210d7",
+      "jobType": "full-time",
+      "location": "Newport News, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - CVN 21 Design"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sierra",
@@ -13550,21 +13580,6 @@
     },
     {
       "age": "14d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "daa4218628ad",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "14d",
       "applyUrl": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "LMI",
@@ -13714,7 +13729,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -42696,7 +42711,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 852,
-    "Simplify New Grad": 409,
+    "Simplify New Grad": 410,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
