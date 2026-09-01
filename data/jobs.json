@@ -1,7 +1,7 @@
 {
-  "count": 2908,
-  "fetchedAt": "2026-09-01T15:05:23.884351+00:00",
-  "generatedAt": "2026-09-01T15:05:23.884351+00:00",
+  "count": 2909,
+  "fetchedAt": "2026-09-01T15:10:29.831597+00:00",
+  "generatedAt": "2026-09-01T15:10:29.831597+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14179,7 +14179,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -17237,6 +17237,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Manager \u2013 New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8164958?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Capco",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a6df39183527",
+      "jobType": "full-time",
+      "location": "Orlando, FL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior AI / Data Engineering Analyst - Technology & Engineering"
     },
     {
       "age": "0d",
@@ -43626,7 +43641,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 904,
-    "Simplify New Grad": 419,
+    "Simplify New Grad": 420,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
