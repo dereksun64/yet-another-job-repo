@@ -1,7 +1,7 @@
 {
-  "count": 2893,
-  "fetchedAt": "2026-09-01T11:05:24.612578+00:00",
-  "generatedAt": "2026-09-01T11:05:24.612578+00:00",
+  "count": 2892,
+  "fetchedAt": "2026-09-01T11:10:31.272293+00:00",
+  "generatedAt": "2026-09-01T11:10:31.272293+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -13528,21 +13528,6 @@
       "id": "2dcec19b5fdb",
       "jobType": "full-time",
       "location": "Oakland, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "129c55408d03",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -43401,7 +43386,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 890,
-    "Simplify New Grad": 418,
+    "Simplify New Grad": 417,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
