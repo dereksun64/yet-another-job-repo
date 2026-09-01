@@ -1,7 +1,7 @@
 {
-  "count": 2894,
-  "fetchedAt": "2026-09-01T12:30:45.485494+00:00",
-  "generatedAt": "2026-09-01T12:02:07.892303+00:00",
+  "count": 2892,
+  "fetchedAt": "2026-09-01T12:35:27.121195+00:00",
+  "generatedAt": "2026-09-01T12:35:27.121195+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12530,21 +12530,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "109de5d437a4",
-      "jobType": "internship",
-      "location": "Bethesda, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computer Engineering Co-op"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -19112,21 +19097,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Software - GNC"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "010bbd79bcae",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "21d",
@@ -43415,8 +43385,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 892,
-    "Simplify New Grad": 417,
+    "Simplify Internships": 891,
+    "Simplify New Grad": 416,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
