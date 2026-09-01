@@ -1,7 +1,7 @@
 {
-  "count": 2890,
-  "fetchedAt": "2026-09-01T14:05:27.611472+00:00",
-  "generatedAt": "2026-09-01T13:35:26.500416+00:00",
+  "count": 2894,
+  "fetchedAt": "2026-09-01T14:10:35.148679+00:00",
+  "generatedAt": "2026-09-01T14:10:35.148679+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5960,6 +5960,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Markets-Group---New-York---Graduate-Intern_R-0000033033?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "The Federal Reserve System",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "be55f823f052",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Graduate Intern - Markets Group"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Research-Group---Junior-Intern_R-0000033023?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "The Federal Reserve System",
@@ -8480,6 +8495,21 @@
     },
     {
       "age": "13d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "799c5bafc23e",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation \ud83c\udf93"
+    },
+    {
+      "age": "13d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -8809,7 +8839,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -16247,6 +16277,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "JavaScript Software Engineer 1 - TS/SCI with Poly"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Trustpilot",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "574b9b4ecd71",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Trust Tech"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Trustpilot",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e718cd102951",
+      "jobType": "full-time",
+      "location": "Edinburgh, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Trust Tech"
     },
     {
       "age": "2mo",
@@ -43355,8 +43415,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 890,
-    "Simplify New Grad": 415,
+    "Simplify Internships": 892,
+    "Simplify New Grad": 417,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
     "Vansh Internships": 214,
