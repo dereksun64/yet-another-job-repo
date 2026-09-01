@@ -1,7 +1,7 @@
 {
-  "count": 2846,
-  "fetchedAt": "2026-09-01T09:00:50.606473+00:00",
-  "generatedAt": "2026-09-01T08:35:28.177473+00:00",
+  "count": 2848,
+  "fetchedAt": "2026-09-01T09:05:22.908067+00:00",
+  "generatedAt": "2026-09-01T09:05:22.908067+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -632,6 +632,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Co-op - Spring & Summer 2027"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101404?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "BlueCross BlueShield of Nebraska",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "cc0b1f04ba83",
+      "jobType": "internship",
+      "location": "Omaha, NE",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital Experience Information Systems Intern"
     },
     {
       "age": "3d",
@@ -12392,6 +12407,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Test Intern - Summer 2027"
+    },
+    {
+      "age": "13d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "5f0a57309b81",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Hardware ASIC Design Intern - Hardware"
     },
     {
       "age": "13d",
@@ -42695,7 +42725,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 852,
+    "Simplify Internships": 854,
     "Simplify New Grad": 409,
     "SpeedyApply USA Internships": 295,
     "SpeedyApply USA New Grad": 679,
