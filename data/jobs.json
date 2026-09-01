@@ -1,8 +1,23 @@
 {
-  "count": 2964,
-  "fetchedAt": "2026-09-01T17:00:51.953323+00:00",
-  "generatedAt": "2026-09-01T16:35:27.858688+00:00",
+  "count": 2967,
+  "fetchedAt": "2026-09-01T17:05:31.527828+00:00",
+  "generatedAt": "2026-09-01T17:05:31.527828+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "60bd1c03df73",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Relational Database"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.amd.com/jobs/91865?icims=1&utm_source=Simplify&ref=Simplify",
@@ -4459,6 +4474,21 @@
       "title": "Technology Intern"
     },
     {
+      "age": "1mo",
+      "applyUrl": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "CTGT",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bffbde951c34",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
       "age": "0d",
       "applyUrl": "https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -6437,6 +6467,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data & Integration Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Strategic-Technology-Intern---Summer-2027_R-31411-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "HNTB",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "45112ed10a94",
+      "jobType": "internship",
+      "location": "Tampa, FLTallahassee, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Strategic Technology Intern"
     },
     {
       "age": "0d",
@@ -19579,7 +19624,7 @@
       "title": "Software Engineer New Grad - Software Engineering"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ASM International",
@@ -44465,7 +44510,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 943,
+    "Simplify Internships": 946,
     "Simplify New Grad": 423,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
