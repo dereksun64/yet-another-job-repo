@@ -1,8 +1,38 @@
 {
-  "count": 3072,
-  "fetchedAt": "2026-09-02T02:30:46.344964+00:00",
-  "generatedAt": "2026-09-02T02:05:26.114151+00:00",
+  "count": 3077,
+  "fetchedAt": "2026-09-02T02:35:23.900574+00:00",
+  "generatedAt": "2026-09-02T02:35:23.900574+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "22b23ad8f63b",
+      "jobType": "internship",
+      "location": "Augusta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://johndeere.eightfold.ai/careers/job/137482769212?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "John Deere",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8302a7a30d1a",
+      "jobType": "internship",
+      "location": "Fargo, ND",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.kindermorgan.com/jobs/6032?icims=1&utm_source=Simplify&ref=Simplify",
@@ -6362,6 +6392,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a3e10e9ad190",
+      "jobType": "internship",
+      "location": "Augusta, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Product & Analytics Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "42c29febbdc5",
+      "jobType": "internship",
+      "location": "Cartersville, GA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Aftermarket Analyst Intern"
     },
     {
       "age": "0d",
@@ -17554,7 +17614,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Walgreens",
@@ -20957,6 +21017,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Textron",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c76eef87dd8d",
+      "jobType": "full-time",
+      "location": "Wilmington, MA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Weapons"
     },
     {
       "age": "0d",
@@ -46085,8 +46160,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1038,
-    "Simplify New Grad": 434,
+    "Simplify Internships": 1042,
+    "Simplify New Grad": 435,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
