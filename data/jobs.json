@@ -1,7 +1,7 @@
 {
-  "count": 3092,
-  "fetchedAt": "2026-09-02T07:30:43.877920+00:00",
-  "generatedAt": "2026-09-02T07:05:24.029193+00:00",
+  "count": 3090,
+  "fetchedAt": "2026-09-02T07:35:25.683443+00:00",
+  "generatedAt": "2026-09-02T07:35:25.683443+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3107,21 +3107,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Enterprise Technology Services"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "90b0c0a8a2a8",
-      "jobType": "internship",
-      "location": "Cambridge, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Intelligent Software & Systems"
     },
     {
       "age": "15d",
@@ -16774,21 +16759,6 @@
       "title": "Software Engineer - Entry Level"
     },
     {
-      "age": "11d",
-      "applyUrl": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Altice USA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0d3977e27e3d",
-      "jobType": "full-time",
-      "location": "Plano, TXBethpage, NY",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Development Engineer 1"
-    },
-    {
       "age": "13d",
       "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -21274,7 +21244,7 @@
       "title": "Software Engineer 1 - Weapons"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -46385,8 +46355,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1061,
-    "Simplify New Grad": 431,
+    "Simplify Internships": 1060,
+    "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
