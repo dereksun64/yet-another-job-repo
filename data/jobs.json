@@ -1,8 +1,23 @@
 {
-  "count": 3075,
-  "fetchedAt": "2026-09-02T04:00:49.150885+00:00",
-  "generatedAt": "2026-09-02T03:40:33.196832+00:00",
+  "count": 3076,
+  "fetchedAt": "2026-09-02T04:05:24.823361+00:00",
+  "generatedAt": "2026-09-02T04:05:24.823361+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "\ud83d\udd25 Tesla",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "75aad50d6620",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Physics Engine Development Engineer Intern - Optimus"
+    },
     {
       "age": "0d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify",
@@ -3484,7 +3499,7 @@
       "title": "Mobile Software Engineer Intern - Global E-Commerce"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33301?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "KPMG",
@@ -3499,7 +3514,7 @@
       "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33306?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "KPMG",
@@ -6392,6 +6407,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813483103?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Boston Scientific",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "9afd62ef5ccb",
+      "jobType": "internship",
+      "location": "Arden Hills, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Research Data Science Intern - Active Implantable Systems \ud83c\udf93"
     },
     {
       "age": "0d",
@@ -10999,7 +11029,7 @@
       "title": "Self-Built Engineer Intern - CDN Platform \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Analysis Group",
@@ -11014,7 +11044,7 @@
       "title": "Research Professional Intern - Generalist"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.kpmg.ca/jobs/33307?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "KPMG",
@@ -13339,21 +13369,6 @@
       "title": "Quantitative Developer Intern - Summer 2027"
     },
     {
-      "age": "19d",
-      "applyUrl": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "RRS Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5a1fecc26457",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Investment Analyst Intern"
-    },
-    {
       "age": "20d",
       "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -14165,6 +14180,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813483105?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Boston Scientific",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "8980b694d177",
+      "jobType": "internship",
+      "location": "Arden Hills, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "R&D Hardware Engineer Intern - Interns/Graduates"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "HP IQ",
@@ -14719,7 +14749,7 @@
       "title": "RF Engineer Intern - Summer Internship"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7978843003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Zipline",
@@ -17405,21 +17435,6 @@
     },
     {
       "age": "29d",
-      "applyUrl": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Set of X",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "46d7140ec41e",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 0"
-    },
-    {
-      "age": "29d",
       "applyUrl": "https://lifeattiktok.com/search/7663028952600807733?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -19849,7 +19864,7 @@
       "title": "Junior AI Engineer - AI & Data Team"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/58164?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -46130,8 +46145,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1042,
-    "Simplify New Grad": 433,
+    "Simplify Internships": 1044,
+    "Simplify New Grad": 432,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
