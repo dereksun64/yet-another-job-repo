@@ -1,7 +1,7 @@
 {
-  "count": 3077,
-  "fetchedAt": "2026-09-02T03:00:51.582220+00:00",
-  "generatedAt": "2026-09-02T02:35:23.900574+00:00",
+  "count": 3076,
+  "fetchedAt": "2026-09-02T03:05:26.921977+00:00",
+  "generatedAt": "2026-09-02T03:05:26.921977+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -19744,7 +19744,7 @@
       "title": "Entry Level Data Analyst / Business Analyst"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Datalab USA",
@@ -22052,21 +22052,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Digital Hardware Engineer 1"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "0d1e25cf27a8",
-      "jobType": "full-time",
-      "location": "Hillsboro, OR",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Systems Software Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "3mo",
@@ -46161,7 +46146,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1042,
-    "Simplify New Grad": 435,
+    "Simplify New Grad": 434,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
