@@ -1,7 +1,7 @@
 {
-  "count": 3076,
-  "fetchedAt": "2026-09-02T03:35:25.030798+00:00",
-  "generatedAt": "2026-09-02T03:05:26.921977+00:00",
+  "count": 3075,
+  "fetchedAt": "2026-09-02T03:40:33.196832+00:00",
+  "generatedAt": "2026-09-02T03:40:33.196832+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16498,21 +16498,6 @@
       "id": "0d3977e27e3d",
       "jobType": "full-time",
       "location": "Plano, TXBethpage, NY",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Development Engineer 1"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Expedia Group",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "1f7b3241f546",
-      "jobType": "full-time",
-      "location": "Seattle, WA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -46146,7 +46131,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1042,
-    "Simplify New Grad": 434,
+    "Simplify New Grad": 433,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
