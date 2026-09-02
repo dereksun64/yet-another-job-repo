@@ -1,7 +1,7 @@
 {
-  "count": 3078,
-  "fetchedAt": "2026-09-02T12:00:46.833264+00:00",
-  "generatedAt": "2026-09-02T11:35:28.832677+00:00",
+  "count": 3079,
+  "fetchedAt": "2026-09-02T12:05:22.925726+00:00",
+  "generatedAt": "2026-09-02T12:05:22.925726+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2998,6 +2998,21 @@
       "id": "4ce8193bde7d",
       "jobType": "internship",
       "location": "LA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "14d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "6ed1022e6d25",
+      "jobType": "internship",
+      "location": "CanadaSanta Clara, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -19549,7 +19564,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "1mo",
+      "age": "2mo",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Micron Technology",
@@ -46175,7 +46190,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1054,
+    "Simplify Internships": 1055,
     "Simplify New Grad": 424,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
