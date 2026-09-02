@@ -1,8 +1,23 @@
 {
   "count": 3077,
-  "fetchedAt": "2026-09-02T14:05:32.359410+00:00",
-  "generatedAt": "2026-09-02T13:35:30.104595+00:00",
+  "fetchedAt": "2026-09-02T14:10:29.819817+00:00",
+  "generatedAt": "2026-09-02T14:10:29.819817+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Steel Dynamics",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ca4dcee9d551",
+      "jobType": "internship",
+      "location": "Fort Wayne, IN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Development Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
@@ -10924,7 +10939,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -14942,21 +14957,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "109de5d437a4",
-      "jobType": "internship",
-      "location": "Bethesda, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computer Engineering Co-op"
     },
     {
       "age": "6d",
