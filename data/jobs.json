@@ -1,7 +1,7 @@
 {
-  "count": 3079,
-  "fetchedAt": "2026-09-02T13:00:47.596344+00:00",
-  "generatedAt": "2026-09-02T12:05:22.925726+00:00",
+  "count": 3077,
+  "fetchedAt": "2026-09-02T13:05:24.741642+00:00",
+  "generatedAt": "2026-09-02T13:05:24.741642+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1907,21 +1907,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern - Summer 2027"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d354d76d6907",
-      "jobType": "internship",
-      "location": "State College, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
     },
     {
       "age": "6d",
@@ -8809,7 +8794,7 @@
       "title": "Technology Intern - Paid"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -18977,21 +18962,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Hardware Tools and Methodology \ud83c\udf93"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Motorola",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d5d81e3efca2",
-      "jobType": "full-time",
-      "location": "Edinburgh, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Backend Engineer"
     },
     {
       "age": "3mo",
@@ -46190,8 +46160,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1055,
-    "Simplify New Grad": 424,
+    "Simplify Internships": 1054,
+    "Simplify New Grad": 423,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
