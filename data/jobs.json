@@ -1,8 +1,38 @@
 {
-  "count": 3090,
-  "fetchedAt": "2026-09-02T08:00:51.577409+00:00",
-  "generatedAt": "2026-09-02T07:35:25.683443+00:00",
+  "count": 3093,
+  "fetchedAt": "2026-09-02T08:05:24.844033+00:00",
+  "generatedAt": "2026-09-02T08:05:24.844033+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "af2f77e80d63",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Research Intern - AI-Native Databases \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 ByteDance",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "18ded0f967c2",
+      "jobType": "internship",
+      "location": "Seattle, WA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Research Intern - AI-Native Databases \ud83c\udf93"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
@@ -6467,6 +6497,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "b1e6175e94de",
+      "jobType": "internship",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Ecosystem Analyst Intern - TikTok LIVE"
     },
     {
       "age": "0d",
@@ -46355,7 +46400,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1060,
+    "Simplify Internships": 1063,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
