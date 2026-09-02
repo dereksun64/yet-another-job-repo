@@ -1,8 +1,23 @@
 {
-  "count": 3090,
-  "fetchedAt": "2026-09-02T07:00:53.972139+00:00",
-  "generatedAt": "2026-09-02T06:35:26.458056+00:00",
+  "count": 3092,
+  "fetchedAt": "2026-09-02T07:05:24.029193+00:00",
+  "generatedAt": "2026-09-02T07:05:24.029193+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "18d9b831c5de",
+      "jobType": "internship",
+      "location": "Laurel, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Mission Systems Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
@@ -12812,6 +12827,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Research Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://opco.hrmdirect.com/employment/job-opening.php?req=3799625&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Oppenheimer & Co. Inc.",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5fc7202ef363",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure"
     },
     {
       "age": "0d",
@@ -46355,7 +46385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1059,
+    "Simplify Internships": 1061,
     "Simplify New Grad": 431,
     "SpeedyApply USA Internships": 312,
     "SpeedyApply USA New Grad": 692,
