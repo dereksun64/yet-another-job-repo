@@ -1,7 +1,7 @@
 {
-  "count": 3157,
-  "fetchedAt": "2026-09-03T16:30:44.285170+00:00",
-  "generatedAt": "2026-09-03T16:15:32.031584+00:00",
+  "count": 3154,
+  "fetchedAt": "2026-09-03T16:40:28.565849+00:00",
+  "generatedAt": "2026-09-03T16:40:28.565849+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -754,7 +754,7 @@
       "title": "Software Engineer Intern - Relational Database"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.amd.com/jobs/91865?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -769,7 +769,7 @@
       "title": "Compiler Engineer Intern/Co-op"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.amd.com/jobs/91867?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -784,7 +784,7 @@
       "title": "Compiler Engineer Intern/Co-op - Masters \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.amd.com/jobs/91864?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -799,7 +799,7 @@
       "title": "Compiler Engineer Intern/Co-op"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.amd.com/jobs/91866?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -1007,21 +1007,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Co-op - Uncrewed Land & Air"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Maven Securities",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6372dca526a0",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "2d",
@@ -6470,6 +6455,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "5ec4c5892d45",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers-cfins.icims.com/jobs/5108/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Crum & Forster Insurance",
@@ -6782,21 +6782,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Aftermarket Analyst Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Xcel Energy",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "774b9442d7c0",
-      "jobType": "internship",
-      "location": "Minneapolis, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Gas & Electric Design Analytics and Process Improvement Intern - MN"
     },
     {
       "age": "1d",
@@ -9182,36 +9167,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Analytics Intern - Applied Computational Intelligence \ud83c\udf93"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "95bd925027ad",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst - Data and Analytics"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Marsh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a85e9dec628",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern - Data and Analytics"
     },
     {
       "age": "7d",
@@ -12634,7 +12589,7 @@
       "title": "Quantitative Trader/Researcher Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Deutsche Bank",
@@ -12649,7 +12604,7 @@
       "title": "Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Deutsche Bank",
@@ -47360,7 +47315,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1062,
+    "Simplify Internships": 1059,
     "Simplify New Grad": 435,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
