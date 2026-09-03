@@ -1,7 +1,7 @@
 {
   "count": 3161,
-  "fetchedAt": "2026-09-03T18:00:45.195786+00:00",
-  "generatedAt": "2026-09-03T17:35:35.084955+00:00",
+  "fetchedAt": "2026-09-03T18:05:32.179225+00:00",
+  "generatedAt": "2026-09-03T18:05:32.179225+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5899,7 +5899,7 @@
       "title": "Product Manager Intern - Content and Service Ads \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Vertiv",
@@ -9394,7 +9394,7 @@
       "title": "AI Intern - Summer Internship Program"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Auto-Owners Insurance",
@@ -19520,18 +19520,33 @@
     },
     {
       "age": "6mo",
-      "applyUrl": "https://jobs.smartrecruiters.com/NorthStarStaffingSolutions1/81064849?utm_source=Simplify&ref=Simplify",
+      "applyUrl": "https://jobs.smartrecruiters.com/Jobsbridge1/88661424?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
-      "company": "North Star Staffing Solutions",
+      "company": "Jobsbridge",
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
-      "id": "e57c349aa0a2",
+      "id": "439739f81c13",
       "jobType": "full-time",
-      "location": "Cleveland, OH",
+      "location": "SF",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
+      "title": "Entry Level Mobile Developer"
+    },
+    {
+      "age": "6mo",
+      "applyUrl": "https://jobs.smartrecruiters.com/Jobsbridge1/88661485?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Jobsbridge",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5da97cbaa1ac",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Mobile Developer"
     },
     {
       "age": "6mo",
@@ -20660,21 +20675,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "f3f88ba6c4a4",
-      "jobType": "full-time",
-      "location": "Seattle, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Research Scientist New Grad - Robotics Research \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Hitachi",
@@ -20990,18 +20990,33 @@
     },
     {
       "age": "6mo",
-      "applyUrl": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331?utm_source=Simplify&ref=Simplify",
+      "applyUrl": "https://jobs.smartrecruiters.com/DataCloudMerge/744000039093905?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Insilico Logix",
+      "company": "Data Cloud Merge",
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
-      "id": "c1f92a8529ca",
+      "id": "c21891450408",
       "jobType": "full-time",
-      "location": "Reston, VA",
+      "location": "Philadelphia, PA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Business Analyst / Data Analyst Entry Level"
+      "title": "Entry Level Business Analyst"
+    },
+    {
+      "age": "6mo",
+      "applyUrl": "https://jobs.smartrecruiters.com/DataCloudMerge/744000039092000?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Data Cloud Merge",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2470c393df00",
+      "jobType": "full-time",
+      "location": "Jersey City, NJ",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Business Analyst"
     },
     {
       "age": "7mo",
@@ -21017,21 +21032,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Research Engineer"
-    },
-    {
-      "age": "7mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "44836f84c749",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Applied Machine Learning Engineer \u2013 New College Grad 2026 - Circuit Design \ud83c\udf93"
     },
     {
       "age": "7mo",
