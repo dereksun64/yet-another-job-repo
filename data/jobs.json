@@ -1,7 +1,7 @@
 {
-  "count": 3172,
-  "fetchedAt": "2026-09-03T08:05:26.835642+00:00",
-  "generatedAt": "2026-09-03T08:05:26.835642+00:00",
+  "count": 3176,
+  "fetchedAt": "2026-09-03T08:10:34.471800+00:00",
+  "generatedAt": "2026-09-03T08:10:34.471800+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16265,6 +16265,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Arch",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2ad1d119c0ce",
+      "jobType": "full-time",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813508995?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Boston Scientific",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "01f184618569",
+      "jobType": "full-time",
+      "location": "Arden Hills, MN",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 - Engineering"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Kikoff",
@@ -17179,7 +17209,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -19894,6 +19924,21 @@
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "\ud83d\udd25 Roblox",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "ac36c14cdacd",
+      "jobType": "full-time",
+      "location": "San Mateo, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Associate Product Manager - Early Career"
+    },
+    {
       "age": "1d",
       "applyUrl": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Digital-Product-Global-Early-Career-Professional_JR74277?utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -19997,6 +20042,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Manager \u2013 New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Trulioo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f6aedcbfeeac",
+      "jobType": "full-time",
+      "location": "San Diego, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Aramark",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8f2f1fa126bf",
+      "jobType": "full-time",
+      "location": "Rockville, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Engineer"
     },
     {
       "age": "1d",
@@ -22412,21 +22487,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer - Entry-Junior"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR106211?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "dbd4b9c3dfd6",
-      "jobType": "full-time",
-      "location": "Boise, ID",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products"
     },
     {
       "age": "1mo",
@@ -47586,7 +47646,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1084,
-    "Simplify New Grad": 430,
+    "Simplify New Grad": 434,
     "SpeedyApply USA Internships": 369,
     "SpeedyApply USA New Grad": 699,
     "Vansh Internships": 214,
