@@ -1,7 +1,7 @@
 {
-  "count": 3102,
-  "fetchedAt": "2026-09-03T05:00:47.695272+00:00",
-  "generatedAt": "2026-09-03T04:40:31.860832+00:00",
+  "count": 3090,
+  "fetchedAt": "2026-09-03T05:06:00.967515+00:00",
+  "generatedAt": "2026-09-03T05:06:00.967515+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -62,6 +62,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "18d9b831c5de",
+      "jobType": "internship",
+      "location": "Laurel, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Mission Systems Engineering Intern"
     },
     {
       "age": "1d",
@@ -604,7 +619,7 @@
       "title": "Computer Science Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WhatNot",
@@ -619,7 +634,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sierra",
@@ -634,7 +649,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "JP Morgan Chase",
@@ -649,7 +664,7 @@
       "title": "Software Engineer Intern - Immersion Program"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "JP Morgan Chase",
@@ -1232,36 +1247,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Full-Stack Web Developer Intern"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Technology-Group-Summer-2027-Internship---NJ_R26029748?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "United Parcel Service",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4aba69c24b01",
-      "jobType": "internship",
-      "location": "Mahwah, NJ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Information Technology Intern - Multiple Teams"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "United Parcel Service",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2b7bfd75bbe5",
-      "jobType": "internship",
-      "location": "Timonium, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Information Technology Intern - Multiple Teams"
     },
     {
       "age": "3d",
@@ -4849,7 +4834,7 @@
       "title": "Product Management Intern/Co-op - Multiple Teams"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4864,7 +4849,7 @@
       "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4879,7 +4864,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4894,7 +4879,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4909,7 +4894,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4924,7 +4909,7 @@
       "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4939,7 +4924,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4954,7 +4939,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -4969,7 +4954,7 @@
       "title": "Digital Product Management Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -5207,21 +5192,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern - Summer 2027"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "GE Aerospace",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6b06d412aa73",
-      "jobType": "internship",
-      "location": "Lynn, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Definition Engineer Intern - Designer"
     },
     {
       "age": "4d",
@@ -6754,7 +6724,7 @@
       "title": "Intern - Multiple Teams"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Trane Technologies",
@@ -6769,7 +6739,7 @@
       "title": "AI Intern - AI Product Management - AI Controls Integration"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.tranetechnologies.com/global/en/job/JR-7591?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Trane Technologies",
@@ -6784,7 +6754,7 @@
       "title": "AI & Analytics Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6799,7 +6769,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6814,7 +6784,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6829,7 +6799,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6844,7 +6814,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6859,7 +6829,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6874,7 +6844,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6889,7 +6859,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6904,7 +6874,7 @@
       "title": "Data Management Intern - Global Merchant & Network Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6919,7 +6889,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6934,7 +6904,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6949,7 +6919,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "American Express",
@@ -6964,7 +6934,7 @@
       "title": "Data Science Intern - Finance"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -6979,7 +6949,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "American Express",
@@ -6994,7 +6964,7 @@
       "title": "Data Science Intern - Finance \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -7009,7 +6979,7 @@
       "title": "Data Analytics Intern - US Consumer Services \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -7024,7 +6994,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -7039,7 +7009,7 @@
       "title": "Data Analytics Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -7054,7 +7024,7 @@
       "title": "Data Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "JP Morgan Chase",
@@ -7655,21 +7625,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Blackhawk Network Holdings",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e4b8e046948e",
-      "jobType": "internship",
-      "location": "Pleasanton, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Robert Bosch Venture Capital",
@@ -7682,21 +7637,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Calibration Process Data Science Intern - 8 months/40 hours per week"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000146526409?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Bosch Home Comfort",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2892b5b6a32b",
-      "jobType": "internship",
-      "location": "Farmington Hills, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Calibration Process Optimization Intern"
     },
     {
       "age": "2d",
@@ -7952,36 +7892,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Contracts Intern - Deals - Summer 2027"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6979749bb88b",
-      "jobType": "internship",
-      "location": "14 locationsBoston, MASeattle, WAHouston, TXWashington, DCSFLADallas, TXPhiladelphia, PARosemont, ILChicago, ILSilicon Valley, CANYCMinneapolis, MNAtlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Geographic Information Systems Intern"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Market-Information-and-Data-Analytics--MIDA----Business-Analytics----Intern---Summer-2027_757090WD?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "be160a0f632f",
-      "jobType": "internship",
-      "location": "4 locationsBoston, MATampa, FLRosemont, ILNYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Analytics Intern - Mida"
     },
     {
       "age": "3d",
@@ -12274,21 +12184,6 @@
       "title": "Trading Analyst Intern - Rates"
     },
     {
-      "age": "0d",
-      "applyUrl": "https://opco.hrmdirect.com/employment/job-opening.php?req=3799625&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Oppenheimer & Co. Inc.",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5fc7202ef363",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure"
-    },
-    {
       "age": "1d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8037860&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -12467,66 +12362,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling \ud83c\udf93"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370-1?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "BP",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0b9b8aaefdd7",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Finance & Risk Intern - Supply, Trading, & Shipping"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "BP",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2cc77a1fe62f",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Finance & Risk Intern - Supply, Trading, & Shipping"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "BP",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e189a8545cb8",
-      "jobType": "internship",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Finance & Risk Intern - Supply, Trading, & Shipping"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372-1?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "BP",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "59ae7f9a3898",
-      "jobType": "internship",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Finance & Risk Intern - Supply, Trading, & Shipping"
     },
     {
       "age": "3d",
@@ -14044,7 +13879,7 @@
       "title": "Electrical Engineer Intern - Summer 2027"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://eaton.eightfold.ai/careers/job/687238596754?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Eaton",
@@ -14059,7 +13894,7 @@
       "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://eaton.eightfold.ai/careers/job/687238596674?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Eaton",
@@ -14074,7 +13909,7 @@
       "title": "Electrical Engineer Intern/Co-op - Research & Development Engineering"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Emerson Electric",
@@ -15154,7 +14989,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
@@ -15529,7 +15364,7 @@
       "title": "Software Engineer 1 - CVN 21 Design"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sierra",
@@ -15544,7 +15379,7 @@
       "title": "Software Engineer New Grad - Agent"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765715002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -15559,7 +15394,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -15574,7 +15409,7 @@
       "title": "Software Developer New Grad - Integrations"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -18934,7 +18769,7 @@
       "title": "Junior Software Developer - Active TS/SCI with Poly Required"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765765002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "IXL Learning",
@@ -18947,21 +18782,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Product Manager New Grad"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "FLSmidth",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "447f667f733f",
-      "jobType": "full-time",
-      "location": "Chennai, Tamil Nadu, IndiaTucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Technical Product Development Engineer 1"
     },
     {
       "age": "24d",
@@ -46535,8 +46355,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1022,
-    "Simplify New Grad": 422,
+    "Simplify Internships": 1011,
+    "Simplify New Grad": 421,
     "SpeedyApply USA Internships": 369,
     "SpeedyApply USA New Grad": 699,
     "Vansh Internships": 214,
