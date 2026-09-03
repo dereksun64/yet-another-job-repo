@@ -1,7 +1,7 @@
 {
-  "count": 3158,
-  "fetchedAt": "2026-09-03T07:30:40.275296+00:00",
-  "generatedAt": "2026-09-03T07:06:01.070687+00:00",
+  "count": 3159,
+  "fetchedAt": "2026-09-03T07:35:26.347591+00:00",
+  "generatedAt": "2026-09-03T07:35:26.347591+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21365,6 +21365,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Anduril",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1325e998ec06",
+      "jobType": "full-time",
+      "location": "Costa Mesa, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Early Career Flight Software Engineer"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "General Dynamics UK",
@@ -21439,7 +21454,7 @@
       "title": "Open Source Software Developer New Grad - QNX Everywhere"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -47376,7 +47391,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1071,
-    "Simplify New Grad": 429,
+    "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 369,
     "SpeedyApply USA New Grad": 699,
     "Vansh Internships": 214,
