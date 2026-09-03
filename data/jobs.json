@@ -1,7 +1,7 @@
 {
-  "count": 3172,
-  "fetchedAt": "2026-09-03T11:05:22.789144+00:00",
-  "generatedAt": "2026-09-03T11:05:22.789144+00:00",
+  "count": 3171,
+  "fetchedAt": "2026-09-03T11:10:32.364707+00:00",
+  "generatedAt": "2026-09-03T11:10:32.364707+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16985,21 +16985,6 @@
     },
     {
       "age": "12d",
-      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "True Anomaly",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0143335770dd",
-      "jobType": "full-time",
-      "location": "Long Beach, CADenver, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 New Grad - QA"
-    },
-    {
-      "age": "12d",
       "applyUrl": "https://careers.garmin.com/jobs/19680?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -19382,21 +19367,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6bfafcde2203",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Test Solutions"
     },
     {
       "age": "4mo",
@@ -41929,6 +41899,21 @@
       "title": "Simulation Software Analyst / Engineer"
     },
     {
+      "age": "11d",
+      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+      "category": "Software Engineering",
+      "company": "True Anomaly",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0143335770dd",
+      "jobType": "full-time",
+      "location": "Denver, CO +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - QA - New Grad"
+    },
+    {
       "age": "12d",
       "applyUrl": "http://bespoketechinc.applytojob.com/apply/P7dQwZcnVc/ServiceNow-Developer",
       "category": "Other",
@@ -47586,7 +47571,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1076,
-    "Simplify New Grad": 437,
+    "Simplify New Grad": 435,
     "SpeedyApply USA Internships": 369,
     "SpeedyApply USA New Grad": 699,
     "Vansh Internships": 214,
