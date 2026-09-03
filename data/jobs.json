@@ -1,7 +1,7 @@
 {
-  "count": 3107,
-  "fetchedAt": "2026-09-03T04:30:42.342323+00:00",
-  "generatedAt": "2026-09-03T04:10:28.676006+00:00",
+  "count": 3109,
+  "fetchedAt": "2026-09-03T04:35:24.171106+00:00",
+  "generatedAt": "2026-09-03T04:35:24.171106+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16429,7 +16429,7 @@
       "title": "Software Engineer - Entry Level"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Amazon",
@@ -20750,6 +20750,21 @@
     },
     {
       "age": "2d",
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687238044194?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Eaton",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "264e8c4037e7",
+      "jobType": "full-time",
+      "location": "Moon Twp, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Engineering Technology Early Career Leadership Development Program - Embedded Systems - Research & Development Engineering"
+    },
+    {
+      "age": "2d",
       "applyUrl": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Vermeer",
@@ -20762,6 +20777,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1 - Engineering Development Program"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e943e59ee6ea",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital"
     },
     {
       "age": "2d",
@@ -46611,7 +46641,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1030,
-    "Simplify New Grad": 420,
+    "Simplify New Grad": 422,
     "SpeedyApply USA Internships": 369,
     "SpeedyApply USA New Grad": 699,
     "Vansh Internships": 214,
