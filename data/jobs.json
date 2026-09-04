@@ -1,7 +1,7 @@
 {
-  "count": 3168,
-  "fetchedAt": "2026-09-04T12:05:27.357069+00:00",
-  "generatedAt": "2026-09-04T12:05:27.357069+00:00",
+  "count": 3165,
+  "fetchedAt": "2026-09-04T12:10:27.314514+00:00",
+  "generatedAt": "2026-09-04T12:10:27.314514+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17210,21 +17210,6 @@
     },
     {
       "age": "17d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "daa4218628ad",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "17d",
       "applyUrl": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "LMI",
@@ -17702,21 +17687,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - Early Career"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Peraton",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2bce57dec7f1",
-      "jobType": "full-time",
-      "location": "Las Cruces, NM",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - Developer - Space Communications Program"
     },
     {
       "age": "1mo",
@@ -21587,21 +21557,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "FPGA Electrical Engineer 1"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Blackberry",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "152b2a8f6145",
-      "jobType": "full-time",
-      "location": "Ottawa, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Open Source Software Developer New Grad - QNX Everywhere"
     },
     {
       "age": "3d",
@@ -47526,7 +47481,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1082,
-    "Simplify New Grad": 431,
+    "Simplify New Grad": 428,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
     "Vansh Internships": 214,
