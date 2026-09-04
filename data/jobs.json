@@ -1,7 +1,7 @@
 {
-  "count": 3121,
-  "fetchedAt": "2026-09-04T02:05:24.802532+00:00",
-  "generatedAt": "2026-09-04T02:05:24.802532+00:00",
+  "count": 3119,
+  "fetchedAt": "2026-09-04T02:10:30.922443+00:00",
+  "generatedAt": "2026-09-04T02:10:30.922443+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16819,21 +16819,6 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "23d",
-      "applyUrl": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "ASSA ABLOY",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1b1d35eb0f2d",
-      "jobType": "full-time",
-      "location": "Mason City, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Engineer 1"
-    },
-    {
       "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5384983008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -20494,21 +20479,6 @@
       "title": "Quantitative Strategy Developer New Grad"
     },
     {
-      "age": "24d",
-      "applyUrl": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "ExxonMobil",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "576bc4439e39",
-      "jobType": "full-time",
-      "location": "Spring, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Trading New Grad - Trading Analytics - Trading Data, Analytics and AI"
-    },
-    {
       "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -20854,7 +20824,7 @@
       "title": "Junior Hardware Engineer Developer - FPGA"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Textron",
@@ -46821,7 +46791,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1038,
-    "Simplify New Grad": 427,
+    "Simplify New Grad": 425,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
     "Vansh Internships": 214,
