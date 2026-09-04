@@ -1,7 +1,7 @@
 {
-  "count": 3172,
-  "fetchedAt": "2026-09-04T07:30:38.242787+00:00",
-  "generatedAt": "2026-09-04T07:05:24.551059+00:00",
+  "count": 3173,
+  "fetchedAt": "2026-09-04T07:35:28.896035+00:00",
+  "generatedAt": "2026-09-04T07:35:28.896035+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21215,6 +21215,36 @@
     },
     {
       "age": "7mo",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "44836f84c749",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Applied Machine Learning Engineer \u2013 New College Grad 2026 - Circuit Design \ud83c\udf93"
+    },
+    {
+      "age": "7mo",
+      "applyUrl": "https://job-boards.greenhouse.io/perpay/jobs/4158121007?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Perpay",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2e2c53aa0ab8",
+      "jobType": "full-time",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Strategic Analyst"
+    },
+    {
+      "age": "7mo",
       "applyUrl": "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Brain Co.",
@@ -21317,21 +21347,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Quantitative Trader New Grad"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance New Grad Roles",
-      "company": "Alphataraxia",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "730be4557ff7",
-      "jobType": "full-time",
-      "location": "Washington, DC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Investment Analyst New Grad"
     },
     {
       "age": "1mo",
@@ -21694,7 +21709,7 @@
       "title": "Open Source Software Developer New Grad - QNX Everywhere"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -47586,7 +47601,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1087,
-    "Simplify New Grad": 430,
+    "Simplify New Grad": 431,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
     "Vansh Internships": 214,
