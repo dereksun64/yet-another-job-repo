@@ -1,7 +1,7 @@
 {
-  "count": 3211,
-  "fetchedAt": "2026-09-04T05:00:41.746986+00:00",
-  "generatedAt": "2026-09-04T04:40:30.170326+00:00",
+  "count": 3210,
+  "fetchedAt": "2026-09-04T05:05:22.695041+00:00",
+  "generatedAt": "2026-09-04T05:05:22.695041+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17134,7 +17134,7 @@
       "title": "Software Engineer 1 - CVN 21 Design"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sierra",
@@ -17149,7 +17149,7 @@
       "title": "Software Engineer New Grad - Agent"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765715002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -17164,7 +17164,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -17179,7 +17179,7 @@
       "title": "Software Developer New Grad - Integrations"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -20374,7 +20374,7 @@
       "title": "Digital Product Global Early Career Professional"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765765002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "IXL Learning",
@@ -22412,21 +22412,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Digital Hardware Engineer 1"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical--FPGA--Engineer-1--Onsite-_01862925?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "94af8b10cebb",
-      "jobType": "full-time",
-      "location": "Melbourne, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Electrical Engineer 1 - FPGA"
     },
     {
       "age": "4d",
@@ -48171,7 +48156,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1122,
-    "Simplify New Grad": 434,
+    "Simplify New Grad": 433,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
     "Vansh Internships": 214,
