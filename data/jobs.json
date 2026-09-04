@@ -1,7 +1,7 @@
 {
-  "count": 3227,
-  "fetchedAt": "2026-09-04T18:05:25.589596+00:00",
-  "generatedAt": "2026-09-04T18:05:25.589596+00:00",
+  "count": 3225,
+  "fetchedAt": "2026-09-04T18:10:31.804199+00:00",
+  "generatedAt": "2026-09-04T18:10:31.804199+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21890,21 +21890,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6179900004?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Two Six Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b7bd96b26bb8",
-      "jobType": "full-time",
-      "location": "Ellicott City, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Micron Technology",
@@ -22352,21 +22337,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad - Summer 2027"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cc952cd476b1",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Electrical Engineer 1 - ASIC/FPGA"
     },
     {
       "age": "15d",
@@ -48411,7 +48381,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1110,
-    "Simplify New Grad": 426,
+    "Simplify New Grad": 424,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
     "Vansh Internships": 214,
