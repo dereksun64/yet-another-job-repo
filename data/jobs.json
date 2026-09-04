@@ -1,7 +1,7 @@
 {
-  "count": 3229,
-  "fetchedAt": "2026-09-04T17:05:16.352282+00:00",
-  "generatedAt": "2026-09-04T17:05:16.352282+00:00",
+  "count": 3228,
+  "fetchedAt": "2026-09-04T17:10:31.401830+00:00",
+  "generatedAt": "2026-09-04T17:10:31.401830+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -20705,21 +20705,6 @@
     },
     {
       "age": "21d",
-      "applyUrl": "https://careers.jhuapl.edu/jobs/58164?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "90e26c7016f6",
-      "jobType": "full-time",
-      "location": "Laurel, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Systems Engineer/Analyst New Grad - Multi-Mission Planning Development \ud83c\udf93"
-    },
-    {
-      "age": "21d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Micron Technology",
@@ -22249,7 +22234,7 @@
       "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ASM International",
@@ -48441,7 +48426,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1111,
-    "Simplify New Grad": 427,
+    "Simplify New Grad": 426,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
     "Vansh Internships": 214,
