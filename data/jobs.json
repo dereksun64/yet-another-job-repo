@@ -1,7 +1,7 @@
 {
-  "count": 3171,
-  "fetchedAt": "2026-09-04T08:00:45.524084+00:00",
-  "generatedAt": "2026-09-04T07:40:29.716061+00:00",
+  "count": 3170,
+  "fetchedAt": "2026-09-04T08:05:26.252687+00:00",
+  "generatedAt": "2026-09-04T08:05:26.252687+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -799,7 +799,7 @@
       "title": "Software Development Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -814,7 +814,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -7309,7 +7309,7 @@
       "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -9062,36 +9062,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science Intern - Data Science/Analytics"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Protiviti",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2ae8cea8931e",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Consulting Intern - 2027"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Technology-Consulting-Intern---2027_JR-258798-2?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Protiviti",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4210c728d52c",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Consulting Intern"
     },
     {
       "age": "4d",
@@ -17209,7 +17179,7 @@
       "title": "Junior AI Software Engineer"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WOOD Consulting Services",
@@ -21572,6 +21542,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Micron Technology",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "43e1b875945f",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "New College Grad - Design Engineer - Circuit Design"
     },
     {
       "age": "1d",
@@ -47570,8 +47555,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1085,
-    "Simplify New Grad": 431,
+    "Simplify Internships": 1083,
+    "Simplify New Grad": 432,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
     "Vansh Internships": 214,
