@@ -1,7 +1,7 @@
 {
-  "count": 3169,
-  "fetchedAt": "2026-09-04T09:00:46.699002+00:00",
-  "generatedAt": "2026-09-04T08:35:24.936225+00:00",
+  "count": 3167,
+  "fetchedAt": "2026-09-04T09:05:24.191332+00:00",
+  "generatedAt": "2026-09-04T09:05:24.191332+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7610,21 +7610,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Corning",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "40f3fce017b9",
-      "jobType": "internship",
-      "location": "Wilmington, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Artificial Intelligence and Machine Learning Intern"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://apply.workable.com/twgai/j/772CD136FF/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "TWG Global",
@@ -9695,21 +9680,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0d69cb53a382",
-      "jobType": "internship",
-      "location": "Shiloh, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineering & Analytics Intern"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Finastra",
@@ -10907,21 +10877,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Generative AI Ph.D. Research Intern \ud83c\udf93"
-    },
-    {
-      "age": "16d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "549a11205a69",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Large Language Models Intern - Research \ud83c\udf93"
     },
     {
       "age": "16d",
@@ -15872,6 +15827,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computer Architecture and Systems Intern - Research \ud83c\udf93"
+    },
+    {
+      "age": "16d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "fb9ebb4c741f",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Developer and Performance Technology Intern"
     },
     {
       "age": "16d",
@@ -47540,7 +47510,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1082,
+    "Simplify Internships": 1080,
     "Simplify New Grad": 432,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
