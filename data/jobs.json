@@ -1,7 +1,7 @@
 {
   "count": 3136,
-  "fetchedAt": "2026-09-04T00:30:37.169744+00:00",
-  "generatedAt": "2026-09-04T00:10:33.053646+00:00",
+  "fetchedAt": "2026-09-04T00:35:19.466282+00:00",
+  "generatedAt": "2026-09-04T00:35:19.466282+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15890,21 +15890,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "71768df886ac",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer - AI/ML Applications"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/tebra/jobs/4726985005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tebra",
@@ -16444,7 +16429,7 @@
       "title": "Software Engineer 1 - Multiple Teams"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -19579,7 +19564,7 @@
       "title": "Sensor Systems/Data Analytics New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Marathon Petroleum",
@@ -20462,6 +20447,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Production Programmer \u2013 Entry Level SQL Developer"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 Snowflake",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "1b6f614fc3c0",
+      "jobType": "full-time",
+      "location": "Bellevue, WA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning \ud83c\udf93"
     },
     {
       "age": "2mo",
