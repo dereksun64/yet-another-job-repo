@@ -1,8 +1,23 @@
 {
-  "count": 3171,
-  "fetchedAt": "2026-09-04T07:00:45.042189+00:00",
-  "generatedAt": "2026-09-04T06:35:23.940869+00:00",
+  "count": 3172,
+  "fetchedAt": "2026-09-04T07:05:24.551059+00:00",
+  "generatedAt": "2026-09-04T07:05:24.551059+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Primer",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bf0985e29a02",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Full Stack"
+    },
     {
       "age": "0d",
       "applyUrl": "https://careers-wipfli.icims.com/jobs/8307/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
@@ -814,7 +829,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -47570,7 +47585,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1086,
+    "Simplify Internships": 1087,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 383,
     "SpeedyApply USA New Grad": 691,
