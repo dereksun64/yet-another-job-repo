@@ -1,7 +1,7 @@
 {
-  "count": 3287,
-  "fetchedAt": "2026-09-05T12:30:36.954127+00:00",
-  "generatedAt": "2026-09-05T12:10:30.681240+00:00",
+  "count": 3288,
+  "fetchedAt": "2026-09-05T12:35:24.893133+00:00",
+  "generatedAt": "2026-09-05T12:35:24.893133+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2792,6 +2792,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern - Software Engineering"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bd255dd77586",
+      "jobType": "internship",
+      "location": "Aurora, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "5d",
@@ -10610,6 +10625,21 @@
     },
     {
       "age": "9d",
+      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Booz Allen",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6b4a7095abbf",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Scientist Intern - University"
+    },
+    {
+      "age": "9d",
       "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Booz Allen",
@@ -10877,21 +10907,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Legal Operations Financial Data & AI Analytics Intern"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c7368aed2163",
-      "jobType": "internship",
-      "location": "Fond du Lac, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Power BI/Ops Analytics Co-op"
     },
     {
       "age": "11d",
@@ -49310,7 +49325,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1166,
+    "Simplify Internships": 1167,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
