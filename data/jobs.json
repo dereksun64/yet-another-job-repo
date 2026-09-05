@@ -1,7 +1,7 @@
 {
-  "count": 3307,
-  "fetchedAt": "2026-09-05T06:05:25.234494+00:00",
-  "generatedAt": "2026-09-05T05:38:17.213338+00:00",
+  "count": 3305,
+  "fetchedAt": "2026-09-05T06:10:31.346504+00:00",
+  "generatedAt": "2026-09-05T06:10:31.346504+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1438,21 +1438,6 @@
       "id": "22b23ad8f63b",
       "jobType": "internship",
       "location": "Augusta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "15a9addd597c",
-      "jobType": "internship",
-      "location": "Annapolis, MD",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -3827,21 +3812,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Android Application Developer Intern - Summer 2027"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mastercard",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "3414a9a09ad4",
-      "jobType": "internship",
-      "location": "4 locationsO'Fallon, MOArlington County, Arlington, VANYCAtlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "12d",
@@ -49610,7 +49580,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1187,
+    "Simplify Internships": 1185,
     "Simplify New Grad": 429,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
