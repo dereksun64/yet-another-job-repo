@@ -1,7 +1,7 @@
 {
-  "count": 3288,
-  "fetchedAt": "2026-09-05T13:00:43.195159+00:00",
-  "generatedAt": "2026-09-05T12:35:24.893133+00:00",
+  "count": 3287,
+  "fetchedAt": "2026-09-05T13:05:24.162770+00:00",
+  "generatedAt": "2026-09-05T13:05:24.162770+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10354,7 +10354,7 @@
       "title": "Engineering Intern - Positive Train Control - Paid"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -10880,21 +10880,6 @@
     },
     {
       "age": "11d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5ac70b15cb3e",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Analyst Intern - AI Innovation \ud83c\udf93"
-    },
-    {
-      "age": "11d",
       "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Cigna Group",
@@ -10907,6 +10892,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Legal Operations Financial Data & AI Analytics Intern"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c7368aed2163",
+      "jobType": "internship",
+      "location": "Fond du Lac, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Power BI/Ops Analytics Co-op"
     },
     {
       "age": "11d",
@@ -15857,21 +15857,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Platform Hardware and Systems Engineering Intern - Bachelor's"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 Intel",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "bachelors",
-      "id": "72c9fb6cea19",
-      "jobType": "internship",
-      "location": "5 locationsAustin, TXSanta Clara, CAHillsboro, ORFolsom, CAPhoenix, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Silicon Hardware Engineering Intern - Bachelor's"
     },
     {
       "age": "3d",
@@ -49325,7 +49310,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1167,
+    "Simplify Internships": 1166,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
