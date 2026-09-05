@@ -1,7 +1,7 @@
 {
-  "count": 3291,
-  "fetchedAt": "2026-09-05T07:00:47.380050+00:00",
-  "generatedAt": "2026-09-05T06:40:29.667738+00:00",
+  "count": 3292,
+  "fetchedAt": "2026-09-05T07:05:22.866269+00:00",
+  "generatedAt": "2026-09-05T07:05:22.866269+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17567,6 +17567,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "AiPrise",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6753ace70f43",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "0d",
@@ -49371,7 +49386,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1171,
-    "Simplify New Grad": 429,
+    "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
     "Vansh Internships": 214,
