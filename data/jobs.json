@@ -1,7 +1,7 @@
 {
   "count": 3289,
-  "fetchedAt": "2026-09-05T09:05:25.734893+00:00",
-  "generatedAt": "2026-09-05T08:35:21.084358+00:00",
+  "fetchedAt": "2026-09-05T09:10:31.429716+00:00",
+  "generatedAt": "2026-09-05T09:10:31.429716+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3080,21 +3080,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2d97ff70b1ee",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - University"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Booz Allen",
@@ -3167,6 +3152,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Performance Engineer Intern"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Auto-Owners Insurance",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fc55e5781a94",
+      "jobType": "internship",
+      "location": "Lansing, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Developer Intern - Summer 2027"
     },
     {
       "age": "9d",
@@ -9710,21 +9710,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e48217ee1931",
-      "jobType": "internship",
-      "location": "Fort Walton Beach, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Scientist Intern - University - Summer Games"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Booz Allen",
@@ -15182,6 +15167,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Physical Design Engineer Intern - BS"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "67d7de591710",
+      "jobType": "internship",
+      "location": "5 locationsMorrisville, NCAustin, TXSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design Verification Intern - BS - Summer 2027"
     },
     {
       "age": "1d",
