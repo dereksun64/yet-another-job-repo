@@ -1,7 +1,7 @@
 {
-  "count": 3292,
-  "fetchedAt": "2026-09-05T07:35:22.143679+00:00",
-  "generatedAt": "2026-09-05T07:35:22.143679+00:00",
+  "count": 3291,
+  "fetchedAt": "2026-09-05T07:40:31.968222+00:00",
+  "generatedAt": "2026-09-05T07:40:31.968222+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1399,7 +1399,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -8192,21 +8192,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ecosystem Analyst Intern - TikTok LIVE"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813483110?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Boston Scientific",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "73e97c814bde",
-      "jobType": "internship",
-      "location": "Arden Hills, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Algorithm & Data Science Intern - Interns/Graduates \ud83c\udf93"
     },
     {
       "age": "3d",
@@ -49385,7 +49370,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1171,
+    "Simplify Internships": 1170,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 423,
     "SpeedyApply USA New Grad": 685,
