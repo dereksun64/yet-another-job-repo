@@ -1,7 +1,7 @@
 {
-  "count": 3308,
-  "fetchedAt": "2026-09-06T11:30:36.980177+00:00",
-  "generatedAt": "2026-09-06T11:05:24.932535+00:00",
+  "count": 3307,
+  "fetchedAt": "2026-09-06T11:35:26.988755+00:00",
+  "generatedAt": "2026-09-06T11:35:26.988755+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2072,21 +2072,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computer Science Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "WhatNot",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d2aa98d1471a",
-      "jobType": "internship",
-      "location": "4 locationsSeattle, WASFLANYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "5d",
@@ -49625,7 +49610,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1173,
+    "Simplify Internships": 1172,
     "Simplify New Grad": 428,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
