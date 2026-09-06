@@ -1,7 +1,7 @@
 {
   "count": 3307,
-  "fetchedAt": "2026-09-06T09:00:44.050201+00:00",
-  "generatedAt": "2026-09-06T08:35:25.661912+00:00",
+  "fetchedAt": "2026-09-06T09:05:24.414666+00:00",
+  "generatedAt": "2026-09-06T09:05:24.414666+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -10442,21 +10442,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data and Analytics Intern"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "078c0fa091ff",
-      "jobType": "internship",
-      "location": "Champaign, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab"
     },
     {
       "age": "9d",
@@ -37970,6 +37955,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449",
+      "category": "Software Engineering",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "078c0fa091ff",
+      "jobType": "internship",
+      "location": "Champaign, IL",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineering Intern"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1",
       "category": "Software Engineering",
       "company": "Brunswick",
@@ -49610,7 +49610,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1172,
+    "Simplify Internships": 1171,
     "Simplify New Grad": 428,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
