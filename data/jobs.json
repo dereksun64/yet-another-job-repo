@@ -1,7 +1,7 @@
 {
-  "count": 3328,
-  "fetchedAt": "2026-09-06T06:00:46.361795+00:00",
-  "generatedAt": "2026-09-06T05:35:25.031394+00:00",
+  "count": 3327,
+  "fetchedAt": "2026-09-06T06:05:25.849571+00:00",
+  "generatedAt": "2026-09-06T06:05:25.849571+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -19069,7 +19069,7 @@
       "title": "Software Engineer New Grad - Algorithm \ud83c\udf93"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Composio",
@@ -23387,21 +23387,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Developer New Grad"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "L3Harris Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cf5d5e2f200f",
-      "jobType": "full-time",
-      "location": "Salt Lake City, UT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "6d",
@@ -49926,7 +49911,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1192,
-    "Simplify New Grad": 429,
+    "Simplify New Grad": 428,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
     "Vansh Internships": 214,
