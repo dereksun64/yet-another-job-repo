@@ -1,7 +1,7 @@
 {
   "count": 3303,
-  "fetchedAt": "2026-09-06T14:00:44.506122+00:00",
-  "generatedAt": "2026-09-06T13:35:23.026905+00:00",
+  "fetchedAt": "2026-09-06T14:05:23.285521+00:00",
+  "generatedAt": "2026-09-06T14:05:23.285521+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1354,7 +1354,7 @@
       "title": "Software Engineer Intern - Data Analytics"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Steel Dynamics",
@@ -3845,21 +3845,6 @@
     },
     {
       "age": "13d",
-      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Freddie Mac",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "ffb7ef915148",
-      "jobType": "internship",
-      "location": "McLean, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Multifamily Software Development Intern - Summer 2027"
-    },
-    {
-      "age": "13d",
       "applyUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DuCharme, McMillen & Associates",
@@ -4384,7 +4369,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -11465,6 +11450,21 @@
     },
     {
       "age": "16d",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "62f9ed95d6e6",
+      "jobType": "internship",
+      "location": "Phoenix, AZMinneapolis, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Government Health Consulting Informatics Intern - College Program"
+    },
+    {
+      "age": "16d",
       "applyUrl": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Blackstone",
@@ -12019,7 +12019,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -14777,21 +14777,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Commodities Trading Analyst Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Chicago Trading Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5f6b1155af35",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quant Trading Intern"
     },
     {
       "age": "1mo",
@@ -33515,6 +33500,21 @@
     },
     {
       "age": "41d",
+      "applyUrl": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=github-vansh-ouckah",
+      "category": "Quant",
+      "company": "Chicago Trading Company",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5f6b1155af35",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Quant Trading Intern"
+    },
+    {
+      "age": "41d",
       "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah",
       "category": "Legend",
       "company": "Appian",
@@ -49550,7 +49550,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1169,
+    "Simplify Internships": 1168,
     "Simplify New Grad": 427,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
