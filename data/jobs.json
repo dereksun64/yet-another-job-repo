@@ -1,7 +1,7 @@
 {
-  "count": 3307,
-  "fetchedAt": "2026-09-06T12:30:36.395268+00:00",
-  "generatedAt": "2026-09-06T12:05:25.965167+00:00",
+  "count": 3306,
+  "fetchedAt": "2026-09-06T12:35:26.706063+00:00",
+  "generatedAt": "2026-09-06T12:35:26.706063+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -12545,21 +12545,6 @@
     },
     {
       "age": "26d",
-      "applyUrl": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Montenson",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aa5fe4da2f69",
-      "jobType": "internship",
-      "location": "Minnesota",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Analytics Intern - Insights"
-    },
-    {
-      "age": "26d",
       "applyUrl": "https://lifeattiktok.com/search/7671232204182276405?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 TikTok",
@@ -17300,6 +17285,21 @@
     },
     {
       "age": "18d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "33e2c4edac76",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Hardware Design for Test Intern - DFT \ud83c\udf93"
+    },
+    {
+      "age": "18d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -17702,21 +17702,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - Early Careers"
-    },
-    {
-      "age": "3d",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813508995?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Boston Scientific",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "01f184618569",
-      "jobType": "full-time",
-      "location": "Arden Hills, MN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Engineering"
     },
     {
       "age": "3d",
@@ -49611,7 +49596,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1172,
-    "Simplify New Grad": 428,
+    "Simplify New Grad": 427,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
     "Vansh Internships": 214,
