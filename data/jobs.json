@@ -1,7 +1,7 @@
 {
-  "count": 3308,
-  "fetchedAt": "2026-09-06T10:30:36.467401+00:00",
-  "generatedAt": "2026-09-06T10:05:21.849967+00:00",
+  "count": 3309,
+  "fetchedAt": "2026-09-06T10:35:24.251696+00:00",
+  "generatedAt": "2026-09-06T10:35:24.251696+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -9392,6 +9392,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Insights & Analytics Intern - BI&A LDP"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Statistics---Sophomore-Intern_R-0000033027?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "The Federal Reserve System",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b8de2da76ed0",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Statistics Intern"
     },
     {
       "age": "5d",
@@ -49625,7 +49640,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1173,
+    "Simplify Internships": 1174,
     "Simplify New Grad": 428,
     "SpeedyApply USA Internships": 442,
     "SpeedyApply USA New Grad": 685,
