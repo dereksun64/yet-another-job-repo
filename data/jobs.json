@@ -1,7 +1,7 @@
 {
-  "count": 3359,
-  "fetchedAt": "2026-09-07T17:05:25.276386+00:00",
-  "generatedAt": "2026-09-07T17:05:25.276386+00:00",
+  "count": 3358,
+  "fetchedAt": "2026-09-07T17:10:30.570009+00:00",
+  "generatedAt": "2026-09-07T17:10:30.570009+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -18484,21 +18484,6 @@
       "title": "Hardware Engineer Intern"
     },
     {
-      "age": "1d",
-      "applyUrl": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Product-Engineer--New-Grad-_R-0000187092?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Royal Bank of Canada",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f16a5ad4f222",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Engineer New Grad"
-    },
-    {
       "age": "2d",
       "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -24034,7 +24019,7 @@
       "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ASM International",
@@ -50391,7 +50376,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1232,
-    "Simplify New Grad": 424,
+    "Simplify New Grad": 423,
     "SpeedyApply USA Internships": 439,
     "SpeedyApply USA New Grad": 684,
     "Vansh Internships": 214,
