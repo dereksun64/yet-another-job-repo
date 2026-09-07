@@ -1,7 +1,7 @@
 {
-  "count": 3327,
-  "fetchedAt": "2026-09-07T10:30:38.763300+00:00",
-  "generatedAt": "2026-09-07T10:05:22.872699+00:00",
+  "count": 3320,
+  "fetchedAt": "2026-09-07T10:35:22.567955+00:00",
+  "generatedAt": "2026-09-07T10:35:22.567955+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1498,21 +1498,6 @@
       "id": "22b23ad8f63b",
       "jobType": "internship",
       "location": "Augusta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "27341c080019",
-      "jobType": "internship",
-      "location": "Linthicum Heights, MD",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -10655,21 +10640,6 @@
     },
     {
       "age": "9d",
-      "applyUrl": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Charles Schwab",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "5934a0fe0f25",
-      "jobType": "internship",
-      "location": "Austin, TXWestlake, TXSouthlake, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineering Intern - Data Engineering"
-    },
-    {
-      "age": "9d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Vertiv",
@@ -14299,21 +14269,6 @@
       "title": "Quantitative Research Analyst Intern - Portfolio Management \ud83c\udf93"
     },
     {
-      "age": "7d",
-      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Manulife Financial",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0965a64d0961",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling \ud83c\udf93"
-    },
-    {
       "age": "9d",
       "applyUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -15695,21 +15650,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e06abc4ff8fc",
-      "jobType": "internship",
-      "location": "5 locationsMorrisville, NCAustin, TXSanta Clara, CABoise, IDWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Design Verification Intern - MS \ud83c\udf93"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Marvell",
@@ -15722,6 +15662,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Design Verification Intern - BS"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5d8f5fd48096",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Firmware Engineer Intern \ud83c\udf93"
     },
     {
       "age": "3d",
@@ -17585,21 +17540,6 @@
     },
     {
       "age": "19d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "3eef2631f659",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computer Architecture and Systems Intern - Research \ud83c\udf93"
-    },
-    {
-      "age": "19d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -17672,21 +17612,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware Design for Test Intern - DFT \ud83c\udf93"
-    },
-    {
-      "age": "19d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "5ae6548a26dc",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Mixed Signal Design Intern"
     },
     {
       "age": "19d",
@@ -18125,21 +18050,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R3637-26?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Microchip Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "53c1516eb586",
-      "jobType": "full-time",
-      "location": "Chandler, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Engineer 1 - Software Development"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Materials",
@@ -18317,21 +18227,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Huntington Ingalls Industries",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0260d60210d7",
-      "jobType": "full-time",
-      "location": "Newport News, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - CVN 21 Design"
     },
     {
       "age": "6d",
@@ -49910,8 +49805,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1197,
-    "Simplify New Grad": 427,
+    "Simplify Internships": 1192,
+    "Simplify New Grad": 425,
     "SpeedyApply USA Internships": 439,
     "SpeedyApply USA New Grad": 684,
     "Vansh Internships": 214,
