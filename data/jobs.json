@@ -1,7 +1,7 @@
 {
-  "count": 3343,
-  "fetchedAt": "2026-09-08T07:30:43.383635+00:00",
-  "generatedAt": "2026-09-08T06:35:27.081710+00:00",
+  "count": 3344,
+  "fetchedAt": "2026-09-08T07:35:24.261518+00:00",
+  "generatedAt": "2026-09-08T07:35:24.261518+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1534,7 +1534,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -1937,21 +1937,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Compiler Engineer Intern/Co-op \ud83c\udf93"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 Microsoft",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "cda2653ce895",
-      "jobType": "internship",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - AI and ML"
     },
     {
       "age": "6d",
@@ -18319,7 +18304,22 @@
       "title": "Hardware Engineer Intern"
     },
     {
-      "age": "2d",
+      "age": "0d",
+      "applyUrl": "https://nexthopai.bamboohr.com/careers/107/?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Nexthop.ai",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4fc58b9fd0a1",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Hardware Diagnostics"
+    },
+    {
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AiPrise",
@@ -23599,7 +23599,7 @@
       "title": "FPGA Electrical Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -35702,6 +35702,21 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "category": "Software Engineering",
+      "company": "Microsoft",
+      "companyTier": "Tier 1",
+      "degreeLevel": "bachelors",
+      "id": "cda2653ce895",
+      "jobType": "internship",
+      "location": "Boston, MA",
+      "salary": "$52/hr",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Boston - Massachusetts"
     },
     {
       "age": "6d",
@@ -50150,8 +50165,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1221,
-    "Simplify New Grad": 419,
+    "Simplify Internships": 1220,
+    "Simplify New Grad": 420,
     "SpeedyApply USA Internships": 439,
     "SpeedyApply USA New Grad": 684,
     "Vansh Internships": 214,
