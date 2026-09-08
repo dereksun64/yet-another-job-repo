@@ -1,7 +1,7 @@
 {
-  "count": 3354,
-  "fetchedAt": "2026-09-08T14:35:26.073977+00:00",
-  "generatedAt": "2026-09-08T14:35:26.073977+00:00",
+  "count": 3355,
+  "fetchedAt": "2026-09-08T14:40:33.773864+00:00",
+  "generatedAt": "2026-09-08T14:40:33.773864+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -20930,6 +20930,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Huntington Ingalls Industries",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b7e0f5603dbf",
+      "jobType": "full-time",
+      "location": "Newport News, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -21424,7 +21439,7 @@
       "title": "Full-Stack Engineer \ud83d\udec2"
     },
     {
-      "age": "2mo",
+      "age": "3mo",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -22009,6 +22024,21 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "ID.me",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6e8dc37fe0fc",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Scientist New Grad \ud83c\udf93"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -22442,21 +22472,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data & Analytics Associate - Early Careers"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000143599414?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Wavestone",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8c70b0a94d8d",
-      "jobType": "full-time",
-      "location": "Pittsburgh, PA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior AI Engineer - AI & Data Team"
     },
     {
       "age": "25d",
@@ -23494,7 +23509,7 @@
       "title": "Junior Quantitative Developer & Strategist"
     },
     {
-      "age": "1mo",
+      "age": "2mo",
       "applyUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Citadel Securities",
@@ -50316,7 +50331,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1228,
-    "Simplify New Grad": 420,
+    "Simplify New Grad": 421,
     "SpeedyApply USA Internships": 439,
     "SpeedyApply USA New Grad": 684,
     "Vansh Internships": 214,
