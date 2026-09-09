@@ -1,8 +1,23 @@
 {
-  "count": 3473,
-  "fetchedAt": "2026-09-09T02:00:43.995440+00:00",
-  "generatedAt": "2026-09-09T01:40:30.593068+00:00",
+  "count": 3479,
+  "fetchedAt": "2026-09-09T02:05:23.325627+00:00",
+  "generatedAt": "2026-09-09T02:05:23.325627+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Gallup",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6c6b7e2fca69",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
     {
       "age": "0d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8168315&utm_source=Simplify&ref=Simplify",
@@ -2134,7 +2149,7 @@
       "title": "Physics Engine Development Engineer Intern - Optimus"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Textron",
@@ -3649,7 +3664,7 @@
       "title": "Digital Experience Information Systems Intern"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Northwood Space",
@@ -4624,7 +4639,7 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -4639,7 +4654,7 @@
       "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://lifeattiktok.com/search/7672926068681951493?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -4654,7 +4669,7 @@
       "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -4669,7 +4684,7 @@
       "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -5314,7 +5329,7 @@
       "title": "Software Engineer Intern - NHRC"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -5329,7 +5344,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DV Trading",
@@ -8255,6 +8270,81 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395491009?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Gallup",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bb301e1beb3b",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393289009?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Gallup",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0c339b9eace3",
+      "jobType": "internship",
+      "location": "Omaha, NE",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Fintech Intern - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395454009?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Gallup",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "fcde9ba0a1e2",
+      "jobType": "internship",
+      "location": "Omaha, NE",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineering Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395921009?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Gallup",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4f2a0e5580a",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Artificial Intelligence/Machine Learning Research Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Allen Control Systems",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ea615c94164f",
+      "jobType": "internship",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Systems Engineering Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8175517&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Coinbase",
@@ -9424,7 +9514,7 @@
       "title": "Data and Technology Intern - Multiple Teams"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Skydio",
@@ -10024,7 +10114,7 @@
       "title": "Ecosystem Analyst Intern - TikTok LIVE"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Textron",
@@ -10039,7 +10129,7 @@
       "title": "Data Product & Analytics Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Textron",
@@ -19024,7 +19114,7 @@
       "title": "Software Controls Engineer Intern"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Northwood Space",
@@ -52100,7 +52190,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1332,
+    "Simplify Internships": 1338,
     "Simplify New Grad": 434,
     "SpeedyApply USA Internships": 443,
     "SpeedyApply USA New Grad": 681,
