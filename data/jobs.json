@@ -1,7 +1,7 @@
 {
-  "count": 3482,
-  "fetchedAt": "2026-09-09T15:00:48.608848+00:00",
-  "generatedAt": "2026-09-09T14:35:28.180054+00:00",
+  "count": 3484,
+  "fetchedAt": "2026-09-09T15:05:28.100979+00:00",
+  "generatedAt": "2026-09-09T15:05:28.100979+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21094,7 +21094,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -24245,6 +24245,21 @@
     },
     {
       "age": "19d",
+      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "LPL Financial Holdings",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "33c32dbaca45",
+      "jobType": "full-time",
+      "location": "Fort Mill, SCCharlotte, NC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Analytics New Grad - Multiple Teams"
+    },
+    {
+      "age": "19d",
       "applyUrl": "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "National Software Management",
@@ -25517,6 +25532,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Fixed Income Trading Analyst - Early Careers"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "8d6d4aaf7a8a",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
     },
     {
       "age": "1d",
@@ -52236,7 +52266,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1343,
-    "Simplify New Grad": 432,
+    "Simplify New Grad": 434,
     "SpeedyApply USA Internships": 443,
     "SpeedyApply USA New Grad": 681,
     "Vansh Internships": 214,
