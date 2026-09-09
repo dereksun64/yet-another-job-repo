@@ -1,7 +1,7 @@
 {
-  "count": 3527,
-  "fetchedAt": "2026-09-09T20:30:41.823450+00:00",
-  "generatedAt": "2026-09-09T20:05:26.306490+00:00",
+  "count": 3525,
+  "fetchedAt": "2026-09-09T20:35:26.806062+00:00",
+  "generatedAt": "2026-09-09T20:35:26.806062+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21214,7 +21214,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SteerBridge",
@@ -25010,21 +25010,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "\ud83d\udd25 Crowdstrike",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9d0fe42cb64d",
-      "jobType": "full-time",
-      "location": "Sunnyvale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Engineer 1 New Grad - Data Scientist \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Associate--Analytics---Early-Career-Development-Program_R26_000512?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Sallie Mae",
@@ -26537,21 +26522,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Product-Test-Engineer--Entry-Level_R-10063911-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "NXP Semiconductors",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9dc732bf4619",
-      "jobType": "full-time",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Product/Test Engineer - Product/Test"
     },
     {
       "age": "2mo",
@@ -52911,7 +52881,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1352,
-    "Simplify New Grad": 432,
+    "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
     "Vansh Internships": 214,
