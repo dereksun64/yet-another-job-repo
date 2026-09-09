@@ -1,7 +1,7 @@
 {
-  "count": 3531,
-  "fetchedAt": "2026-09-09T17:00:46.509229+00:00",
-  "generatedAt": "2026-09-09T16:35:26.657285+00:00",
+  "count": 3530,
+  "fetchedAt": "2026-09-09T17:05:24.568233+00:00",
+  "generatedAt": "2026-09-09T17:05:24.568233+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -829,7 +829,7 @@
       "title": "Application Engineering Intern - Summer 2027"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8106224&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Dropbox",
@@ -2240,21 +2240,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Steel Dynamics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ca4dcee9d551",
-      "jobType": "internship",
-      "location": "Fort Wayne, IN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -2614,7 +2599,7 @@
       "title": "Software Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -11224,7 +11209,7 @@
       "title": "Data Engineer Intern - Summer 2027"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://careers.united.com/us/en/job/WHQ00026619?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "United Airlines",
@@ -52970,7 +52955,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1355,
+    "Simplify Internships": 1354,
     "Simplify New Grad": 434,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
