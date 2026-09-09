@@ -1,7 +1,7 @@
 {
   "count": 3525,
-  "fetchedAt": "2026-09-09T21:00:48.618973+00:00",
-  "generatedAt": "2026-09-09T20:40:30.940921+00:00",
+  "fetchedAt": "2026-09-09T21:05:27.782335+00:00",
+  "generatedAt": "2026-09-09T21:05:27.782335+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6440,21 +6440,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Virtu Financial",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "31d12d539408",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Frontend Developer Internship"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "PDT Partners",
@@ -7504,7 +7489,7 @@
       "title": "Product Management Intern - Controls Lifecare Services"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Schroders",
@@ -12664,7 +12649,7 @@
       "title": "Service Technology Research Intern - Summer 2027 \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -16399,7 +16384,7 @@
       "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Schroders",
@@ -21304,7 +21289,7 @@
       "title": "Software Engineer - Entry Level"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -36272,6 +36257,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Full-Stack Software Engineer Intern"
+    },
+    {
+      "age": "41d",
+      "applyUrl": "https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "Virtu Financial",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "31d12d539408",
+      "jobType": "internship",
+      "location": "New York, NY",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Frontend & User Experience Intern"
     },
     {
       "age": "41d",
@@ -52880,7 +52880,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1352,
+    "Simplify Internships": 1351,
     "Simplify New Grad": 430,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
