@@ -1,8 +1,23 @@
 {
   "count": 3455,
-  "fetchedAt": "2026-09-09T07:00:48.899747+00:00",
-  "generatedAt": "2026-09-09T06:40:29.590141+00:00",
+  "fetchedAt": "2026-09-09T07:05:26.318453+00:00",
+  "generatedAt": "2026-09-09T07:05:26.318453+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "K2 Space",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "254167509694",
+      "jobType": "internship",
+      "location": "LA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Simulation Software Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
@@ -2119,7 +2134,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -15872,21 +15887,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Public Markets Quants Intern - Quants (Public Markets)"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Buffalo---USA--2027_26990039?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Citi",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e3c4d1d53a00",
-      "jobType": "internship",
-      "location": "Getzville, University at Buffalo, NY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Risk Management Summer Analyst Intern - Functions \ud83c\udf93"
     },
     {
       "age": "13d",
