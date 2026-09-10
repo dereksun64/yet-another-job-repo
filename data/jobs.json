@@ -1,7 +1,7 @@
 {
-  "count": 3632,
-  "fetchedAt": "2026-09-10T12:30:42.099694+00:00",
-  "generatedAt": "2026-09-10T12:05:29.757619+00:00",
+  "count": 3633,
+  "fetchedAt": "2026-09-10T12:35:25.589783+00:00",
+  "generatedAt": "2026-09-10T12:35:25.589783+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15305,6 +15305,21 @@
     },
     {
       "age": "22d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "1e81dfdeda95",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Deep Learning Computer Architecture Intern"
+    },
+    {
+      "age": "22d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -20642,6 +20657,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Software - Summer 2027"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Brunswick",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4d210cd0d4c6",
+      "jobType": "internship",
+      "location": "Fond du Lac, WI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Controls Engineer Intern"
     },
     {
       "age": "12d",
@@ -42650,21 +42680,6 @@
     },
     {
       "age": "9d",
-      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436",
-      "category": "Software Engineering",
-      "company": "Brunswick",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4d210cd0d4c6",
-      "jobType": "internship",
-      "location": "Fond du Lac, WI",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Mercury Marine: Software Controls Engineering Intern"
-    },
-    {
-      "age": "9d",
       "applyUrl": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782",
       "category": "Software Engineering",
       "company": "CIBC",
@@ -54485,7 +54500,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1440,
+    "Simplify Internships": 1442,
     "Simplify New Grad": 447,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
