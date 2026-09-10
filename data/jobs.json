@@ -1,7 +1,7 @@
 {
-  "count": 3632,
-  "fetchedAt": "2026-09-10T11:30:46.125615+00:00",
-  "generatedAt": "2026-09-10T11:05:28.656614+00:00",
+  "count": 3633,
+  "fetchedAt": "2026-09-10T11:35:26.166857+00:00",
+  "generatedAt": "2026-09-10T11:35:26.166857+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17704,21 +17704,6 @@
       "title": "Arbitrage Research Summer Analyst Intern - AQR Arbitrage"
     },
     {
-      "age": "17d",
-      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Freddie Mac",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "ec5b0365f346",
-      "jobType": "internship",
-      "location": "McLean, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Risk Management Intern"
-    },
-    {
       "age": "19d",
       "applyUrl": "https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -18977,6 +18962,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "FPGA Electrical Design Engineer Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f63f1eaf29c4",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Co-op"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3e7eda253b8a",
+      "jobType": "internship",
+      "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital Design Electrical Engineer Intern - Summer 2027"
     },
     {
       "age": "2d",
@@ -54485,7 +54500,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1441,
+    "Simplify Internships": 1442,
     "Simplify New Grad": 447,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
