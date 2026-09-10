@@ -1,7 +1,7 @@
 {
   "count": 3655,
-  "fetchedAt": "2026-09-10T04:00:45.653600+00:00",
-  "generatedAt": "2026-09-10T03:35:22.368117+00:00",
+  "fetchedAt": "2026-09-10T04:05:23.391127+00:00",
+  "generatedAt": "2026-09-10T04:05:23.391127+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2329,7 +2329,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hadrian",
@@ -2944,7 +2944,7 @@
       "title": "Mission Systems Engineering Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 Tesla",
@@ -11419,7 +11419,7 @@
       "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Hadrian",
@@ -19205,21 +19205,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CHAOS Industries",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "badb8032ac73",
-      "jobType": "internship",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Bedrock Robotics",
@@ -20074,7 +20059,7 @@
       "title": "Hardware Design Verification Engineer Intern/Co-op"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Apex",
@@ -40280,6 +40265,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007",
+      "category": "Software Engineering",
+      "company": "CHAOS Industries",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "badb8032ac73",
+      "jobType": "internship",
+      "location": "Los Angeles, CA +1",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "2027 Summer- Software Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
       "category": "Software Engineering",
       "company": "Coinbase",
@@ -54830,7 +54830,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1467,
+    "Simplify Internships": 1466,
     "Simplify New Grad": 445,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
