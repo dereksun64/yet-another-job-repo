@@ -1,7 +1,7 @@
 {
-  "count": 3655,
-  "fetchedAt": "2026-09-10T14:35:24.351472+00:00",
-  "generatedAt": "2026-09-10T14:35:24.351472+00:00",
+  "count": 3656,
+  "fetchedAt": "2026-09-10T14:40:35.114111+00:00",
+  "generatedAt": "2026-09-10T14:40:35.114111+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -25834,7 +25834,22 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
-      "age": "1d",
+      "age": "0d",
+      "applyUrl": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Analyst_R-4351?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Norton Rose Fulbright",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "35da1dc21113",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Data Analyst"
+    },
+    {
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "ID.me",
@@ -26929,7 +26944,7 @@
       "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning \ud83c\udf93"
     },
     {
-      "age": "2mo",
+      "age": "3mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 NVIDIA",
@@ -54831,7 +54846,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1465,
-    "Simplify New Grad": 446,
+    "Simplify New Grad": 447,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
     "Vansh Internships": 214,
