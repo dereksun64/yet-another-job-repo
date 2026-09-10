@@ -1,7 +1,7 @@
 {
-  "count": 3638,
-  "fetchedAt": "2026-09-10T10:30:44.442701+00:00",
-  "generatedAt": "2026-09-10T10:10:29.341464+00:00",
+  "count": 3635,
+  "fetchedAt": "2026-09-10T10:35:23.931208+00:00",
+  "generatedAt": "2026-09-10T10:35:23.931208+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12140,21 +12140,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://careers.united.com/us/en/job/WHQ00026613?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "United Airlines",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6bef61ca5141",
-      "jobType": "internship",
-      "location": "Arlington Heights, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://corningjobs.corning.com/job/Glendale-Digital-&-IT-Intern,-Analyst,-Phoenix-Manufacturing-Summer-2027-AZ-85301/1425543900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Corning",
@@ -17345,6 +17330,21 @@
     },
     {
       "age": "7d",
+      "applyUrl": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "InfiniteQuant",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "42a46806cd6b",
+      "jobType": "internship",
+      "location": "Dubai - United Arab EmiratesNYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Developer Intern"
+    },
+    {
+      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6163540004?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Garda Capital Partners",
@@ -17689,21 +17689,6 @@
       "title": "Arbitrage Research Summer Analyst Intern - AQR Arbitrage"
     },
     {
-      "age": "16d",
-      "applyUrl": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "InfiniteQuant",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2cb3cb35d8bf",
-      "jobType": "internship",
-      "location": "Dubai - United Arab EmiratesNYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Developer Internship - Summer 2027"
-    },
-    {
       "age": "17d",
       "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -17855,21 +17840,6 @@
     },
     {
       "age": "26d",
-      "applyUrl": "https://higher.gs.com/roles/171550?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "7bb41ed1a967",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Analyst Intern"
-    },
-    {
-      "age": "26d",
       "applyUrl": "https://higher.gs.com/roles/171548?type=students&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Goldman Sachs",
@@ -17882,21 +17852,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://higher.gs.com/roles/171552?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c7829ed8633f",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Associate Intern \ud83c\udf93"
     },
     {
       "age": "26d",
@@ -54575,7 +54530,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1447,
+    "Simplify Internships": 1444,
     "Simplify New Grad": 447,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
