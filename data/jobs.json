@@ -1,7 +1,7 @@
 {
-  "count": 3630,
-  "fetchedAt": "2026-09-10T07:00:47.754660+00:00",
-  "generatedAt": "2026-09-10T06:35:25.756842+00:00",
+  "count": 3631,
+  "fetchedAt": "2026-09-10T07:05:26.012927+00:00",
+  "generatedAt": "2026-09-10T07:05:26.012927+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21904,7 +21904,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AiPrise",
@@ -23027,6 +23027,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer 1"
+    },
+    {
+      "age": "28d",
+      "applyUrl": "https://cdcn.avature.net/careers/JobDetail/8611?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Consumer Direct Care Network",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f4e223fdb86a",
+      "jobType": "full-time",
+      "location": "Missoula, MT",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "28d",
@@ -54456,7 +54471,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1439,
-    "Simplify New Grad": 447,
+    "Simplify New Grad": 448,
     "SpeedyApply USA Internships": 485,
     "SpeedyApply USA New Grad": 681,
     "Vansh Internships": 214,
