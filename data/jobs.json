@@ -1,7 +1,7 @@
 {
-  "count": 3753,
-  "fetchedAt": "2026-09-11T13:00:47.902134+00:00",
-  "generatedAt": "2026-09-11T12:35:28.093000+00:00",
+  "count": 3752,
+  "fetchedAt": "2026-09-11T13:05:34.586323+00:00",
+  "generatedAt": "2026-09-11T13:05:34.586323+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14674,7 +14674,7 @@
       "title": "Engineering Intern - Positive Train Control - Paid"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -16007,6 +16007,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Robotics Intern - Ph.D. Research \ud83c\udf93"
+    },
+    {
+      "age": "23d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "98f84afba9f2",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Ph.D. Research Autonomous Vehicles Intern \ud83c\udf93"
     },
     {
       "age": "23d",
@@ -20030,21 +20045,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8e9f2c88113c",
-      "jobType": "internship",
-      "location": "Burlington, VT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "GE Vernova",
@@ -20792,21 +20792,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2ac5ee50d558",
-      "jobType": "internship",
-      "location": "Santa Clara, CABurlington, VT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analog Design Intern - MS \ud83c\udf93"
     },
     {
       "age": "7d",
@@ -56300,7 +56285,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1525,
+    "Simplify Internships": 1524,
     "Simplify New Grad": 451,
     "SpeedyApply USA Internships": 511,
     "SpeedyApply USA New Grad": 694,
