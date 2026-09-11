@@ -1,7 +1,7 @@
 {
-  "count": 3754,
-  "fetchedAt": "2026-09-11T09:01:08.938242+00:00",
-  "generatedAt": "2026-09-11T08:40:31.134693+00:00",
+  "count": 3753,
+  "fetchedAt": "2026-09-11T09:05:31.194847+00:00",
+  "generatedAt": "2026-09-11T09:05:31.194847+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8237,6 +8237,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern - Risk Management"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://careers.united.com/us/en/job/WHQ00026534?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcf1 Product Management Internship Roles",
+      "company": "United Airlines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "89bfcfe26278",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Onboard Experience Intern - Summer 2027"
     },
     {
       "age": "9d",
@@ -18559,21 +18574,6 @@
       "title": "Quantitative Strategy Developer Intern"
     },
     {
-      "age": "21d",
-      "applyUrl": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Models-and-Asset-Liability--May-2027---12-months-_7196?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Ontario Teachers' Pension Plan",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "54a7c44d03f9",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Risk Intern - Models and Asset Liability"
-    },
-    {
       "age": "24d",
       "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
@@ -28877,21 +28877,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Test Engineer New Grad"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "Boeing",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bde831b16262",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics"
     },
     {
       "age": "14d",
@@ -56316,7 +56301,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1523,
-    "Simplify New Grad": 454,
+    "Simplify New Grad": 453,
     "SpeedyApply USA Internships": 511,
     "SpeedyApply USA New Grad": 694,
     "Vansh Internships": 214,
