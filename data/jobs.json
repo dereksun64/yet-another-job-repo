@@ -1,7 +1,7 @@
 {
-  "count": 3739,
-  "fetchedAt": "2026-09-11T14:35:37.718162+00:00",
-  "generatedAt": "2026-09-11T14:35:37.718162+00:00",
+  "count": 3740,
+  "fetchedAt": "2026-09-11T14:40:32.700498+00:00",
+  "generatedAt": "2026-09-11T14:40:32.700498+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -26600,6 +26600,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Wavestone",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7984542a511e",
+      "jobType": "full-time",
+      "location": "Pittsburgh, PA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior AI Engineer - AI & Data Team"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Eikon Therapeutics",
@@ -26644,7 +26659,7 @@
       "title": "Junior Data Analyst"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "ID.me",
@@ -56091,7 +56106,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1511,
-    "Simplify New Grad": 451,
+    "Simplify New Grad": 452,
     "SpeedyApply USA Internships": 511,
     "SpeedyApply USA New Grad": 694,
     "Vansh Internships": 214,
