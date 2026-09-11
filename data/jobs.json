@@ -1,7 +1,7 @@
 {
-  "count": 3751,
-  "fetchedAt": "2026-09-11T14:00:47.942499+00:00",
-  "generatedAt": "2026-09-11T13:33:18.901356+00:00",
+  "count": 3753,
+  "fetchedAt": "2026-09-11T14:05:26.904363+00:00",
+  "generatedAt": "2026-09-11T14:05:26.904363+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6094,7 +6094,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -16264,7 +16264,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -20705,6 +20705,21 @@
     },
     {
       "age": "7d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e06abc4ff8fc",
+      "jobType": "internship",
+      "location": "5 locationsMorrisville, NCAustin, TXSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design Verification Intern - MS \ud83c\udf93"
+    },
+    {
+      "age": "7d",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Marvell",
@@ -20732,6 +20747,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d7b154cdbc4b",
+      "jobType": "internship",
+      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern"
     },
     {
       "age": "7d",
@@ -56270,7 +56300,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1523,
+    "Simplify Internships": 1525,
     "Simplify New Grad": 451,
     "SpeedyApply USA Internships": 511,
     "SpeedyApply USA New Grad": 694,
