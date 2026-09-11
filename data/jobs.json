@@ -1,7 +1,7 @@
 {
-  "count": 3755,
-  "fetchedAt": "2026-09-11T11:30:43.535835+00:00",
-  "generatedAt": "2026-09-11T11:05:27.052720+00:00",
+  "count": 3753,
+  "fetchedAt": "2026-09-11T11:35:32.144138+00:00",
+  "generatedAt": "2026-09-11T11:35:32.144138+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -992,21 +992,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Ovintiv",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "760def2e4cf5",
-      "jobType": "internship",
-      "location": "The Woodlands, TXDenver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern - Data & Digital"
     },
     {
       "age": "2d",
@@ -20795,21 +20780,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ff86c5509b5e",
-      "jobType": "internship",
-      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Design for Test Intern"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Marvell",
@@ -21152,6 +21122,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Electrical Engineer Intern - Pro Audio Circuitry"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Shure",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1f7542b97b3c",
+      "jobType": "internship",
+      "location": "Niles, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Embedded Software Intern"
     },
     {
       "age": "8d",
@@ -23897,21 +23882,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 New Grad - Perception"
-    },
-    {
-      "age": "16d",
-      "applyUrl": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "The Walt Disney Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c049a1fc65ac",
-      "jobType": "full-time",
-      "location": "Glendale, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Rights & Accounting"
     },
     {
       "age": "16d",
@@ -56330,8 +56300,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1526,
-    "Simplify New Grad": 452,
+    "Simplify Internships": 1525,
+    "Simplify New Grad": 451,
     "SpeedyApply USA Internships": 511,
     "SpeedyApply USA New Grad": 694,
     "Vansh Internships": 214,
