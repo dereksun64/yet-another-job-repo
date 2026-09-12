@@ -1,7 +1,7 @@
 {
-  "count": 3811,
-  "fetchedAt": "2026-09-12T11:00:46.709318+00:00",
-  "generatedAt": "2026-09-12T10:35:23.608187+00:00",
+  "count": 3812,
+  "fetchedAt": "2026-09-12T11:05:26.593868+00:00",
+  "generatedAt": "2026-09-12T11:05:26.593868+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8089,7 +8089,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "BNY",
@@ -14162,6 +14162,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Internship - Data Analytics/Science/Applied Math"
+    },
+    {
+      "age": "11d",
+      "applyUrl": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Edison International",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5f75ecea7683",
+      "jobType": "internship",
+      "location": "4 locationsSanta Ana, CAFullerton, CAIrvine, CAWestminster, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Intern - Multiple Teams"
     },
     {
       "age": "11d",
@@ -20615,21 +20630,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b5c220c99bae",
-      "jobType": "internship",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Co-op"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -21215,21 +21215,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2b8c1bbd3d54",
-      "jobType": "internship",
-      "location": "6 locationsAustin, TXSanta Clara, CAWestlake Village, CABurlington, VTChandler, AZWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Advanced Packaging Intern \ud83c\udf93"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Apex",
@@ -21422,6 +21407,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d7b154cdbc4b",
+      "jobType": "internship",
+      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern"
     },
     {
       "age": "8d",
@@ -23132,6 +23132,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Electrical Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "24d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "c0e2a51f62db",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital Circuit Design Intern"
     },
     {
       "age": "24d",
@@ -57170,7 +57185,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1564,
+    "Simplify Internships": 1565,
     "Simplify New Grad": 459,
     "SpeedyApply USA Internships": 530,
     "SpeedyApply USA New Grad": 685,
