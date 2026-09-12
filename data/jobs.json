@@ -1,7 +1,7 @@
 {
-  "count": 3814,
-  "fetchedAt": "2026-09-12T07:00:49.292904+00:00",
-  "generatedAt": "2026-09-12T06:35:24.903713+00:00",
+  "count": 3817,
+  "fetchedAt": "2026-09-12T07:05:26.645129+00:00",
+  "generatedAt": "2026-09-12T07:05:26.645129+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1204,7 +1204,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "K2 Space",
@@ -3484,7 +3484,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -9635,6 +9635,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Energy Transfer Partners",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3a6b615aaea2",
+      "jobType": "internship",
+      "location": "Houston, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Power Optimization Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.constellationenergy.com/jobs/138716?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Constellation Energy",
@@ -11765,6 +11780,21 @@
     },
     {
       "age": "3d",
+      "applyUrl": "https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "AArete",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6c5298fd3734",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Architecture & Engineering Intern"
+    },
+    {
+      "age": "3d",
       "applyUrl": "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Protective Life",
@@ -12617,6 +12647,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Analytics Intern"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "AArete",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "393cd3bb6edf",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Business Analytics Intern - Summer 2027"
     },
     {
       "age": "7d",
@@ -23854,7 +23899,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AiPrise",
@@ -57215,7 +57260,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1566,
+    "Simplify Internships": 1569,
     "Simplify New Grad": 460,
     "SpeedyApply USA Internships": 530,
     "SpeedyApply USA New Grad": 685,
