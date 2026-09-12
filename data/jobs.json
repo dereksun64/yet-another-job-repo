@@ -1,7 +1,7 @@
 {
-  "count": 3809,
-  "fetchedAt": "2026-09-12T14:00:48.558409+00:00",
-  "generatedAt": "2026-09-12T13:40:32.391497+00:00",
+  "count": 3810,
+  "fetchedAt": "2026-09-12T14:05:26.081767+00:00",
+  "generatedAt": "2026-09-12T14:05:26.081767+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6334,7 +6334,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -17014,7 +17014,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -17552,6 +17552,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Solutions Intern - External Manager Selection & Monitoring \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "LPL Financial Holdings",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "474e4f9b32fb",
+      "jobType": "internship",
+      "location": "Austin, TXFort Mill, SCCharlotte, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineer Intern - Data"
     },
     {
       "age": "1mo",
@@ -20450,21 +20465,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Beatrice-NE/Test-Engineer-Intern---Exmark_JR17050?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "The Toro Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8a097a5d1266",
-      "jobType": "internship",
-      "location": "Beatrice, NE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Test Engineer Intern"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -22622,6 +22622,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Embedded Engineer Intern"
+    },
+    {
+      "age": "16d",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Leidos",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "109de5d437a4",
+      "jobType": "internship",
+      "location": "Bethesda, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Engineering Co-op"
     },
     {
       "age": "16d",
@@ -57140,7 +57155,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1562,
+    "Simplify Internships": 1563,
     "Simplify New Grad": 459,
     "SpeedyApply USA Internships": 530,
     "SpeedyApply USA New Grad": 685,
