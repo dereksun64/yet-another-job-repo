@@ -1,7 +1,7 @@
 {
-  "count": 3842,
-  "fetchedAt": "2026-09-13T12:30:37.453345+00:00",
-  "generatedAt": "2026-09-13T12:05:25.612903+00:00",
+  "count": 3843,
+  "fetchedAt": "2026-09-13T12:35:27.103207+00:00",
+  "generatedAt": "2026-09-13T12:35:27.103207+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14720,6 +14720,21 @@
     },
     {
       "age": "12d",
+      "applyUrl": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "First National Bank",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "45a5c7acbd21",
+      "jobType": "internship",
+      "location": "Pittsburgh, PAHermitage, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Engineering Intern"
+    },
+    {
+      "age": "12d",
       "applyUrl": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "First National Bank",
@@ -17072,21 +17087,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Intelligence Intern - Mission Critical"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "KeyBank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9bbb3295d4d0",
-      "jobType": "internship",
-      "location": "Brooklyn, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Intern - Key Technology & Services - Data Track"
     },
     {
       "age": "29d",
@@ -21686,6 +21686,21 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "56c0bd50614d",
+      "jobType": "internship",
+      "location": "Santa Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Functional Validation Intern - BS"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "80c99c704ddb",
       "jobType": "internship",
       "location": "Santa Clara, CABoise, IDWestborough, MA",
       "salary": "",
@@ -57635,7 +57650,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1574,
+    "Simplify Internships": 1575,
     "Simplify New Grad": 456,
     "SpeedyApply USA Internships": 554,
     "SpeedyApply USA New Grad": 688,
