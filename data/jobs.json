@@ -1,7 +1,7 @@
 {
-  "count": 3831,
-  "fetchedAt": "2026-09-14T07:00:47.760449+00:00",
-  "generatedAt": "2026-09-14T06:35:24.650432+00:00",
+  "count": 3832,
+  "fetchedAt": "2026-09-14T07:05:24.382896+00:00",
+  "generatedAt": "2026-09-14T07:05:24.382896+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1279,7 +1279,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "K2 Space",
@@ -3514,7 +3514,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -9557,6 +9557,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineering Intern - Digital & Technology"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "TD Bank",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "bbfefb72cd66",
+      "jobType": "internship",
+      "location": "Mt Laurel Township, NJ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Analyst Intern - Global Technology & Solutions"
     },
     {
       "age": "1d",
@@ -57470,7 +57485,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1558,
+    "Simplify Internships": 1559,
     "Simplify New Grad": 459,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
