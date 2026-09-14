@@ -1,7 +1,7 @@
 {
   "count": 3824,
-  "fetchedAt": "2026-09-14T11:35:29.750278+00:00",
-  "generatedAt": "2026-09-14T11:35:29.750278+00:00",
+  "fetchedAt": "2026-09-14T11:40:33.438442+00:00",
+  "generatedAt": "2026-09-14T11:40:33.438442+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -25430,21 +25430,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://lifeattiktok.com/search/7668680253677504821?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "fc3768008e6c",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - Quality and Efficiency Technology"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -48770,6 +48755,21 @@
     },
     {
       "age": "44d",
+      "applyUrl": "https://lifeattiktok.com/search/7668680253677504821",
+      "category": "Software Engineering",
+      "company": "TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "fc3768008e6c",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "$202k/yr",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer Graduate - Quality and Efficiency Technology - 2027 Start"
+    },
+    {
+      "age": "44d",
       "applyUrl": "https://lifeattiktok.com/search/7668582542044072245",
       "category": "Software Engineering",
       "company": "TikTok",
@@ -57366,7 +57366,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1552,
-    "Simplify New Grad": 458,
+    "Simplify New Grad": 457,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
