@@ -1,8 +1,68 @@
 {
-  "count": 3904,
-  "fetchedAt": "2026-09-14T20:00:44.165851+00:00",
-  "generatedAt": "2026-09-14T19:35:24.501630+00:00",
+  "count": 3910,
+  "fetchedAt": "2026-09-14T20:05:23.478076+00:00",
+  "generatedAt": "2026-09-14T20:05:23.478076+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "National Life",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "065816c02aa1",
+      "jobType": "internship",
+      "location": "Montpelier, VTAddison, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "IT Application Development Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Tive",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6d82b3d6edea",
+      "jobType": "internship",
+      "location": "Boston, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/figma/jobs/6152695004?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Figma",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "705f33cddce9",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Multiple Teams"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/figma/jobs/6143238004?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Figma",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "e0d98f7e4a13",
+      "jobType": "internship",
+      "location": "SFNYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048?utm_source=Simplify&ref=Simplify",
@@ -377,6 +437,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Northrop Grumman",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "52c0277f0562",
+      "jobType": "internship",
+      "location": "4 locationsRedondo Beach, CAPalmdale, CASan Diego, CAEl Segundo, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Aeronautics Systems"
     },
     {
       "age": "0d",
@@ -1202,6 +1277,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Flight Sciences / Mass Properties College Intern - IEF"
+    },
+    {
+      "age": "4d",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Demco Products",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1e5fe5090b12",
+      "jobType": "internship",
+      "location": "Boyden, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "IT Intern"
     },
     {
       "age": "4d",
@@ -4219,7 +4309,7 @@
       "title": "Backend Developer Intern"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hermeus",
@@ -4234,7 +4324,7 @@
       "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://corningjobs.corning.com/job/Concord-Digital-&-IT-Intern,-Analyst,-Concord-Manufacturing-Summer-2027-NC-28026/1425549000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Corning",
@@ -6439,7 +6529,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Zipline",
@@ -8869,7 +8959,7 @@
       "title": "Onboard Experience Intern - Summer 2027"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.united.com/us/en/job/WHQ00026558?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "United Airlines",
@@ -10127,6 +10217,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197899&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "\ud83d\udd25 Waymo",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "3a606c4acff2",
+      "jobType": "internship",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Human Behavior Analytics Intern - Safety Research"
     },
     {
       "age": "0d",
@@ -12680,21 +12785,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "AArete",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6c5298fd3734",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Architecture & Engineering Intern"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Protective Life",
@@ -13547,21 +13637,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Analytics Intern"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "AArete",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "393cd3bb6edf",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Analytics Intern - Summer 2027"
     },
     {
       "age": "9d",
@@ -14719,7 +14794,7 @@
       "title": "Data & Analytics Intern"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.united.com/us/en/job/WHQ00026613?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "United Airlines",
@@ -14734,7 +14809,7 @@
       "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://corningjobs.corning.com/job/Glendale-Digital-&-IT-Intern,-Analyst,-Phoenix-Manufacturing-Summer-2027-AZ-85301/1425543900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Corning",
@@ -14749,7 +14824,7 @@
       "title": "Digital & IT Intern - Analyst - Manufacturing"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://corningjobs.corning.com/job/Painted-Post-Vision-System-Intern-Summer-2027-NY-14870/1425508200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Corning",
@@ -15949,7 +16024,7 @@
       "title": "AI Application Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Compeer Financial",
@@ -16699,7 +16774,7 @@
       "title": "Data Scientist Intern - University"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Elk Valley Resources",
@@ -19502,6 +19577,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Master's Data Science Internship \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "Freddie Mac",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "c20cfb4a9edd",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multifamily Business Analysis Graduate Intern - Summer 2027 \ud83c\udf93"
     },
     {
       "age": "0d",
@@ -58565,7 +58655,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1618,
+    "Simplify Internships": 1624,
     "Simplify New Grad": 464,
     "SpeedyApply USA Internships": 559,
     "SpeedyApply USA New Grad": 692,
