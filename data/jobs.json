@@ -1,7 +1,7 @@
 {
-  "count": 3833,
-  "fetchedAt": "2026-09-14T15:00:49.771293+00:00",
-  "generatedAt": "2026-09-14T14:35:29.097960+00:00",
+  "count": 3835,
+  "fetchedAt": "2026-09-14T15:05:24.507057+00:00",
+  "generatedAt": "2026-09-14T15:05:24.507057+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -23435,6 +23435,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Scale AI",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2f3d74f448de",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -24619,7 +24634,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -27272,6 +27287,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer \u2013 New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "\ud83d\udd25 Robinhood",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "becd62fd97bb",
+      "jobType": "full-time",
+      "location": "Menlo Park, CANYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Associate Product Manager New Grad"
     },
     {
       "age": "6d",
@@ -57501,7 +57531,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1562,
-    "Simplify New Grad": 456,
+    "Simplify New Grad": 458,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
