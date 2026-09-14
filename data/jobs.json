@@ -1,8 +1,83 @@
 {
-  "count": 3823,
-  "fetchedAt": "2026-09-14T14:31:02.902866+00:00",
-  "generatedAt": "2026-09-14T14:05:26.164761+00:00",
+  "count": 3833,
+  "fetchedAt": "2026-09-14T14:35:29.097960+00:00",
+  "generatedAt": "2026-09-14T14:35:29.097960+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "URBN",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "eaf28face0d9",
+      "jobType": "internship",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "ca2b817103f7",
+      "jobType": "internship",
+      "location": "Burgess Hill, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Undergraduate"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "c8116eeb75d8",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Undergraduate"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "0ee4e55759fe",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "675d38fcc2e2",
+      "jobType": "internship",
+      "location": "Burgess Hill, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI Engineer Intern - Undergraduate \ud83c\udf93"
+    },
     {
       "age": "0d",
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403?utm_source=Simplify&ref=Simplify",
@@ -17,6 +92,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "LSEG",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7faccb48f54d",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineering Intern - Multiple Teams"
     },
     {
       "age": "0d",
@@ -409,7 +499,7 @@
       "title": "Decision Science Intern - Software Engineer"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citizens Financial Group",
@@ -709,7 +799,7 @@
       "title": "Flight Sciences / Mass Properties College Intern - IEF"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.planview.com/jobs/5128?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Planview",
@@ -1234,7 +1324,7 @@
       "title": "Process Automation Intern - Process Automation"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Navy Federal",
@@ -1249,7 +1339,7 @@
       "title": "Payments AI Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Navy Federal",
@@ -1264,7 +1354,7 @@
       "title": "Security Workflow Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Navy Federal",
@@ -1279,7 +1369,7 @@
       "title": "Mobile Developer Intern - Summer Associate"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Navy Federal",
@@ -1909,7 +1999,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.bjc.org/jobs/116509?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "BJC HealthCare",
@@ -1924,7 +2014,7 @@
       "title": "RPA Automation Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "United Launch Alliance",
@@ -2209,7 +2299,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "incident.io",
@@ -5719,7 +5809,7 @@
       "title": "Software Developer Intern \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "BNY",
@@ -5734,7 +5824,7 @@
       "title": "Software Engineer Intern - Engineering - Developer"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "BNY",
@@ -5749,7 +5839,7 @@
       "title": "Engineering Intern - Engineering - Developer"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "BNY",
@@ -5764,7 +5854,7 @@
       "title": "Engineering Intern - Developer"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "BNY",
@@ -5779,7 +5869,7 @@
       "title": "Engineering Developer Intern - Engineering"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "BNY",
@@ -5794,7 +5884,7 @@
       "title": "Software Developer Intern - Engineering"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Gulfstream",
@@ -6034,7 +6124,7 @@
       "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "AbbVie",
@@ -6379,7 +6469,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers.fastenterprises.com/jobs/1709?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "FAST Enterprises",
@@ -7744,6 +7834,36 @@
       "title": "Software Engineering Intern"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "5eb871a9aef3",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Manager Intern - Undergraduate"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "bachelors",
+      "id": "c45f34f208aa",
+      "jobType": "internship",
+      "location": "Burgess Hill, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Manager Intern - Undergraduate"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcf1 Product Management Internship Roles",
@@ -7879,7 +7999,7 @@
       "title": "Product Management AI-Tool Intern - 8 months/40hrs per week"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Navy Federal",
@@ -7894,7 +8014,7 @@
       "title": "Product Strategist Intern - Student Loans"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Navy Federal",
@@ -7999,7 +8119,7 @@
       "title": "R&D Product Development Intern - Campus Recruiting"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "ID.me",
@@ -8014,7 +8134,7 @@
       "title": "Product Intern"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "ID.me",
@@ -8899,7 +9019,7 @@
       "title": "Product Management Intern - Product Management"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Springs Window Fashions",
@@ -8914,7 +9034,7 @@
       "title": "Product Management Competitive Product Assessment Intern - Summer 2027"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Springs Window Fashions",
@@ -8929,7 +9049,7 @@
       "title": "Product Management Dashboard Analytics Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Springs Window Fashions",
@@ -9545,6 +9665,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "URBN",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0693fb21b25c",
+      "jobType": "internship",
+      "location": "Philadelphia, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Guardian Life",
@@ -9889,7 +10024,7 @@
       "title": "Finance Analyst Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Citizens Financial Group",
@@ -9904,7 +10039,7 @@
       "title": "Data Science Intern - Multiple Teams"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9919,7 +10054,7 @@
       "title": "Data Management Intern - Multiple Teams"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9934,7 +10069,7 @@
       "title": "Data Management Intern - Enterprise Data and Analytics \ud83c\udf93"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9949,7 +10084,7 @@
       "title": "Data Engineer Intern - Enterprise Technology & Security"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9964,7 +10099,7 @@
       "title": "Data Analyst Intern - Multiple Teams \ud83c\udf93"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9979,7 +10114,7 @@
       "title": "Business Insights Intern - Multiple Teams \ud83c\udf93"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -9994,7 +10129,7 @@
       "title": "Business Insights Intern - Multiple Teams"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Citizens Financial Group",
@@ -10009,7 +10144,7 @@
       "title": "Data Analyst Intern - Multiple Teams"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Citizens Financial Group",
@@ -11089,7 +11224,7 @@
       "title": "Data Science Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11104,7 +11239,7 @@
       "title": "Data Scientist Intern \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11119,7 +11254,7 @@
       "title": "Business Intelligence Analyst Intern \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11134,7 +11269,7 @@
       "title": "Associate Intern \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32354?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11149,7 +11284,7 @@
       "title": "Business Intelligence Analyst Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11164,7 +11299,7 @@
       "title": "Fraud Analyst Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11179,7 +11314,7 @@
       "title": "Data Scientist Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11194,7 +11329,7 @@
       "title": "Associate Data Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32351?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11209,7 +11344,7 @@
       "title": "Business Intelligence Analyst Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11224,7 +11359,7 @@
       "title": "Business Intelligence Analyst Intern - Consumer Lending"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11239,7 +11374,7 @@
       "title": "Data Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11254,7 +11389,7 @@
       "title": "Business Systems Analyst Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11269,7 +11404,7 @@
       "title": "Business Intelligence Analyst Summer Associate Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11284,7 +11419,7 @@
       "title": "Data Scientist Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11299,7 +11434,7 @@
       "title": "Data Scientist Intern \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11314,7 +11449,7 @@
       "title": "Summer Associate Intern - Business Intelligence & Data Analytics"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11329,7 +11464,7 @@
       "title": "Data Scientist Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11344,7 +11479,7 @@
       "title": "Summer Associate Internship - Fraud Data Governance \ud83c\udf93"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -11359,7 +11494,7 @@
       "title": "Business Intelligence Analyst Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Navy Federal",
@@ -12724,7 +12859,7 @@
       "title": "Data Analytics Intern"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -12739,7 +12874,7 @@
       "title": "Sales & Marketing Analytics Intern - Paid"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Ernst & Young",
@@ -16039,7 +16174,7 @@
       "title": "Research Intern - PhD \ud83c\udf93"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "BNY",
@@ -16054,7 +16189,7 @@
       "title": "Data Science Intern - Engineering"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "BNY",
@@ -16069,7 +16204,7 @@
       "title": "Data Science Intern - Engineering"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "BNY",
@@ -16084,7 +16219,7 @@
       "title": "Engineering Intern - Data Science"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "BNY",
@@ -16099,7 +16234,7 @@
       "title": "Data Science Intern - Engineering"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "BNY",
@@ -16234,7 +16369,7 @@
       "title": "Single-Family Data Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Springs Window Fashions",
@@ -16249,7 +16384,7 @@
       "title": "Data Analyst Intern - Consumer Business Unit"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Springs Window Fashions",
@@ -16264,7 +16399,7 @@
       "title": "Textile Engineering Intern - Summer 2027"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Springs Window Fashions",
@@ -16279,7 +16414,7 @@
       "title": "AI Analyst Intern - Consumer Business Unit"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Springs Window Fashions",
@@ -16294,7 +16429,7 @@
       "title": "Dealer Business Operations & Analytics Intern - Summer 2027"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12896/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Springs Window Fashions",
@@ -18694,7 +18829,7 @@
       "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32396?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "Navy Federal",
@@ -20704,7 +20839,7 @@
       "title": "Design Engineering Intern - Summer 2027"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://jobs.apple.com/en-us/details/200682357?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 Apple",
@@ -21439,7 +21574,7 @@
       "title": "FPGA Engineer Intern"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -21454,7 +21589,7 @@
       "title": "Diagnostics Design Engineering Intern/Co-op"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -23297,6 +23432,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineering Development Program Intern - Hardware"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "7fa9faac75aa",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "a33a1967f284",
+      "jobType": "full-time",
+      "location": "Burgess Hill, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad"
     },
     {
       "age": "1d",
@@ -26959,7 +27124,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=7669159003&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Konrad Group",
@@ -27259,7 +27424,7 @@
       "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Wavestone",
@@ -27304,22 +27469,7 @@
       "title": "Junior Security Data Analyst"
     },
     {
-      "age": "4d",
-      "applyUrl": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Analyst_R-4351?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Norton Rose Fulbright",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "35da1dc21113",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Analyst"
-    },
-    {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "ID.me",
@@ -57350,8 +57500,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1553,
-    "Simplify New Grad": 455,
+    "Simplify Internships": 1562,
+    "Simplify New Grad": 456,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
