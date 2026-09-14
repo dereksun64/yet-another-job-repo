@@ -1,7 +1,7 @@
 {
-  "count": 3829,
-  "fetchedAt": "2026-09-14T09:00:50.470173+00:00",
-  "generatedAt": "2026-09-14T08:35:25.132373+00:00",
+  "count": 3827,
+  "fetchedAt": "2026-09-14T09:05:24.455175+00:00",
+  "generatedAt": "2026-09-14T09:05:24.455175+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -16445,21 +16445,6 @@
     },
     {
       "age": "24d",
-      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f8de01a38e6f",
-      "jobType": "internship",
-      "location": "Calgary, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Enablement Co-op - CPA"
-    },
-    {
-      "age": "24d",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--CPA----8-month-Co-op---Vancouver_754069WD?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "PricewaterhouseCoopers (PwC)",
@@ -29548,21 +29533,6 @@
       "id": "28e2eb129dbb",
       "jobType": "full-time",
       "location": "Olathe, KS",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cisco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "88135de06db3",
-      "jobType": "full-time",
-      "location": "Milpitas, CASan Jose, CA",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -57440,8 +57410,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1556,
-    "Simplify New Grad": 459,
+    "Simplify Internships": 1555,
+    "Simplify New Grad": 458,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
