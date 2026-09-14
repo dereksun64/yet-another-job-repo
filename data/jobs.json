@@ -1,7 +1,7 @@
 {
-  "count": 3822,
-  "fetchedAt": "2026-09-14T13:35:25.849895+00:00",
-  "generatedAt": "2026-09-14T13:35:25.849895+00:00",
+  "count": 3821,
+  "fetchedAt": "2026-09-14T13:40:34.588919+00:00",
+  "generatedAt": "2026-09-14T13:40:34.588919+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -26207,21 +26207,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2cada9630e7e",
-      "jobType": "full-time",
-      "location": "St. Louis, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Developer"
     },
     {
       "age": "2mo",
@@ -57336,7 +57321,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1551,
-    "Simplify New Grad": 456,
+    "Simplify New Grad": 455,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
