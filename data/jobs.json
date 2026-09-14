@@ -1,7 +1,7 @@
 {
-  "count": 3822,
-  "fetchedAt": "2026-09-14T11:30:41.470294+00:00",
-  "generatedAt": "2026-09-14T11:05:24.124915+00:00",
+  "count": 3824,
+  "fetchedAt": "2026-09-14T11:35:29.750278+00:00",
+  "generatedAt": "2026-09-14T11:35:29.750278+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1412,6 +1412,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Ovintiv",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "760def2e4cf5",
+      "jobType": "internship",
+      "location": "The Woodlands, TXDenver, CO",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Technology Intern - Data & Digital"
     },
     {
       "age": "5d",
@@ -21236,6 +21251,21 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "d7b154cdbc4b",
+      "jobType": "internship",
+      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ff86c5509b5e",
       "jobType": "internship",
       "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
       "salary": "",
@@ -57335,7 +57365,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1550,
+    "Simplify Internships": 1552,
     "Simplify New Grad": 458,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
