@@ -1,7 +1,7 @@
 {
-  "count": 3825,
-  "fetchedAt": "2026-09-14T10:30:48.068364+00:00",
-  "generatedAt": "2026-09-14T10:05:22.458259+00:00",
+  "count": 3821,
+  "fetchedAt": "2026-09-14T10:35:23.134171+00:00",
+  "generatedAt": "2026-09-14T10:35:23.134171+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10355,21 +10355,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Amgen",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "25c46c114095",
-      "jobType": "internship",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Amgen",
@@ -15467,21 +15452,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Engineer Intern"
-    },
-    {
-      "age": "16d",
-      "applyUrl": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Charles Schwab",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "5934a0fe0f25",
-      "jobType": "internship",
-      "location": "Austin, TXWestlake, TXSouthlake, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineering Intern - Data Engineering"
     },
     {
       "age": "16d",
@@ -22985,21 +22955,6 @@
     },
     {
       "age": "26d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "c9e057a58b95",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Hardware Engineering Intern"
-    },
-    {
-      "age": "26d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -27197,21 +27152,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Product Manager New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "LPL Financial Holdings",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2ea6f41ff70b",
-      "jobType": "full-time",
-      "location": "Austin, TXFort Mill, SCCharlotte, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Management New Grad - Product"
     },
     {
       "age": "1mo",
@@ -57380,8 +57320,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1553,
-    "Simplify New Grad": 458,
+    "Simplify Internships": 1550,
+    "Simplify New Grad": 457,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
