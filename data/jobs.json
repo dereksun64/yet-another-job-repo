@@ -1,7 +1,7 @@
 {
-  "count": 3821,
-  "fetchedAt": "2026-09-14T14:00:53.747350+00:00",
-  "generatedAt": "2026-09-14T13:40:34.588919+00:00",
+  "count": 3823,
+  "fetchedAt": "2026-09-14T14:05:26.164761+00:00",
+  "generatedAt": "2026-09-14T14:05:26.164761+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17,6 +17,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "LSEG",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b193fb4823db",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineering Intern - Multiple Teams"
     },
     {
       "age": "0d",
@@ -6379,7 +6394,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -14615,6 +14630,21 @@
     },
     {
       "age": "13d",
+      "applyUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Ingredion",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c31341f968a9",
+      "jobType": "internship",
+      "location": "Bridgewater, NJ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital Innovation Intern"
+    },
+    {
+      "age": "13d",
       "applyUrl": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "IAT Insurance Group",
@@ -16939,7 +16969,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -57320,7 +57350,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1551,
+    "Simplify Internships": 1553,
     "Simplify New Grad": 455,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
