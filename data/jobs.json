@@ -1,7 +1,7 @@
 {
-  "count": 3824,
-  "fetchedAt": "2026-09-14T12:00:53.852169+00:00",
-  "generatedAt": "2026-09-14T11:40:33.438442+00:00",
+  "count": 3823,
+  "fetchedAt": "2026-09-14T12:05:25.609498+00:00",
+  "generatedAt": "2026-09-14T12:05:25.609498+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29450,21 +29450,6 @@
     },
     {
       "age": "20d",
-      "applyUrl": "https://careers.cisco.com/global/en/job/2023527?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Cisco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6f5ce2c8cad4",
-      "jobType": "full-time",
-      "location": "Milpitas, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "20d",
       "applyUrl": "https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -57366,7 +57351,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1552,
-    "Simplify New Grad": 457,
+    "Simplify New Grad": 456,
     "SpeedyApply USA Internships": 556,
     "SpeedyApply USA New Grad": 689,
     "Vansh Internships": 214,
