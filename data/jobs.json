@@ -1,7 +1,7 @@
 {
-  "count": 3994,
-  "fetchedAt": "2026-09-15T06:05:23.927172+00:00",
-  "generatedAt": "2026-09-15T05:40:27.504954+00:00",
+  "count": 3993,
+  "fetchedAt": "2026-09-15T06:10:29.197317+00:00",
+  "generatedAt": "2026-09-15T06:10:29.197317+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31550,21 +31550,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "070f12c88505",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-I--Onsite-_01872978?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "RTX",
@@ -59916,7 +59901,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1705,
-    "Simplify New Grad": 467,
+    "Simplify New Grad": 466,
     "SpeedyApply USA Internships": 559,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
