@@ -1,7 +1,7 @@
 {
-  "count": 4012,
-  "fetchedAt": "2026-09-15T10:30:36.021101+00:00",
-  "generatedAt": "2026-09-15T10:05:23.404457+00:00",
+  "count": 4011,
+  "fetchedAt": "2026-09-15T10:35:21.837365+00:00",
+  "generatedAt": "2026-09-15T10:35:21.837365+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29747,21 +29747,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer 1"
-    },
-    {
-      "age": "7mo",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 Google",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "52876cc9a94a",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 Early Career - AI/ML - PhD \ud83c\udf93"
     },
     {
       "age": "7mo",
@@ -60186,7 +60171,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1723,
-    "Simplify New Grad": 467,
+    "Simplify New Grad": 466,
     "SpeedyApply USA Internships": 559,
     "SpeedyApply USA New Grad": 692,
     "Vansh Internships": 214,
