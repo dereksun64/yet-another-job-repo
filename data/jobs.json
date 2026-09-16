@@ -1,7 +1,7 @@
 {
-  "count": 4148,
-  "fetchedAt": "2026-09-16T06:00:47.772523+00:00",
-  "generatedAt": "2026-09-16T05:35:21.450245+00:00",
+  "count": 4147,
+  "fetchedAt": "2026-09-16T06:05:31.361494+00:00",
+  "generatedAt": "2026-09-16T06:05:31.361494+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2282,21 +2282,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Co-op"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "928528f8d986",
-      "jobType": "internship",
-      "location": "State College, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "6d",
@@ -33154,21 +33139,6 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "1d",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Rocket Lab USA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2b6439ee1b69",
-      "jobType": "full-time",
-      "location": "Littleton, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Flight Software Engineer 1"
-    },
-    {
       "age": "2d",
       "applyUrl": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -54440,6 +54410,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003",
+      "category": "Software Engineering",
+      "company": "Rocket Lab",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2b6439ee1b69",
+      "jobType": "full-time",
+      "location": "Littleton, CO",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Flight Software Engineer I"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990015227606-jr-ai-developer-korean-bilingual-must?oga=true",
       "category": "AI/ML",
       "company": "SBT Global",
@@ -62225,8 +62210,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1814,
-    "Simplify New Grad": 478,
+    "Simplify Internships": 1813,
+    "Simplify New Grad": 477,
     "SpeedyApply USA Internships": 591,
     "SpeedyApply USA New Grad": 704,
     "Vansh Internships": 214,
