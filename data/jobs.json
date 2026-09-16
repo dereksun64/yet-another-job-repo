@@ -1,7 +1,7 @@
 {
-  "count": 4129,
-  "fetchedAt": "2026-09-16T14:00:48.417772+00:00",
-  "generatedAt": "2026-09-16T13:35:25.810356+00:00",
+  "count": 4127,
+  "fetchedAt": "2026-09-16T14:05:26.458819+00:00",
+  "generatedAt": "2026-09-16T14:05:26.458819+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -7864,7 +7864,7 @@
       "title": "Implementation Intern"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -10669,21 +10669,6 @@
       "title": "Product Management Dashboard Analytics Intern"
     },
     {
-      "age": "24d",
-      "applyUrl": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Springs Window Fashions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f470a7ced563",
-      "jobType": "internship",
-      "location": "Long Island City, Queens, NY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Management Intern"
-    },
-    {
       "age": "25d",
       "applyUrl": "https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -11477,6 +11462,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Verizon Communications",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b6b60d32f204",
+      "jobType": "internship",
+      "location": "Basking Ridge, Bernards, NJ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Marketing Technology Intern - Consumer Group"
     },
     {
       "age": "1d",
@@ -19774,7 +19774,7 @@
       "title": "AI Engineer Intern - Enterprise Technology Services"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Google",
@@ -26615,21 +26615,6 @@
     },
     {
       "age": "28d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "c0e2a51f62db",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Digital Circuit Design Intern"
-    },
-    {
-      "age": "28d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -29912,21 +29897,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Engineer New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mastercard",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "b58216be07bc",
-      "jobType": "full-time",
-      "location": "O'Fallon, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -61940,8 +61910,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1797,
-    "Simplify New Grad": 475,
+    "Simplify Internships": 1796,
+    "Simplify New Grad": 474,
     "SpeedyApply USA Internships": 591,
     "SpeedyApply USA New Grad": 704,
     "Vansh Internships": 214,
