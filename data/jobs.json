@@ -1,7 +1,7 @@
 {
-  "count": 4126,
-  "fetchedAt": "2026-09-16T12:05:26.880539+00:00",
-  "generatedAt": "2026-09-16T11:35:24.799956+00:00",
+  "count": 4128,
+  "fetchedAt": "2026-09-16T12:08:46.280963+00:00",
+  "generatedAt": "2026-09-16T12:08:46.280963+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3512,21 +3512,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Information Technology Services Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "COUNTRY Financial",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "baa3028acd2d",
-      "jobType": "internship",
-      "location": "Bloomington, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Automation Developer Intern"
     },
     {
       "age": "8d",
@@ -11623,6 +11608,21 @@
       "id": "3a3aec89f828",
       "jobType": "internship",
       "location": "Trenton, NJ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "LexisNexis Legal & Professional",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c7d2f7e1d515",
+      "jobType": "internship",
+      "location": "Raleigh, NC",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -25022,6 +25022,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Analog Design Intern \ud83c\udf93"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "56c0bd50614d",
+      "jobType": "internship",
+      "location": "Santa Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Functional Validation Intern - BS"
+    },
+    {
+      "age": "12d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "80c99c704ddb",
+      "jobType": "internship",
+      "location": "Santa Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Functional Validation Intern - BS"
     },
     {
       "age": "12d",
@@ -61895,7 +61925,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1794,
+    "Simplify Internships": 1796,
     "Simplify New Grad": 475,
     "SpeedyApply USA Internships": 591,
     "SpeedyApply USA New Grad": 704,
