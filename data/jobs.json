@@ -1,7 +1,7 @@
 {
-  "count": 4193,
-  "fetchedAt": "2026-09-16T23:35:23.147158+00:00",
-  "generatedAt": "2026-09-16T23:35:23.147158+00:00",
+  "count": 4191,
+  "fetchedAt": "2026-09-16T23:40:32.268695+00:00",
+  "generatedAt": "2026-09-16T23:40:32.268695+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29525,21 +29525,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5384983008?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Captivation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "484d40d15ad6",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 0 - Multiple Teams"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cummins",
@@ -34472,21 +34457,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://qualcomm.eightfold.ai/careers/job/446718599884?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Qualcomm",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "98fe3060b6c5",
-      "jobType": "full-time",
-      "location": "Markham, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "System AI Engineer New Grad - Display - ASICS Engineering"
     },
     {
       "age": "1mo",
@@ -62901,7 +62871,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1839,
-    "Simplify New Grad": 481,
+    "Simplify New Grad": 479,
     "SpeedyApply USA Internships": 606,
     "SpeedyApply USA New Grad": 710,
     "Vansh Internships": 214,
