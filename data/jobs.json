@@ -1,7 +1,7 @@
 {
   "count": 4192,
-  "fetchedAt": "2026-09-17T09:00:51.534070+00:00",
-  "generatedAt": "2026-09-17T08:35:26.864154+00:00",
+  "fetchedAt": "2026-09-17T09:05:26.979205+00:00",
+  "generatedAt": "2026-09-17T09:05:26.979205+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -32435,6 +32435,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Hiive",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c00717ffb13b",
+      "jobType": "full-time",
+      "location": "Vancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Analyst - Career Launch Program"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Micron Technology",
@@ -34262,21 +34277,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "ASIC Engineer - Early Career"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers.gov2x.com/jobs/62490?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "V2X",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "de62f70e5c25",
-      "jobType": "full-time",
-      "location": "Indianapolis, IN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Firmware Engineer 1"
     },
     {
       "age": "1mo",
