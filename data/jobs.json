@@ -1,7 +1,7 @@
 {
-  "count": 4206,
-  "fetchedAt": "2026-09-17T10:00:49.596723+00:00",
-  "generatedAt": "2026-09-17T09:40:33.601640+00:00",
+  "count": 4204,
+  "fetchedAt": "2026-09-17T10:05:24.147262+00:00",
+  "generatedAt": "2026-09-17T10:05:24.147262+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28535,21 +28535,6 @@
     },
     {
       "age": "12d",
-      "applyUrl": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AiPrise",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6753ace70f43",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "12d",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Scale AI",
@@ -32104,21 +32089,6 @@
       "title": "Junior Data Analyst / Project Coordinator"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---Data-Engineer_R13723?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Western Alliance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fbe6fe71fba4",
-      "jobType": "full-time",
-      "location": "Phoenix, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Engineer 1 - Data Engineer"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
@@ -33799,7 +33769,7 @@
       "title": "System AI Engineer New Grad - Display - ASICS Engineering"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://eaton.eightfold.ai/careers/job/687239270493?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Eaton",
@@ -34099,7 +34069,7 @@
       "title": "FPGA Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Micron Technology",
@@ -63096,7 +63066,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1851,
-    "Simplify New Grad": 482,
+    "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 606,
     "SpeedyApply USA New Grad": 710,
     "Vansh Internships": 214,
