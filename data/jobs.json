@@ -1,7 +1,7 @@
 {
-  "count": 4267,
-  "fetchedAt": "2026-09-17T20:00:46.350101+00:00",
-  "generatedAt": "2026-09-17T19:35:29.406225+00:00",
+  "count": 4266,
+  "fetchedAt": "2026-09-17T20:05:29.046469+00:00",
+  "generatedAt": "2026-09-17T20:05:29.046469+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29044,7 +29044,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InterSystems",
@@ -30977,21 +30977,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - Sea Systems"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RunSybil",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d48e6bd35afe",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -64011,7 +63996,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1869,
-    "Simplify New Grad": 480,
+    "Simplify New Grad": 479,
     "SpeedyApply USA Internships": 638,
     "SpeedyApply USA New Grad": 728,
     "Vansh Internships": 214,
