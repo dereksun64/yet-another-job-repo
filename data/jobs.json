@@ -1,8 +1,23 @@
 {
-  "count": 4193,
-  "fetchedAt": "2026-09-17T07:00:50.161762+00:00",
-  "generatedAt": "2026-09-17T06:40:31.716270+00:00",
+  "count": 4194,
+  "fetchedAt": "2026-09-17T07:05:25.701504+00:00",
+  "generatedAt": "2026-09-17T07:05:25.701504+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Waymo",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "3927e630646e",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Maneuvering Tech"
+    },
     {
       "age": "0d",
       "applyUrl": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410?utm_source=Simplify&ref=Simplify",
@@ -3094,7 +3109,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "K2 Space",
@@ -5314,7 +5329,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -62900,7 +62915,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1837,
+    "Simplify Internships": 1838,
     "Simplify New Grad": 483,
     "SpeedyApply USA Internships": 606,
     "SpeedyApply USA New Grad": 710,
