@@ -1,7 +1,7 @@
 {
   "count": 4190,
-  "fetchedAt": "2026-09-17T12:05:24.630391+00:00",
-  "generatedAt": "2026-09-17T12:05:24.630391+00:00",
+  "fetchedAt": "2026-09-17T12:10:32.187820+00:00",
+  "generatedAt": "2026-09-17T12:10:32.187820+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9110,6 +9110,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://lifeattiktok.com/search/7662700594251958581?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "d3637f28bb74",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://lifeattiktok.com/search/7662684280234232117?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -14312,6 +14327,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Analytics Intern \ud83c\udf93"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "1a1153c7b755",
+      "jobType": "internship",
+      "location": "Washington, DCWarren, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Economics Intern \ud83c\udf93"
     },
     {
       "age": "7d",
@@ -25502,21 +25532,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Design Verification Intern - MS \ud83c\udf93"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e0eca8e1b0a7",
-      "jobType": "internship",
-      "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Physical Design Engineer Intern - MS - Multiple Teams \ud83c\udf93"
     },
     {
       "age": "13d",
@@ -43862,21 +43877,6 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Data Analytics Intern \ud83d\udec2"
-    },
-    {
-      "age": "44d",
-      "applyUrl": "https://lifeattiktok.com/search/7662700594251958581?utm_source=github-vansh-ouckah",
-      "category": "Software Engineering",
-      "company": "TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "d3637f28bb74",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Vansh Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
-      "title": "Software Engineer Intern, Trust and Safety-Engineering \ud83d\udec2"
     },
     {
       "age": "44d",
@@ -62855,7 +62855,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1837,
+    "Simplify Internships": 1838,
     "Simplify New Grad": 479,
     "SpeedyApply USA Internships": 606,
     "SpeedyApply USA New Grad": 710,
