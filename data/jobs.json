@@ -1,7 +1,7 @@
 {
-  "count": 4319,
-  "fetchedAt": "2026-09-18T08:30:43.781617+00:00",
-  "generatedAt": "2026-09-18T08:05:33.733710+00:00",
+  "count": 4317,
+  "fetchedAt": "2026-09-18T08:35:26.423593+00:00",
+  "generatedAt": "2026-09-18T08:35:26.423593+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2702,21 +2702,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Lyft",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "52793d40fa7a",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Fullstack - Multiple Teams"
     },
     {
       "age": "6d",
@@ -12890,21 +12875,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "APEX Analytix",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c81d670db4c1",
-      "jobType": "internship",
-      "location": "Greensboro, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Analyst Intern - Summer 2027"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "APEX Analytix",
@@ -21094,7 +21064,7 @@
       "title": "Business Analytics Intern"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -21109,7 +21079,7 @@
       "title": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD \ud83c\udf93"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 ByteDance",
@@ -28427,21 +28397,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Digital Circuit Design Intern"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "5f0a57309b81",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Hardware ASIC Design Intern - Hardware"
     },
     {
       "age": "30d",
@@ -47045,6 +47000,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+      "category": "Software Engineering",
+      "company": "Lyft",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "52793d40fa7a",
+      "jobType": "internship",
+      "location": "New York City, NY",
+      "salary": "$58/hr",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer Intern - Fullstack - Summer 2027"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
       "category": "Software Engineering",
       "company": "Microsoft",
@@ -64790,7 +64760,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1916,
+    "Simplify Internships": 1913,
     "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 638,
     "SpeedyApply USA New Grad": 728,
