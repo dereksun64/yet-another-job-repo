@@ -1,7 +1,7 @@
 {
-  "count": 4338,
-  "fetchedAt": "2026-09-18T01:32:57.873323+00:00",
-  "generatedAt": "2026-09-18T01:32:57.873323+00:00",
+  "count": 4339,
+  "fetchedAt": "2026-09-18T01:35:24.851939+00:00",
+  "generatedAt": "2026-09-18T01:35:24.851939+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29089,7 +29089,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5426523008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Captivation",
@@ -29389,7 +29389,7 @@
       "title": "C++ Software Developer New Grad - Rotational Program"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Superhuman",
@@ -29659,7 +29659,7 @@
       "title": "Software Engineer New Grad - Multiple Teams"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Anysphere",
@@ -29674,7 +29674,7 @@
       "title": "Software Engineer New Grad - 2027"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Dell Technologies",
@@ -32809,7 +32809,7 @@
       "title": "Software Engineer New Grad - Hardware Tools and Methodology \ud83c\udf93"
     },
     {
-      "age": "3mo",
+      "age": "4mo",
       "applyUrl": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Julius AI",
@@ -33724,7 +33724,7 @@
       "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence \ud83c\udf93"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -33769,7 +33769,7 @@
       "title": "Junior Data Engineer - DEA"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "True Anomaly",
@@ -33784,7 +33784,7 @@
       "title": "Data Engineer 1"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -35164,6 +35164,21 @@
       "title": "Software Engineer 1"
     },
     {
+      "age": "3d",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Rocket Lab USA",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2b6439ee1b69",
+      "jobType": "full-time",
+      "location": "Littleton, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Flight Software Engineer 1"
+    },
+    {
       "age": "4d",
       "applyUrl": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -35389,7 +35404,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.lever.co/CesiumAstro/fb2ee9a4-646b-41d8-a037-3acb648db8e1/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "CesiumAstro",
@@ -35749,7 +35764,7 @@
       "title": "Firmware Engineer 1"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Freeform",
@@ -65076,7 +65091,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1937,
-    "Simplify New Grad": 483,
+    "Simplify New Grad": 484,
     "SpeedyApply USA Internships": 638,
     "SpeedyApply USA New Grad": 728,
     "Vansh Internships": 214,
