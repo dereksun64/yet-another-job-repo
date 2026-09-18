@@ -1,7 +1,7 @@
 {
-  "count": 4337,
-  "fetchedAt": "2026-09-18T02:05:22.785182+00:00",
-  "generatedAt": "2026-09-18T02:05:22.785182+00:00",
+  "count": 4338,
+  "fetchedAt": "2026-09-18T02:10:30.727413+00:00",
+  "generatedAt": "2026-09-18T02:10:30.727413+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29030,6 +29030,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Stripe",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "5bcf26a4407f",
+      "jobType": "full-time",
+      "location": "Seattle, WASFNYC",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer - Early Career - Immediate Start"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Meow",
@@ -35449,7 +35464,7 @@
       "title": "HBM Product Development Failure Analysis Engineer New Grad"
     },
     {
-      "age": "15d",
+      "age": "16d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Textron",
@@ -65061,7 +65076,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1935,
-    "Simplify New Grad": 484,
+    "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 638,
     "SpeedyApply USA New Grad": 728,
     "Vansh Internships": 214,
