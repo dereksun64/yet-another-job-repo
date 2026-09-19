@@ -1,7 +1,7 @@
 {
   "count": 4360,
-  "fetchedAt": "2026-09-19T13:00:43.489237+00:00",
-  "generatedAt": "2026-09-19T12:35:23.975212+00:00",
+  "fetchedAt": "2026-09-19T13:05:24.013232+00:00",
+  "generatedAt": "2026-09-19T13:05:24.013232+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12920,21 +12920,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "OCC",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d4794467c9b9",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Intern - Data"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -20299,7 +20284,7 @@
       "title": "Engineering Intern - Positive Train Control - Paid"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -27236,6 +27221,21 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "d7b154cdbc4b",
+      "jobType": "internship",
+      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern"
+    },
+    {
+      "age": "15d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ff86c5509b5e",
       "jobType": "internship",
       "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
       "salary": "",
