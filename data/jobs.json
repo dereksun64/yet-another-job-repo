@@ -1,7 +1,7 @@
 {
-  "count": 4360,
-  "fetchedAt": "2026-09-19T11:30:36.578309+00:00",
-  "generatedAt": "2026-09-19T11:05:28.413415+00:00",
+  "count": 4361,
+  "fetchedAt": "2026-09-19T11:35:24.101203+00:00",
+  "generatedAt": "2026-09-19T11:35:24.101203+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14360,6 +14360,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "65c1ba01b85e",
+      "jobType": "internship",
+      "location": "Concord, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Race Strategy & Analytics Intern - IndyCar"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Enact Mortgage Insurance",
@@ -25909,6 +25924,21 @@
       "title": "Electrical Engineer Intern - Robotics R&D"
     },
     {
+      "age": "6d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "masters",
+      "id": "862336b8babb",
+      "jobType": "internship",
+      "location": "Santa Clara, CADurham, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "PhD Research Intern - Circuits \ud83c\udf93"
+    },
+    {
       "age": "7d",
       "applyUrl": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -35372,21 +35402,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - RAIL team \ud83c\udf93"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Engineer-I---Display-Products--Onsite-_01871168?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1fbc7a7f204c",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Engineer 1 - Display Products"
     },
     {
       "age": "7d",
@@ -65405,8 +65420,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1944,
-    "Simplify New Grad": 489,
+    "Simplify Internships": 1946,
+    "Simplify New Grad": 488,
     "SpeedyApply USA Internships": 646,
     "SpeedyApply USA New Grad": 726,
     "Vansh Internships": 214,
