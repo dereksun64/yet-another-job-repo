@@ -1,7 +1,7 @@
 {
-  "count": 4362,
-  "fetchedAt": "2026-09-19T09:30:38.596831+00:00",
-  "generatedAt": "2026-09-19T09:05:25.376094+00:00",
+  "count": 4360,
+  "fetchedAt": "2026-09-19T09:35:21.135343+00:00",
+  "generatedAt": "2026-09-19T09:35:21.135343+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29194,7 +29194,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://accordience.com/jobs/?gh_jid=4934501101&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Accordience",
@@ -30304,7 +30304,7 @@
       "title": "Software Engineer 1 Intern - Enterprise Technology Services"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -30319,7 +30319,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8128744&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -30334,7 +30334,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -32945,21 +32945,6 @@
     },
     {
       "age": "3mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7f7e60ad2af1",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "System Integration Software Engineer 1 - System Integration Software Engineer I"
-    },
-    {
-      "age": "3mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -35372,21 +35357,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1 - RAIL team \ud83c\udf93"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5d1c4ca00255",
-      "jobType": "full-time",
-      "location": "Indianapolis, IN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "5d",
@@ -65436,7 +65406,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1943,
-    "Simplify New Grad": 492,
+    "Simplify New Grad": 490,
     "SpeedyApply USA Internships": 646,
     "SpeedyApply USA New Grad": 726,
     "Vansh Internships": 214,
