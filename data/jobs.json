@@ -1,7 +1,7 @@
 {
-  "count": 4369,
-  "fetchedAt": "2026-09-20T11:05:25.135679+00:00",
-  "generatedAt": "2026-09-20T10:35:23.535869+00:00",
+  "count": 4371,
+  "fetchedAt": "2026-09-20T11:09:46.578420+00:00",
+  "generatedAt": "2026-09-20T11:09:46.578420+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -10924,7 +10924,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "BNY",
@@ -18890,6 +18890,21 @@
     },
     {
       "age": "19d",
+      "applyUrl": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Edison International",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "465b540472b0",
+      "jobType": "internship",
+      "location": "4 locationsSanta Ana, CAFullerton, CAIrvine, CAWestminster, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Internship - Data Analytics/Science/Applied Math"
+    },
+    {
+      "age": "19d",
       "applyUrl": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Edison International",
@@ -26837,6 +26852,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Test Engineer Intern"
+    },
+    {
+      "age": "16d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "503ac9551a93",
+      "jobType": "internship",
+      "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Physical Design Engineer Intern - BS"
     },
     {
       "age": "16d",
@@ -65540,7 +65570,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1926,
+    "Simplify Internships": 1928,
     "Simplify New Grad": 489,
     "SpeedyApply USA Internships": 672,
     "SpeedyApply USA New Grad": 730,
