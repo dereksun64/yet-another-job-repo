@@ -1,7 +1,7 @@
 {
-  "count": 4367,
-  "fetchedAt": "2026-09-20T13:30:38.478603+00:00",
-  "generatedAt": "2026-09-20T13:05:26.727588+00:00",
+  "count": 4369,
+  "fetchedAt": "2026-09-20T13:35:25.532942+00:00",
+  "generatedAt": "2026-09-20T13:35:25.532942+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -14300,6 +14300,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "93f67865e2f5",
+      "jobType": "internship",
+      "location": "Concord, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Intern - Performance Analysis"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "General Motors",
@@ -15182,6 +15197,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Amgen",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "6aa590b06414",
+      "jobType": "internship",
+      "location": "Remote in USA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Engineer Intern - Technology & Medical Organizations"
     },
     {
       "age": "9d",
@@ -65510,7 +65540,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1924,
+    "Simplify Internships": 1926,
     "Simplify New Grad": 489,
     "SpeedyApply USA Internships": 672,
     "SpeedyApply USA New Grad": 730,
