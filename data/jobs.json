@@ -1,7 +1,7 @@
 {
-  "count": 4367,
-  "fetchedAt": "2026-09-21T14:05:26.510330+00:00",
-  "generatedAt": "2026-09-21T13:35:29.455647+00:00",
+  "count": 4368,
+  "fetchedAt": "2026-09-21T14:10:33.641515+00:00",
+  "generatedAt": "2026-09-21T14:10:33.641515+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -14255,6 +14255,21 @@
     },
     {
       "age": "7d",
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Johnson & Johnson",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "ba5d551f31b9",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Robotics Controls & Autonomy Intern - Robotics R&D"
+    },
+    {
+      "age": "7d",
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Johnson & Johnson",
@@ -27080,6 +27095,21 @@
     },
     {
       "age": "17d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "80c99c704ddb",
+      "jobType": "internship",
+      "location": "Santa Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Functional Validation Intern - BS"
+    },
+    {
+      "age": "17d",
       "applyUrl": "https://www.tesla.com/careers/search/job/282340?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Tesla",
@@ -29462,21 +29492,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e6f45f840825",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Hardware In the Loop Software Engineer 1"
     },
     {
       "age": "7d",
@@ -65510,8 +65525,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1925,
-    "Simplify New Grad": 487,
+    "Simplify Internships": 1927,
+    "Simplify New Grad": 486,
     "SpeedyApply USA Internships": 675,
     "SpeedyApply USA New Grad": 731,
     "Vansh Internships": 214,
