@@ -1,7 +1,7 @@
 {
-  "count": 4388,
-  "fetchedAt": "2026-09-21T21:00:45.648315+00:00",
-  "generatedAt": "2026-09-21T20:35:33.140499+00:00",
+  "count": 4386,
+  "fetchedAt": "2026-09-21T21:05:28.320645+00:00",
+  "generatedAt": "2026-09-21T21:05:28.320645+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -17855,21 +17855,6 @@
     },
     {
       "age": "17d",
-      "applyUrl": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Analytic-Consulting-Advisor-Internship_100235?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Nationwide",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "619541fd99c2",
-      "jobType": "internship",
-      "location": "Columbus, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analytic Consulting Advisor Intern"
-    },
-    {
-      "age": "17d",
       "applyUrl": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Hy-Vee",
@@ -20419,7 +20404,7 @@
       "title": "Service Technology Research Intern - Summer 2027 \ud83c\udf93"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -24169,7 +24154,7 @@
       "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling \ud83c\udf93"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Schroders",
@@ -29809,21 +29794,6 @@
       "title": "Software Engineer 1 - Frontend - Upfunnel"
     },
     {
-      "age": "9d",
-      "applyUrl": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Commure",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f0f57461b90c",
-      "jobType": "full-time",
-      "location": "LAMountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer - Early Career"
-    },
-    {
       "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/perpay/jobs/4034578007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -30289,7 +30259,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InterSystems",
@@ -30664,7 +30634,7 @@
       "title": "Software Engineer 1 - Aviation Backend Web"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://careers.gov2x.com/jobs/62655?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "V2X",
@@ -30799,7 +30769,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SteerBridge",
@@ -65825,8 +65795,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1942,
-    "Simplify New Grad": 484,
+    "Simplify Internships": 1941,
+    "Simplify New Grad": 483,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 737,
     "Vansh Internships": 214,
