@@ -1,7 +1,7 @@
 {
-  "count": 4369,
-  "fetchedAt": "2026-09-21T11:05:25.644250+00:00",
-  "generatedAt": "2026-09-21T10:40:29.816214+00:00",
+  "count": 4371,
+  "fetchedAt": "2026-09-21T11:10:33.028475+00:00",
+  "generatedAt": "2026-09-21T11:10:33.028475+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10999,7 +10999,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "BNY",
@@ -13427,6 +13427,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Asset Management Intern"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "APEX Analytix",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4f88044e19fb",
+      "jobType": "internship",
+      "location": "Greensboro, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern"
     },
     {
       "age": "5d",
@@ -18947,6 +18962,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Analytics Intern - Data Science - Applied Math"
+    },
+    {
+      "age": "20d",
+      "applyUrl": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Edison International",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "465b540472b0",
+      "jobType": "internship",
+      "location": "4 locationsSanta Ana, CAFullerton, CAIrvine, CAWestminster, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Internship - Data Analytics/Science/Applied Math"
     },
     {
       "age": "20d",
@@ -65540,7 +65570,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1927,
+    "Simplify Internships": 1929,
     "Simplify New Grad": 487,
     "SpeedyApply USA Internships": 675,
     "SpeedyApply USA New Grad": 731,
