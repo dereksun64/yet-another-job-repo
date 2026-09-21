@@ -1,7 +1,7 @@
 {
-  "count": 4371,
-  "fetchedAt": "2026-09-21T11:30:41.787264+00:00",
-  "generatedAt": "2026-09-21T11:10:33.028475+00:00",
+  "count": 4369,
+  "fetchedAt": "2026-09-21T11:35:28.334291+00:00",
+  "generatedAt": "2026-09-21T11:35:28.334291+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21455,21 +21455,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "1e81dfdeda95",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Deep Learning Computer Architecture Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "American Express",
@@ -25127,21 +25112,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "SRAM Circuit Design Intern - MS \ud83c\udf93"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "16a2ca63c9bf",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Design for Test Intern - MS \ud83c\udf93"
     },
     {
       "age": "4d",
@@ -65570,7 +65540,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1929,
+    "Simplify Internships": 1927,
     "Simplify New Grad": 487,
     "SpeedyApply USA Internships": 675,
     "SpeedyApply USA New Grad": 731,
