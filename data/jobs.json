@@ -1,7 +1,7 @@
 {
-  "count": 4366,
-  "fetchedAt": "2026-09-21T07:00:49.566011+00:00",
-  "generatedAt": "2026-09-21T06:35:26.053284+00:00",
+  "count": 4367,
+  "fetchedAt": "2026-09-21T07:02:29.762164+00:00",
+  "generatedAt": "2026-09-21T07:02:29.762164+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -469,7 +469,7 @@
       "title": "Software Developer Intern - Java"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -3664,7 +3664,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "K2 Space",
@@ -5884,7 +5884,7 @@
       "title": "Research Intern - AI-Native Databases \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -25127,6 +25127,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "CesiumAstro",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "beabfec763f8",
+      "jobType": "internship",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Electrical Engineer Intern - Hardware"
     },
     {
       "age": "5d",
@@ -65495,7 +65510,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1924,
+    "Simplify Internships": 1925,
     "Simplify New Grad": 487,
     "SpeedyApply USA Internships": 675,
     "SpeedyApply USA New Grad": 731,
