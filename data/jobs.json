@@ -1,7 +1,7 @@
 {
-  "count": 4482,
-  "fetchedAt": "2026-09-22T19:03:58.278181+00:00",
-  "generatedAt": "2026-09-22T18:35:27.765500+00:00",
+  "count": 4481,
+  "fetchedAt": "2026-09-22T19:05:26.524410+00:00",
+  "generatedAt": "2026-09-22T19:05:26.524410+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31744,7 +31744,7 @@
       "title": "Software Engineer Rotational Program - Early Career"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -32786,21 +32786,6 @@
       "companyTier": "Tier 2",
       "degreeLevel": "unknown",
       "id": "587b91447755",
-      "jobType": "full-time",
-      "location": "6 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXBellevue, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer College Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Salesforce",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "3a3ec76e33f9",
       "jobType": "full-time",
       "location": "6 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXBellevue, WA",
       "salary": "",
@@ -35209,7 +35194,7 @@
       "title": "Customer Analytics & Insights Global Early Career Professional"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -67236,7 +67221,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2032,
-    "Simplify New Grad": 482,
+    "Simplify New Grad": 481,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
