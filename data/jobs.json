@@ -1,7 +1,7 @@
 {
-  "count": 4480,
-  "fetchedAt": "2026-09-22T15:00:52.649812+00:00",
-  "generatedAt": "2026-09-22T14:35:34.363215+00:00",
+  "count": 4481,
+  "fetchedAt": "2026-09-22T15:05:26.723083+00:00",
+  "generatedAt": "2026-09-22T15:05:26.723083+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -30514,7 +30514,7 @@
       "title": "Software Engineer New Grad - Engine"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TeleTracking",
@@ -31114,7 +31114,7 @@
       "title": "Platform Full-Stack Engineer New Grad"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Scale AI",
@@ -31594,7 +31594,7 @@
       "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -32224,7 +32224,7 @@
       "title": "Junior Software Engineer"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Google",
@@ -34744,7 +34744,7 @@
       "title": "Associate Product Manager New Grad - Multiple Teams"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 Robinhood",
@@ -34907,6 +34907,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Product Manager \u2013 New Grad"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
+      "company": "Tyson Foods",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a96c23a82564",
+      "jobType": "full-time",
+      "location": "Springdale, AR",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Data Engineer 1"
     },
     {
       "age": "3d",
@@ -67206,7 +67221,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2031,
-    "Simplify New Grad": 485,
+    "Simplify New Grad": 486,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 737,
     "Vansh Internships": 214,
