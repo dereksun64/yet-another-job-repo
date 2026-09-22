@@ -1,7 +1,7 @@
 {
-  "count": 4456,
-  "fetchedAt": "2026-09-22T14:00:47.926877+00:00",
-  "generatedAt": "2026-09-22T13:35:28.594249+00:00",
+  "count": 4455,
+  "fetchedAt": "2026-09-22T14:05:28.757643+00:00",
+  "generatedAt": "2026-09-22T14:05:28.757643+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -18950,21 +18950,6 @@
     },
     {
       "age": "18d",
-      "applyUrl": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Category-Analyst-Intern--Summer-2027-_WD50036?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Clarios",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "858764ff024f",
-      "jobType": "internship",
-      "location": "Milwaukee, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Category Analyst Intern"
-    },
-    {
-      "age": "18d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Applied Materials",
@@ -26959,21 +26944,6 @@
       "title": "Electrical Engineer Intern - Robotics R&D"
     },
     {
-      "age": "9d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "862336b8babb",
-      "jobType": "internship",
-      "location": "Santa Clara, CADurham, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "PhD Research Intern - Circuits \ud83c\udf93"
-    },
-    {
       "age": "10d",
       "applyUrl": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -28202,6 +28172,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "18d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d7b154cdbc4b",
+      "jobType": "internship",
+      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern"
     },
     {
       "age": "18d",
@@ -66845,7 +66830,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2008,
+    "Simplify Internships": 2007,
     "Simplify New Grad": 484,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 737,
