@@ -1,7 +1,7 @@
 {
   "count": 4457,
-  "fetchedAt": "2026-09-22T12:30:42.783543+00:00",
-  "generatedAt": "2026-09-22T12:05:28.355652+00:00",
+  "fetchedAt": "2026-09-22T12:35:25.431456+00:00",
+  "generatedAt": "2026-09-22T12:35:25.431456+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -245,6 +245,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "dcea0e9cad98",
+      "jobType": "internship",
+      "location": "4 locationsAustin, TXMilford, MIMountain View, CAWarren, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Digital Product: Software Engineering"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "GE Healthcare",
@@ -272,21 +287,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Fidelity Investments",
-      "companyTier": "Unlisted",
-      "degreeLevel": "masters",
-      "id": "c716490ed31a",
-      "jobType": "internship",
-      "location": "Boston, MAWestlake, TXDurham, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Undergraduate Internship - Software"
     },
     {
       "age": "1d",
@@ -14135,21 +14135,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "e15ef21a7f6d",
-      "jobType": "internship",
-      "location": "Remote in USASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "PhD Research Intern - Generalist Embodied Agents Research \ud83c\udf93"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Northwestern Mutual",
@@ -26927,6 +26912,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Electronics & Controls Intern"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "92e800cbb0b1",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Architecture Intern - MS \ud83c\udf93"
     },
     {
       "age": "8d",
