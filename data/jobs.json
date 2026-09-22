@@ -1,7 +1,7 @@
 {
-  "count": 4455,
-  "fetchedAt": "2026-09-22T13:30:43.051857+00:00",
-  "generatedAt": "2026-09-22T13:10:32.575754+00:00",
+  "count": 4456,
+  "fetchedAt": "2026-09-22T13:35:28.594249+00:00",
+  "generatedAt": "2026-09-22T13:35:28.594249+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15560,6 +15560,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "65c1ba01b85e",
+      "jobType": "internship",
+      "location": "Concord, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Race Strategy & Analytics Intern - IndyCar"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Dow Jones",
@@ -21257,6 +21272,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Scientist Intern"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Reporting-Analyst_JR26080667?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Manulife Financial",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "70b90705357d",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Reporting Analyst Intern"
     },
     {
       "age": "22d",
@@ -28172,21 +28202,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Firmware Engineer Intern \ud83c\udf93"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d7b154cdbc4b",
-      "jobType": "internship",
-      "location": "4 locationsMorrisville, NCSanta Clara, CABoise, IDWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Design for Test Intern"
     },
     {
       "age": "18d",
@@ -66830,7 +66845,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2007,
+    "Simplify Internships": 2008,
     "Simplify New Grad": 484,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 737,
