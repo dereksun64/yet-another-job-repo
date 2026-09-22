@@ -1,7 +1,7 @@
 {
-  "count": 4481,
-  "fetchedAt": "2026-09-22T20:00:57.492223+00:00",
-  "generatedAt": "2026-09-22T19:35:27.435410+00:00",
+  "count": 4480,
+  "fetchedAt": "2026-09-22T20:05:26.546251+00:00",
+  "generatedAt": "2026-09-22T20:05:26.546251+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31729,7 +31729,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InterSystems",
@@ -32074,7 +32074,7 @@
       "title": "Software Engineer 1 - Aviation Backend Web"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://careers.gov2x.com/jobs/62655?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "V2X",
@@ -32777,21 +32777,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Backend Inference Runtime Engineer New Grad - AML Inference"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Salesforce",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "587b91447755",
-      "jobType": "full-time",
-      "location": "6 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXBellevue, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer College Grad"
     },
     {
       "age": "1mo",
@@ -67221,7 +67206,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2032,
-    "Simplify New Grad": 481,
+    "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
