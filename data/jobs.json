@@ -1,7 +1,7 @@
 {
-  "count": 4488,
-  "fetchedAt": "2026-09-22T17:30:48.553807+00:00",
-  "generatedAt": "2026-09-22T17:10:31.758438+00:00",
+  "count": 4485,
+  "fetchedAt": "2026-09-22T17:35:24.812231+00:00",
+  "generatedAt": "2026-09-22T17:35:24.812231+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -21844,7 +21844,7 @@
       "title": "Data Engineering Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "WhiteWater Midstream",
@@ -25427,21 +25427,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling \ud83c\udf93"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Schroders",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5ca81aa67528",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Public Markets Quants Intern - Quants (Public Markets)"
     },
     {
       "age": "26d",
@@ -31640,21 +31625,6 @@
     },
     {
       "age": "17d",
-      "applyUrl": "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics Mission Systems",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "34e1a2eb2859",
-      "jobType": "full-time",
-      "location": "Lakewood, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "17d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59974?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -37427,21 +37397,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Ciena",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5aeb14c2ac94",
-      "jobType": "full-time",
-      "location": "Ottawa, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Software Developer New Grad"
     },
     {
       "age": "1mo",
@@ -67325,8 +67280,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2036,
-    "Simplify New Grad": 485,
+    "Simplify Internships": 2035,
+    "Simplify New Grad": 483,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
