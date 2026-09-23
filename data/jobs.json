@@ -1,7 +1,7 @@
 {
-  "count": 4490,
-  "fetchedAt": "2026-09-23T12:05:27.177932+00:00",
-  "generatedAt": "2026-09-23T11:35:27.766526+00:00",
+  "count": 4492,
+  "fetchedAt": "2026-09-23T12:10:31.668544+00:00",
+  "generatedAt": "2026-09-23T12:10:31.668544+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15935,6 +15935,21 @@
     },
     {
       "age": "9d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "93f67865e2f5",
+      "jobType": "internship",
+      "location": "Concord, NC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Intern - Performance Analysis"
+    },
+    {
+      "age": "9d",
       "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "General Motors",
@@ -27362,6 +27377,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Electronics & Controls Intern"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "92e800cbb0b1",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Architecture Intern - MS \ud83c\udf93"
     },
     {
       "age": "9d",
@@ -67355,7 +67385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2037,
+    "Simplify Internships": 2039,
     "Simplify New Grad": 483,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
