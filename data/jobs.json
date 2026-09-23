@@ -1,7 +1,7 @@
 {
-  "count": 4551,
-  "fetchedAt": "2026-09-23T20:05:24.344166+00:00",
-  "generatedAt": "2026-09-23T19:35:26.503572+00:00",
+  "count": 4550,
+  "fetchedAt": "2026-09-23T20:10:30.585715+00:00",
+  "generatedAt": "2026-09-23T20:10:30.585715+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -32254,7 +32254,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "InterSystems",
@@ -34382,21 +34382,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Engineer - C++"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "5af15a3ca0ae",
-      "jobType": "full-time",
-      "location": "CanadaSanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Backend Compiler Engineer New Grad"
     },
     {
       "age": "2mo",
@@ -68271,7 +68256,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2068,
-    "Simplify New Grad": 482,
+    "Simplify New Grad": 481,
     "SpeedyApply USA Internships": 706,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
