@@ -1,7 +1,7 @@
 {
-  "count": 4499,
-  "fetchedAt": "2026-09-23T11:00:50.272878+00:00",
-  "generatedAt": "2026-09-23T10:35:27.277204+00:00",
+  "count": 4495,
+  "fetchedAt": "2026-09-23T11:05:27.976653+00:00",
+  "generatedAt": "2026-09-23T11:05:27.976653+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1745,21 +1745,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Collier Aerospace",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c016c43e7416",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Feature Development Intern - NCSG"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Ragle Inc",
@@ -2102,6 +2087,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Duolingo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f2cfb4bef89a",
+      "jobType": "internship",
+      "location": "Pittsburgh, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Thrive"
     },
     {
       "age": "7d",
@@ -4130,6 +4130,21 @@
     },
     {
       "age": "13d",
+      "applyUrl": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Collier Aerospace",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d4b20f7a662a",
+      "jobType": "internship",
+      "location": "Newport News, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Web Applications - Summer 2027"
+    },
+    {
+      "age": "13d",
       "applyUrl": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nova-Tech",
@@ -6062,21 +6077,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Intern"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://careers.kindermorgan.com/jobs/6171?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Kinder Morgan",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5d0583e18100",
-      "jobType": "internship",
-      "location": "Colorado Springs, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Intern - IT"
     },
     {
       "age": "20d",
@@ -10940,6 +10940,21 @@
     },
     {
       "age": "6d",
+      "applyUrl": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Zurn Elkay Water Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "af6c9bc44ec7",
+      "jobType": "internship",
+      "location": "Paso Robles, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern"
+    },
+    {
+      "age": "6d",
       "applyUrl": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Watts Water",
@@ -11659,7 +11674,7 @@
       "title": "Associate Product Manager New Grad"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "BNY",
@@ -25820,36 +25835,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://higher.gs.com/roles/175421?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "0ac951a08c91",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://higher.gs.com/roles/171548?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "88ed4c214f34",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://higher.gs.com/roles/171547?type=students&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Goldman Sachs",
@@ -25862,36 +25847,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://higher.gs.com/roles/171551?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "41219d857bc8",
-      "jobType": "internship",
-      "location": "Salt Lake City, UT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://higher.gs.com/roles/175427?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "14d0f0167e02",
-      "jobType": "internship",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -51155,21 +51110,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
-      "category": "Software Engineering",
-      "company": "Duolingo",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f2cfb4bef89a",
-      "jobType": "internship",
-      "location": "Pittsburgh, PA",
-      "salary": "",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "Software Engineer - Thrive Intern"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
       "category": "Software Engineering",
       "company": "GDIT",
@@ -67490,7 +67430,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2043,
+    "Simplify Internships": 2040,
     "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
