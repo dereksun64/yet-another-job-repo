@@ -1,7 +1,7 @@
 {
-  "count": 4526,
-  "fetchedAt": "2026-09-23T04:35:22.024674+00:00",
-  "generatedAt": "2026-09-23T04:35:22.024674+00:00",
+  "count": 4525,
+  "fetchedAt": "2026-09-23T04:40:29.974834+00:00",
+  "generatedAt": "2026-09-23T04:40:29.974834+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -731,21 +731,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "05eb43e79b96",
-      "jobType": "internship",
-      "location": "McLean, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - University"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249804?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c4b4821564d9",
       "jobType": "internship",
       "location": "McLean, VA",
       "salary": "",
@@ -6049,7 +6034,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hadrian",
@@ -6649,7 +6634,7 @@
       "title": "Mission Systems Engineering Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "\ud83d\udd25 Tesla",
@@ -19579,7 +19564,7 @@
       "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Hadrian",
@@ -29344,7 +29329,7 @@
       "title": "Hardware Design Verification Engineer Intern/Co-op"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Apex",
@@ -67895,7 +67880,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2071,
+    "Simplify Internships": 2070,
     "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
