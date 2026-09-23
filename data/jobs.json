@@ -1,7 +1,7 @@
 {
-  "count": 4527,
-  "fetchedAt": "2026-09-23T04:30:42.210896+00:00",
-  "generatedAt": "2026-09-23T04:05:24.682933+00:00",
+  "count": 4526,
+  "fetchedAt": "2026-09-23T04:35:22.024674+00:00",
+  "generatedAt": "2026-09-23T04:35:22.024674+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -35075,21 +35075,6 @@
     },
     {
       "age": "5mo",
-      "applyUrl": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "EvenUp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "941ca2e2a58b",
-      "jobType": "full-time",
-      "location": "Toronto, ON, CanadaSF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer \u2013 New Grad - Cases Product"
-    },
-    {
-      "age": "5mo",
       "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sigma Computing",
@@ -67911,7 +67896,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2071,
-    "Simplify New Grad": 486,
+    "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
