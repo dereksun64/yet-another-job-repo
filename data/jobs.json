@@ -1,7 +1,7 @@
 {
-  "count": 4501,
-  "fetchedAt": "2026-09-23T06:35:24.850998+00:00",
-  "generatedAt": "2026-09-23T06:35:24.850998+00:00",
+  "count": 4502,
+  "fetchedAt": "2026-09-23T06:40:36.122329+00:00",
+  "generatedAt": "2026-09-23T06:40:36.122329+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -36800,6 +36800,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
+      "company": "Hewlett Packard Enterprise",
+      "companyTier": "Tier 4",
+      "degreeLevel": "unknown",
+      "id": "8d10b8fa326c",
+      "jobType": "full-time",
+      "location": "Spring, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Electrical/Hardware Engineer 1"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Cirrus Logic",
@@ -67521,7 +67536,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2047,
-    "Simplify New Grad": 484,
+    "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
