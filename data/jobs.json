@@ -1,7 +1,7 @@
 {
-  "count": 4501,
-  "fetchedAt": "2026-09-23T14:35:25.399301+00:00",
-  "generatedAt": "2026-09-23T14:35:25.399301+00:00",
+  "count": 4503,
+  "fetchedAt": "2026-09-23T14:40:31.459771+00:00",
+  "generatedAt": "2026-09-23T14:40:31.459771+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -30740,6 +30740,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Honeywell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "54205c6176e5",
+      "jobType": "full-time",
+      "location": "Duluth, GA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Authentic",
@@ -31279,7 +31294,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8126667&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tower Research Capital",
@@ -31399,7 +31414,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -31414,7 +31429,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "8d",
+      "age": "9d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -34925,6 +34940,21 @@
     },
     {
       "age": "8d",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "\ud83d\udd25 Google",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "eadac5297591",
+      "jobType": "full-time",
+      "location": "4 locationsSan Jose, CASan Bruno, CANYCMountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Associate Product Manager - University Graduate"
+    },
+    {
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 Robinhood",
@@ -35239,7 +35269,7 @@
       "title": "Data Scientist New Grad"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "ID.me",
@@ -67521,7 +67551,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2049,
-    "Simplify New Grad": 482,
+    "Simplify New Grad": 484,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
     "Vansh Internships": 214,
