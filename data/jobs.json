@@ -1,7 +1,7 @@
 {
-  "count": 4488,
-  "fetchedAt": "2026-09-23T13:30:40.620039+00:00",
-  "generatedAt": "2026-09-23T13:05:25.463328+00:00",
+  "count": 4490,
+  "fetchedAt": "2026-09-23T13:35:27.914735+00:00",
+  "generatedAt": "2026-09-23T13:35:27.914735+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1322,21 +1322,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern - Maneuvering Tech"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Visa",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "127a25eddd6b",
-      "jobType": "internship",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "6d",
@@ -16805,6 +16790,21 @@
     },
     {
       "age": "12d",
+      "applyUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Amgen",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "6aa590b06414",
+      "jobType": "internship",
+      "location": "Remote in USA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Engineer Intern - Technology & Medical Organizations"
+    },
+    {
+      "age": "12d",
       "applyUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Amgen",
@@ -26510,6 +26510,21 @@
     },
     {
       "age": "2d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2aab3eef76cf",
+      "jobType": "internship",
+      "location": "5 locationsHudson Valley, NYAustin, TXIrvine, CASanta Clara, CABoise, ID",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Digital IC Design Intern \ud83c\udf93"
+    },
+    {
+      "age": "2d",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Marvell",
@@ -26777,6 +26792,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Electrical Engineer Co-op - Summer/Fall"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "89a0446d9d0c",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Design for Test Intern - MS \ud83c\udf93"
     },
     {
       "age": "6d",
@@ -67325,7 +67355,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2036,
+    "Simplify Internships": 2038,
     "Simplify New Grad": 482,
     "SpeedyApply USA Internships": 676,
     "SpeedyApply USA New Grad": 740,
