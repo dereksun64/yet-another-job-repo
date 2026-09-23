@@ -1,7 +1,7 @@
 {
-  "count": 4548,
-  "fetchedAt": "2026-09-23T22:05:25.933093+00:00",
-  "generatedAt": "2026-09-23T22:05:25.933093+00:00",
+  "count": 4545,
+  "fetchedAt": "2026-09-23T22:10:32.979623+00:00",
+  "generatedAt": "2026-09-23T22:10:32.979623+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -440,21 +440,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "819a5c74d05a",
-      "jobType": "internship",
-      "location": "Sterling, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tyler Technologies",
@@ -761,21 +746,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "cbb6e38ce046",
-      "jobType": "internship",
-      "location": "McLean, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - University"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c815db5de4bc",
       "jobType": "internship",
       "location": "McLean, VA",
       "salary": "",
@@ -3062,21 +3032,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Engineer Intern - Undergraduate \ud83c\udf93"
-    },
-    {
-      "age": "9d",
-      "applyUrl": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Wex",
-      "companyTier": "Unlisted",
-      "degreeLevel": "bachelors",
-      "id": "0633b0a69d99",
-      "jobType": "internship",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Full-Stack Software Engineer Intern - Undergraduate"
     },
     {
       "age": "9d",
@@ -20314,7 +20269,7 @@
       "title": "Computing Intern - Summer Undergraduate Internship Program"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Southern Star Central Gas Pipeline",
@@ -30244,7 +30199,7 @@
       "title": "Embedded Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -68225,7 +68180,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2067,
+    "Simplify Internships": 2064,
     "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 706,
     "SpeedyApply USA New Grad": 749,
