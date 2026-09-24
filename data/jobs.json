@@ -1,7 +1,7 @@
 {
-  "count": 4557,
-  "fetchedAt": "2026-09-24T08:30:44.982446+00:00",
-  "generatedAt": "2026-09-24T08:05:26.563570+00:00",
+  "count": 4554,
+  "fetchedAt": "2026-09-24T08:35:24.155118+00:00",
+  "generatedAt": "2026-09-24T08:35:24.155118+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9842,21 +9842,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Engineer Intern - Network Automation - 2027 Summer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Axon",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e7b60fbb5582",
-      "jobType": "internship",
-      "location": "Boston, MASeattle, WA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -23750,21 +23735,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Deloitte",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "213bff724147",
-      "jobType": "internship",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quantbot Technologies",
@@ -36467,21 +36437,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Machine Learning Infrastructure Engineer New Grad - Ads Infra"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "State Street",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "938849c7f44f",
-      "jobType": "full-time",
-      "location": "Quincy, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior SIEM Data Engineer"
     },
     {
       "age": "1mo",
@@ -68360,8 +68315,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2066,
-    "Simplify New Grad": 489,
+    "Simplify Internships": 2064,
+    "Simplify New Grad": 488,
     "SpeedyApply USA Internships": 706,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
