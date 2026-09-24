@@ -1,7 +1,7 @@
 {
-  "count": 4579,
-  "fetchedAt": "2026-09-24T21:30:40.241976+00:00",
-  "generatedAt": "2026-09-24T20:35:26.531120+00:00",
+  "count": 4577,
+  "fetchedAt": "2026-09-24T21:35:26.325067+00:00",
+  "generatedAt": "2026-09-24T21:35:26.325067+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31924,7 +31924,7 @@
       "title": "Software Engineer 1 - Aspire Graduate Program"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://nexthopai.bamboohr.com/careers/62/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nexthop.ai",
@@ -32944,7 +32944,7 @@
       "title": "Software Engineer New Grad - 2027 Start"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Maximor AI",
@@ -32959,7 +32959,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -35989,7 +35989,7 @@
       "title": "Data Scientist/Engineer New Grad - Analytic Capabilities \ud83c\udf93"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "True Anomaly",
@@ -36004,7 +36004,7 @@
       "title": "Data Science Software Engineer 1 New Grad - Data Science"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -36182,36 +36182,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data Engineering New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "SentiLink",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "75936d333c68",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Research Scientist New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "SentiLink",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c8ece2d0602b",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Quantitative Scientist New Grad - Multiple Teams"
     },
     {
       "age": "1mo",
@@ -37789,7 +37759,7 @@
       "title": "ASIC Synthesis and STA Engineer New Grad"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -68691,7 +68661,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2079,
-    "Simplify New Grad": 482,
+    "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 724,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
