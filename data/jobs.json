@@ -1,7 +1,7 @@
 {
-  "count": 4607,
-  "fetchedAt": "2026-09-25T19:05:27.903622+00:00",
-  "generatedAt": "2026-09-25T19:05:27.903622+00:00",
+  "count": 4606,
+  "fetchedAt": "2026-09-25T19:10:30.358137+00:00",
+  "generatedAt": "2026-09-25T19:10:30.358137+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -32225,21 +32225,6 @@
     },
     {
       "age": "11d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "edf3f30cc273",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "11d",
       "applyUrl": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Mimecast",
@@ -32764,7 +32749,7 @@
       "title": "Software Engineer Rotational Program - Early Career"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -36139,7 +36124,7 @@
       "title": "Customer Analytics & Insights Global Early Career Professional"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -69111,7 +69096,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2089,
-    "Simplify New Grad": 492,
+    "Simplify New Grad": 491,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
