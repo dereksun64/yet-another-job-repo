@@ -1,7 +1,7 @@
 {
-  "count": 4616,
-  "fetchedAt": "2026-09-25T17:30:40.648360+00:00",
-  "generatedAt": "2026-09-25T17:10:30.960975+00:00",
+  "count": 4615,
+  "fetchedAt": "2026-09-25T17:35:29.904770+00:00",
+  "generatedAt": "2026-09-25T17:35:29.904770+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8387,21 +8387,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AbbVie",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "499b3b2be9e5",
-      "jobType": "internship",
-      "location": "Irvine, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Business Technology Solutions Intern - Data & Software Engineering"
     },
     {
       "age": "30d",
@@ -22579,7 +22564,7 @@
       "title": "Data Engineering Intern - Summer 2027"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "WhiteWater Midstream",
@@ -69245,7 +69230,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2098,
+    "Simplify Internships": 2097,
     "Simplify New Grad": 492,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 749,
