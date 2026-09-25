@@ -1,7 +1,7 @@
 {
-  "count": 4607,
-  "fetchedAt": "2026-09-25T08:35:21.657109+00:00",
-  "generatedAt": "2026-09-25T08:10:30.385096+00:00",
+  "count": 4604,
+  "fetchedAt": "2026-09-25T08:40:30.545706+00:00",
+  "generatedAt": "2026-09-25T08:40:30.545706+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2732,21 +2732,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Computer Engineer Intern - Shipboard Systems Group"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "U.S. Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4f1ba3cc6c08",
-      "jobType": "internship",
-      "location": "Hopkins, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Intern"
     },
     {
       "age": "10d",
@@ -14180,21 +14165,6 @@
     },
     {
       "age": "3d",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813501949?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Boston Scientific",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "f8e005503b23",
-      "jobType": "internship",
-      "location": "Maple Grove, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineer Intern"
-    },
-    {
-      "age": "3d",
       "applyUrl": "https://koch.avature.net/en_US/careers/JobDetail/194813?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Koch Industries",
@@ -16202,6 +16172,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "PMO/Data Analyst Intern"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Highgate",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "55d01969e165",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Revenue Management Intern - Summer 2027"
     },
     {
       "age": "10d",
@@ -22652,21 +22637,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Infrastructure Engineer Intern - Recommendation & LLM"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "The Hartford",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bf26d8eb4fdb",
-      "jobType": "internship",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineer Intern - Technology, Data, AI, and Operations"
     },
     {
       "age": "30d",
@@ -35582,21 +35552,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "New Grad Software Engineer - Backend Rust"
-    },
-    {
-      "age": "6mo",
-      "applyUrl": "https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Wyetech",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f57ce91a68ea",
-      "jobType": "full-time",
-      "location": "Halethorpe, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "6mo",
@@ -69110,8 +69065,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2092,
-    "Simplify New Grad": 496,
+    "Simplify Internships": 2090,
+    "Simplify New Grad": 495,
     "SpeedyApply USA Internships": 724,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
