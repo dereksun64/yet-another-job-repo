@@ -1,7 +1,7 @@
 {
-  "count": 4602,
-  "fetchedAt": "2026-09-25T21:05:26.130341+00:00",
-  "generatedAt": "2026-09-25T20:35:27.071174+00:00",
+  "count": 4599,
+  "fetchedAt": "2026-09-25T21:10:35.642518+00:00",
+  "generatedAt": "2026-09-25T21:10:35.642518+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4517,21 +4517,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "16d",
-      "applyUrl": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "HMH",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5f4c64dfaa2c",
-      "jobType": "internship",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "16d",
@@ -22189,7 +22174,7 @@
       "title": "Service Technology Research Intern - Summer 2027 \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "CSX",
@@ -23923,21 +23908,6 @@
       "id": "7866f2fe1813",
       "jobType": "internship",
       "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Machine Learning Intern - Special Projects - Epic Research Group \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Epic Games",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eae52d02324e",
-      "jobType": "internship",
-      "location": "Montreal, QC, Canada",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -31802,21 +31772,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 0 - Multiple Teams"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Visa",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "f1923d37a196",
-      "jobType": "full-time",
-      "location": "Foster City, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "8d",
@@ -69035,8 +68990,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2087,
-    "Simplify New Grad": 489,
+    "Simplify Internships": 2085,
+    "Simplify New Grad": 488,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
