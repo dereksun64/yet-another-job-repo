@@ -1,7 +1,7 @@
 {
-  "count": 4612,
-  "fetchedAt": "2026-09-25T18:30:41.063798+00:00",
-  "generatedAt": "2026-09-25T18:05:27.139781+00:00",
+  "count": 4608,
+  "fetchedAt": "2026-09-25T18:35:24.050477+00:00",
+  "generatedAt": "2026-09-25T18:35:24.050477+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1025,21 +1025,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Lazard",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9d5a1953daab",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Engineer Intern"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "AutoZone",
@@ -1228,36 +1213,6 @@
       "id": "741b613f5530",
       "jobType": "internship",
       "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "05eb43e79b96",
-      "jobType": "internship",
-      "location": "McLean, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - University"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fba1f750191b",
-      "jobType": "internship",
-      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -1982,21 +1937,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Co-op - Full Stack"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Persona",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a1bd54cb730b",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "8d",
@@ -2959,7 +2899,7 @@
       "title": "Full Stack Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Emerson Electric",
@@ -6949,7 +6889,7 @@
       "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Western & Southern Financial Group",
@@ -6964,7 +6904,7 @@
       "title": "Software Development Intern"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Dev Technology Group",
@@ -6979,7 +6919,7 @@
       "title": "AI/Agentic Solution Engineer Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Dev Technology Group",
@@ -6994,7 +6934,7 @@
       "title": "React/Node Developer Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Pella",
@@ -8554,7 +8494,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -8569,7 +8509,7 @@
       "title": "Mobile Software Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -8584,7 +8524,7 @@
       "title": "Security Software Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -8599,7 +8539,7 @@
       "title": "Frontend Software Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -12334,7 +12274,7 @@
       "title": "Product Management Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Vertiv",
@@ -20749,7 +20689,7 @@
       "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://careers-westernsouthern.icims.com/jobs/25195/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Western & Southern Financial Group",
@@ -20764,7 +20704,7 @@
       "title": "Digital Analytics Intern - Spring or Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Western & Southern Financial Group",
@@ -20779,7 +20719,7 @@
       "title": "Data Engineering and Analytics Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Dev Technology Group",
@@ -20794,7 +20734,7 @@
       "title": "Microsoft Power Platform & AI Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Dev Technology Group",
@@ -20809,7 +20749,7 @@
       "title": "AI/ML Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Pella",
@@ -22504,7 +22444,7 @@
       "title": "Geographic Information Systems Co-op"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Verisk",
@@ -25969,7 +25909,7 @@
       "title": "Quantitative Analyst Summer Associate - Quantitative Technology Services"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8037860&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Tower Research Capital",
@@ -26149,7 +26089,7 @@
       "title": "Model Risk Management Intern - 2027 Internship Program"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "AQR Capital Management",
@@ -30724,7 +30664,7 @@
       "title": "Embedded Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -32209,7 +32149,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "C3.ai",
@@ -32854,7 +32794,7 @@
       "title": "Software Developer New Grad - Engagement Optimization"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -36229,7 +36169,7 @@
       "title": "Data Analyst New Grad - Engagement Optimization"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "American Express",
@@ -69185,7 +69125,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2094,
+    "Simplify Internships": 2090,
     "Simplify New Grad": 492,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 749,
