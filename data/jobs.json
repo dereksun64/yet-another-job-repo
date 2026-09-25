@@ -1,7 +1,7 @@
 {
   "count": 4599,
-  "fetchedAt": "2026-09-25T14:00:48.769814+00:00",
-  "generatedAt": "2026-09-25T13:35:34.249218+00:00",
+  "fetchedAt": "2026-09-25T14:05:25.136152+00:00",
+  "generatedAt": "2026-09-25T14:05:25.136152+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4217,21 +4217,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Co-op"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "935eb953bc16",
-      "jobType": "internship",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "15d",
@@ -8990,6 +8975,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Freddie Mac",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "ffb7ef915148",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multifamily Software Development Intern - Summer 2027"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "DuCharme, McMillen & Associates",
@@ -11135,21 +11135,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Invesco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bd1fd4c48140",
-      "jobType": "internship",
-      "location": "Downers Grove, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "ETF Product Intern"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Invesco",
@@ -11192,6 +11177,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Early Career Intern - Private Markets Product"
+    },
+    {
+      "age": "8d",
+      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572-1?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Invesco",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1ab924b6629b",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "ETF Product Development Intern - Early Career"
     },
     {
       "age": "8d",
