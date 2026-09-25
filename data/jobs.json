@@ -1,7 +1,7 @@
 {
-  "count": 4606,
-  "fetchedAt": "2026-09-25T11:30:42.782447+00:00",
-  "generatedAt": "2026-09-25T11:05:26.931175+00:00",
+  "count": 4601,
+  "fetchedAt": "2026-09-25T11:35:24.823952+00:00",
+  "generatedAt": "2026-09-25T11:35:24.823952+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1835,36 +1835,6 @@
     },
     {
       "age": "8d",
-      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Visa",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "f18987e19b04",
-      "jobType": "internship",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Visa",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "5666866ac1d5",
-      "jobType": "internship",
-      "location": "Denver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "8d",
       "applyUrl": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Vanguard",
@@ -2042,21 +2012,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/RPA-Engineering-Developer-Intern_R2026350?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Blue Cross and Blue Shield of Kansas",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ac968e6087f6",
-      "jobType": "internship",
-      "location": "Topeka, KS",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "RPA Engineer Intern"
     },
     {
       "age": "8d",
@@ -29432,36 +29387,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Design Verification Intern - BS - Summer 2027"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b54230f4ed5c",
-      "jobType": "internship",
-      "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Physical Design Engineer Intern - BS"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "050d1169d8bd",
-      "jobType": "internship",
-      "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Physical Design Engineer Intern - MS - Multiple Teams \ud83c\udf93"
     },
     {
       "age": "21d",
@@ -69095,7 +69020,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2094,
+    "Simplify Internships": 2089,
     "Simplify New Grad": 493,
     "SpeedyApply USA Internships": 724,
     "SpeedyApply USA New Grad": 749,
