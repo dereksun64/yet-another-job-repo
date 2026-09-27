@@ -1,7 +1,7 @@
 {
-  "count": 4579,
-  "fetchedAt": "2026-09-27T00:30:38.293139+00:00",
-  "generatedAt": "2026-09-27T00:10:27.447928+00:00",
+  "count": 4578,
+  "fetchedAt": "2026-09-27T00:35:23.487328+00:00",
+  "generatedAt": "2026-09-27T00:35:23.487328+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -122,21 +122,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Co-op"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "First Citizens BancShares",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2a37d2972a33",
-      "jobType": "internship",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "IT Intern - Software Developer"
     },
     {
       "age": "1d",
@@ -8104,7 +8089,7 @@
       "title": "Robotics Software Intern - Manipulation"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Charles Schwab",
@@ -8224,7 +8209,7 @@
       "title": "Performance Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Auto-Owners Insurance",
@@ -22054,7 +22039,7 @@
       "title": "Machine Learning Engineer Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Charles Schwab",
@@ -68690,7 +68675,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2070,
+    "Simplify Internships": 2069,
     "Simplify New Grad": 484,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 747,
