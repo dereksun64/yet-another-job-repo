@@ -1,7 +1,7 @@
 {
-  "count": 4571,
-  "fetchedAt": "2026-09-27T09:00:47.364459+00:00",
-  "generatedAt": "2026-09-27T08:05:23.002811+00:00",
+  "count": 4570,
+  "fetchedAt": "2026-09-27T09:05:25.438495+00:00",
+  "generatedAt": "2026-09-27T09:05:25.438495+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -4172,6 +4172,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Technology Undergraduate Intern"
+    },
+    {
+      "age": "17d",
+      "applyUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Walmart",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "7a365efd80a0",
+      "jobType": "internship",
+      "location": "Bentonville, ARBellevue, WASunnyvale, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer 2 Intern"
     },
     {
       "age": "17d",
@@ -10952,21 +10967,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "ETF Product Intern"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Invesco",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "58fe3850f911",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Early Career Intern - Private Markets Product"
     },
     {
       "age": "10d",
@@ -28967,21 +28967,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Physical Design Engineer Intern - BS"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "67d7de591710",
-      "jobType": "internship",
-      "location": "5 locationsMorrisville, NCAustin, TXSanta Clara, CABoise, IDWestborough, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Design Verification Intern - BS - Summer 2027"
     },
     {
       "age": "23d",
@@ -68570,7 +68555,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2064,
+    "Simplify Internships": 2063,
     "Simplify New Grad": 482,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 747,
