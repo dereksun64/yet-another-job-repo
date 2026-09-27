@@ -1,7 +1,7 @@
 {
-  "count": 4567,
-  "fetchedAt": "2026-09-27T12:30:39.224049+00:00",
-  "generatedAt": "2026-09-27T12:05:26.596896+00:00",
+  "count": 4568,
+  "fetchedAt": "2026-09-27T12:35:25.685283+00:00",
+  "generatedAt": "2026-09-27T12:35:25.685283+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -1337,6 +1337,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern - Summer Internship Program"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "dcea0e9cad98",
+      "jobType": "internship",
+      "location": "4 locationsAustin, TXMilford, MIMountain View, CAWarren, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Digital Product: Software Engineering"
     },
     {
       "age": "6d",
@@ -68510,7 +68525,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2061,
+    "Simplify Internships": 2062,
     "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 747,
