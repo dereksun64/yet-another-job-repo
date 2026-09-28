@@ -1,7 +1,7 @@
 {
-  "count": 4546,
-  "fetchedAt": "2026-09-28T12:00:50.716766+00:00",
-  "generatedAt": "2026-09-28T11:35:26.723761+00:00",
+  "count": 4545,
+  "fetchedAt": "2026-09-28T12:05:26.609134+00:00",
+  "generatedAt": "2026-09-28T12:05:26.609134+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -317,6 +317,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Application Developer Co-op"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Cencora",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7ba3c554124e",
+      "jobType": "internship",
+      "location": "Remote in USA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Intern"
     },
     {
       "age": "3d",
@@ -13415,21 +13430,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "271e887c3ab3",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "PhD Research Intern - Quantum Simulation and AI \ud83c\udf93"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Jabil",
@@ -15497,21 +15497,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Service Sales Intern - IB Focus"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "masters",
-      "id": "64c7132cd409",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "PhD Research Intern - Generative AI for Physical AI \ud83c\udf93"
     },
     {
       "age": "13d",
@@ -68195,7 +68180,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2040,
+    "Simplify Internships": 2039,
     "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 745,
