@@ -1,7 +1,7 @@
 {
-  "count": 4542,
-  "fetchedAt": "2026-09-28T14:00:51.493464+00:00",
-  "generatedAt": "2026-09-28T13:35:27.233826+00:00",
+  "count": 4539,
+  "fetchedAt": "2026-09-28T14:05:26.039563+00:00",
+  "generatedAt": "2026-09-28T14:05:26.039563+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -1226,21 +1226,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "a4c6f68bc6cd",
-      "jobType": "internship",
-      "location": "Plano, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Upbound Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0ea5a25aa99d",
       "jobType": "internship",
       "location": "Plano, TX",
       "salary": "",
@@ -3407,21 +3392,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Global Markets Analyst - Electronic Trading"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "51f9590855e0",
-      "jobType": "internship",
-      "location": "Remote in USASterling, VADenver, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
     },
     {
       "age": "14d",
@@ -13367,21 +13337,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Factory Enablement Digital Engineer Co-op"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "ba2bcc72db65",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern - Electronic Design Automation \ud83c\udf93"
     },
     {
       "age": "5d",
@@ -68135,7 +68090,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2036,
+    "Simplify Internships": 2033,
     "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 745,
