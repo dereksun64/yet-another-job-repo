@@ -1,7 +1,7 @@
 {
-  "count": 4531,
-  "fetchedAt": "2026-09-28T17:30:40.633730+00:00",
-  "generatedAt": "2026-09-28T17:10:30.478688+00:00",
+  "count": 4529,
+  "fetchedAt": "2026-09-28T17:35:25.188760+00:00",
+  "generatedAt": "2026-09-28T17:35:25.188760+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -34805,21 +34805,6 @@
     },
     {
       "age": "4d",
-      "applyUrl": "https://jobs.smartrecruiters.com/IPTGlobal/744000151598799?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "IPT Global",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "cb90ff956494",
-      "jobType": "full-time",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Scientist - Petroleum Engineering & Well Integrity"
-    },
-    {
-      "age": "4d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Applied Materials",
@@ -37382,21 +37367,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Research Scientist New Grad - Circuits \ud83c\udf93"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "db453b6f29d3",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Circuit Design Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "3mo",
@@ -67971,7 +67941,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2024,
-    "Simplify New Grad": 480,
+    "Simplify New Grad": 478,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
