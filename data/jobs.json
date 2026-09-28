@@ -1,7 +1,7 @@
 {
-  "count": 4532,
-  "fetchedAt": "2026-09-28T17:05:25.461791+00:00",
-  "generatedAt": "2026-09-28T16:35:25.739425+00:00",
+  "count": 4531,
+  "fetchedAt": "2026-09-28T17:10:30.478688+00:00",
+  "generatedAt": "2026-09-28T17:10:30.478688+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -422,21 +422,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Radiance Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "517ab17d61f9",
-      "jobType": "internship",
-      "location": "Dayton, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "4d",
@@ -4640,21 +4625,6 @@
     },
     {
       "age": "19d",
-      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RF-SMART",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "030d29f446c3",
-      "jobType": "internship",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Support Engineer Intern - Netsuite"
-    },
-    {
-      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Viam",
@@ -5194,7 +5164,7 @@
       "title": "Application Engineering Intern - Summer 2027"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8106224&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Dropbox",
@@ -6754,7 +6724,7 @@
       "title": "Software Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 ByteDance",
@@ -53765,6 +53735,21 @@
     },
     {
       "age": "18d",
+      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008",
+      "category": "Software Engineering",
+      "company": "RF-SMART",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "030d29f446c3",
+      "jobType": "internship",
+      "location": "West, TX +1",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Support Engineer Internship - NetSuite - Summer 2027"
+    },
+    {
+      "age": "18d",
       "applyUrl": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
       "category": "Software Engineering",
       "company": "Shield AI",
@@ -67985,7 +67970,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2026,
+    "Simplify Internships": 2024,
     "Simplify New Grad": 480,
     "SpeedyApply USA Internships": 735,
     "SpeedyApply USA New Grad": 745,
