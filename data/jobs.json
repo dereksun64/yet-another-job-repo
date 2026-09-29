@@ -1,8 +1,23 @@
 {
-  "count": 4525,
-  "fetchedAt": "2026-09-29T02:00:45.840213+00:00",
-  "generatedAt": "2026-09-29T01:40:27.990102+00:00",
+  "count": 4529,
+  "fetchedAt": "2026-09-29T02:05:24.537925+00:00",
+  "generatedAt": "2026-09-29T02:05:24.537925+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Cloudflare",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "c581b615d5d9",
+      "jobType": "internship",
+      "location": "Austin, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813584985?utm_source=Simplify&ref=Simplify",
@@ -17,6 +32,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Interns/Graduates"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Aerospace Corporation",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bc3706ed12b8",
+      "jobType": "internship",
+      "location": "El Segundo, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineering Intern - Software Tools and Assurance \ud83c\udf93"
     },
     {
       "age": "2d",
@@ -934,7 +964,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -3544,7 +3574,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tanium",
@@ -4234,7 +4264,7 @@
       "title": "Simulation Software Engineering Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Gallup",
@@ -6244,7 +6274,7 @@
       "title": "Physics Engine Development Engineer Intern - Optimus"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Textron",
@@ -7624,7 +7654,7 @@
       "title": "Digital Experience Information Systems Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Northwood Space",
@@ -13069,7 +13099,7 @@
       "title": "Autonomy Intern \ud83c\udf93"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Waymo",
@@ -13354,7 +13384,7 @@
       "title": "IT Data Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -16519,7 +16549,7 @@
       "title": "Data Analytics & Governance Internship"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -17734,7 +17764,7 @@
       "title": "Business Intelligence Analyst Intern \ud83c\udf93"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395491009?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gallup",
@@ -17749,7 +17779,7 @@
       "title": "Data Science Intern - Summer 2027"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393289009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17764,7 +17794,7 @@
       "title": "Fintech Intern - Summer 2027"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395454009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17779,7 +17809,7 @@
       "title": "Data Engineering Intern"
     },
     {
-      "age": "19d",
+      "age": "20d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395921009?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gallup",
@@ -18964,7 +18994,7 @@
       "title": "Data and Technology Intern - Multiple Teams"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Skydio",
@@ -19504,7 +19534,7 @@
       "title": "Ecosystem Analyst Intern - TikTok LIVE"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Textron",
@@ -19519,7 +19549,7 @@
       "title": "Data Product & Analytics Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Textron",
@@ -23195,6 +23225,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Epic Games",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "eae52d02324e",
+      "jobType": "internship",
+      "location": "Montreal, QC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Intern - Special Projects - Epic Research Group \ud83c\udf93"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "The Nuclear Company",
@@ -26314,7 +26359,7 @@
       "title": "Electrical/Computer Engineering Intern - Space Science Electronics"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -29539,7 +29584,7 @@
       "title": "Software Controls Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Northwood Space",
@@ -30724,7 +30769,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Study.com",
@@ -36184,6 +36229,21 @@
       "title": "Junior Quantitative Researcher - Prediction Markets"
     },
     {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 SpaceX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c5e125d3aeac",
+      "jobType": "full-time",
+      "location": "Hawthorne, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Software - Starfall"
+    },
+    {
       "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
@@ -36634,7 +36694,7 @@
       "title": "HBM Product Development Failure Analysis Engineer New Grad"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Textron",
@@ -67880,8 +67940,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2021,
-    "Simplify New Grad": 474,
+    "Simplify Internships": 2024,
+    "Simplify New Grad": 475,
     "SpeedyApply USA Internships": 739,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
