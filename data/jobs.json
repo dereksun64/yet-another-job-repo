@@ -1,7 +1,7 @@
 {
   "count": 4538,
-  "fetchedAt": "2026-09-29T01:05:23.661468+00:00",
-  "generatedAt": "2026-09-29T01:05:23.661468+00:00",
+  "fetchedAt": "2026-09-29T01:10:29.788105+00:00",
+  "generatedAt": "2026-09-29T01:10:29.788105+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -31804,7 +31804,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -31819,7 +31819,7 @@
       "title": "Software Engineer 1 - Enterprise Technology Services"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "American Express",
@@ -32014,7 +32014,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WhatNot",
@@ -32029,7 +32029,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Everlaw",
@@ -36587,21 +36587,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer - Research & Development Engineering"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Rocket Lab USA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2b6439ee1b69",
-      "jobType": "full-time",
-      "location": "Littleton, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Flight Software Engineer 1"
     },
     {
       "age": "15d",
@@ -62525,6 +62510,21 @@
     },
     {
       "age": "14d",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003",
+      "category": "Software Engineering",
+      "company": "Rocket Lab",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2b6439ee1b69",
+      "jobType": "full-time",
+      "location": "Littleton, CO",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Flight Software Engineer I"
+    },
+    {
+      "age": "14d",
       "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366-software-engineer?oga=true",
       "category": "Software Engineering",
       "company": "ServiceNow",
@@ -68076,7 +68076,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2035,
-    "Simplify New Grad": 474,
+    "Simplify New Grad": 473,
     "SpeedyApply USA Internships": 739,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
