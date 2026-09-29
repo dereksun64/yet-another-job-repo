@@ -1,7 +1,7 @@
 {
-  "count": 4524,
-  "fetchedAt": "2026-09-29T06:00:48.661157+00:00",
-  "generatedAt": "2026-09-29T05:40:32.350190+00:00",
+  "count": 4521,
+  "fetchedAt": "2026-09-29T06:05:25.146795+00:00",
+  "generatedAt": "2026-09-29T06:05:25.146795+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8630,21 +8630,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Deloitte",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "d8bcebc5794c",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data & AI Solutions Engineering Summer Scholar Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 NVIDIA",
@@ -13580,21 +13565,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "American Family Insurance Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ba566cb58bab",
-      "jobType": "internship",
-      "location": "Madison, WIBoston, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Customer Analytics Intern"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Life",
@@ -13922,21 +13892,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineer Intern - Multiple Teams"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Live Oak Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "27c0d146b0f9",
-      "jobType": "internship",
-      "location": "Wilmington, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Science Intern"
     },
     {
       "age": "8d",
@@ -67865,7 +67820,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2019,
+    "Simplify Internships": 2016,
     "Simplify New Grad": 474,
     "SpeedyApply USA Internships": 739,
     "SpeedyApply USA New Grad": 744,
