@@ -1,7 +1,7 @@
 {
-  "count": 4538,
-  "fetchedAt": "2026-09-29T01:30:56.795299+00:00",
-  "generatedAt": "2026-09-29T01:10:29.788105+00:00",
+  "count": 4539,
+  "fetchedAt": "2026-09-29T01:35:22.474568+00:00",
+  "generatedAt": "2026-09-29T01:35:22.474568+00:00",
   "jobs": [
     {
       "age": "2d",
@@ -30529,7 +30529,7 @@
       "title": "Hardware Engineering Intern"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Varsity Brands",
@@ -30634,7 +30634,7 @@
       "title": "Software Engineer Early Career - Cloud"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://boards.greenhouse.io/parallel/jobs/5247800007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Parallel Systems",
@@ -30994,7 +30994,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -31039,7 +31039,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5426523008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Captivation",
@@ -31234,7 +31234,7 @@
       "title": "C++ Software Developer New Grad - Rotational Program"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Superhuman",
@@ -31474,7 +31474,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Anysphere",
@@ -31489,7 +31489,7 @@
       "title": "Software Engineer New Grad - 2027"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Dell Technologies",
@@ -34894,7 +34894,7 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quora",
@@ -35269,7 +35269,7 @@
       "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -36394,7 +36394,7 @@
       "title": "Junior Quantitative Researcher - Prediction Markets"
     },
     {
-      "age": "2d",
+      "age": "3d",
       "applyUrl": "https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Aescape",
@@ -37067,6 +37067,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Software Engineer 1"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f143a2e0e52b",
+      "jobType": "full-time",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -68076,7 +68091,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 2035,
-    "Simplify New Grad": 473,
+    "Simplify New Grad": 474,
     "SpeedyApply USA Internships": 739,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
