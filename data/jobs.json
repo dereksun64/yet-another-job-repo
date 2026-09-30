@@ -1,7 +1,7 @@
 {
-  "count": 4526,
-  "fetchedAt": "2026-09-30T00:30:39.021440+00:00",
-  "generatedAt": "2026-09-30T00:05:23.887836+00:00",
+  "count": 4524,
+  "fetchedAt": "2026-09-30T00:35:24.066520+00:00",
+  "generatedAt": "2026-09-30T00:35:24.066520+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1430,21 +1430,6 @@
     },
     {
       "age": "9d",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Booz Allen",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "741b613f5530",
-      "jobType": "internship",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
-    },
-    {
-      "age": "9d",
       "applyUrl": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Acima",
@@ -2417,21 +2402,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Ground Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Elire",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3cfe37eebb37",
-      "jobType": "internship",
-      "location": "Remote in USAMinneapolis, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Software Developer Intern - Multiple Teams"
     },
     {
       "age": "14d",
@@ -67895,7 +67865,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2026,
+    "Simplify Internships": 2024,
     "Simplify New Grad": 477,
     "SpeedyApply USA Internships": 732,
     "SpeedyApply USA New Grad": 741,
