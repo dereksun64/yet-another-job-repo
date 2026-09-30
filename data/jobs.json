@@ -1,7 +1,7 @@
 {
-  "count": 4507,
-  "fetchedAt": "2026-09-30T03:30:39.137645+00:00",
-  "generatedAt": "2026-09-30T03:05:24.060386+00:00",
+  "count": 4506,
+  "fetchedAt": "2026-09-30T03:35:26.672729+00:00",
+  "generatedAt": "2026-09-30T03:35:26.672729+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2743,21 +2743,6 @@
       "id": "d11327ceadfa",
       "jobType": "internship",
       "location": "Omaha, NE",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "OpenGov",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "f338572b0d64",
-      "jobType": "internship",
-      "location": "Boston, MA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -24514,7 +24499,7 @@
       "title": "Quantitative Research Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6163540004?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Garda Capital Partners",
@@ -24529,7 +24514,7 @@
       "title": "Trading Analyst Intern - Credit"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6179468004?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Garda Capital Partners",
@@ -24544,7 +24529,7 @@
       "title": "Trading Analyst Intern - Mortgages"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/4934006004?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Garda Capital Partners",
@@ -67610,7 +67595,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2005,
+    "Simplify Internships": 2004,
     "Simplify New Grad": 479,
     "SpeedyApply USA Internships": 732,
     "SpeedyApply USA New Grad": 741,
