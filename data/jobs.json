@@ -1,7 +1,7 @@
 {
-  "count": 4487,
-  "fetchedAt": "2026-09-30T21:00:50.457886+00:00",
-  "generatedAt": "2026-09-30T20:35:25.140650+00:00",
+  "count": 4485,
+  "fetchedAt": "2026-09-30T21:05:28.728570+00:00",
+  "generatedAt": "2026-09-30T21:05:28.728570+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -19370,21 +19370,6 @@
     },
     {
       "age": "28d",
-      "applyUrl": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Allied Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "37723791f50b",
-      "jobType": "internship",
-      "location": "St Paul, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Governance Intern"
-    },
-    {
-      "age": "28d",
       "applyUrl": "https://apply.workable.com/twgai/j/772CD136FF/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "TWG Global",
@@ -36887,21 +36872,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Founding Engineer"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Zone 5 Technologies",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1cae9c4ee975",
-      "jobType": "full-time",
-      "location": "San Luis Obispo, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Software Engineer 1/2"
     },
     {
       "age": "5mo",
@@ -67310,8 +67280,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1990,
-    "Simplify New Grad": 475,
+    "Simplify Internships": 1989,
+    "Simplify New Grad": 474,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
