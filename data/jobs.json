@@ -1,7 +1,7 @@
 {
-  "count": 4496,
-  "fetchedAt": "2026-09-30T12:00:53.488815+00:00",
-  "generatedAt": "2026-09-30T11:35:26.343222+00:00",
+  "count": 4497,
+  "fetchedAt": "2026-09-30T12:05:27.313400+00:00",
+  "generatedAt": "2026-09-30T12:05:27.313400+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -182,6 +182,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3d9364cef559",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Co-op - Spring/Summer 2027"
     },
     {
       "age": "1d",
@@ -25880,21 +25895,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e738ce740e59",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analog and Mixed Signal Layout Engineer Intern Co-op"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Orange-County-CA/Lifecycle-Engineering-Co-Op-Full-Time-Intern-Jan-June-2027_JR1784-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "iRhythm Technologies",
@@ -26267,6 +26267,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Embedded and Systems Engineering Intern - Digital Product"
+    },
+    {
+      "age": "9d",
+      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Systems-Engineering-Internship_R4046627-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "GE Healthcare",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ed2064007869",
+      "jobType": "internship",
+      "location": "Salt Lake City, UT",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Systems Engineer Intern"
     },
     {
       "age": "11d",
@@ -67445,7 +67460,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1999,
+    "Simplify Internships": 2000,
     "Simplify New Grad": 474,
     "SpeedyApply USA Internships": 732,
     "SpeedyApply USA New Grad": 741,
