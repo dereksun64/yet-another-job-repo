@@ -1,7 +1,7 @@
 {
-  "count": 4504,
-  "fetchedAt": "2026-10-01T18:00:51.438188+00:00",
-  "generatedAt": "2026-10-01T17:35:28.710364+00:00",
+  "count": 4503,
+  "fetchedAt": "2026-10-01T18:05:30.309156+00:00",
+  "generatedAt": "2026-10-01T18:05:30.309156+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -118,21 +118,6 @@
       "id": "62238fe90228",
       "jobType": "internship",
       "location": "Orlando, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Patch My PC",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8cd6457db2d8",
-      "jobType": "internship",
-      "location": "Castle Rock, CO",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -3529,7 +3514,7 @@
       "title": "Computer Science Intern - Summer 2027"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -10534,7 +10519,7 @@
       "title": "Product Manager Intern"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://careers.ulta.com/jobs/423575?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Ulta Beauty",
@@ -15514,7 +15499,7 @@
       "title": "PMO/Data Analyst Intern"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://careers.ulta.com/jobs/527097?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Ulta Beauty",
@@ -30754,7 +30739,7 @@
       "title": "Software Engineer 1 - Endpoint Sensor"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -67565,7 +67550,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1988,
+    "Simplify Internships": 1987,
     "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
