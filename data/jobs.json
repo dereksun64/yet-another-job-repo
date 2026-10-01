@@ -1,8 +1,23 @@
 {
-  "count": 4499,
-  "fetchedAt": "2026-10-01T15:00:48.386334+00:00",
-  "generatedAt": "2026-10-01T14:35:25.528702+00:00",
+  "count": 4500,
+  "fetchedAt": "2026-10-01T15:05:24.430123+00:00",
+  "generatedAt": "2026-10-01T15:05:24.430123+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Southwest Airlines",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "273f1ca64d6c",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -3169,7 +3184,7 @@
       "title": "Software Engineer Co-op"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://careers.principal.com/jobs/52512?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Principal Financial Group",
@@ -3184,7 +3199,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Scale AI",
@@ -3199,7 +3214,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SEP",
@@ -3332,21 +3347,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engineering Intern - Multiple Teams"
-    },
-    {
-      "age": "17d",
-      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Lowe's",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "0c1644255ac1",
-      "jobType": "internship",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "17d",
@@ -4054,7 +4054,7 @@
       "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Demco Products",
@@ -6169,7 +6169,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://jobs.uhsinc.com/jobs/367247?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Universal Health Services",
@@ -6917,6 +6917,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Application Development Intern"
+    },
+    {
+      "age": "30d",
+      "applyUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Travelers",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9382666851a6",
+      "jobType": "internship",
+      "location": "4 locationsHunt Valley, Cockeysville, MDHartford, CTAtlanta, GASt Paul, MN",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineering Development Intern"
     },
     {
       "age": "30d",
@@ -10714,7 +10729,7 @@
       "title": "Digital Product Intern"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://job-boards.greenhouse.io/hudl/jobs/8155103?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Hudl",
@@ -13249,7 +13264,7 @@
       "title": "Data Scientist Intern"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Zipline",
@@ -15484,7 +15499,7 @@
       "title": "Supply Chain Data & Analytics Intern"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://careers.principal.com/jobs/52574?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Principal Financial Group",
@@ -17254,7 +17269,7 @@
       "title": "Revenue Growth Management Intern - Revenue Growth Management"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Peraton",
@@ -24395,21 +24410,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Co-op--Fixed-Income--May-2027-_JR100898?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Alberta Investment Management Corporation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b2e91f48a0ae",
-      "jobType": "internship",
-      "location": "Calgary, AB, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Fixed Income Co-op"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "DV Trading",
@@ -26824,7 +26824,7 @@
       "title": "Electrical Design Engineer Intern"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Dell Technologies",
@@ -27439,7 +27439,7 @@
       "title": "Embedded Software Engineer Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -27454,7 +27454,7 @@
       "title": "Design Engineer Intern - Graduate-Level - Summer 2027"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -27469,7 +27469,7 @@
       "title": "Design Engineering Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Vertiv",
@@ -27782,6 +27782,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development & Firmware Engineering Intern - Multiple Teams"
+    },
+    {
+      "age": "26d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7ad85824408b",
+      "jobType": "internship",
+      "location": "6 locationsAustin, TXSanta Clara, CAWestlake Village, CABurlington, VTChandler, AZWestborough, MA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Advanced Packaging Intern \ud83c\udf93"
     },
     {
       "age": "26d",
@@ -67490,7 +67505,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1982,
+    "Simplify Internships": 1983,
     "Simplify New Grad": 486,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
