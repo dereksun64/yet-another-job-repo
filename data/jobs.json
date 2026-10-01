@@ -1,7 +1,7 @@
 {
   "count": 4522,
-  "fetchedAt": "2026-10-01T07:30:42.603508+00:00",
-  "generatedAt": "2026-10-01T07:10:31.113665+00:00",
+  "fetchedAt": "2026-10-01T07:35:23.980278+00:00",
+  "generatedAt": "2026-10-01T07:35:23.980278+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -8717,21 +8717,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "American Express",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "480344ace199",
-      "jobType": "internship",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Enterprise Technology Services"
     },
     {
       "age": "1mo",
@@ -31294,7 +31279,7 @@
       "title": "Software Engineer 1 - Android"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://nexthopai.bamboohr.com/careers/107/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nexthop.ai",
@@ -36664,7 +36649,7 @@
       "title": "FPGA Electrical Engineer 1"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Katalyst Space Technologies",
@@ -46472,6 +46457,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineer Intern, Technology \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "age": "41d",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=github-vansh-ouckah",
+      "category": "Software Engineering",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "480344ace199",
+      "jobType": "internship",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Enterprise Technology Services \ud83d\udec2"
     },
     {
       "age": "41d",
@@ -67835,7 +67835,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2007,
+    "Simplify Internships": 2006,
     "Simplify New Grad": 487,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
