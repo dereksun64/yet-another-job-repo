@@ -1,7 +1,7 @@
 {
-  "count": 4500,
-  "fetchedAt": "2026-10-01T15:05:24.430123+00:00",
-  "generatedAt": "2026-10-01T15:05:24.430123+00:00",
+  "count": 4499,
+  "fetchedAt": "2026-10-01T15:10:36.802716+00:00",
+  "generatedAt": "2026-10-01T15:10:36.802716+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -30169,7 +30169,7 @@
       "title": "Software Engineer New Grad - Engine"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TeleTracking",
@@ -30604,7 +30604,7 @@
       "title": "Platform Full-Stack Engineer New Grad"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Scale AI",
@@ -30979,7 +30979,7 @@
       "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -33949,7 +33949,7 @@
       "title": "Associate Product Manager - University Graduate"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 Robinhood",
@@ -34307,21 +34307,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Hewlett Packard",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9634eb9da090",
-      "jobType": "full-time",
-      "location": "Cambridge, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Analyst / Project Coordinator"
     },
     {
       "age": "17d",
@@ -67506,7 +67491,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1983,
-    "Simplify New Grad": 486,
+    "Simplify New Grad": 485,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
