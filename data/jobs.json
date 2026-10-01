@@ -1,7 +1,7 @@
 {
-  "count": 4518,
-  "fetchedAt": "2026-10-01T09:00:46.265867+00:00",
-  "generatedAt": "2026-10-01T08:35:24.724900+00:00",
+  "count": 4516,
+  "fetchedAt": "2026-10-01T09:05:25.281921+00:00",
+  "generatedAt": "2026-10-01T09:05:25.281921+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10112,21 +10112,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004836?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 Microsoft",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "7ea818d35e7c",
-      "jobType": "internship",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Manager Intern"
     },
     {
       "age": "8d",
@@ -31757,21 +31742,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Zip",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9b5bbfc78bcd",
-      "jobType": "full-time",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - 2027 Start"
     },
     {
       "age": "1mo",
@@ -67775,8 +67745,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 2000,
-    "Simplify New Grad": 487,
+    "Simplify Internships": 1999,
+    "Simplify New Grad": 486,
     "SpeedyApply USA Internships": 728,
     "SpeedyApply USA New Grad": 744,
     "Vansh Internships": 214,
