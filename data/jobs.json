@@ -1,7 +1,7 @@
 {
-  "count": 4485,
-  "fetchedAt": "2026-10-02T15:30:42.782095+00:00",
-  "generatedAt": "2026-10-02T15:10:31.843851+00:00",
+  "count": 4487,
+  "fetchedAt": "2026-10-02T15:35:26.707270+00:00",
+  "generatedAt": "2026-10-02T15:35:26.707270+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28910,6 +28910,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Junior-DevOps-Engineer_R0158519?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "NCR Voyix",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "15fd4c169509",
+      "jobType": "full-time",
+      "location": "Bath, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior DevOps Engineer"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Expedia Group",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "8323604c81ed",
+      "jobType": "full-time",
+      "location": "Vancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Development Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Pinterest",
@@ -29224,7 +29254,7 @@
       "title": "Early Career Software Engineer"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "CACI",
@@ -67281,7 +67311,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1926,
-    "Simplify New Grad": 500,
+    "Simplify New Grad": 502,
     "SpeedyApply USA Internships": 733,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
