@@ -1,7 +1,7 @@
 {
-  "count": 4494,
-  "fetchedAt": "2026-10-02T11:30:40.010883+00:00",
-  "generatedAt": "2026-10-02T11:05:25.301791+00:00",
+  "count": 4492,
+  "fetchedAt": "2026-10-02T11:35:26.685430+00:00",
+  "generatedAt": "2026-10-02T11:35:26.685430+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -530,6 +530,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 Stripe",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "421418ad6772",
+      "jobType": "internship",
+      "location": "Seattle, WASF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Peraton",
@@ -977,21 +992,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Flint",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b55747be7226",
-      "jobType": "internship",
-      "location": "SF",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Engineering Intern - Summer 2027"
     },
     {
       "age": "6d",
@@ -1952,6 +1952,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Digital Integration Intern"
+    },
+    {
+      "age": "10d",
+      "applyUrl": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Tyler Technologies",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "83c071fff55c",
+      "jobType": "internship",
+      "location": "Yarmouth, MEOrono, MEFalmouth, ME",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Development Intern - Summer 2027"
     },
     {
       "age": "10d",
@@ -4472,21 +4487,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Collier Aerospace",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d4b20f7a662a",
-      "jobType": "internship",
-      "location": "Newport News, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Web Applications - Summer 2027"
     },
     {
       "age": "22d",
@@ -25369,6 +25369,21 @@
       "title": "Electrical Validation Intern - BS"
     },
     {
+      "age": "10d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6d4f20f2c752",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Electrical Validation Intern - BS"
+    },
+    {
       "age": "11d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -25457,21 +25472,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Digital IC Design Intern - MS - Multiple Teams \ud83c\udf93"
-    },
-    {
-      "age": "11d",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Marvell",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2aab3eef76cf",
-      "jobType": "internship",
-      "location": "5 locationsHudson Valley, NYAustin, TXIrvine, CASanta Clara, CABoise, ID",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Digital IC Design Intern \ud83c\udf93"
     },
     {
       "age": "11d",
@@ -28922,21 +28922,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engines Engineering Intern - Computer or Software Engineering"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineering-and-Test-Capabilities-Intern---Summer-2027_01866497?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "89498fc66668",
-      "jobType": "internship",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Systems Engineering and Test Capabilities Intern"
     },
     {
       "age": "1mo",
@@ -48077,21 +48062,6 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Software Development Engineer Intern - AWS Database - 2027 - US"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "category": "Software Engineering",
-      "company": "Stripe",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "421418ad6772",
-      "jobType": "internship",
-      "location": "Seattle, WA",
-      "salary": "$60/hr",
-      "source": "SpeedyApply USA Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
-      "title": "High School Internship - Software Engineering - Summer 2027"
     },
     {
       "age": "5d",
@@ -67415,7 +67385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1934,
+    "Simplify Internships": 1933,
     "Simplify New Grad": 500,
     "SpeedyApply USA Internships": 733,
     "SpeedyApply USA New Grad": 745,
