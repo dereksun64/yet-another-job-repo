@@ -1,7 +1,7 @@
 {
-  "count": 4521,
-  "fetchedAt": "2026-10-02T09:00:47.454327+00:00",
-  "generatedAt": "2026-10-02T08:35:24.251161+00:00",
+  "count": 4520,
+  "fetchedAt": "2026-10-02T09:05:23.862939+00:00",
+  "generatedAt": "2026-10-02T09:05:23.862939+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1292,21 +1292,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Developer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813567963?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Boston Scientific",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "320423249fa9",
-      "jobType": "internship",
-      "location": "Waltham, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Engineer Co-op"
     },
     {
       "age": "7d",
@@ -67820,7 +67805,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1960,
+    "Simplify Internships": 1959,
     "Simplify New Grad": 502,
     "SpeedyApply USA Internships": 733,
     "SpeedyApply USA New Grad": 745,
