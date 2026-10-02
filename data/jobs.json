@@ -1,7 +1,7 @@
 {
-  "count": 4528,
-  "fetchedAt": "2026-10-02T07:05:26.191615+00:00",
-  "generatedAt": "2026-10-02T07:05:26.191615+00:00",
+  "count": 4527,
+  "fetchedAt": "2026-10-02T07:10:30.253725+00:00",
+  "generatedAt": "2026-10-02T07:10:30.253725+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -35825,21 +35825,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://careers-gdeb.icims.com/jobs/20673/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "General Dynamics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "24f4b1901950",
-      "jobType": "full-time",
-      "location": "New London, CT",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Developer"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://jobs.lever.co/CesiumAstro/05d21f28-ddc8-49b4-b602-44bac099310c/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "CesiumAstro",
@@ -67926,7 +67911,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1965,
-    "Simplify New Grad": 504,
+    "Simplify New Grad": 503,
     "SpeedyApply USA Internships": 733,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
