@@ -1,7 +1,7 @@
 {
   "count": 4491,
-  "fetchedAt": "2026-10-02T19:00:49.123350+00:00",
-  "generatedAt": "2026-10-02T18:35:26.794906+00:00",
+  "fetchedAt": "2026-10-02T19:05:25.948010+00:00",
+  "generatedAt": "2026-10-02T19:05:25.948010+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3395,21 +3395,6 @@
     },
     {
       "age": "17d",
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "EquipmentShare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c30fdb378a93",
-      "jobType": "internship",
-      "location": "Columbia, MO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "17d",
       "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "National Life",
@@ -6619,7 +6604,7 @@
       "title": "Technology Intern - Summer Internship Program"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Atlassian",
@@ -6634,7 +6619,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59564?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -6649,7 +6634,7 @@
       "title": "Software Developer Intern - Tactical System Prototyping and Deployment"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59745?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -6664,7 +6649,7 @@
       "title": "Software Development Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59832?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -19474,7 +19459,7 @@
       "title": "Analytics Intern"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59901?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -19489,7 +19474,7 @@
       "title": "2027 Internship - Weapon Control"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59598?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -52580,6 +52565,21 @@
     },
     {
       "age": "18d",
+      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802",
+      "category": "Software Engineering",
+      "company": "EquipmentShare",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c30fdb378a93",
+      "jobType": "internship",
+      "location": "Columbia, MO",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Intern: Software Engineer"
+    },
+    {
+      "age": "18d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
       "category": "Software Engineering",
       "company": "Robinhood",
@@ -67370,7 +67370,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1920,
+    "Simplify Internships": 1919,
     "Simplify New Grad": 500,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
