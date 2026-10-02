@@ -1,7 +1,7 @@
 {
-  "count": 4527,
-  "fetchedAt": "2026-10-02T07:30:40.356133+00:00",
-  "generatedAt": "2026-10-02T07:10:30.253725+00:00",
+  "count": 4526,
+  "fetchedAt": "2026-10-02T07:35:27.148081+00:00",
+  "generatedAt": "2026-10-02T07:35:27.148081+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29765,21 +29765,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Abbott",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "92fc66597eca",
-      "jobType": "full-time",
-      "location": "La Jolla, San Diego, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Multiple Teams"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ZipRecruiter",
@@ -30784,7 +30769,7 @@
       "title": "Software Engineer 1 - Android"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://nexthopai.bamboohr.com/careers/107/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nexthop.ai",
@@ -67911,7 +67896,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1965,
-    "Simplify New Grad": 503,
+    "Simplify New Grad": 502,
     "SpeedyApply USA Internships": 733,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
