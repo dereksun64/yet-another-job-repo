@@ -1,7 +1,7 @@
 {
-  "count": 4535,
-  "fetchedAt": "2026-10-03T02:05:23.678999+00:00",
-  "generatedAt": "2026-10-03T02:05:23.678999+00:00",
+  "count": 4534,
+  "fetchedAt": "2026-10-03T02:10:29.902579+00:00",
+  "generatedAt": "2026-10-03T02:10:29.902579+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29989,7 +29989,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Study.com",
@@ -31727,21 +31727,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Entry Level Software Developer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers.reliance.com/jobs/3330?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Reliance",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "73269d10bda5",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI Software Engineer 1"
     },
     {
       "age": "1mo",
@@ -68031,7 +68016,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1955,
-    "Simplify New Grad": 504,
+    "Simplify New Grad": 503,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
     "Vansh Internships": 214,
