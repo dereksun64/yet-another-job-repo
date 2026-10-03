@@ -1,7 +1,7 @@
 {
-  "count": 4525,
-  "fetchedAt": "2026-10-03T06:00:48.417564+00:00",
-  "generatedAt": "2026-10-03T05:35:24.270451+00:00",
+  "count": 4524,
+  "fetchedAt": "2026-10-03T06:05:24.652247+00:00",
+  "generatedAt": "2026-10-03T06:05:24.652247+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29338,21 +29338,6 @@
       "id": "0a844b649269",
       "jobType": "full-time",
       "location": "SFRemote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "University Grad Software Engineer"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Pinterest",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "00f139e48da0",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
       "salary": "",
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
@@ -67881,7 +67866,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1948,
-    "Simplify New Grad": 501,
+    "Simplify New Grad": 500,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
     "Vansh Internships": 214,
