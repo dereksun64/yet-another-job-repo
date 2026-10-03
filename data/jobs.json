@@ -1,7 +1,7 @@
 {
-  "count": 4534,
-  "fetchedAt": "2026-10-03T02:35:28.222876+00:00",
-  "generatedAt": "2026-10-03T02:35:28.222876+00:00",
+  "count": 4533,
+  "fetchedAt": "2026-10-03T02:40:29.418584+00:00",
+  "generatedAt": "2026-10-03T02:40:29.418584+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -30650,21 +30650,6 @@
     },
     {
       "age": "24d",
-      "applyUrl": "https://careers.ctg.com/jobs/17557?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CTG",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5649d27079da",
-      "jobType": "full-time",
-      "location": "Painted Post, NY",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "24d",
       "applyUrl": "https://careers.garmin.com/jobs/16587?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -30784,7 +30769,7 @@
       "title": "Software Engineer - Early Careers"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Kikoff",
@@ -36049,7 +36034,7 @@
       "title": "New College Grad - Design Engineer - Circuit Design"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Anduril",
@@ -36064,7 +36049,7 @@
       "title": "Early Career Flight Software Engineer"
     },
     {
-      "age": "29d",
+      "age": "1mo",
       "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "General Dynamics UK",
@@ -68016,7 +68001,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1955,
-    "Simplify New Grad": 503,
+    "Simplify New Grad": 502,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
     "Vansh Internships": 214,
