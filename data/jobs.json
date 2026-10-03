@@ -1,7 +1,7 @@
 {
-  "count": 4529,
-  "fetchedAt": "2026-10-03T05:30:40.830733+00:00",
-  "generatedAt": "2026-10-03T05:05:24.513153+00:00",
+  "count": 4525,
+  "fetchedAt": "2026-10-03T05:35:24.270451+00:00",
+  "generatedAt": "2026-10-03T05:35:24.270451+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -6290,21 +6290,6 @@
     },
     {
       "age": "30d",
-      "applyUrl": "https://careers.kindermorgan.com/jobs/6171?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Kinder Morgan",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5d0583e18100",
-      "jobType": "internship",
-      "location": "Colorado Springs, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Intern - IT"
-    },
-    {
-      "age": "30d",
       "applyUrl": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hermeus",
@@ -7922,21 +7907,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineering Intern - Technology Analyst"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "NiSource",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7456145a4435",
-      "jobType": "internship",
-      "location": "Columbus, OHMerrillville, IN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -16937,21 +16907,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Analytics and Insights Intern"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "LabCorp",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d561ab20d295",
-      "jobType": "internship",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Financial Analytics & Technology Intern - Financial Analytics Team"
     },
     {
       "age": "22d",
@@ -35507,21 +35462,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "78c00807df15",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Embedded Software Security Engineer 1 - S3E"
     },
     {
       "age": "4d",
@@ -67940,8 +67880,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1951,
-    "Simplify New Grad": 502,
+    "Simplify Internships": 1948,
+    "Simplify New Grad": 501,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
     "Vansh Internships": 214,
