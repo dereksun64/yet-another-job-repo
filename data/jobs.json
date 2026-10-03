@@ -1,7 +1,7 @@
 {
-  "count": 4498,
-  "fetchedAt": "2026-10-03T13:35:25.821295+00:00",
-  "generatedAt": "2026-10-03T13:10:34.403516+00:00",
+  "count": 4497,
+  "fetchedAt": "2026-10-03T13:40:43.809688+00:00",
+  "generatedAt": "2026-10-03T13:40:43.809688+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -542,6 +542,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Mission Operations Intern - Summer 2027"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "The Federal Reserve System",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "00584dbf63b3",
+      "jobType": "internship",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Computer Science and Software Engineering Intern"
     },
     {
       "age": "2d",
@@ -1097,36 +1112,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Application Engineer Intern - Investments"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3d9364cef559",
-      "jobType": "internship",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - Spring/Summer 2027"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "dffe287c5e2c",
-      "jobType": "internship",
-      "location": "Woburn, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "4d",
@@ -67475,7 +67460,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1912,
+    "Simplify Internships": 1911,
     "Simplify New Grad": 498,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
