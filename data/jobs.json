@@ -1,7 +1,7 @@
 {
-  "count": 4498,
-  "fetchedAt": "2026-10-03T12:00:49.501788+00:00",
-  "generatedAt": "2026-10-03T11:35:27.581870+00:00",
+  "count": 4499,
+  "fetchedAt": "2026-10-03T12:05:26.692906+00:00",
+  "generatedAt": "2026-10-03T12:05:26.692906+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28997,6 +28997,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer - Emergency Call Handling"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Intact",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "51c568684e4a",
+      "jobType": "full-time",
+      "location": "Montreal, QC, CanadaToronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Tech Development Program New Grad - Software Development & Cloud Stream"
     },
     {
       "age": "7d",
@@ -67476,7 +67491,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1912,
-    "Simplify New Grad": 498,
+    "Simplify New Grad": 499,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
     "Vansh Internships": 214,
