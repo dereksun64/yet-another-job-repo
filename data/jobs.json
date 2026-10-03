@@ -1,7 +1,7 @@
 {
-  "count": 4547,
-  "fetchedAt": "2026-10-03T00:30:41.824629+00:00",
-  "generatedAt": "2026-10-03T00:10:31.161501+00:00",
+  "count": 4545,
+  "fetchedAt": "2026-10-03T00:35:24.336587+00:00",
+  "generatedAt": "2026-10-03T00:35:24.336587+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15050,21 +15050,6 @@
     },
     {
       "age": "15d",
-      "applyUrl": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Howmet Aerospace",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "234b904e176d",
-      "jobType": "internship",
-      "location": "Pittsburgh, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Artificial Intelligence Intern - AI"
-    },
-    {
-      "age": "15d",
       "applyUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "onsemi",
@@ -16112,21 +16097,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Engineer Co-op - Global Equities"
-    },
-    {
-      "age": "19d",
-      "applyUrl": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Energy-Assesment-Intern_84105?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Repsol",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a344be9008c4",
-      "jobType": "internship",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Energy Assessment Intern"
     },
     {
       "age": "19d",
@@ -68210,7 +68180,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1967,
+    "Simplify Internships": 1965,
     "Simplify New Grad": 504,
     "SpeedyApply USA Internships": 748,
     "SpeedyApply USA New Grad": 747,
