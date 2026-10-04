@@ -1,7 +1,7 @@
 {
-  "count": 4465,
-  "fetchedAt": "2026-10-04T18:00:46.104844+00:00",
-  "generatedAt": "2026-10-04T17:35:27.123588+00:00",
+  "count": 4464,
+  "fetchedAt": "2026-10-04T18:05:25.028126+00:00",
+  "generatedAt": "2026-10-04T18:05:25.028126+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -28999,7 +28999,7 @@
       "title": "Software Engineer 1 - Endpoint Sensor"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -31682,21 +31682,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Confido",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14e312a38cc7",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
     },
     {
       "age": "3mo",
@@ -66981,7 +66966,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1854,
-    "Simplify New Grad": 508,
+    "Simplify New Grad": 507,
     "SpeedyApply USA Internships": 763,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
