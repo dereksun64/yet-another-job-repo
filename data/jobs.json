@@ -1,7 +1,7 @@
 {
-  "count": 4456,
-  "fetchedAt": "2026-10-05T06:00:49.500176+00:00",
-  "generatedAt": "2026-10-05T05:35:23.530831+00:00",
+  "count": 4454,
+  "fetchedAt": "2026-10-05T06:05:25.686687+00:00",
+  "generatedAt": "2026-10-05T06:05:25.686687+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -18425,21 +18425,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "HD Supply",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b4530bbda4e2",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "First National Bank",
@@ -23147,21 +23132,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Digital Intern"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Northrop Grumman",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "221436603e7b",
-      "jobType": "internship",
-      "location": "Rolling Meadows, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Embedded Software Engineer Intern"
     },
     {
       "age": "5d",
@@ -66845,7 +66815,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1837,
+    "Simplify Internships": 1835,
     "Simplify New Grad": 513,
     "SpeedyApply USA Internships": 763,
     "SpeedyApply USA New Grad": 753,
