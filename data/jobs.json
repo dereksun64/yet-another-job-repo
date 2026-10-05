@@ -1,7 +1,7 @@
 {
-  "count": 4462,
-  "fetchedAt": "2026-10-05T03:00:47.967875+00:00",
-  "generatedAt": "2026-10-05T02:35:25.576279+00:00",
+  "count": 4463,
+  "fetchedAt": "2026-10-05T03:05:24.106516+00:00",
+  "generatedAt": "2026-10-05T03:05:24.106516+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -24347,6 +24347,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "IP Applications Engineering Intern - Interim Engineering Intern - HW"
+    },
+    {
+      "age": "16d",
+      "applyUrl": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "Etched",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2569b07b5e57",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "RTL Intern"
     },
     {
       "age": "16d",
@@ -66935,7 +66950,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1842,
+    "Simplify Internships": 1843,
     "Simplify New Grad": 514,
     "SpeedyApply USA Internships": 763,
     "SpeedyApply USA New Grad": 753,
