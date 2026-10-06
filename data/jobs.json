@@ -1,7 +1,7 @@
 {
-  "count": 4491,
-  "fetchedAt": "2026-10-06T21:35:27.655409+00:00",
-  "generatedAt": "2026-10-06T21:35:27.655409+00:00",
+  "count": 4489,
+  "fetchedAt": "2026-10-06T21:40:32.632294+00:00",
+  "generatedAt": "2026-10-06T21:40:32.632294+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28595,21 +28595,6 @@
     },
     {
       "age": "13d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14225ebb002f",
-      "jobType": "full-time",
-      "location": "Tewksbury, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "13d",
       "applyUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RELX",
@@ -29179,7 +29164,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://nexthopai.bamboohr.com/careers/62/?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nexthop.ai",
@@ -32762,21 +32747,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Machine Learning Engineer - ML - Developer"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/angc/ANGC/job/Augusta-Office/Junior-Data-Engineer_R11910?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "Augusta National Golf Club",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "138b138a9e4a",
-      "jobType": "full-time",
-      "location": "Augusta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Data Engineer"
     },
     {
       "age": "10d",
@@ -67371,7 +67341,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1854,
-    "Simplify New Grad": 527,
+    "Simplify New Grad": 525,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
