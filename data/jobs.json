@@ -1,8 +1,23 @@
 {
-  "count": 4525,
-  "fetchedAt": "2026-10-06T23:35:23.799807+00:00",
-  "generatedAt": "2026-10-06T23:10:30.377070+00:00",
+  "count": 4527,
+  "fetchedAt": "2026-10-06T23:40:31.868552+00:00",
+  "generatedAt": "2026-10-06T23:40:31.868552+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Courier Health",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b30578cfadb6",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -2417,21 +2432,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Intern"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Excellus BCBS",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eb598f74b207",
-      "jobType": "internship",
-      "location": "6 locationsRochester, NYDe Witt, NYUtica, NYAlbany, NYBinghamton, NYBuffalo, NY",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Intern"
     },
     {
       "age": "13d",
@@ -23390,6 +23390,51 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "592527220f2d",
+      "jobType": "internship",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e600ae40d31e",
+      "jobType": "internship",
+      "location": "Largo, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0ea4201eb0ae",
+      "jobType": "internship",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "FPGA Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -28175,6 +28220,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "True Anomaly",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b2a3f3ec2de6",
+      "jobType": "full-time",
+      "location": "Long Beach, CADenver, CO",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1 to 3 - Digital Engineering"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8249851?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Pure Storage",
@@ -28877,21 +28937,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Tech Development Program New Grad - Software Development & Cloud Stream"
-    },
-    {
-      "age": "10d",
-      "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Varsity Brands",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3b43b86341a2",
-      "jobType": "full-time",
-      "location": "Memphis, TN",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - .Net"
     },
     {
       "age": "11d",
@@ -32552,21 +32597,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Refresh Software Engineer New Grad - Product"
-    },
-    {
-      "age": "4mo",
-      "applyUrl": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Integrity",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aacb41b18936",
-      "jobType": "full-time",
-      "location": "Grimes, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "4mo",
@@ -67880,8 +67910,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1878,
-    "Simplify New Grad": 535,
+    "Simplify Internships": 1881,
+    "Simplify New Grad": 534,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
