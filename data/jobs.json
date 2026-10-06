@@ -1,7 +1,7 @@
 {
-  "count": 4504,
-  "fetchedAt": "2026-10-06T17:01:23.263530+00:00",
-  "generatedAt": "2026-10-06T16:35:26.914897+00:00",
+  "count": 4502,
+  "fetchedAt": "2026-10-06T17:05:29.858461+00:00",
+  "generatedAt": "2026-10-06T17:05:29.858461+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15800,21 +15800,6 @@
     },
     {
       "age": "22d",
-      "applyUrl": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Raymond James Financial",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e2c61daee57a",
-      "jobType": "internship",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Private Client Banking Strategy, Analytics & Sales Intern"
-    },
-    {
-      "age": "22d",
       "applyUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Oshkosh",
@@ -21677,21 +21662,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Machine Learning Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Epic Games",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eae52d02324e",
-      "jobType": "internship",
-      "location": "Montreal, QC, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Machine Learning Intern - Special Projects - Epic Research Group \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -31667,21 +31637,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Mitratech",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "48146190a89b",
-      "jobType": "full-time",
-      "location": "Remote in USA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Assurehire - Go"
     },
     {
       "age": "2mo",
@@ -66365,6 +66320,21 @@
     },
     {
       "age": "70d",
+      "applyUrl": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+      "category": "Software Engineering",
+      "company": "Mitratech",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "48146190a89b",
+      "jobType": "full-time",
+      "location": "Remote - USA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I - AssureHire - Go"
+    },
+    {
+      "age": "70d",
       "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
       "category": "Software Engineering",
       "company": "Verkada",
@@ -67565,8 +67535,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1863,
-    "Simplify New Grad": 537,
+    "Simplify Internships": 1861,
+    "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
