@@ -1,7 +1,7 @@
 {
-  "count": 4489,
-  "fetchedAt": "2026-10-06T22:00:52.955040+00:00",
-  "generatedAt": "2026-10-06T21:40:32.632294+00:00",
+  "count": 4488,
+  "fetchedAt": "2026-10-06T22:05:27.406679+00:00",
+  "generatedAt": "2026-10-06T22:05:27.406679+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -377,21 +377,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "IT Developer Analyst Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Leidos",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6d2dcdda060a",
-      "jobType": "internship",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
     },
     {
       "age": "1d",
@@ -67340,7 +67325,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1854,
+    "Simplify Internships": 1853,
     "Simplify New Grad": 525,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
