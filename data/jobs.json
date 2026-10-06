@@ -1,7 +1,7 @@
 {
-  "count": 4497,
-  "fetchedAt": "2026-10-06T09:00:51.943872+00:00",
-  "generatedAt": "2026-10-06T08:35:30.999105+00:00",
+  "count": 4494,
+  "fetchedAt": "2026-10-06T09:05:26.438814+00:00",
+  "generatedAt": "2026-10-06T09:05:26.438814+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -812,21 +812,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "SAS",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d276bd73a937",
-      "jobType": "internship",
-      "location": "Cary, NC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development and Testing Intern"
     },
     {
       "age": "4d",
@@ -31775,21 +31760,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Aurelian",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6ce0438248b9",
-      "jobType": "full-time",
-      "location": "Seattle, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Backend Engineer \u2013 New Grad to Staff Level"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -32147,21 +32117,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Full-Stack Engineer \ud83d\udec2"
-    },
-    {
-      "age": "3mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9d2796793e05",
-      "jobType": "full-time",
-      "location": "McKinney, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions"
     },
     {
       "age": "4mo",
@@ -67460,8 +67415,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1848,
-    "Simplify New Grad": 545,
+    "Simplify Internships": 1847,
+    "Simplify New Grad": 543,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
