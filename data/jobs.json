@@ -1,7 +1,7 @@
 {
-  "count": 4502,
-  "fetchedAt": "2026-10-06T17:30:42.857201+00:00",
-  "generatedAt": "2026-10-06T17:05:29.858461+00:00",
+  "count": 4499,
+  "fetchedAt": "2026-10-06T17:35:27.994660+00:00",
+  "generatedAt": "2026-10-06T17:35:27.994660+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -5623,21 +5623,6 @@
       "id": "e297bfbb4ec5",
       "jobType": "internship",
       "location": "8 locationsDayton, OHKnoxville, TNPortsmouth, NHPrinceton, NJLake Oswego, ORWestminster, COSunnyvale, CAAtlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "28d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "49281094653d",
-      "jobType": "internship",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -30290,21 +30275,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Bloxd",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b5eccea38098",
-      "jobType": "full-time",
-      "location": "London, UK",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SteerBridge",
@@ -34877,21 +34847,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Receiver \u2013 Exciter - & Processing Architecture Software Engineer I"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e4c9d291f056",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "22d",
@@ -67535,8 +67490,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1861,
-    "Simplify New Grad": 536,
+    "Simplify Internships": 1860,
+    "Simplify New Grad": 534,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
