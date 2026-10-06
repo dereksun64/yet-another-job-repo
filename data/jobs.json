@@ -1,7 +1,7 @@
 {
-  "count": 4481,
-  "fetchedAt": "2026-10-06T13:30:45.310353+00:00",
-  "generatedAt": "2026-10-06T13:10:36.690222+00:00",
+  "count": 4483,
+  "fetchedAt": "2026-10-06T13:35:29.343040+00:00",
+  "generatedAt": "2026-10-06T13:35:29.343040+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -935,6 +935,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "0fdb164ffe21",
+      "jobType": "internship",
+      "location": "Annapolis, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "MFS",
@@ -1022,21 +1037,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation"
-    },
-    {
-      "age": "5d",
-      "applyUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "CoStar Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "68df4c97ab9a",
-      "jobType": "internship",
-      "location": "Sunnyvale, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Technology Intern"
     },
     {
       "age": "5d",
@@ -9665,6 +9665,21 @@
     },
     {
       "age": "19d",
+      "applyUrl": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Zurn Elkay Water Solutions",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "af6c9bc44ec7",
+      "jobType": "internship",
+      "location": "Paso Robles, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern"
+    },
+    {
+      "age": "19d",
       "applyUrl": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Watts Water",
@@ -10877,6 +10892,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern - Product Management"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "Freddie Mac",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "7b9bbff89989",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multifamily Digital Product Analysis Intern - Summer 2027"
     },
     {
       "age": "1mo",
@@ -12422,6 +12452,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93"
+    },
+    {
+      "age": "5d",
+      "applyUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Freddie Mac",
+      "companyTier": "Tier 2",
+      "degreeLevel": "unknown",
+      "id": "42825eb2f223",
+      "jobType": "internship",
+      "location": "McLean, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Multifamily Capital Markets Analytics & Engineering Intern"
     },
     {
       "age": "5d",
@@ -24737,21 +24782,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Embedded Software Engineer Intern"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Jabil",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d63231c96a74",
-      "jobType": "internship",
-      "location": "Austin, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Server Platform Intern"
     },
     {
       "age": "20d",
@@ -67220,7 +67250,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1840,
+    "Simplify Internships": 1842,
     "Simplify New Grad": 537,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
