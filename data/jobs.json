@@ -1,7 +1,7 @@
 {
-  "count": 4500,
-  "fetchedAt": "2026-10-06T19:00:52.998366+00:00",
-  "generatedAt": "2026-10-06T18:40:36.219505+00:00",
+  "count": 4499,
+  "fetchedAt": "2026-10-06T19:05:28.679964+00:00",
+  "generatedAt": "2026-10-06T19:05:28.679964+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -27995,21 +27995,6 @@
     },
     {
       "age": "0d",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "JP Morgan Chase",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "7eb7787f5b34",
-      "jobType": "full-time",
-      "location": "Plano, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "0d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=8248317&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -28847,21 +28832,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Associate Software Development Engineer 1"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Amentum",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e28daad8f584",
-      "jobType": "full-time",
-      "location": "Dahlgren, VA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
     },
     {
       "age": "16d",
@@ -58895,6 +58865,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
+      "category": "Software Engineering",
+      "company": "Amentum",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e28daad8f584",
+      "jobType": "full-time",
+      "location": "Dahlgren, VA",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job",
       "category": "Software Engineering",
       "company": "Barrios",
@@ -67506,7 +67491,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1858,
-    "Simplify New Grad": 533,
+    "Simplify New Grad": 531,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
