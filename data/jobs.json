@@ -1,8 +1,23 @@
 {
-  "count": 4481,
-  "fetchedAt": "2026-10-06T02:00:46.755379+00:00",
-  "generatedAt": "2026-10-06T01:35:26.558696+00:00",
+  "count": 4482,
+  "fetchedAt": "2026-10-06T02:05:26.473599+00:00",
+  "generatedAt": "2026-10-06T02:05:26.473599+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "Signifyd",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f5b601df5acf",
+      "jobType": "internship",
+      "location": "Belfast, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Engineering Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259?utm_source=Simplify&ref=Simplify",
@@ -1234,7 +1249,7 @@
       "title": "Software Development Engineer Co-op"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Cloudflare",
@@ -1940,21 +1955,6 @@
     },
     {
       "age": "12d",
-      "applyUrl": "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "9f35c49dd595",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI \ud83c\udf93"
-    },
-    {
-      "age": "12d",
       "applyUrl": "https://jobs.statefarm.com/jobs/45689?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "State Farm",
@@ -2224,7 +2224,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -4414,7 +4414,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tanium",
@@ -5044,7 +5044,7 @@
       "title": "Simulation Software Engineering Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Gallup",
@@ -9380,21 +9380,6 @@
     },
     {
       "age": "7d",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Jr-Product-Owner---2027-Summer-Internship--Chicago-Hybrid-_R69150?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Motorola",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4a18387a6466",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Junior Product Owner Intern"
-    },
-    {
-      "age": "7d",
       "applyUrl": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "UL Solutions",
@@ -10382,6 +10367,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "6f954aadb6f2",
+      "jobType": "internship",
+      "location": "Phoenix, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -13264,7 +13264,7 @@
       "title": "Autonomy Intern \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Waymo",
@@ -13504,7 +13504,7 @@
       "title": "IT Data Engineer Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -16174,7 +16174,7 @@
       "title": "Data Analytics & Governance Internship"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -17269,7 +17269,7 @@
       "title": "Business Intelligence Analyst Intern \ud83c\udf93"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393289009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17284,7 +17284,7 @@
       "title": "Fintech Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395454009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17299,7 +17299,7 @@
       "title": "Data Engineering Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395921009?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gallup",
@@ -19172,6 +19172,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI & Analytics Intern"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "American Express",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "db4587e3cd73",
+      "jobType": "internship",
+      "location": "Palo Alto, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -24379,7 +24394,7 @@
       "title": "Electrical/Computer Engineering Intern - Space Science Electronics"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -67220,7 +67235,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1853,
+    "Simplify Internships": 1854,
     "Simplify New Grad": 524,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
