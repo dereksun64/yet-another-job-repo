@@ -1,7 +1,7 @@
 {
-  "count": 4483,
-  "fetchedAt": "2026-10-06T04:05:21.570853+00:00",
-  "generatedAt": "2026-10-06T03:35:27.519193+00:00",
+  "count": 4481,
+  "fetchedAt": "2026-10-06T04:10:29.617887+00:00",
+  "generatedAt": "2026-10-06T04:10:29.617887+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1937,21 +1937,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Engineer Intern"
-    },
-    {
-      "age": "12d",
-      "applyUrl": "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c3e834ff9411",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Engineering Intern \ud83c\udf93"
     },
     {
       "age": "12d",
@@ -19037,21 +19022,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Western & Southern Financial Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "305a37a8ad44",
-      "jobType": "internship",
-      "location": "Cincinnati, OH",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Actuarial Intern - Summer 2027"
     },
     {
       "age": "1mo",
@@ -67250,7 +67220,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1853,
+    "Simplify Internships": 1851,
     "Simplify New Grad": 526,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
