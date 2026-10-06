@@ -1,7 +1,7 @@
 {
-  "count": 4499,
-  "fetchedAt": "2026-10-06T18:00:51.481420+00:00",
-  "generatedAt": "2026-10-06T17:35:27.994660+00:00",
+  "count": 4497,
+  "fetchedAt": "2026-10-06T18:05:27.805057+00:00",
+  "generatedAt": "2026-10-06T18:05:27.805057+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4264,7 +4264,7 @@
       "title": "Computer Science Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -7772,21 +7772,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Medline",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "40e89e9897e7",
-      "jobType": "internship",
-      "location": "Northbrook, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027"
     },
     {
       "age": "1mo",
@@ -28640,21 +28625,6 @@
     },
     {
       "age": "12d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "00d061c2820f",
-      "jobType": "full-time",
-      "location": "Marlborough, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "12d",
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Adobe",
@@ -29449,7 +29419,7 @@
       "title": "Software Engineer 1 - Endpoint Sensor"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -67490,8 +67460,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1860,
-    "Simplify New Grad": 534,
+    "Simplify Internships": 1859,
+    "Simplify New Grad": 533,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
