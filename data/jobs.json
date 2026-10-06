@@ -1,7 +1,7 @@
 {
-  "count": 4482,
-  "fetchedAt": "2026-10-06T02:30:46.177363+00:00",
-  "generatedAt": "2026-10-06T02:05:26.473599+00:00",
+  "count": 4484,
+  "fetchedAt": "2026-10-06T02:35:24.426105+00:00",
+  "generatedAt": "2026-10-06T02:35:24.426105+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -27815,6 +27815,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/idme/jobs/8011089003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "ID.me",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "479f192f776e",
+      "jobType": "full-time",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 2 New Grad - Developer Portal"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "JP Morgan Chase",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "7eb7787f5b34",
+      "jobType": "full-time",
+      "location": "Plano, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=8248317&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -28294,7 +28324,7 @@
       "title": "Tech Development Program New Grad - Software Development & Cloud Stream"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Varsity Brands",
@@ -28654,6 +28684,21 @@
       "title": "Associate Software Development Engineer 1"
     },
     {
+      "age": "15d",
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Amentum",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e28daad8f584",
+      "jobType": "full-time",
+      "location": "Dahlgren, VA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Entry Level Software Engineer"
+    },
+    {
       "age": "16d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -28669,7 +28714,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "16d",
+      "age": "17d",
       "applyUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Study.com",
@@ -28729,7 +28774,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Stripe",
@@ -28789,7 +28834,7 @@
       "title": "Junior Research Scientist - Formal Methods"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/captivation/jobs/5426523008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Captivation",
@@ -29014,7 +29059,7 @@
       "title": "C++ Software Developer New Grad - Rotational Program"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Superhuman",
@@ -29239,7 +29284,7 @@
       "title": "Junior Frontend Developer"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Anysphere",
@@ -29254,7 +29299,7 @@
       "title": "Software Engineer New Grad - 2027"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Dell Technologies",
@@ -32764,7 +32809,7 @@
       "title": "Junior Data Engineer"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quora",
@@ -33755,21 +33800,6 @@
     },
     {
       "age": "4mo",
-      "applyUrl": "https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/44324?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "VITAS Healthcare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "efd9e527ac2a",
-      "jobType": "full-time",
-      "location": "Miami, FL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Strategy & Innovation Analyst"
-    },
-    {
-      "age": "4mo",
       "applyUrl": "https://careers-apogeeusa.icims.com/jobs/1442/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Apogee Engineering",
@@ -34037,6 +34067,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Quantitative Developer & Strategist"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/?utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Citadel Securities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "81cdd49b60bc",
+      "jobType": "full-time",
+      "location": "London, UKDublin, Ireland",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Quantitative Research Analyst \u2013 University Graduate"
     },
     {
       "age": "3mo",
@@ -34324,7 +34369,7 @@
       "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -34384,7 +34429,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "9d",
+      "age": "10d",
       "applyUrl": "https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Aescape",
@@ -35345,21 +35390,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "85d4a8a970a3",
-      "jobType": "full-time",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000142894435?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "General Dynamics UK",
@@ -35449,7 +35479,7 @@
       "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products"
     },
     {
-      "age": "2mo",
+      "age": "3mo",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "\ud83d\udd25 NVIDIA",
@@ -67236,7 +67266,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1854,
-    "Simplify New Grad": 524,
+    "Simplify New Grad": 526,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
