@@ -1,7 +1,7 @@
 {
-  "count": 4479,
-  "fetchedAt": "2026-10-06T06:05:25.378097+00:00",
-  "generatedAt": "2026-10-06T05:05:27.568678+00:00",
+  "count": 4478,
+  "fetchedAt": "2026-10-06T06:10:30.774892+00:00",
+  "generatedAt": "2026-10-06T06:10:30.774892+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9446,21 +9446,6 @@
       "companyTier": "Tier 2",
       "degreeLevel": "unknown",
       "id": "c02bde4e2609",
-      "jobType": "internship",
-      "location": "O'Fallon, MO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Management Intern - Summer 2027"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Mastercard",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "1869e4f3376b",
       "jobType": "internship",
       "location": "O'Fallon, MO",
       "salary": "",
@@ -67190,7 +67175,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1849,
+    "Simplify Internships": 1848,
     "Simplify New Grad": 526,
     "SpeedyApply USA Internships": 761,
     "SpeedyApply USA New Grad": 753,
