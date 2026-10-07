@@ -1,8 +1,38 @@
 {
-  "count": 4523,
-  "fetchedAt": "2026-10-07T02:00:55.651067+00:00",
-  "generatedAt": "2026-10-07T01:35:26.784062+00:00",
+  "count": 4526,
+  "fetchedAt": "2026-10-07T02:05:25.610489+00:00",
+  "generatedAt": "2026-10-07T02:05:25.610489+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sigma Computing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b95e8eff7fdc",
+      "jobType": "internship",
+      "location": "SFNYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Sigma Computing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c632da590b1e",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007?utm_source=Simplify&ref=Simplify",
@@ -259,7 +289,7 @@
       "title": "Software Development Co-op"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Signifyd",
@@ -1654,7 +1684,7 @@
       "title": "Software Development Engineer Co-op"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Cloudflare",
@@ -2614,7 +2644,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -4774,7 +4804,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Tanium",
@@ -5404,7 +5434,7 @@
       "title": "Simulation Software Engineering Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Gallup",
@@ -11465,6 +11495,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Sigma Computing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "604d868a671f",
+      "jobType": "internship",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI/ML PhD Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Space Dynamics Laboratory",
@@ -11762,6 +11807,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Transformation Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Highmark Health",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "729254ae3299",
+      "jobType": "internship",
+      "location": "Pittsburgh, PA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Market Analytics Graduate Intern"
     },
     {
       "age": "1d",
@@ -13834,7 +13894,7 @@
       "title": "Autonomy Intern \ud83c\udf93"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Waymo",
@@ -14044,7 +14104,7 @@
       "title": "IT Data Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -16669,7 +16729,7 @@
       "title": "Data Analytics & Governance Internship"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -17764,7 +17824,7 @@
       "title": "Business Intelligence Analyst Intern \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393289009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17779,7 +17839,7 @@
       "title": "Fintech Intern - Summer 2027"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395454009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Gallup",
@@ -17794,7 +17854,7 @@
       "title": "Data Engineering Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395921009?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Gallup",
@@ -24754,7 +24814,7 @@
       "title": "Electrical/Computer Engineering Intern - Space Science Electronics"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -27917,21 +27977,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Development Engineering Intern/Co-op \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Freeform",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c032734e16d6",
-      "jobType": "internship",
-      "location": "LA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Electrical Engineer Intern"
     },
     {
       "age": "1mo",
@@ -67850,7 +67895,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1878,
+    "Simplify Internships": 1881,
     "Simplify New Grad": 531,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
