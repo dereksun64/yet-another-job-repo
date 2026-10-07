@@ -1,8 +1,23 @@
 {
-  "count": 4499,
-  "fetchedAt": "2026-10-07T19:30:45.047937+00:00",
-  "generatedAt": "2026-10-07T18:45:37.331503+00:00",
+  "count": 4498,
+  "fetchedAt": "2026-10-07T19:35:26.046514+00:00",
+  "generatedAt": "2026-10-07T19:35:26.046514+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Anduril",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f86b3496781c",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify",
@@ -4039,7 +4054,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "North Atlantic Industries",
@@ -4399,7 +4414,7 @@
       "title": "Software Engineer Intern - Global Technology & Solutions"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "AnaVation",
@@ -9947,21 +9962,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern - Summer 2027"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Nasdaq",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6d0486feeea0",
-      "jobType": "internship",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Owner Intern"
     },
     {
       "age": "21d",
@@ -15904,7 +15904,7 @@
       "title": "Human Behavior Analytics Intern - Safety Research"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://jobs.constellationenergy.com/jobs/138735?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Constellation Energy",
@@ -22940,21 +22940,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Barclays",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "0924f9cdc18e",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Finance Associate Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "InfiniteQuant",
@@ -25384,7 +25369,7 @@
       "title": "Hardware Engineer Intern - Machine Integration & Test"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "North Atlantic Industries",
@@ -25399,7 +25384,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "North Atlantic Industries",
@@ -25414,7 +25399,7 @@
       "title": "Test Engineer Intern"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "North Atlantic Industries",
@@ -67490,7 +67475,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1862,
+    "Simplify Internships": 1861,
     "Simplify New Grad": 523,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
