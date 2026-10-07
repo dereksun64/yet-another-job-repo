@@ -1,7 +1,7 @@
 {
-  "count": 4510,
-  "fetchedAt": "2026-10-07T17:30:48.960813+00:00",
-  "generatedAt": "2026-10-07T17:05:29.946055+00:00",
+  "count": 4506,
+  "fetchedAt": "2026-10-07T17:35:26.381437+00:00",
+  "generatedAt": "2026-10-07T17:35:26.381437+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9725,21 +9725,6 @@
     },
     {
       "age": "15d",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 Google",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "4b129007d539",
-      "jobType": "internship",
-      "location": "4 locationsSFSan Bruno, CANYCMountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Manager Intern - Summer 2027"
-    },
-    {
-      "age": "15d",
       "applyUrl": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "ONE Finance",
@@ -11801,21 +11786,6 @@
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "bca48e6a53ab",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Marketing Intern - Marketing Analytics"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Kyndryl",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "014afc64d33e",
       "jobType": "internship",
       "location": "NYC",
       "salary": "",
@@ -28295,21 +28265,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capital One",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c7389d2095c2",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Software Engineer New Grad"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://nuro.ai/careersitem?gh_jid=8248317&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Nuro",
@@ -32597,21 +32552,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Product Manager - Product Management"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 Google",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "eadac5297591",
-      "jobType": "full-time",
-      "location": "4 locationsSan Jose, CASan Bruno, CANYCMountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Associate Product Manager - University Graduate"
     },
     {
       "age": "23d",
@@ -67655,8 +67595,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1869,
-    "Simplify New Grad": 528,
+    "Simplify Internships": 1867,
+    "Simplify New Grad": 526,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
