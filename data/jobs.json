@@ -1,7 +1,7 @@
 {
   "count": 4498,
-  "fetchedAt": "2026-10-07T21:05:27.253696+00:00",
-  "generatedAt": "2026-10-07T21:05:27.253696+00:00",
+  "fetchedAt": "2026-10-07T21:10:31.936270+00:00",
+  "generatedAt": "2026-10-07T21:10:31.936270+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31835,21 +31835,6 @@
     },
     {
       "age": "3mo",
-      "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "SimpliSafe",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7278d5b5fa09",
-      "jobType": "full-time",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Device Control"
-    },
-    {
-      "age": "3mo",
       "applyUrl": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cerebras",
@@ -35998,6 +35983,21 @@
       "id": "4a6c1263ff70",
       "jobType": "full-time",
       "location": "Seattle, Washington",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Software Engineer I"
+    },
+    {
+      "age": "90d",
+      "applyUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=vansh",
+      "category": "Software Engineering",
+      "company": "SimpliSafe",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7278d5b5fa09",
+      "jobType": "full-time",
+      "location": "Boston, MA",
       "salary": "",
       "source": "Vansh New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
@@ -67476,7 +67476,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1860,
-    "Simplify New Grad": 523,
+    "Simplify New Grad": 522,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
