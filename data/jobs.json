@@ -1,7 +1,7 @@
 {
-  "count": 4578,
-  "fetchedAt": "2026-10-07T23:30:41.050506+00:00",
-  "generatedAt": "2026-10-07T23:06:05.126524+00:00",
+  "count": 4576,
+  "fetchedAt": "2026-10-07T23:35:25.235563+00:00",
+  "generatedAt": "2026-10-07T23:35:25.235563+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -19550,21 +19550,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "Textron",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a3e10e9ad190",
-      "jobType": "internship",
-      "location": "Augusta, GA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Product & Analytics Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Textron",
@@ -30950,21 +30935,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "IXL Learning",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ff74054a301d",
-      "jobType": "full-time",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "WhatNot",
@@ -35477,21 +35447,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Embedded Flight Software Engineer 1"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Onsite-_01878759?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c7213d71ae51",
-      "jobType": "full-time",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "7d",
@@ -65090,6 +65045,21 @@
     },
     {
       "age": "36d",
+      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+      "category": "Software Engineering",
+      "company": "IXL Learning",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ff74054a301d",
+      "jobType": "full-time",
+      "location": "Raleigh-Durham, NC +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer - New Grad"
+    },
+    {
+      "age": "36d",
       "applyUrl": "https://uscareers-pepsico.icims.com/jobs/468396/swe-%26-app-arch-engineer/job",
       "category": "Other",
       "company": "PepsiCo",
@@ -68675,8 +68645,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1921,
-    "Simplify New Grad": 539,
+    "Simplify Internships": 1920,
+    "Simplify New Grad": 537,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
