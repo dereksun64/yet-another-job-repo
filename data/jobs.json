@@ -1,7 +1,7 @@
 {
-  "count": 4492,
-  "fetchedAt": "2026-10-07T22:05:29.727054+00:00",
-  "generatedAt": "2026-10-07T22:05:29.727054+00:00",
+  "count": 4491,
+  "fetchedAt": "2026-10-07T22:10:29.922542+00:00",
+  "generatedAt": "2026-10-07T22:10:29.922542+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -27830,21 +27830,6 @@
     },
     {
       "age": "0d",
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "EquipmentShare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a124da8497be",
-      "jobType": "full-time",
-      "location": "Columbia, MO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "True Anomaly",
@@ -29807,21 +29792,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "IXL Learning",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a323cea94266",
-      "jobType": "full-time",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Developer New Grad - Integrations"
     },
     {
       "age": "1mo",
@@ -58715,6 +58685,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715",
+      "category": "Software Engineering",
+      "company": "EquipmentShare",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a124da8497be",
+      "jobType": "full-time",
+      "location": "Columbia, MO",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer I"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://job-boards.greenhouse.io/perpay/jobs/5252881007",
       "category": "Software Engineering",
       "company": "Perpay",
@@ -67386,7 +67371,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1854,
-    "Simplify New Grad": 522,
+    "Simplify New Grad": 520,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
