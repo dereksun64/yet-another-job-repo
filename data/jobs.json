@@ -1,7 +1,7 @@
 {
-  "count": 4510,
-  "fetchedAt": "2026-10-07T16:00:50.007041+00:00",
-  "generatedAt": "2026-10-07T15:40:35.775545+00:00",
+  "count": 4512,
+  "fetchedAt": "2026-10-07T16:05:33.811297+00:00",
+  "generatedAt": "2026-10-07T16:05:33.811297+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -47,6 +47,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Northrop Grumman",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "52301816f78b",
+      "jobType": "internship",
+      "location": "Chantilly, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Developer Intern"
     },
     {
       "age": "0d",
@@ -4684,7 +4699,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -11525,6 +11540,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Auto-Owners Insurance",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "a8a4331786eb",
+      "jobType": "internship",
+      "location": "Lansing, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Business Intelligence Engineer Intern"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Space Dynamics Laboratory",
@@ -18349,7 +18379,7 @@
       "title": "Healthcare Reimbursement Analytics Intern - Summer 2027"
     },
     {
-      "age": "29d",
+      "age": "30d",
       "applyUrl": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Ernst & Young",
@@ -20597,6 +20627,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Business Analytics Intern - Summer 2027"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "Marsh",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "2a85e9dec628",
+      "jobType": "internship",
+      "location": "Toronto, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst Intern - Data and Analytics"
     },
     {
       "age": "1mo",
@@ -28787,21 +28832,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Software Engineer"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "CACI",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "eee4b4bef1c4",
-      "jobType": "full-time",
-      "location": "Remote in USAHanover, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer Early Career - Cloud"
     },
     {
       "age": "13d",
@@ -67655,8 +67685,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1867,
-    "Simplify New Grad": 530,
+    "Simplify Internships": 1870,
+    "Simplify New Grad": 529,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
