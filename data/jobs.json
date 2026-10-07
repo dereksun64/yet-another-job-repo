@@ -1,7 +1,7 @@
 {
-  "count": 4523,
-  "fetchedAt": "2026-10-07T05:30:45.062764+00:00",
-  "generatedAt": "2026-10-07T05:05:26.221201+00:00",
+  "count": 4518,
+  "fetchedAt": "2026-10-07T05:35:25.427806+00:00",
+  "generatedAt": "2026-10-07T05:35:25.427806+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -12875,21 +12875,6 @@
     },
     {
       "age": "6d",
-      "applyUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Southwest Airlines",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1e6661d69da7",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Safety Analytics Intern"
-    },
-    {
-      "age": "6d",
       "applyUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Southwest Airlines",
@@ -23615,42 +23600,12 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153498869?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Renesas Electronics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9b8c3bad2985",
-      "jobType": "internship",
-      "location": "San Jose, CAPlano, TXSan Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analog Intern \ud83c\udf93"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Renesas Electronics",
       "companyTier": "Unlisted",
       "degreeLevel": "unknown",
       "id": "524e13215017",
-      "jobType": "internship",
-      "location": "San Jose, CAPlano, TXSan Diego, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analog Intern \ud83c\udf93"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153500409?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Renesas Electronics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ffc84bb7982e",
       "jobType": "internship",
       "location": "San Jose, CAPlano, TXSan Diego, CA",
       "salary": "",
@@ -24107,21 +24062,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "88c04d1b289d",
-      "jobType": "internship",
-      "location": "Windsor Locks, CT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Electrical Design Engineer Intern"
     },
     {
       "age": "8d",
@@ -30677,21 +30617,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Early Career Product Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Altice USA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0d3977e27e3d",
-      "jobType": "full-time",
-      "location": "Plano, TXBethpage, NY",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Development Engineer 1"
     },
     {
       "age": "1mo",
@@ -67850,8 +67775,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1879,
-    "Simplify New Grad": 531,
+    "Simplify Internships": 1875,
+    "Simplify New Grad": 530,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
