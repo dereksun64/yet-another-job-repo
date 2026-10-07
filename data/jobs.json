@@ -1,7 +1,7 @@
 {
-  "count": 4536,
-  "fetchedAt": "2026-10-07T07:00:54.309467+00:00",
-  "generatedAt": "2026-10-07T06:35:28.394689+00:00",
+  "count": 4535,
+  "fetchedAt": "2026-10-07T07:05:24.987191+00:00",
+  "generatedAt": "2026-10-07T07:05:24.987191+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -184,7 +184,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Solutions",
@@ -199,7 +199,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245211?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Cloudflare",
@@ -1667,21 +1667,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813674232?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Boston Scientific",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "2726aae8c630",
-      "jobType": "internship",
-      "location": "Waltham, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Engineer Co-op"
     },
     {
       "age": "8d",
@@ -5374,7 +5359,7 @@
       "title": "AI Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "K2 Space",
@@ -9424,7 +9409,7 @@
       "title": "Summer Intern - Card Product Management - Business to Business Payments"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://job-boards.greenhouse.io/solutions/jobs/4715294006?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Cadence Solutions",
@@ -11480,6 +11465,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Sigma Computing",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "debabc0bf970",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI/ML PhD Intern \ud83c\udf93"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8257801&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -11702,21 +11702,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "PhD Agentic/ML System Co-op \ud83c\udf93"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/R-D-PhD-Summer-Intern--Grooming-M-S_R000159786?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Procter & Gamble",
-      "companyTier": "Unlisted",
-      "degreeLevel": "masters",
-      "id": "17e0afa04a4a",
-      "jobType": "internship",
-      "location": "Boston, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "R&D PhD Summer Intern: Grooming M&S \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -68045,7 +68030,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1892,
+    "Simplify Internships": 1891,
     "Simplify New Grad": 531,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
