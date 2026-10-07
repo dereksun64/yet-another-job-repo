@@ -1,7 +1,7 @@
 {
   "count": 4498,
-  "fetchedAt": "2026-10-07T21:00:51.162612+00:00",
-  "generatedAt": "2026-10-07T20:35:30.032192+00:00",
+  "fetchedAt": "2026-10-07T21:05:27.253696+00:00",
+  "generatedAt": "2026-10-07T21:05:27.253696+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4877,21 +4877,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "RF-SMART",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b60175c523f3",
-      "jobType": "internship",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern - Product Engineering"
     },
     {
       "age": "26d",
@@ -15829,7 +15814,7 @@
       "title": "AI Research Intern \ud83c\udf93"
     },
     {
-      "age": "22d",
+      "age": "23d",
       "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Life",
@@ -53300,6 +53285,21 @@
     },
     {
       "age": "26d",
+      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
+      "category": "Product",
+      "company": "RF-SMART",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b60175c523f3",
+      "jobType": "internship",
+      "location": "Jacksonville, FL",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Product Engineering Software Developer Internship - Spring & Summer 2027"
+    },
+    {
+      "age": "26d",
       "applyUrl": "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52",
       "category": "Software Engineering",
       "company": "Swarm Aero",
@@ -67475,7 +67475,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1861,
+    "Simplify Internships": 1860,
     "Simplify New Grad": 523,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
