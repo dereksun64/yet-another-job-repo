@@ -1,7 +1,7 @@
 {
-  "count": 4493,
-  "fetchedAt": "2026-10-07T22:00:51.820908+00:00",
-  "generatedAt": "2026-10-07T21:35:28.142694+00:00",
+  "count": 4492,
+  "fetchedAt": "2026-10-07T22:05:29.727054+00:00",
+  "generatedAt": "2026-10-07T22:05:29.727054+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1198,21 +1198,6 @@
       "id": "273f1ca64d6c",
       "jobType": "internship",
       "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8c47136b95e7",
-      "jobType": "internship",
-      "location": "Cedar Rapids, IA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -67400,7 +67385,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1855,
+    "Simplify Internships": 1854,
     "Simplify New Grad": 522,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
