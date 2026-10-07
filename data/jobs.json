@@ -1,7 +1,7 @@
 {
-  "count": 4526,
-  "fetchedAt": "2026-10-07T02:05:25.610489+00:00",
-  "generatedAt": "2026-10-07T02:05:25.610489+00:00",
+  "count": 4527,
+  "fetchedAt": "2026-10-07T02:10:33.732720+00:00",
+  "generatedAt": "2026-10-07T02:10:33.732720+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29284,7 +29284,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Study.com",
@@ -34472,6 +34472,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Algorithm Developer New Grad - Quant Researcher"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Akuna Capital University",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f1e0435c4e3b",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Quantitative Researcher"
+    },
+    {
+      "age": "2mo",
+      "applyUrl": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Akuna Capital University",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d2805426a33b",
+      "jobType": "full-time",
+      "location": "Chicago, IL",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Quantitative Developer & Strategist"
     },
     {
       "age": "2mo",
@@ -59105,21 +59135,6 @@
     },
     {
       "age": "84d",
-      "applyUrl": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
-      "category": "Quant",
-      "company": "Akuna Capital",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d2805426a33b",
-      "jobType": "full-time",
-      "location": "Chicago, IL",
-      "salary": "$191k/yr",
-      "source": "SpeedyApply USA New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
-      "title": "Junior Quantitative Developer & Strategist"
-    },
-    {
-      "age": "84d",
       "applyUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
       "category": "Software Engineering",
       "company": "Five Rings",
@@ -67896,7 +67911,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1881,
-    "Simplify New Grad": 531,
+    "Simplify New Grad": 533,
     "SpeedyApply USA Internships": 772,
     "SpeedyApply USA New Grad": 749,
     "Vansh Internships": 214,
