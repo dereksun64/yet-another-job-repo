@@ -1,7 +1,7 @@
 {
-  "count": 4576,
-  "fetchedAt": "2026-10-08T00:30:42.239923+00:00",
-  "generatedAt": "2026-10-08T00:05:25.602062+00:00",
+  "count": 4574,
+  "fetchedAt": "2026-10-08T00:35:29.731118+00:00",
+  "generatedAt": "2026-10-08T00:35:29.731118+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -58,21 +58,6 @@
       "id": "f86b3496781c",
       "jobType": "internship",
       "location": "London, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "S&C Electric Company",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "c9a5071115d6",
-      "jobType": "internship",
-      "location": "Chicago, IL",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -7577,21 +7562,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Systems Engineer Co-op"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Philips",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "116f40356147",
-      "jobType": "internship",
-      "location": "Cambridge, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Co-op - R&D \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -68645,7 +68615,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1920,
+    "Simplify Internships": 1918,
     "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
