@@ -1,7 +1,7 @@
 {
-  "count": 4524,
-  "fetchedAt": "2026-10-08T20:00:42.479957+00:00",
-  "generatedAt": "2026-10-08T19:35:20.957859+00:00",
+  "count": 4523,
+  "fetchedAt": "2026-10-08T20:05:25.765032+00:00",
+  "generatedAt": "2026-10-08T20:05:25.765032+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -33632,21 +33632,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Data & Analytics Associate - Early Careers"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Micron Technology",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "59e4522de0fd",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "AI Innovation Research Engineer New Grad \ud83c\udf93"
     },
     {
       "age": "2mo",
@@ -67866,7 +67851,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1877,
-    "Simplify New Grad": 535,
+    "Simplify New Grad": 534,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
