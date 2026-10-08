@@ -1,7 +1,7 @@
 {
-  "count": 4545,
-  "fetchedAt": "2026-10-08T16:00:50.393562+00:00",
-  "generatedAt": "2026-10-08T15:35:22.774015+00:00",
+  "count": 4546,
+  "fetchedAt": "2026-10-08T16:05:26.802421+00:00",
+  "generatedAt": "2026-10-08T16:05:26.802421+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4789,7 +4789,7 @@
       "title": "Software Engineering Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -15844,21 +15844,6 @@
       "title": "Simulation Engineering Intern"
     },
     {
-      "age": "22d",
-      "applyUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8204161?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "National Information Solutions Cooperative",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "e54c7d4f89e4",
-      "jobType": "internship",
-      "location": "Lake St Louis, MO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern - AI Development"
-    },
-    {
       "age": "23d",
       "applyUrl": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -18619,7 +18604,7 @@
       "title": "Healthcare Reimbursement Analytics Intern - Summer 2027"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Ernst & Young",
@@ -24167,6 +24152,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Avionics Engineering Intern"
+    },
+    {
+      "age": "7d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7185edc1b5a6",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Flight Control Software Engineer Intern"
     },
     {
       "age": "7d",
@@ -53327,6 +53327,21 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Firmware Engineering Intern - Winter 2026"
+    },
+    {
+      "age": "22d",
+      "applyUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8204161",
+      "category": "AI/ML",
+      "company": "National Information Solutions Cooperative",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e54c7d4f89e4",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA +1",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Intern - Software Development - AI Development"
     },
     {
       "age": "22d",
