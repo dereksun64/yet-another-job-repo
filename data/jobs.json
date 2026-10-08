@@ -1,7 +1,7 @@
 {
-  "count": 4562,
-  "fetchedAt": "2026-10-08T05:30:43.343549+00:00",
-  "generatedAt": "2026-10-08T05:05:24.422952+00:00",
+  "count": 4559,
+  "fetchedAt": "2026-10-08T05:35:24.986802+00:00",
+  "generatedAt": "2026-10-08T05:35:24.986802+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -10100,21 +10100,6 @@
     },
     {
       "age": "22d",
-      "applyUrl": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 Duolingo",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1a18d5248521",
-      "jobType": "internship",
-      "location": "Pittsburgh, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Associate Product Manager Intern"
-    },
-    {
-      "age": "22d",
       "applyUrl": "https://careers.itw.com/global/en/job/JR10105?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Illinois Tool Works",
@@ -13307,21 +13292,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Safety Analytics Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Southwest Airlines",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "8ed8858e2bf9",
-      "jobType": "internship",
-      "location": "Dallas, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineer Intern"
     },
     {
       "age": "7d",
@@ -24139,21 +24109,6 @@
       "title": "Analog Design Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Renesas Electronics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d811d6f8657f",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analog Intern \ud83c\udf93"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
@@ -28982,21 +28937,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Applied AI New Grad - Non Silicon"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://job-boards.greenhouse.io/idme/jobs/8011089003?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "ID.me",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "479f192f776e",
-      "jobType": "full-time",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 2 New Grad - Developer Portal"
     },
     {
       "age": "2d",
@@ -60035,6 +59975,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "category": "Software Engineering",
+      "company": "ID.me",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "479f192f776e",
+      "jobType": "full-time",
+      "location": "ID.me Mountain View, CA +1",
+      "salary": "",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "Software Engineer II - Developer Portal - New Grad / Early Career"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://jobs.dayforcehcm.com/en-US/omnia/candidateportal/jobs/1677",
       "category": "Other",
       "company": "OMNIA Partners",
@@ -68435,8 +68390,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1904,
-    "Simplify New Grad": 538,
+    "Simplify Internships": 1901,
+    "Simplify New Grad": 537,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
