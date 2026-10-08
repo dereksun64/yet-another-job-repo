@@ -1,7 +1,7 @@
 {
-  "count": 4574,
-  "fetchedAt": "2026-10-08T11:30:38.252010+00:00",
-  "generatedAt": "2026-10-08T11:05:20.527007+00:00",
+  "count": 4576,
+  "fetchedAt": "2026-10-08T11:35:19.747137+00:00",
+  "generatedAt": "2026-10-08T11:35:19.747137+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1187,6 +1187,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Veeam Software",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "649ed42d8820",
+      "jobType": "internship",
+      "location": "Georgia",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Competitive Intelligence AI Engineer Intern"
     },
     {
       "age": "6d",
@@ -13340,6 +13355,21 @@
     },
     {
       "age": "7d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "526cc5553835",
+      "jobType": "internship",
+      "location": "Sunnyvale, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation"
+    },
+    {
+      "age": "7d",
       "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "General Motors",
@@ -24125,6 +24155,21 @@
     },
     {
       "age": "2d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e600ae40d31e",
+      "jobType": "internship",
+      "location": "Largo, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "2d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "RTX",
@@ -30257,21 +30302,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer - Early Career"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "1ada76406642",
-      "jobType": "full-time",
-      "location": "Tewksbury, MA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
     },
     {
       "age": "23d",
@@ -68615,8 +68645,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1917,
-    "Simplify New Grad": 536,
+    "Simplify Internships": 1920,
+    "Simplify New Grad": 535,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
