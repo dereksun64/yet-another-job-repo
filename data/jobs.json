@@ -1,7 +1,7 @@
 {
-  "count": 4548,
-  "fetchedAt": "2026-10-08T17:30:37.224839+00:00",
-  "generatedAt": "2026-10-08T17:05:21.833643+00:00",
+  "count": 4545,
+  "fetchedAt": "2026-10-08T17:35:21.439474+00:00",
+  "generatedAt": "2026-10-08T17:35:21.439474+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1909,21 +1909,6 @@
       "title": "Software Engineering Intern - Software Tools and Assurance \ud83c\udf93"
     },
     {
-      "age": "10d",
-      "applyUrl": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "POET",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "b9a5160da340",
-      "jobType": "internship",
-      "location": "Sioux Falls, SD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
-    },
-    {
       "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
@@ -3737,21 +3722,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern - Rig Technologies"
-    },
-    {
-      "age": "22d",
-      "applyUrl": "https://job-boards.greenhouse.io/nisc/jobs/8204086?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "National Information Solutions Cooperative",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "795538769604",
-      "jobType": "internship",
-      "location": "Lake St Louis, MOCedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern - AI Development"
     },
     {
       "age": "22d",
@@ -19160,21 +19130,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/testnisc/jobs/8167883?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "National Information Solutions Cooperative",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "da18cbf4c387",
-      "jobType": "internship",
-      "location": "Lake St Louis, MOMandan, NDCedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Data Engineer Intern"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://careers.jhuapl.edu/jobs/59784?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -24152,21 +24107,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Flight Control Software Engineer Intern"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Philips",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a3ce3d205ad2",
-      "jobType": "internship",
-      "location": "New Kensington, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Systems Test Engineering Intern"
     },
     {
       "age": "7d",
@@ -53375,6 +53315,21 @@
     },
     {
       "age": "22d",
+      "applyUrl": "https://job-boards.greenhouse.io/nisc/jobs/8204086",
+      "category": "AI/ML",
+      "company": "National Information Solutions Cooperative",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "795538769604",
+      "jobType": "internship",
+      "location": "Cedar Rapids, IA +1",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Intern - Software Development - AI Development"
+    },
+    {
+      "age": "22d",
       "applyUrl": "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106",
       "category": "Software Engineering",
       "company": "Nelnet",
@@ -68225,7 +68180,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1889,
+    "Simplify Internships": 1885,
     "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
