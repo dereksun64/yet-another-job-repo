@@ -1,7 +1,7 @@
 {
-  "count": 4545,
-  "fetchedAt": "2026-10-08T18:00:42.725487+00:00",
-  "generatedAt": "2026-10-08T17:35:21.439474+00:00",
+  "count": 4542,
+  "fetchedAt": "2026-10-08T18:05:22.387050+00:00",
+  "generatedAt": "2026-10-08T18:05:22.387050+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4489,7 +4489,7 @@
       "title": "Computer Science Intern - Summer 2027"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -9377,21 +9377,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Management Intern"
-    },
-    {
-      "age": "1d",
-      "applyUrl": "https://firstcitizens.jibeapply.com/jobs/35886?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "First Citizens BancShares",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a09079e03690",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Intern - Card Product Management - Business to Business Payments"
     },
     {
       "age": "2d",
@@ -16907,21 +16892,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Analytics & Governance Internship"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193295&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "\ud83d\udd25 Waymo",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "70eff4163084",
-      "jobType": "internship",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Intern - Multiple Teams \ud83c\udf93"
     },
     {
       "age": "27d",
@@ -27905,21 +27875,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Daktronics",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "057fed0c8728",
-      "jobType": "internship",
-      "location": "Brookings, SD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Hardware Design Co-op Intern - Firmware"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://careers.garmin.com/jobs/19693?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Garmin",
@@ -29929,7 +29884,7 @@
       "title": "Software Engineer 1 - Endpoint Sensor"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -68180,7 +68135,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1885,
+    "Simplify Internships": 1882,
     "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
