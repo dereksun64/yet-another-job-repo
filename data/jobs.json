@@ -1,7 +1,7 @@
 {
-  "count": 4546,
-  "fetchedAt": "2026-10-08T16:05:26.802421+00:00",
-  "generatedAt": "2026-10-08T16:05:26.802421+00:00",
+  "count": 4550,
+  "fetchedAt": "2026-10-08T16:10:28.138602+00:00",
+  "generatedAt": "2026-10-08T16:10:28.138602+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28385,6 +28385,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Citi",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "bb594c17186a",
+      "jobType": "full-time",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Junior Software Engineer - Generative AI Platforms"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Amentum",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "9d7b2f074677",
+      "jobType": "full-time",
+      "location": "Hanover, MD",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer 1"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8862049002&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "IXL Learning",
@@ -34667,6 +34697,36 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Quantitative Researcher \ud83c\udf93"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "b99b90c174e9",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "76f961e6be2d",
+      "jobType": "full-time",
+      "location": "McKinney, TX",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Embedded Software Engineer 1"
     },
     {
       "age": "0d",
@@ -68196,7 +68256,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1891,
-    "Simplify New Grad": 532,
+    "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
