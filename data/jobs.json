@@ -1,23 +1,8 @@
 {
-  "count": 4542,
-  "fetchedAt": "2026-10-08T18:30:37.122158+00:00",
-  "generatedAt": "2026-10-08T18:05:22.387050+00:00",
+  "count": 4541,
+  "fetchedAt": "2026-10-08T18:35:18.948277+00:00",
+  "generatedAt": "2026-10-08T18:35:18.948277+00:00",
   "jobs": [
-    {
-      "age": "0d",
-      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 DoorDash",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "fef855fa0560",
-      "jobType": "internship",
-      "location": "SFSunnyvale, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
     {
       "age": "0d",
       "applyUrl": "https://careers.itw.com/global/en/job/JR10491?utm_source=Simplify&ref=Simplify",
@@ -4144,7 +4129,7 @@
       "title": "Full Stack Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Emerson Electric",
@@ -29794,7 +29779,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "23d",
+      "age": "24d",
       "applyUrl": "https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "C3.ai",
@@ -68135,7 +68120,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1882,
+    "Simplify Internships": 1881,
     "Simplify New Grad": 536,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
