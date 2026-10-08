@@ -1,7 +1,7 @@
 {
-  "count": 4517,
-  "fetchedAt": "2026-10-08T22:00:41.219550+00:00",
-  "generatedAt": "2026-10-08T21:35:21.415733+00:00",
+  "count": 4515,
+  "fetchedAt": "2026-10-08T22:05:24.645255+00:00",
+  "generatedAt": "2026-10-08T22:05:24.645255+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -1127,21 +1127,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Development Intern"
-    },
-    {
-      "age": "6d",
-      "applyUrl": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Riot Games",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "39e9fe66a834",
-      "jobType": "internship",
-      "location": "LA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "6d",
@@ -29777,21 +29762,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer New Grad"
-    },
-    {
-      "age": "27d",
-      "applyUrl": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Capgemini",
-      "companyTier": "Tier 4",
-      "degreeLevel": "unknown",
-      "id": "ee49793c5219",
-      "jobType": "full-time",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Frontend Developer"
     },
     {
       "age": "28d",
@@ -67760,8 +67730,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1872,
-    "Simplify New Grad": 532,
+    "Simplify Internships": 1871,
+    "Simplify New Grad": 531,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
