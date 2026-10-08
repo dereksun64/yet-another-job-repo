@@ -1,7 +1,7 @@
 {
-  "count": 4565,
-  "fetchedAt": "2026-10-08T04:00:47.901658+00:00",
-  "generatedAt": "2026-10-08T03:35:25.153698+00:00",
+  "count": 4564,
+  "fetchedAt": "2026-10-08T04:05:22.710363+00:00",
+  "generatedAt": "2026-10-08T04:05:22.710363+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -28,21 +28,6 @@
       "id": "157fb351bfc3",
       "jobType": "internship",
       "location": "Reston, VA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "0d",
-      "applyUrl": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "State Affairs",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "5499b1c0a2cb",
-      "jobType": "internship",
-      "location": "Washington, DC",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
@@ -68480,7 +68465,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1905,
+    "Simplify Internships": 1904,
     "Simplify New Grad": 540,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
