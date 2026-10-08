@@ -1,7 +1,7 @@
 {
-  "count": 4574,
-  "fetchedAt": "2026-10-08T00:35:29.731118+00:00",
-  "generatedAt": "2026-10-08T00:35:29.731118+00:00",
+  "count": 4573,
+  "fetchedAt": "2026-10-08T00:40:30.638356+00:00",
+  "generatedAt": "2026-10-08T00:40:30.638356+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29642,21 +29642,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Development Engineer 1 - Mobile"
-    },
-    {
-      "age": "13d",
-      "applyUrl": "https://careers.pnnl.gov/jobs/12171?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Pacific Northwest National Laboratory",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "3e9afacd79ad",
-      "jobType": "full-time",
-      "location": "Richland, WA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Early Career Software Engineer"
     },
     {
       "age": "14d",
@@ -68616,7 +68601,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1918,
-    "Simplify New Grad": 536,
+    "Simplify New Grad": 535,
     "SpeedyApply USA Internships": 782,
     "SpeedyApply USA New Grad": 753,
     "Vansh Internships": 214,
