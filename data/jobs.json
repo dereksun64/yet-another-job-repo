@@ -1,7 +1,7 @@
 {
-  "count": 4551,
-  "fetchedAt": "2026-10-09T18:00:42.898818+00:00",
-  "generatedAt": "2026-10-09T16:35:19.955569+00:00",
+  "count": 4549,
+  "fetchedAt": "2026-10-09T18:05:21.078927+00:00",
+  "generatedAt": "2026-10-09T18:05:21.078927+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -2780,21 +2780,6 @@
     },
     {
       "age": "16d",
-      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "American Express",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "e70519cb5426",
-      "jobType": "internship",
-      "location": "Salt Lake City, UT",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Enterprise Technology Services"
-    },
-    {
-      "age": "16d",
       "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Electronic Arts",
@@ -4594,7 +4579,7 @@
       "title": "Computer Science Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Klaviyo",
@@ -10277,21 +10262,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Associate Internship - Technical Product Analyst"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://boards.greenhouse.io/embed/job_app?token=8175504&utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 Coinbase",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "d3d00609e563",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Manager Intern - HR Technology"
     },
     {
       "age": "30d",
@@ -68270,7 +68240,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1884,
+    "Simplify Internships": 1882,
     "Simplify New Grad": 551,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
