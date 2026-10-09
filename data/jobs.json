@@ -1,7 +1,7 @@
 {
-  "count": 4567,
-  "fetchedAt": "2026-10-09T04:30:34.194186+00:00",
-  "generatedAt": "2026-10-09T03:40:26.292125+00:00",
+  "count": 4564,
+  "fetchedAt": "2026-10-09T04:36:28.278968+00:00",
+  "generatedAt": "2026-10-09T04:36:28.278968+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -18605,21 +18605,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Merck",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "de677f99738e",
-      "jobType": "internship",
-      "location": "West Point, PA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Computational Toxicology Intern - AI/ML Computational Toxicology"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Merck",
@@ -28955,21 +28940,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Barry-Wehmiller",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "81ef38d4a2ff",
-      "jobType": "full-time",
-      "location": "5 locationsEau Claire, WIDallas, TXRaleigh, NCSt. Louis, MODenver, CO",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Entry Level Software Engineer"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Applied Materials",
@@ -33587,21 +33557,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Targeting Analyst"
-    },
-    {
-      "age": "7d",
-      "applyUrl": "https://seatgeek.com/jobs/8247550?gh_jid=8247550&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
-      "company": "SeatGeek",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "d43de15e9635",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Data Analyst New Grad"
     },
     {
       "age": "7d",
@@ -68510,8 +68465,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1907,
-    "Simplify New Grad": 546,
+    "Simplify Internships": 1906,
+    "Simplify New Grad": 544,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
