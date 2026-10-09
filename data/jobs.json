@@ -1,7 +1,7 @@
 {
   "count": 4567,
-  "fetchedAt": "2026-10-09T03:35:25.632861+00:00",
-  "generatedAt": "2026-10-09T02:05:22.449686+00:00",
+  "fetchedAt": "2026-10-09T03:40:26.292125+00:00",
+  "generatedAt": "2026-10-09T03:40:26.292125+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4187,21 +4187,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "User Experience Engineer Intern"
-    },
-    {
-      "age": "24d",
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "EquipmentShare",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "4131007070a6",
-      "jobType": "internship",
-      "location": "Columbia, MO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "24d",
@@ -54050,6 +54035,21 @@
     },
     {
       "age": "24d",
+      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926",
+      "category": "Software Engineering",
+      "company": "EquipmentShare",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4131007070a6",
+      "jobType": "internship",
+      "location": "Columbia, MO",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Intern: Software Engineer"
+    },
+    {
+      "age": "24d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
       "category": "Software Engineering",
       "company": "Robinhood",
@@ -68510,7 +68510,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1908,
+    "Simplify Internships": 1907,
     "Simplify New Grad": 546,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
