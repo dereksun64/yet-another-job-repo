@@ -1,7 +1,7 @@
 {
-  "count": 4553,
-  "fetchedAt": "2026-10-09T16:30:35.960645+00:00",
-  "generatedAt": "2026-10-09T16:05:21.239032+00:00",
+  "count": 4551,
+  "fetchedAt": "2026-10-09T16:35:19.955569+00:00",
+  "generatedAt": "2026-10-09T16:35:19.955569+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -4865,21 +4865,6 @@
     },
     {
       "age": "28d",
-      "applyUrl": "https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "156017d95678",
-      "jobType": "internship",
-      "location": "Laurel, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Decision Science Intern - Software Engineer"
-    },
-    {
-      "age": "28d",
       "applyUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Citizens Financial Group",
@@ -5914,7 +5899,7 @@
       "title": "Software Engineer Intern - Summer"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Peraton",
@@ -24167,21 +24152,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Avionics Engineering Intern"
-    },
-    {
-      "age": "8d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7185edc1b5a6",
-      "jobType": "internship",
-      "location": "Cedar Rapids, IA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Flight Control Software Engineer Intern"
     },
     {
       "age": "8d",
@@ -68300,7 +68270,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1886,
+    "Simplify Internships": 1884,
     "Simplify New Grad": 551,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
