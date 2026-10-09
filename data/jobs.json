@@ -1,7 +1,7 @@
 {
-  "count": 4538,
-  "fetchedAt": "2026-10-09T21:00:45.391509+00:00",
-  "generatedAt": "2026-10-09T20:35:19.755004+00:00",
+  "count": 4536,
+  "fetchedAt": "2026-10-09T21:05:22.393416+00:00",
+  "generatedAt": "2026-10-09T21:05:22.393416+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -15950,21 +15950,6 @@
     },
     {
       "age": "24d",
-      "applyUrl": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Tighe & Bond",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6704ae3fb643",
-      "jobType": "internship",
-      "location": "Worcester, MA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "GIS Intern - Geographic Information Systems"
-    },
-    {
-      "age": "24d",
       "applyUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Governance--Visualization-and-Automation-Intern_JR116628-2?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Xcel Energy",
@@ -16234,7 +16219,7 @@
       "title": "AI Research Intern \ud83c\udf93"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "National Life",
@@ -35087,21 +35072,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Electrical & Firmware Engineer"
-    },
-    {
-      "age": "14d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "fb7bd6f7cb33",
-      "jobType": "full-time",
-      "location": "El Segundo, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Gen4 Airborne Radar"
     },
     {
       "age": "14d",
@@ -68075,8 +68045,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1873,
-    "Simplify New Grad": 547,
+    "Simplify Internships": 1872,
+    "Simplify New Grad": 546,
     "SpeedyApply USA Internships": 770,
     "SpeedyApply USA New Grad": 761,
     "Vansh Internships": 214,
