@@ -1,7 +1,7 @@
 {
-  "count": 4552,
-  "fetchedAt": "2026-10-09T08:30:34.986775+00:00",
-  "generatedAt": "2026-10-09T08:05:21.696611+00:00",
+  "count": 4549,
+  "fetchedAt": "2026-10-09T08:35:21.736353+00:00",
+  "generatedAt": "2026-10-09T08:35:21.736353+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -9917,21 +9917,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Manager Co-op - Spring 2027"
-    },
-    {
-      "age": "21d",
-      "applyUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "USAA",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "427970d88ed3",
-      "jobType": "internship",
-      "location": "San Antonio, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing"
     },
     {
       "age": "21d",
@@ -29269,21 +29254,6 @@
       "title": "University Grad Software Engineer"
     },
     {
-      "age": "7d",
-      "applyUrl": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Clay",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "9689c1b9ce89",
-      "jobType": "full-time",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Early Career Software Engineer"
-    },
-    {
       "age": "8d",
       "applyUrl": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
@@ -29852,21 +29822,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "C++ Software Developer New Grad"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "18b72691c062",
-      "jobType": "full-time",
-      "location": "Tucson, AZ",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1 - Test"
     },
     {
       "age": "23d",
@@ -68285,8 +68240,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1895,
-    "Simplify New Grad": 543,
+    "Simplify Internships": 1894,
+    "Simplify New Grad": 541,
     "SpeedyApply USA Internships": 778,
     "SpeedyApply USA New Grad": 745,
     "Vansh Internships": 214,
