@@ -1,7 +1,7 @@
 {
-  "count": 4549,
-  "fetchedAt": "2026-10-09T18:35:21.095658+00:00",
-  "generatedAt": "2026-10-09T18:35:21.095658+00:00",
+  "count": 4548,
+  "fetchedAt": "2026-10-09T18:40:24.898736+00:00",
+  "generatedAt": "2026-10-09T18:40:24.898736+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -29869,7 +29869,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering New Grad Roles",
       "company": "C3.ai",
@@ -31952,21 +31952,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Application Software Developer New Grad"
-    },
-    {
-      "age": "2mo",
-      "applyUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Freedom Technology Solutions Group",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "37bba1d02e5b",
-      "jobType": "full-time",
-      "location": "Annapolis Junction, MD",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Junior Software Engineer"
     },
     {
       "age": "2mo",
@@ -68241,7 +68226,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1880,
-    "Simplify New Grad": 551,
+    "Simplify New Grad": 550,
     "SpeedyApply USA Internships": 770,
     "SpeedyApply USA New Grad": 761,
     "Vansh Internships": 214,
