@@ -1,7 +1,7 @@
 {
-  "count": 4565,
-  "fetchedAt": "2026-10-10T15:30:35.827556+00:00",
-  "generatedAt": "2026-10-10T15:05:19.145886+00:00",
+  "count": 4566,
+  "fetchedAt": "2026-10-10T15:35:20.177358+00:00",
+  "generatedAt": "2026-10-10T15:35:20.177358+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -182,6 +182,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Information Technology Development Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "04e51d5429a4",
+      "jobType": "internship",
+      "location": "Melbourne, FL",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -13040,6 +13055,21 @@
     },
     {
       "age": "5d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "30f2eb1a3ec5",
+      "jobType": "internship",
+      "location": "Sunnyvale, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation \ud83c\udf93"
+    },
+    {
+      "age": "5d",
       "applyUrl": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "FHLBank Chicago",
@@ -22774,7 +22804,7 @@
       "title": "Execution Research Intern - Systematic Execution Research"
     },
     {
-      "age": "30d",
+      "age": "1mo",
       "applyUrl": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620&utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "Zions Bank",
@@ -29614,7 +29644,7 @@
       "title": "Software Engineer New Grad - Engine"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TeleTracking",
@@ -30034,7 +30064,7 @@
       "title": "Platform Full-Stack Engineer New Grad"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Scale AI",
@@ -33004,21 +33034,6 @@
       "title": "Cloud Software Engineer 1"
     },
     {
-      "age": "7mo",
-      "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "NOV",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6228c7703ec4",
-      "jobType": "full-time",
-      "location": "Houston, TX",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Product Engineer 1"
-    },
-    {
       "age": "2d",
       "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8862211002&utm_source=Simplify&ref=Simplify",
       "category": "Product",
@@ -33049,7 +33064,7 @@
       "title": "Junior Product Manager - Product Management"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 Robinhood",
@@ -68480,8 +68495,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1888,
-    "Simplify New Grad": 558,
+    "Simplify Internships": 1890,
+    "Simplify New Grad": 557,
     "SpeedyApply USA Internships": 770,
     "SpeedyApply USA New Grad": 761,
     "Vansh Internships": 214,
