@@ -1,7 +1,7 @@
 {
-  "count": 4583,
-  "fetchedAt": "2026-10-10T01:00:43.641256+00:00",
-  "generatedAt": "2026-10-10T00:05:21.244343+00:00",
+  "count": 4582,
+  "fetchedAt": "2026-10-10T01:05:20.822005+00:00",
+  "generatedAt": "2026-10-10T01:05:20.822005+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -3692,21 +3692,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Feature Development Intern - NCSG"
-    },
-    {
-      "age": "23d",
-      "applyUrl": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Ragle Inc",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7f97f5e12c10",
-      "jobType": "internship",
-      "location": "North Richland Hills, TX",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
     },
     {
       "age": "23d",
@@ -16697,21 +16682,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Medical Intelligence Co-op"
-    },
-    {
-      "age": "26d",
-      "applyUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Oshkosh",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "29e99797b2d7",
-      "jobType": "internship",
-      "location": "New Hudson, MI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Autonomy Engineering Intern - Summer 2027"
     },
     {
       "age": "26d",
@@ -54620,6 +54590,21 @@
     },
     {
       "age": "28d",
+      "applyUrl": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern",
+      "category": "Software Engineering",
+      "company": "Ragle",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "7f97f5e12c10",
+      "jobType": "internship",
+      "location": "North Richland Hills, TX",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "28d",
       "applyUrl": "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52",
       "category": "Software Engineering",
       "company": "Swarm Aero",
@@ -68750,7 +68735,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1910,
+    "Simplify Internships": 1908,
     "Simplify New Grad": 555,
     "SpeedyApply USA Internships": 770,
     "SpeedyApply USA New Grad": 761,
