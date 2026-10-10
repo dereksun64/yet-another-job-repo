@@ -1,7 +1,7 @@
 {
-  "count": 4572,
-  "fetchedAt": "2026-10-10T10:30:32.984221+00:00",
-  "generatedAt": "2026-10-10T10:05:25.546747+00:00",
+  "count": 4578,
+  "fetchedAt": "2026-10-10T10:35:20.192136+00:00",
+  "generatedAt": "2026-10-10T10:35:20.192136+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -290,21 +290,6 @@
     },
     {
       "age": "1d",
-      "applyUrl": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Viget",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "841e5046c084",
-      "jobType": "internship",
-      "location": "Boulder, CO",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
-    },
-    {
-      "age": "1d",
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000154478885?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Robert Bosch Venture Capital",
@@ -319,7 +304,7 @@
       "title": "Business Digitalisation & AI Automation Intern"
     },
     {
-      "age": "1d",
+      "age": "2d",
       "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 DoorDash",
@@ -2402,21 +2387,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Research Intern - PhD \ud83c\udf93"
-    },
-    {
-      "age": "15d",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Intel",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "masters",
-      "id": "eade31b61253",
-      "jobType": "internship",
-      "location": "Hillsboro, OR",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools \ud83c\udf93"
     },
     {
       "age": "15d",
@@ -5600,21 +5570,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Kensho",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "14fe0f34b8e5",
-      "jobType": "internship",
-      "location": "Cambridge, MANYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern - Summer 2027"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "GE Vernova",
@@ -7352,6 +7307,36 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Graphics Software Engineer Intern/Co-op"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "cbb3bfdcbaa3",
+      "jobType": "internship",
+      "location": "Calgary, AB, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AGS Libraries Intern/Co-op"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "2c53951121a6",
+      "jobType": "internship",
+      "location": "Vancouver, BC, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern/Co-op"
     },
     {
       "age": "1mo",
@@ -10655,6 +10640,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "435dff461072",
+      "jobType": "internship",
+      "location": "Calgary, AB, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Product Management Intern/Co-op - Multiple Teams"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "American Express",
@@ -11687,6 +11687,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Scaling Intern - Data Scaling - Embodied AI \ud83c\udf93"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "67e148572054",
+      "jobType": "internship",
+      "location": "Sunnyvale, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Seam Intern - Embodied AI \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -12767,21 +12782,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Scientist Intern"
-    },
-    {
-      "age": "4d",
-      "applyUrl": "https://careers.amd.com/jobs/93332?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "6c27ccb08f1c",
-      "jobType": "internship",
-      "location": "San Jose, CASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Training Systems and Performance Engineer Intern/Co-op \ud83c\udf93"
     },
     {
       "age": "4d",
@@ -15092,21 +15092,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern \ud83c\udf93"
-    },
-    {
-      "age": "18d",
-      "applyUrl": "https://careers.amd.com/jobs/91013?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "eb9e8f19c271",
-      "jobType": "internship",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training \ud83c\udf93"
     },
     {
       "age": "18d",
@@ -19775,6 +19760,21 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "6ddf9af479e1",
+      "jobType": "internship",
+      "location": "Markham, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Machine Learning/Artificial Intelligence Intern/Co-op"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 AMD",
@@ -23240,6 +23240,51 @@
     },
     {
       "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/175428?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "3612137efb66",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Intern - Investment Banking"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/175424?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "32336883d07d",
+      "jobType": "internship",
+      "location": "London, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Intern - Multiple Teams"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/171550?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "7bb41ed1a967",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Analyst Intern"
+    },
+    {
+      "age": "1mo",
       "applyUrl": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "company": "Goldman Sachs",
@@ -23267,6 +23312,51 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/171533?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "eb68ff14fd7a",
+      "jobType": "internship",
+      "location": "NYC",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/171532?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "e9b59b47da38",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Intern - Americas"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://higher.gs.com/roles/171534?type=students&utm_source=Simplify&ref=Simplify",
+      "category": "Quant",
+      "company": "Goldman Sachs",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "9fc62544ec7b",
+      "jobType": "internship",
+      "location": "Dallas, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats"
     },
     {
       "age": "1mo",
@@ -25550,6 +25640,21 @@
     },
     {
       "age": "23d",
+      "applyUrl": "https://careers.amd.com/jobs/91953?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "77eae3a1deb4",
+      "jobType": "internship",
+      "location": "Markham, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Technical Marketing Performance Analysis Intern/Co-op"
+    },
+    {
+      "age": "23d",
       "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Emerson Electric",
@@ -27425,36 +27530,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "176945decb56",
-      "jobType": "internship",
-      "location": "Markham, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Hardware Design Verification Engineer Intern/Co-op"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "\ud83d\udd25 AMD",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "ca1ddc3cdee4",
-      "jobType": "internship",
-      "location": "Markham, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Firmware Engineer Intern/Co-op"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -27467,6 +27542,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Analog and Mixed Signal Engineer Intern/Co-op"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "\ud83d\udd25 AMD",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "d8e2c4d075bd",
+      "jobType": "internship",
+      "location": "Markham, ON, Canada",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Firmware Engineer Intern/Co-op - Long Term"
     },
     {
       "age": "1mo",
@@ -68585,7 +68675,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1894,
+    "Simplify Internships": 1900,
     "Simplify New Grad": 559,
     "SpeedyApply USA Internships": 770,
     "SpeedyApply USA New Grad": 761,
