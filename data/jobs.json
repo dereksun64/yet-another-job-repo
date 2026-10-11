@@ -1,7 +1,7 @@
 {
-  "count": 4573,
-  "fetchedAt": "2026-10-11T03:00:42.756819+00:00",
-  "generatedAt": "2026-10-11T02:35:22.338899+00:00",
+  "count": 4572,
+  "fetchedAt": "2026-10-11T03:05:21.374452+00:00",
+  "generatedAt": "2026-10-11T03:05:21.374452+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -5102,21 +5102,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Software Engineer Intern"
-    },
-    {
-      "age": "30d",
-      "applyUrl": "https://careers.jhuapl.edu/jobs/59997?icims=1&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "a2d820664447",
-      "jobType": "internship",
-      "location": "Laurel, MD",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems"
     },
     {
       "age": "30d",
@@ -68600,7 +68585,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1886,
+    "Simplify Internships": 1885,
     "Simplify New Grad": 557,
     "SpeedyApply USA Internships": 769,
     "SpeedyApply USA New Grad": 777,
