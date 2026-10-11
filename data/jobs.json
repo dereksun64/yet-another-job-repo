@@ -1,7 +1,7 @@
 {
-  "count": 4563,
-  "fetchedAt": "2026-10-11T07:00:39.199194+00:00",
-  "generatedAt": "2026-10-11T06:35:18.922628+00:00",
+  "count": 4562,
+  "fetchedAt": "2026-10-11T07:05:20.420811+00:00",
+  "generatedAt": "2026-10-11T07:05:20.420811+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -769,7 +769,7 @@
       "title": "Engineering Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cadence Solutions",
@@ -784,7 +784,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245211?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Cloudflare",
@@ -3002,21 +3002,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "R&D Intern - AI Research Engineer"
-    },
-    {
-      "age": "19d",
-      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "Johnson & Johnson",
-      "companyTier": "Tier 2",
-      "degreeLevel": "unknown",
-      "id": "fef153b29b05",
-      "jobType": "internship",
-      "location": "New Brunswick, NJ",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Project Delivery Digital Engineering & Property Services Co-op"
     },
     {
       "age": "19d",
@@ -9529,7 +9514,7 @@
       "title": "Product Planning Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/solutions/jobs/4715294006?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Cadence Solutions",
@@ -12094,7 +12079,7 @@
       "title": "IT Graduate Internship - Multiple Teams"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Sigma Computing",
@@ -68450,7 +68435,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1877,
+    "Simplify Internships": 1876,
     "Simplify New Grad": 556,
     "SpeedyApply USA Internships": 769,
     "SpeedyApply USA New Grad": 777,
