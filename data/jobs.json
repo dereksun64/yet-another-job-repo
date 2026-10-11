@@ -1,7 +1,7 @@
 {
-  "count": 4572,
-  "fetchedAt": "2026-10-11T04:30:34.204846+00:00",
-  "generatedAt": "2026-10-11T03:05:21.374452+00:00",
+  "count": 4571,
+  "fetchedAt": "2026-10-11T04:35:20.369981+00:00",
+  "generatedAt": "2026-10-11T04:35:20.369981+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -28970,21 +28970,6 @@
     },
     {
       "age": "5d",
-      "applyUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Sierra Nevada Corporation",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "0714abca0e3e",
-      "jobType": "full-time",
-      "location": "Dayton, OH",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "5d",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Hewlett Packard Enterprise",
@@ -33109,7 +33094,7 @@
       "title": "Product Manager \u2013 New Grad"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Vigil Labs",
@@ -68586,7 +68571,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1885,
-    "Simplify New Grad": 557,
+    "Simplify New Grad": 556,
     "SpeedyApply USA Internships": 769,
     "SpeedyApply USA New Grad": 777,
     "Vansh Internships": 214,
