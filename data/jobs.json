@@ -1,7 +1,7 @@
 {
-  "count": 4556,
-  "fetchedAt": "2026-10-11T12:00:42.467723+00:00",
-  "generatedAt": "2026-10-11T11:40:25.011783+00:00",
+  "count": 4559,
+  "fetchedAt": "2026-10-11T12:05:20.541023+00:00",
+  "generatedAt": "2026-10-11T12:05:20.541023+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -2120,6 +2120,21 @@
     },
     {
       "age": "12d",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Marvell",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "66aeb02c2d3f",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "AI-Native Development Platform Engineer Intern"
+    },
+    {
+      "age": "12d",
       "applyUrl": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Invesco",
@@ -3767,6 +3782,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Systems Engineering Intern - Summer 2027"
+    },
+    {
+      "age": "25d",
+      "applyUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udcbb Software Engineering Internship Roles",
+      "company": "CoStar Group",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "21237cb9abb9",
+      "jobType": "internship",
+      "location": "Irvine, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Technology Intern"
     },
     {
       "age": "25d",
@@ -28022,6 +28052,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Engines Engineering Intern - Computer or Software Engineering"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineering-and-Test-Capabilities-Intern---Summer-2027_01866497?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "89498fc66668",
+      "jobType": "internship",
+      "location": "Tucson, AZ",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Systems Engineering and Test Capabilities Intern"
     },
     {
       "age": "1mo",
@@ -68345,7 +68390,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1870,
+    "Simplify Internships": 1873,
     "Simplify New Grad": 556,
     "SpeedyApply USA Internships": 769,
     "SpeedyApply USA New Grad": 777,
