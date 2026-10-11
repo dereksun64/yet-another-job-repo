@@ -1,7 +1,7 @@
 {
-  "count": 4568,
-  "fetchedAt": "2026-10-11T10:00:38.728404+00:00",
-  "generatedAt": "2026-10-11T09:40:25.815216+00:00",
+  "count": 4569,
+  "fetchedAt": "2026-10-11T10:05:25.664871+00:00",
+  "generatedAt": "2026-10-11T10:05:25.664871+00:00",
   "jobs": [
     {
       "age": "1d",
@@ -3754,7 +3754,7 @@
       "title": "Information Technology Intern - Software Engineering - Computer Science"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RAVE Aerospace",
@@ -5207,6 +5207,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Forward Deployed Engineer Intern - Summer 2027"
+    },
+    {
+      "age": "1mo",
+      "applyUrl": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Collier Aerospace",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "667716284abd",
+      "jobType": "internship",
+      "location": "Newport News, VA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -12932,6 +12947,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Engineer Intern \ud83c\udf93"
+    },
+    {
+      "age": "6d",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "General Motors",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "186579165e1c",
+      "jobType": "internship",
+      "location": "Milford, MIWarren, MI",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Summer Intern - AI & Hardware Analytics - Adpt"
     },
     {
       "age": "6d",
@@ -23162,21 +23192,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Summer Associate Intern \ud83c\udf93"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcc8 Quantitative Finance Internship Roles",
-      "company": "Goldman Sachs",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "c68aef876d5f",
-      "jobType": "internship",
-      "location": "NYC",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93"
     },
     {
       "age": "1mo",
@@ -68525,7 +68540,7 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1882,
+    "Simplify Internships": 1883,
     "Simplify New Grad": 556,
     "SpeedyApply USA Internships": 769,
     "SpeedyApply USA New Grad": 777,
