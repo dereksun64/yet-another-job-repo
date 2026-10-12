@@ -1,7 +1,7 @@
 {
   "count": 4546,
-  "fetchedAt": "2026-10-12T03:35:25.782866+00:00",
-  "generatedAt": "2026-10-12T02:40:28.590492+00:00",
+  "fetchedAt": "2026-10-12T03:40:26.488729+00:00",
+  "generatedAt": "2026-10-12T03:40:26.488729+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -31400,21 +31400,6 @@
     },
     {
       "age": "2mo",
-      "applyUrl": "https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "6c392963f88d",
-      "jobType": "full-time",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Backend Software Engineer New Grad - Trust & Safety"
-    },
-    {
-      "age": "2mo",
       "applyUrl": "https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -58909,6 +58894,21 @@
       "title": "Backend Engineer Graduate - User Growth - 2027 Start"
     },
     {
+      "age": "79d",
+      "applyUrl": "https://lifeattiktok.com/search/7665994926887291189",
+      "category": "Software Engineering",
+      "company": "TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "6c392963f88d",
+      "jobType": "full-time",
+      "location": "San Jose, CA",
+      "salary": "$202k/yr",
+      "source": "SpeedyApply USA New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
+      "title": "General Hire Backend Software Engineer Graduate - Trust & Safety - 2027 Start"
+    },
+    {
       "age": "80d",
       "applyUrl": "https://www.amazon.jobs/jobs/10481932/apply",
       "category": "Software Engineering",
@@ -68196,7 +68196,7 @@
   ],
   "sourceCounts": {
     "Simplify Internships": 1868,
-    "Simplify New Grad": 557,
+    "Simplify New Grad": 556,
     "SpeedyApply USA Internships": 765,
     "SpeedyApply USA New Grad": 770,
     "Vansh Internships": 214,
