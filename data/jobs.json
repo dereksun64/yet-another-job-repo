@@ -1,8 +1,23 @@
 {
-  "count": 4872,
-  "fetchedAt": "2026-10-21T00:51:00.072363+00:00",
-  "generatedAt": "2026-10-21T00:51:00.072363+00:00",
+  "count": 4864,
+  "fetchedAt": "2026-10-21T05:23:45.593457+00:00",
+  "generatedAt": "2026-10-21T05:23:45.593457+00:00",
   "jobs": [
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 LinkedIn",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "974ef23f96ae",
+      "jobType": "internship",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
     {
       "age": "0d",
       "applyUrl": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?utm_source=Simplify&ref=Simplify",
@@ -154,7 +169,7 @@
       "title": "PHY Software Engineer Intern"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813563514?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Boston Scientific",
@@ -245,6 +260,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "f8033058224b",
+      "jobType": "internship",
+      "location": "Annapolis, MD",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "RTX",
@@ -272,6 +302,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Product Technical Development Intern - Digital Sciences Focus"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "Applied Materials",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "d3c41c888416",
+      "jobType": "internship",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Software Engineer Intern"
     },
     {
       "age": "1d",
@@ -484,36 +529,6 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "2d",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "03e4f8732c9f",
-      "jobType": "internship",
-      "location": "Cambridge, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "d4cad8af2b6b",
-      "jobType": "internship",
-      "location": "Birmingham, UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
-    },
-    {
       "age": "3d",
       "applyUrl": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
@@ -679,7 +694,7 @@
       "title": "UI Scripter Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Abridge",
@@ -694,7 +709,7 @@
       "title": "Member of Technical Staff Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Healthpeak Properties",
@@ -709,7 +724,7 @@
       "title": "Forward Deployed Software Engineer Intern"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Healthpeak Properties",
@@ -1069,7 +1084,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Electronic Arts",
@@ -1984,7 +1999,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sigma Computing",
@@ -1999,7 +2014,7 @@
       "title": "Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Sigma Computing",
@@ -2165,21 +2180,6 @@
     },
     {
       "age": "14d",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8257237&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udcbb Software Engineering Internship Roles",
-      "company": "\ud83d\udd25 Waymo",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "002125624d29",
-      "jobType": "internship",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "ML Ops & Automation Intern"
-    },
-    {
-      "age": "14d",
       "applyUrl": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "IDEMIA",
@@ -2239,7 +2239,7 @@
       "title": "Equipment Engineering Software Engineer Intern"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Signifyd",
@@ -2659,7 +2659,7 @@
       "title": "Forward Deployed Engineer Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8248060&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Waymo",
@@ -2674,7 +2674,7 @@
       "title": "AI-driven ML Performance Engineering Intern - MS/PhD \ud83c\udf93"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Walleye Capital",
@@ -3065,36 +3065,6 @@
     },
     {
       "age": "20d",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "1747c8984f01",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Development Intern"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "270c83f79997",
-      "jobType": "internship",
-      "location": "Toronto, ON, Canada",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Developer Intern"
-    },
-    {
-      "age": "20d",
       "applyUrl": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Dandy",
@@ -3122,21 +3092,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Global Technology Intern"
-    },
-    {
-      "age": "20d",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8238525&utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 Waymo",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "6d5440053cea",
-      "jobType": "internship",
-      "location": "Mountain View, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineering Intern - Labeling"
     },
     {
       "age": "20d",
@@ -3304,7 +3259,7 @@
       "title": "Finance AI Engineering Intern"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Cloudflare",
@@ -3559,7 +3514,7 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering"
     },
     {
-      "age": "25d",
+      "age": "26d",
       "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Electronic Arts",
@@ -3964,7 +3919,7 @@
       "title": "Research and Development Co-op"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astranis",
@@ -3979,7 +3934,7 @@
       "title": "Backend Software Engineer Intern - Summer 2027"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705610006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astranis",
@@ -4159,7 +4114,7 @@
       "title": "Software Engineer Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -4174,7 +4129,7 @@
       "title": "Software Engineer Intern - Simulation Evaluation ML Model \ud83c\udf93"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udcbb Software Engineering Internship Roles",
       "company": "Epic Games",
@@ -9454,19 +9409,19 @@
       "title": "Software Developer Intern"
     },
     {
-      "age": "1mo",
-      "applyUrl": "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "75df162887ea",
+      "age": "0d",
+      "applyUrl": "https://job-boards.greenhouse.io/gofundme/jobs/8304644?utm_source=Simplify&ref=Simplify",
+      "category": "Product",
+      "company": "GoFundMe",
+      "companyTier": "Unlisted",
+      "degreeLevel": "masters",
+      "id": "33c6be196396",
       "jobType": "internship",
-      "location": "San Jose, CA",
+      "location": "SF",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Software Engineer Intern"
+      "title": "MBA Product Management Intern \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -9874,7 +9829,7 @@
       "title": "Product Intern"
     },
     {
-      "age": "17d",
+      "age": "18d",
       "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "Electronic Arts",
@@ -10114,7 +10069,7 @@
       "title": "Product Management Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://jobs.bytedance.com/en/position/7686394581777631541/detail?utm_source=Simplify&ref=Simplify",
       "category": "Product",
       "company": "\ud83d\udd25 ByteDance",
@@ -11239,34 +11194,19 @@
       "title": "Product Management Intern"
     },
     {
-      "age": "1mo",
-      "applyUrl": "https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify",
+      "age": "0d",
+      "applyUrl": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
+      "company": "Shield AI",
+      "companyTier": "Unlisted",
       "degreeLevel": "unknown",
-      "id": "eb21abb3a358",
+      "id": "ef44fb2170f3",
       "jobType": "internship",
-      "location": "San Jose, CA",
+      "location": "San Diego, CA",
       "salary": "",
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "AI Product Manager Intern - Product Social"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify",
-      "category": "Product",
-      "company": "\ud83d\udd25 TikTok",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "08baf2d96d66",
-      "jobType": "internship",
-      "location": "San Jose, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Product Manager Intern - Content and Service Ads \ud83c\udf93"
+      "title": "Data Science Intern"
     },
     {
       "age": "0d",
@@ -11389,7 +11329,7 @@
       "title": "Machine Learning Summer Associate Intern - NLP \ud83c\udf93"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Paccar",
@@ -11462,6 +11402,21 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Data Science Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Toyota",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "367dfbcf5509",
+      "jobType": "internship",
+      "location": "Plano, TX",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Data Science Intern \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -11824,6 +11779,21 @@
       "title": "Decision Analytics Associate Intern"
     },
     {
+      "age": "1d",
+      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000156517869?utm_source=Simplify&ref=Simplify",
+      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "company": "PA Consulting",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "038d498f2b21",
+      "jobType": "internship",
+      "location": "Bristol, UK",
+      "salary": "",
+      "source": "Simplify Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
+      "title": "Industrial Placement Intern - Digital - Digital & Data"
+    },
+    {
       "age": "2d",
       "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
@@ -11990,51 +11960,6 @@
     },
     {
       "age": "2d",
-      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Autodesk",
-      "companyTier": "Tier 3",
-      "degreeLevel": "unknown",
-      "id": "499fcf2c9372",
-      "jobType": "internship",
-      "location": "Remote in UK",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Research Intern - Context and Knowledge Systems for AI \ud83c\udf93"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Associated Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "2375b0aaf36f",
-      "jobType": "internship",
-      "location": "Minneapolis, MN",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking"
-    },
-    {
-      "age": "2d",
-      "applyUrl": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Associated Bank",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7f8cdec52c73",
-      "jobType": "internship",
-      "location": "Milwaukee, WI",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Corporate Intern - Digital Delivery - Artificial Intelligence"
-    },
-    {
-      "age": "2d",
       "applyUrl": "https://www.tesla.com/careers/search/job/286986?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Tesla",
@@ -12049,7 +11974,7 @@
       "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Together AI",
@@ -12169,7 +12094,7 @@
       "title": "IT Systems Intern - Engine Plant IT Systems"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://lifeattiktok.com/search/7673636206961641781?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 TikTok",
@@ -12709,7 +12634,7 @@
       "title": "Data Scientist Intern \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://lifeattiktok.com/search/7694357619162532149?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -12724,7 +12649,7 @@
       "title": "Machine Learning Engineer Intern - E-Commerce User Growth"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Phillips 66",
@@ -12739,7 +12664,7 @@
       "title": "University Intern - ERI Analytical Solutions"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Field AI",
@@ -12754,7 +12679,7 @@
       "title": "Research Scientist Intern - Robot Learning & Manipulation \ud83c\udf93"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Field AI",
@@ -13519,7 +13444,7 @@
       "title": "Data Analyst Intern - Agency Performance, Insights and Operations"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8257006&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -13534,7 +13459,7 @@
       "title": "Summer Intern - Research - Post Training \ud83c\udf93"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8258070&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -13909,7 +13834,7 @@
       "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://lifeattiktok.com/search/7694045967754889477?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -13924,7 +13849,7 @@
       "title": "Machine Learning Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://lifeattiktok.com/search/7694045969156426037?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -13939,7 +13864,7 @@
       "title": "Machine Learning Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://lifeattiktok.com/search/7694044547207268661?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -13954,7 +13879,7 @@
       "title": "Machine Learning Engineer Intern \ud83c\udf93"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -13969,7 +13894,7 @@
       "title": "Business Intelligence Engineer Intern"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -14179,7 +14104,7 @@
       "title": "Research Intern - Perception Foundation Models \ud83c\udf93"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Sigma Computing",
@@ -14569,7 +14494,7 @@
       "title": "Data Science Co-op"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://careers.amd.com/jobs/91767?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 AMD",
@@ -15559,7 +15484,7 @@
       "title": "Data Analytics / AI Intern - Summer 2027"
     },
     {
-      "age": "20d",
+      "age": "21d",
       "applyUrl": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -15679,7 +15604,7 @@
       "title": "Business Analyst Intern"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "H&R Block",
@@ -15694,7 +15619,7 @@
       "title": "Machine Learning Intern"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Neighbor",
@@ -15859,7 +15784,7 @@
       "title": "Data Engineer Intern"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8227411&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "\ud83d\udd25 Waymo",
@@ -16249,7 +16174,7 @@
       "title": "Autonomy Intern \ud83c\udf93"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 Waymo",
@@ -16429,7 +16354,7 @@
       "title": "IT Data Engineer Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -16444,7 +16369,7 @@
       "title": "Software Engineer Intern - MS/PhD - Simulation \ud83c\udf93"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Epic Games",
@@ -16459,7 +16384,7 @@
       "title": "Data Science Intern"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "ONE Finance",
@@ -16474,7 +16399,7 @@
       "title": "AI Research Intern \ud83c\udf93"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
       "company": "Electronic Arts",
@@ -17162,21 +17087,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Manufacturing Data & Analytics Co-op"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479?utm_source=Simplify&ref=Simplify",
-      "category": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
-      "company": "Centene",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "7aff6de82d39",
-      "jobType": "internship",
-      "location": "Florida",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Analytics Intern"
     },
     {
       "age": "1mo",
@@ -22144,7 +22054,7 @@
       "title": "Systematic Trading Intern - Systematic Trading"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "AQR Capital Management",
@@ -22502,21 +22412,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Quantitative Trading Intern - DV Equities"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007?utm_source=Simplify&ref=Simplify",
-      "category": "Quant",
-      "company": "Geneva Trading",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "bb1fe6c96254",
-      "jobType": "internship",
-      "location": "Chicago, IL",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Quantitative Trading Intern"
     },
     {
       "age": "1mo",
@@ -23194,7 +23089,7 @@
       "title": "Test Systems Engineer Intern"
     },
     {
-      "age": "3d",
+      "age": "4d",
       "applyUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "onsemi",
@@ -23284,7 +23179,7 @@
       "title": "Electrical Engineer Intern - Labs"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Inversion Space",
@@ -23389,7 +23284,7 @@
       "title": "Hardware Systems Integration Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Anduril",
@@ -23404,7 +23299,7 @@
       "title": "Firmware Engineer Intern"
     },
     {
-      "age": "6d",
+      "age": "7d",
       "applyUrl": "https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "\ud83d\udd25 Amazon",
@@ -23674,7 +23569,7 @@
       "title": "Hardware Development Co-op"
     },
     {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Zipline",
@@ -23779,7 +23674,7 @@
       "title": "Test Equipment Engineering and Maintenance Intern"
     },
     {
-      "age": "13d",
+      "age": "14d",
       "applyUrl": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Amazon",
@@ -24214,7 +24109,7 @@
       "title": "Design Engineering Intern"
     },
     {
-      "age": "18d",
+      "age": "19d",
       "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Muon Space",
@@ -24649,7 +24544,7 @@
       "title": "RF Validation Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4715983006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astranis",
@@ -24664,7 +24559,7 @@
       "title": "Software Defined Radio Hardware Associate Intern"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4716088006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astranis",
@@ -24679,7 +24574,7 @@
       "title": "Software Defined Radio Hardware Intern - Summer 2027"
     },
     {
-      "age": "26d",
+      "age": "27d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704805006?utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "Astranis",
@@ -24934,7 +24829,7 @@
       "title": "Electrical Engineer Intern"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704598006?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Astranis",
@@ -24949,7 +24844,7 @@
       "title": "Flight Software Intern - Summer 2027"
     },
     {
-      "age": "27d",
+      "age": "28d",
       "applyUrl": "https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team?utm_source=Simplify&ref=Simplify",
       "category": "Quant",
       "company": "\ud83d\udd25 Amazon",
@@ -25054,7 +24949,7 @@
       "title": "Electrical/Computer Engineering Intern - Space Science Electronics"
     },
     {
-      "age": "28d",
+      "age": "29d",
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Waymo",
@@ -26222,21 +26117,6 @@
       "source": "Simplify Internships",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
       "title": "Hardware and Software Engineering Intern"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "AeroVironment",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "051c9e2dc089",
-      "jobType": "internship",
-      "location": "Simi Valley, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Embedded Software Engineer Intern"
     },
     {
       "age": "1mo",
@@ -27620,21 +27500,6 @@
     },
     {
       "age": "1mo",
-      "applyUrl": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
-      "company": "Northwood Space",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "15f11b29b927",
-      "jobType": "internship",
-      "location": "LATorrance, CA",
-      "salary": "",
-      "source": "Simplify Internships",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md",
-      "title": "Electrical Engineer Intern - Summer Internship"
-    },
-    {
-      "age": "1mo",
       "applyUrl": "https://careers.gov2x.com/jobs/62685?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "company": "V2X",
@@ -27815,6 +27680,36 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs?utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "\ud83d\udd25 Amazon",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "646bab4f5eae",
+      "jobType": "full-time",
+      "location": "Cupertino, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Development Engineer 1 - AI/ML Network Infrastructure"
+    },
+    {
+      "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Brain Co.",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "111aa2fe3f65",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "AI Product Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Quora",
@@ -27874,7 +27769,7 @@
       "title": "Graduate Software Engineer New Grad - AI Compute Libraries & Performance"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Palantir",
@@ -27889,7 +27784,7 @@
       "title": "Software Engineer New Grad - Query Engines"
     },
     {
-      "age": "0d",
+      "age": "1d",
       "applyUrl": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 Palantir",
@@ -27947,6 +27842,21 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Software Engineer 1-Embedded Linux"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350?utm_source=Simplify&ref=Simplify",
+      "category": "Software Engineering",
+      "company": "\ud83d\udd25 NVIDIA",
+      "companyTier": "Tier 1",
+      "degreeLevel": "unknown",
+      "id": "98263a6a4c19",
+      "jobType": "full-time",
+      "location": "Santa Clara, CA",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Software Engineer New Grad - Agent Performance Modeling \ud83c\udf93"
     },
     {
       "age": "1d",
@@ -28174,7 +28084,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "4d",
+      "age": "5d",
       "applyUrl": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Intuit",
@@ -28264,7 +28174,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "5d",
+      "age": "6d",
       "applyUrl": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "SirenOpt",
@@ -28490,21 +28400,6 @@
     },
     {
       "age": "10d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "fca3e5c0cbae",
-      "jobType": "full-time",
-      "location": "Santa Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer New Grad - DL Kernel Libraries"
-    },
-    {
-      "age": "10d",
       "applyUrl": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Shield AI",
@@ -28549,7 +28444,7 @@
       "title": "Software Engineer 1"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Aurelian",
@@ -28564,7 +28459,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "11d",
+      "age": "12d",
       "applyUrl": "https://forge-nano.breezy.hr/p/66630c61f7e4/apply?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Forge Nano",
@@ -28624,7 +28519,7 @@
       "title": "Software Engineer New Grad"
     },
     {
-      "age": "12d",
+      "age": "13d",
       "applyUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Chalk",
@@ -28999,7 +28894,7 @@
       "title": "Applied AI New Grad - Non Silicon"
     },
     {
-      "age": "14d",
+      "age": "15d",
       "applyUrl": "https://job-boards.greenhouse.io/idme/jobs/8011089003?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "ID.me",
@@ -29270,21 +29165,6 @@
     },
     {
       "age": "21d",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "aa17915f910a",
-      "jobType": "full-time",
-      "location": "Huntsville, AL",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Developer Engineer 1"
-    },
-    {
-      "age": "21d",
       "applyUrl": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "TripAdvisor",
@@ -29314,7 +29194,7 @@
       "title": "Research Software Engineer 1"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Varsity Brands",
@@ -32270,21 +32150,6 @@
     },
     {
       "age": "3mo",
-      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "NCR Voyix",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "ab0fe085b3f7",
-      "jobType": "full-time",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Software Engineer 1"
-    },
-    {
-      "age": "3mo",
       "applyUrl": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Cylake",
@@ -32449,7 +32314,7 @@
       "title": "Junior Full Stack Developer"
     },
     {
-      "age": "5mo",
+      "age": "6mo",
       "applyUrl": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Wonderschool",
@@ -32795,6 +32660,21 @@
     },
     {
       "age": "0d",
+      "applyUrl": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "category": "AI/ML",
+      "company": "Brain Co.",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "838fea7489bc",
+      "jobType": "full-time",
+      "location": "SF",
+      "salary": "",
+      "source": "Simplify New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "title": "Machine Learning Engineer New Grad"
+    },
+    {
+      "age": "0d",
       "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97943?utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "WSP",
@@ -32914,7 +32794,7 @@
       "title": "Junior Business Intelligence Analyst"
     },
     {
-      "age": "7d",
+      "age": "8d",
       "applyUrl": "https://lifeattiktok.com/search/7695927144126253317?utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "\ud83d\udd25 TikTok",
@@ -32959,22 +32839,7 @@
       "title": "AI Research Engineer New Grad \ud83c\udf93"
     },
     {
-      "age": "9d",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083?utm_source=Simplify&ref=Simplify",
-      "category": "Software Engineering",
-      "company": "\ud83d\udd25 NVIDIA",
-      "companyTier": "Tier 1",
-      "degreeLevel": "unknown",
-      "id": "dec51ee83d60",
-      "jobType": "full-time",
-      "location": "Remote in USASanta Clara, CA",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Deep Learning Software Engineer New Grad - TensorRT Performance"
-    },
-    {
-      "age": "10d",
+      "age": "11d",
       "applyUrl": "https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "Vigil Labs",
@@ -33214,7 +33079,7 @@
       "title": "Junior Machine Learning Engineer - ML - Developer"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://careers.publicisgroupe.com/jobs/175744?icims=1&utm_source=Simplify&ref=Simplify",
       "category": "\ud83e\udd16 Data Science, AI & Machine Learning New Grad Roles",
       "company": "Publicis Groupe",
@@ -33229,7 +33094,7 @@
       "title": "Junior Digital Media Analyst"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "AI/ML",
       "company": "Quora",
@@ -33302,21 +33167,6 @@
       "source": "Simplify New Grad",
       "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "title": "Junior Software Engineer"
-    },
-    {
-      "age": "1mo",
-      "applyUrl": "https://qualcomm.eightfold.ai/careers/job/446721063770?utm_source=Simplify&ref=Simplify",
-      "category": "AI/ML",
-      "company": "Qualcomm",
-      "companyTier": "Tier 1.5",
-      "degreeLevel": "unknown",
-      "id": "16064da539d6",
-      "jobType": "full-time",
-      "location": "Markham, ON, Canada",
-      "salary": "",
-      "source": "Simplify New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering"
     },
     {
       "age": "1mo",
@@ -34969,7 +34819,7 @@
       "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation"
     },
     {
-      "age": "21d",
+      "age": "22d",
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify",
       "category": "Software Engineering",
       "company": "\ud83d\udd25 SpaceX",
@@ -35014,7 +34864,7 @@
       "title": "Flight Controls Hardware Engineer 1"
     },
     {
-      "age": "24d",
+      "age": "25d",
       "applyUrl": "https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "category": "\ud83d\udd27 Hardware Engineering New Grad Roles",
       "company": "Aescape",
@@ -51214,6 +51064,21 @@
       "title": "Software Engineering Intern - 2027 Start - Winter"
     },
     {
+      "age": "60d",
+      "applyUrl": "https://lifeattiktok.com/search/7676276048527214901",
+      "category": "AI/ML",
+      "company": "TikTok",
+      "companyTier": "Tier 1.5",
+      "degreeLevel": "unknown",
+      "id": "75df162887ea",
+      "jobType": "internship",
+      "location": "San Jose, CA",
+      "salary": "$60/hr",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer"
+    },
+    {
       "age": "62d",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
       "category": "Software Engineering",
@@ -54662,6 +54527,21 @@
       "source": "SpeedyApply USA Internships",
       "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "title": "Embedded Design Engineer - Intern - Spring 2027"
+    },
+    {
+      "age": "19d",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "companyTier": "Tier 3",
+      "degreeLevel": "unknown",
+      "id": "6d5440053cea",
+      "jobType": "internship",
+      "location": "Mountain View, CA",
+      "salary": "",
+      "source": "SpeedyApply USA Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "title": "2027 Summer Intern - BS - Software Engineering - Labeling"
     },
     {
       "age": "20d",
@@ -73085,8 +72965,8 @@
     }
   ],
   "sourceCounts": {
-    "Simplify Internships": 1854,
-    "Simplify New Grad": 549,
+    "Simplify Internships": 1845,
+    "Simplify New Grad": 548,
     "SpeedyApply USA Internships": 832,
     "SpeedyApply USA New Grad": 871,
     "Vansh Internships": 446,
