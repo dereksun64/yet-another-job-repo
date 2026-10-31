@@ -1,7 +1,7 @@
 {
-  "count": 5843,
-  "fetchedAt": "2026-10-31T17:42:32.739589+00:00",
-  "generatedAt": "2026-10-31T17:42:32.739589+00:00",
+  "count": 5855,
+  "fetchedAt": "2026-10-31T20:40:09.883041+00:00",
+  "generatedAt": "2026-10-31T20:40:09.883041+00:00",
   "jobs": [
     {
       "age": "0d",
@@ -35120,6 +35120,36 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://go.vansh.nyc/12w?s=A",
+      "category": "Software Engineering",
+      "company": "Urban Science",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "6cbeab21be49",
+      "jobType": "full-time",
+      "location": "Detroit, MI",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Associate Software Engineer"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://go.vansh.nyc/12x?s=A",
+      "category": "AI/ML",
+      "company": "United Methodist Communities",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "deead4519401",
+      "jobType": "full-time",
+      "location": "Neptune, NJ",
+      "salary": "",
+      "source": "Vansh New Grad",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
+      "title": "Applied AI Developer, BEAM"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://go.vansh.nyc/11A?s=A",
       "category": "The List \ud83d\udeb4\ud83c\udfd4",
       "company": "NVIDIA",
@@ -40985,21 +41015,6 @@
     },
     {
       "age": "64d",
-      "applyUrl": "https://go.vansh.nyc/PB?s=A",
-      "category": "The List \ud83d\udeb4\ud83c\udfd4",
-      "company": "Viavi Solutions",
-      "companyTier": "Unlisted",
-      "degreeLevel": "unknown",
-      "id": "6a58cd87b9ba",
-      "jobType": "full-time",
-      "location": "Colorado Springs, CO",
-      "salary": "",
-      "source": "Vansh New Grad",
-      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/README.md",
-      "title": "Development Engineer"
-    },
-    {
-      "age": "64d",
       "applyUrl": "https://go.vansh.nyc/PE?s=A",
       "category": "The List \ud83d\udeb4\ud83c\udfd4",
       "company": "Viavi Solutions",
@@ -45080,6 +45095,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://go.vansh.nyc/12s?s=y",
+      "category": "Software Engineering",
+      "company": "Students Plus Startups",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c387d8fef22c",
+      "jobType": "internship",
+      "location": "San Antonio, TX",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Vroom Power Software Engineering Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://go.vansh.nyc/11a?s=y",
       "category": "Software Engineering",
       "company": "Sophinea",
@@ -45230,6 +45260,21 @@
     },
     {
       "age": "1d",
+      "applyUrl": "https://go.vansh.nyc/12t?s=y",
+      "category": "AI/ML",
+      "company": "GTI Energy",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "ff93c37e102a",
+      "jobType": "internship",
+      "location": "Des Plaines, IL",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Data Science Intern"
+    },
+    {
+      "age": "1d",
       "applyUrl": "https://go.vansh.nyc/10U?s=y",
       "category": "Legend",
       "company": "GCM Grosvenor",
@@ -45287,6 +45332,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Data Engineer Intern"
+    },
+    {
+      "age": "1d",
+      "applyUrl": "https://go.vansh.nyc/12u?s=y",
+      "category": "AI/ML",
+      "company": "Economy Polymers & Chemicals",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "c4fae0314ea0",
+      "jobType": "internship",
+      "location": "Houston, TX",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "AI & Business Systems Automation Intern"
     },
     {
       "age": "1d",
@@ -45407,6 +45467,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Software Engineer Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://go.vansh.nyc/12r?s=y",
+      "category": "AI/ML",
+      "company": "Virginia Tech Applied Research Corporation",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "02805d9729b1",
+      "jobType": "internship",
+      "location": "Arlington, VA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Research Intern, Applied AI & Software Development"
     },
     {
       "age": "2d",
@@ -45587,6 +45662,21 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "AI Systems Software Engineering Intern"
+    },
+    {
+      "age": "2d",
+      "applyUrl": "https://go.vansh.nyc/12q?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "3afe4778da21",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Performance Tools"
     },
     {
       "age": "2d",
@@ -46307,6 +46397,96 @@
       "source": "Vansh Internships",
       "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "title": "Data Engineer Intern"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12k?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "57d2fc81be73",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, CPU Debugger"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12l?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "5ee230b94739",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, CPU Profiler"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12m?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "e23d1581b00f",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, DevOps"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12n?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "4fbdd5bfb55a",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Audio"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12o?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "d2aba1b8267f",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Platform Security"
+    },
+    {
+      "age": "3d",
+      "applyUrl": "https://go.vansh.nyc/12p?s=y",
+      "category": "Software Engineering",
+      "company": "Nintendo",
+      "companyTier": "Unlisted",
+      "degreeLevel": "unknown",
+      "id": "1cc5d0c8c324",
+      "jobType": "internship",
+      "location": "Redmond, WA",
+      "salary": "",
+      "source": "Vansh Internships",
+      "sourceUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+      "title": "Software Engineer Intern, Connectivity"
     },
     {
       "age": "3d",
@@ -87654,7 +87834,7 @@
     "Simplify New Grad": 584,
     "SpeedyApply USA Internships": 848,
     "SpeedyApply USA New Grad": 870,
-    "Vansh Internships": 1272,
-    "Vansh New Grad": 659
+    "Vansh Internships": 1283,
+    "Vansh New Grad": 660
   }
 }
